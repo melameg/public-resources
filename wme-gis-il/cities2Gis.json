@@ -37,6 +37,10 @@
     "352": {
       "name": "eilat",
       "gis": "v5.gis-net.co.il"
+    },
+    "397": {
+      "name": "efratnew",
+      "gis": "gis06.taldor.co.il"
     }
   },
   "gis": {
@@ -51,6 +55,10 @@
     "gis.intertown.co.il": {
       "url": "https://gis.intertown.co.il/",
       "functionName": "gisIntertown"
+    },
+    "gis06.taldor.co.il": {
+      "url": "https://gis06.taldor.co.il/",
+      "functionName": "gis06Taldor"
     }
   }
 }
