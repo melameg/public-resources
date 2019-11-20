@@ -1,0 +1,47 @@
+
+{
+  "cities": {
+    "1527": {
+      "name": "Tel Aviv",
+      "gis": "gisn.tel-aviv.gov.il"
+    },
+    "1397": {
+      "name": "Rahat",
+      "gis": "v5.gis-net.co.il"
+    },
+    "690": {
+      "name": "Holon",
+      "gis": "v5.gis-net.co.il"
+    },
+    "325": {
+      "name": "Ofakim",
+      "gis": "v5.gis-net.co.il"
+    },
+    "328": {
+      "name": "OrYehuda",
+      "gis": "v5.gis-net.co.il"
+    },
+    "337": {
+      "name": "azr",
+      "gis": "gis.intertown.co.il"
+    },
+    "875": {
+      "name": "K_Yona",
+      "gis": "v5.gis-net.co.il"
+    }
+  },
+  "gis": {
+    "gisn.tel-aviv.gov.il": {
+      "url": "https://gisn.tel-aviv.gov.il/iView2js4/index.aspx?extent=",
+      "functionName": "likeTlv"
+    },
+    "v5.gis-net.co.il": {
+      "url": "https://v5.gis-net.co.il/v5/",
+      "functionName": "v5GisNet"
+    },
+    "gis.intertown.co.il": {
+      "url": "https://gis.intertown.co.il/",
+      "functionName": "gisIntertown"
+    }
+  }
+}
