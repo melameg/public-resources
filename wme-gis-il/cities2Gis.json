@@ -28,6 +28,11 @@
     "875": {
       "name": "K_Yona",
       "gis": "v5.gis-net.co.il"
+    },
+    "1512": {
+      "name": "GvaotAlonim",
+      "gis": "v5.gis-net.co.il",
+      "displanName": "ShefaAmr"
     }
   },
   "gis": {
