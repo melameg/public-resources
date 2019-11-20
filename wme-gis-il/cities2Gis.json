@@ -54,6 +54,41 @@
       "name": "mavo_haamakim",
       "gis": "gis.mavo.co.il",
       "displayName": "Yafia"
+    },
+    "356": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Iksal"
+    },
+    "1425": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Ramat Yishai"
+    },
+    "879": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Kafr Kanna"
+    },
+    "1069": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Mashhad"
+    },
+    "1229": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Ilut"
+    },
+    "1253": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Ein Mahil"
+    },
+    "1408": {
+      "name": "mavo_haamakim",
+      "gis": "gis.mavo.co.il",
+      "displayName": "Reineh"
     }
   },
   "gis": {
