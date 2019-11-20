@@ -52,7 +52,7 @@
     },
     "786": {
       "name": "mavo_haamakim",
-      "gis": "v5.gis-net.co.il",
+      "gis": "gis.mavo.co.il",
       "displayName": "Yafia"
     }
   },
@@ -63,6 +63,10 @@
     },
     "v5.gis-net.co.il": {
       "url": "https://v5.gis-net.co.il/v5/",
+      "functionName": "v5GisNet"
+    },
+    "gis.mavo.co.il": {
+      "url": "https://gis.mavo.co.il/v5/",
       "functionName": "v5GisNet"
     },
     "gis.intertown.co.il": {
