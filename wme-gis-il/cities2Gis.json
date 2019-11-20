@@ -107,6 +107,10 @@
       "name": "bnei-brak",
       "gis": "v3.gis-net.co.il",
       "displayName": "Bnei Brak"
+    },
+    "558": {
+      "name": "GivatShmuelNew",
+      "gis": "gis07.taldor.co.il"
     }
   },
   "gis": {
@@ -129,6 +133,10 @@
     "gis.intertown.co.il": {
       "url": "https://gis.intertown.co.il/",
       "functionName": "gisIntertown"
+    },
+    "gis07.taldor.co.il": {
+      "url": "https://gis07.taldor.co.il/",
+      "functionName": "gis07Taldor"
     },
     "gis06.taldor.co.il": {
       "url": "https://gis06.taldor.co.il/",
