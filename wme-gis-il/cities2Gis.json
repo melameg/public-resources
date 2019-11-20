@@ -45,6 +45,10 @@
     "412": {
       "name": "ashkelon",
       "gis": "v5.gis-net.co.il"
+    },
+    "405": {
+      "name": "ashdod",
+      "gis": "v5.gis-net.co.il"
     }
   },
   "gis": {
