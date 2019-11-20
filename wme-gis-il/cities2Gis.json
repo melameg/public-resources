@@ -89,6 +89,10 @@
       "name": "mavo_haamakim",
       "gis": "gis.mavo.co.il",
       "displayName": "Reineh"
+    },
+    "969": {
+      "name": "ModiinGis",
+      "gis": "gismod.taldor.co.il"
     }
   },
   "gis": {
@@ -111,6 +115,10 @@
     "gis06.taldor.co.il": {
       "url": "https://gis06.taldor.co.il/",
       "functionName": "gis06Taldor"
+    },
+    "gismod.taldor.co.il": {
+      "url": "https://gismod.taldor.co.il/",
+      "functionName": "gismodTaldor"
     }
   }
 }
