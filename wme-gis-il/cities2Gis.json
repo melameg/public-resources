@@ -32,7 +32,7 @@
     "1512": {
       "name": "GvaotAlonim",
       "gis": "v5.gis-net.co.il",
-      "displanName": "ShefaAmr"
+      "displayName": "ShefaAmr"
     },
     "352": {
       "name": "eilat",
@@ -49,6 +49,11 @@
     "405": {
       "name": "ashdod",
       "gis": "v5.gis-net.co.il"
+    },
+    "786": {
+      "name": "v5.gis-net.co.il",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Yafia"
     }
   },
   "gis": {
