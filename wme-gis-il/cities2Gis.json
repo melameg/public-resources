@@ -95,9 +95,18 @@
       "gis": "gismod.taldor.co.il"
     },
     "421": {
-      "name": "br7_html5",
+      "name": "gisnet3/br7_html5",
       "gis": "v3.gis-net.co.il",
       "displayName": "Be'er Sheva"
+    },
+    "478": {
+      "name": "Beit_Shemesh",
+      "gis": "v5.gis-net.co.il"
+    },
+    "489": {
+      "name": "bnei-brak",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Bnei Brak"
     }
   },
   "gis": {
@@ -106,7 +115,7 @@
       "functionName": "likeTlv"
     },
     "v3.gis-net.co.il": {
-      "url": "https://v3.gis-net.co.il/gisnet3/",
+      "url": "https://v3.gis-net.co.il/",
       "functionName": "v3GisNet"
     },
     "v5.gis-net.co.il": {
