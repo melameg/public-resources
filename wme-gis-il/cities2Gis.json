@@ -93,12 +93,21 @@
     "969": {
       "name": "ModiinGis",
       "gis": "gismod.taldor.co.il"
+    },
+    "421": {
+      "name": "br7_html5",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Be'er Sheva"
     }
   },
   "gis": {
     "gisn.tel-aviv.gov.il": {
       "url": "https://gisn.tel-aviv.gov.il/iView2js4/index.aspx?extent=",
       "functionName": "likeTlv"
+    },
+    "v3.gis-net.co.il": {
+      "url": "https://v3.gis-net.co.il/gisnet3/",
+      "functionName": "v3GisNet"
     },
     "v5.gis-net.co.il": {
       "url": "https://v5.gis-net.co.il/v5/",
