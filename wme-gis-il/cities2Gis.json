@@ -123,6 +123,10 @@
     "891": {
       "name": "Kefar Sava",
       "gis": "https://gisks.taldor.co.il/KsGis"
+    },
+    "478": {
+      "name": "Beit_Shemesh",
+      "gis": "v5.gis-net.co.il"
     }
   },
   "gis": {
