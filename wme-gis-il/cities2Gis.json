@@ -119,6 +119,10 @@
     "568": {
       "name": "gederagispub",
       "gis": "orhitec.erpgis.co.il"
+    },
+    "891": {
+      "name": "Kefar Sava",
+      "gis": "https://gisks.taldor.co.il/KsGis"
     }
   },
   "gis": {
