@@ -136,10 +136,26 @@
       "name": "Beit_Shemesh",
       "gis": "v5.gis-net.co.il"
     },
+    "522": {
+      "name": "batyam",
+      "gis": "v5.gis-net.co.il"
+    },
+    "875": {
+      "name": "K_Yona",
+      "gis": "v5.gis-net.co.il"
+    },
     "1191": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
       "displayName": "Sulam"
+    },
+    "643": {
+      "name": "Hod_hasharon",
+      "gis": "v3.gis-net.co.il"
+    },
+    "662": {
+      "name": "Herzliya",
+      "gis": "v3.gis-net.co.il"
     },
     "626": {
       "name": "gisnet/galil_mizrahi",
