@@ -144,6 +144,10 @@
       "name": "K_Yona",
       "gis": "v5.gis-net.co.il"
     },
+    "690": {
+      "name": "Holon",
+      "gis": "v5.gis-net.co.il"
+    },
     "1191": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
@@ -266,6 +270,10 @@
       "name": "shomron",
       "gis": "v3.gis-net.co.il",
       "displayName": "Fureidis"
+    },
+    "705": {
+      "name": "haifa_html5",
+      "gis": "gis.haifa.muni.il"
     }
   },
   "gis": {
@@ -275,6 +283,10 @@
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
+      "functionName": "v3GisNet"
+    },
+    "gis.haifa.muni.il": {
+      "url": "http://gis.haifa.muni.il/",
       "functionName": "v3GisNet"
     },
     "v5.gis-net.co.il": {
