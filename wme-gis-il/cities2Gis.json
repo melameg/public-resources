@@ -29,6 +29,10 @@
       "name": "K_Yona",
       "gis": "v5.gis-net.co.il"
     },
+    "604": {
+      "name": "ganey_tikva",
+      "gis": "v5.gis-net.co.il"
+    },
     "1512": {
       "name": "GvaotAlonim",
       "gis": "v5.gis-net.co.il",
@@ -40,6 +44,10 @@
     },
     "397": {
       "name": "efratnew",
+      "gis": "gis06.taldor.co.il"
+    },
+    "593": {
+      "name": "GanYavneNew",
       "gis": "gis06.taldor.co.il"
     },
     "412": {
@@ -218,30 +226,30 @@
       "gis": "v3.gis-net.co.il",
       "displayName": "Nein"
     },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
+    "329": {
+      "name": "shomron",
       "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
+      "displayName": "Or Akiva"
     },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
+    "498": {
+      "name": "shomron",
       "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
+      "displayName": "Binyamina-Giv'at Ada"
     },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
+    "529": {
+      "name": "shomron",
       "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
+      "displayName": "Jisr az-Zarqa"
     },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
+    "671": {
+      "name": "shomron",
       "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
+      "displayName": "Zikhron Ya'akov"
     },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
+    "1299": {
+      "name": "shomron",
       "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
+      "displayName": "Fureidis"
     }
   },
   "gis": {
