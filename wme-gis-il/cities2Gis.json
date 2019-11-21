@@ -115,6 +115,10 @@
     "1264": {
       "name": "AkkoNew",
       "gis": "gis07.taldor.co.il"
+    },
+    "1527": {
+      "name": "gederagispub",
+      "gis": "orhitec.erpgis.co.il"
     }
   },
   "gis": {
@@ -149,6 +153,10 @@
     "gismod.taldor.co.il": {
       "url": "https://gismod.taldor.co.il/",
       "functionName": "gismodTaldor"
+    },
+    "orhitec.erpgis.co.il": {
+      "url": "https://orhitec.erpgis.co.il/",
+      "functionName": "orhitecErpgis"
     }
   }
 }
