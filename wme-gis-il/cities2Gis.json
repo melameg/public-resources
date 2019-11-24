@@ -148,6 +148,14 @@
       "name": "Holon",
       "gis": "v5.gis-net.co.il"
     },
+    "734": {
+      "name": "tiberias",
+      "gis": "v5.gis-net.co.il"
+    },
+    "754": {
+      "name": "yavne",
+      "gis": "v5.gis-net.co.il"
+    },
     "1191": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
@@ -261,6 +269,10 @@
       "gis": "v3.gis-net.co.il",
       "displayName": "Jisr az-Zarqa"
     },
+    "795": {
+      "name": "yokneam_public",
+      "gis": "v3.gis-net.co.il"
+    },
     "671": {
       "name": "shomron",
       "gis": "v3.gis-net.co.il",
@@ -270,6 +282,14 @@
       "name": "shomron",
       "gis": "v3.gis-net.co.il",
       "displayName": "Fureidis"
+    },
+    "643": {
+      "name": "Hod_hasharon",
+      "gis": "v3.gis-net.co.il"
+    },
+    "662": {
+      "name": "Herzliya",
+      "gis": "v3.gis-net.co.il"
     },
     "705": {
       "name": "haifa_html5",
