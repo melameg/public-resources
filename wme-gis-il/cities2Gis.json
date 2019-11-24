@@ -587,6 +587,11 @@
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
+    },
+    "705": {
+      "name": "GMSC/Public/GMSC_NZIL/NZIL_Community",
+      "gis": "metrogis.metropolinet.co.il",
+      "displayName": "Nof HaGalil"
     }
   },
   "gis": {
@@ -629,6 +634,10 @@
     "orhitec.erpgis.co.il": {
       "url": "https://orhitec.erpgis.co.il/",
       "functionName": "orhitecErpgis"
+    },
+    "metrogis.metropolinet.co.il": {
+      "url": "https://metrogis.metropolinet.co.il/",
+      "functionName": "metropolinet"
     }
   }
 }
