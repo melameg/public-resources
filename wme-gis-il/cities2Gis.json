@@ -156,6 +156,36 @@
       "name": "yavne",
       "gis": "v5.gis-net.co.il"
     },
+    "814": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Kokhav Ya'ir"
+    },
+    "1329": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Tzur Yigal"
+    },
+    "1187": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Savyon"
+    },
+    "443": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Beit Dagan"
+    },
+    "604": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Ganei Tikva"
+    },
+    "420": {
+      "name": "MitzpeAfeq",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Be'er Ya'akov"
+    },
     "1191": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
