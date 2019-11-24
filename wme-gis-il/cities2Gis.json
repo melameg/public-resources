@@ -380,6 +380,16 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Nir"
     },
+    "1002": {
+      "name": "Metar",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Meitar"
+    },
+    "2805": {
+      "name": "Metar",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Carmit"
+    },
     "1191": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
