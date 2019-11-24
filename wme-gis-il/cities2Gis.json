@@ -455,6 +455,56 @@
       "name": "Herzliya",
       "gis": "v3.gis-net.co.il"
     },
+    "1080": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Mishmeret"
+    },
+    "730": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Herut"
+    },
+    "491": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Bnei Dror"
+    },
+    "857": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Kfar Hess"
+    },
+    "1221": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Azri'el"
+    },
+    "1243": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Ein Vered"
+    },
+    "784": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Ye'af"
+    },
+    "877": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Kfar Yavetz"
+    },
+    "1300": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Porat"
+    },
+    "1260": {
+      "name": "gisnet3/lev_hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Ein Sarid"
+    },
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
