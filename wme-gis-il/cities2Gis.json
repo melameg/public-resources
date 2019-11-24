@@ -291,10 +291,25 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Goren"
     },
-    "653": {
+    "1206": {
       "name": "Maale_Hagalil",
       "gis": "v5.gis-net.co.il",
-      "displayName": "Hila"
+      "displayName": "Avdon"
+    },
+    "1014": {
+      "name": "Maale_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Manot"
+    },
+    "1106": {
+      "name": "Maale_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Neve Ziv"
+    },
+    "1494": {
+      "name": "Maale_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Shlomi"
     },
     "785": {
       "name": "Maale_Hagalil",
