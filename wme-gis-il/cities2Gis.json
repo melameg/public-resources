@@ -627,6 +627,14 @@
       "name": "gisnet/omer",
       "gis": "v3.gis-net.co.il"
     },
+    "1405": {
+      "name": "gisnet3/rechovot",
+      "gis": "v3.gis-net.co.il"
+    },
+    "1419": {
+      "name": "gisnet3/ramat_gan",
+      "gis": "v3.gis-net.co.il"
+    },
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
