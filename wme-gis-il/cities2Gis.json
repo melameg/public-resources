@@ -614,6 +614,14 @@
       "gis": "v3.gis-net.co.il",
       "displayName": "Mitzpe Ramon"
     },
+    "1183": {
+      "name": "netivot",
+      "gis": "v3.gis-net.co.il"
+    },
+    "1214": {
+      "name": "gisnet/omer",
+      "gis": "v3.gis-net.co.il"
+    },
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
