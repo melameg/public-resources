@@ -5,6 +5,10 @@
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
+    "800": {
+      "name": "Jerusalem",
+      "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
+    },
     "1474": {
       "name": "Shoham",
       "gis": "v5.gis-net.co.il"
