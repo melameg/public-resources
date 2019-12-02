@@ -375,7 +375,21 @@
     },
     "969": {
       "name": "ModiinGis",
-      "gis": "gismod.taldor.co.il"
+      "prefix": "mod",
+      "gis": "gis__prefix__.taldor.co.il",
+      "displayName": "Modiin"
+    },
+    "1387": {
+      "name": "Gis",
+      "prefix": "rh",
+      "gis": "gis__prefix__.taldor.co.il",
+      "displayName": "Rosh Haayin"
+    },
+    "891": {
+      "name": "KsGis",
+      "prefix": "ks",
+      "gis": "gis__prefix__.taldor.co.il",
+      "displayName": "Kefar Sava"
     },
     "899": {
       "name": "gisnet3/galil_tahton_v4",
@@ -1064,9 +1078,9 @@
       "url": "https://gis09.taldor.co.il/",
       "functionName": "gis01To09Taldor"
     },
-    "gismod.taldor.co.il": {
-      "url": "https://gismod.taldor.co.il/",
-      "functionName": "gismodTaldor"
+    "gis__prefix__.taldor.co.il": {
+      "url": "https://gis__prefix__.taldor.co.il/",
+      "functionName": "gisTaldorPrefix"
     },
     "orhitec.erpgis.co.il": {
       "url": "https://orhitec.erpgis.co.il/",
