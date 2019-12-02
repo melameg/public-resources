@@ -4,6 +4,14 @@
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
+    "1423": {
+      "gis": "http://gis.ramat-hasharon.muni.il/RHS/?config=general.xml",
+      "displayName": "Ramat Hasharon"
+    },
+    "1184": {
+      "gis": "https://netanyagis.co.il/mobilemap/default.html",
+      "displayName": "Netanya"
+    },
     "1311": {
       "name": "pardeshananew",
       "gis": "gis01.taldor.co.il",
