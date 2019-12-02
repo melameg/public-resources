@@ -54,14 +54,6 @@
       "name": "eilat",
       "gis": "v5.gis-net.co.il"
     },
-    "397": {
-      "name": "efratnew",
-      "gis": "gis06.taldor.co.il"
-    },
-    "593": {
-      "name": "GanYavneNew",
-      "gis": "gis06.taldor.co.il"
-    },
     "412": {
       "name": "ashkelon",
       "gis": "v5.gis-net.co.il"
@@ -207,14 +199,6 @@
       "name": "bnei-brak",
       "gis": "v3.gis-net.co.il",
       "displayName": "Bnei Brak"
-    },
-    "558": {
-      "name": "GivatShmuelNew",
-      "gis": "gis07.taldor.co.il"
-    },
-    "1264": {
-      "name": "AkkoNew",
-      "gis": "gis07.taldor.co.il"
     },
     "568": {
       "name": "gederagispub",
