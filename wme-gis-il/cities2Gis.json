@@ -290,7 +290,18 @@
     },
     "337": {
       "name": "azr",
-      "gis": "gis.intertown.co.il"
+      "gis": "gis.intertown.co.il",
+      "displayName": "Azor"
+    },
+    "1370": {
+      "name": "krg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kiryat Gat"
+    },
+    "929": {
+      "name": "lhv",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Lehavim"
     },
     "875": {
       "name": "K_Yona",
