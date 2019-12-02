@@ -449,7 +449,18 @@
     },
     "568": {
       "name": "gederagispub",
-      "gis": "orhitec.erpgis.co.il"
+      "gis": "orhitec.erpgis.co.il",
+      "displayName": "Gedera"
+    },
+    "1470": {
+      "name": "sderotgispub",
+      "gis": "orhitec.erpgis.co.il",
+      "displayName": "Sderot"
+    },
+    "1365": {
+      "name": "qatzringispub",
+      "gis": "orhitec.erpgis.co.il",
+      "displayName": "Katzrin"
     },
     "891": {
       "name": "Kefar Sava",
