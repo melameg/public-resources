@@ -1,9 +1,256 @@
-
 {
   "cities": {
     "1527": {
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
+    },
+    "1311": {
+      "name": "pardeshananew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Pardes Hanna-Karkur"
+    },
+    "1371": {
+      "name": "KiryatTivonNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Kiryat Tiv'on"
+    },
+    "930": {
+      "name": "lodnew",
+      "gis": "gis03.taldor.co.il",
+      "displayName": "Lod"
+    },
+    "1434": {
+      "name": "raanananew",
+      "gis": "gis03.taldor.co.il",
+      "displayName": "Ra'anana"
+    },
+    "1280": {
+      "name": "afulanew",
+      "gis": "gis04.taldor.co.il",
+      "displayName": "Afula"
+    },
+    "1285": {
+      "name": "aradnew",
+      "gis": "gis04.taldor.co.il",
+      "displayName": "Arad"
+    },
+    "687": {
+      "name": "haderanew",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Hadera"
+    },
+    "397": {
+      "name": "efratnew",
+      "gis": "gis06.taldor.co.il",
+      "displayName": "Efrat"
+    },
+    "593": {
+      "name": "GanYavneNew",
+      "gis": "gis06.taldor.co.il",
+      "displayName": "Gan Yavne"
+    },
+    "1417": {
+      "name": "RamleGis",
+      "gis": "gis06.taldor.co.il",
+      "displayName": "Ramle"
+    },
+    "558": {
+      "name": "GivatShmuelNew",
+      "gis": "gis07.taldor.co.il"
+    },
+    "1264": {
+      "name": "AkkoNew",
+      "gis": "gis07.taldor.co.il"
+    },
+    "1352": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kadarim"
+    },
+    "819": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kahal"
+    },
+    "818": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Chorazin"
+    },
+    "385": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Amnun"
+    },
+    "1272": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Ami'ad"
+    },
+    "911": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Karkom"
+    },
+    "372": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Elifelet"
+    },
+    "856": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kfar HaNassi"
+    },
+    "991": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Mahanayim"
+    },
+    "1074": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Mishmar HaYarden"
+    },
+    "565": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Gadot"
+    },
+    "348": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Ayelet HaShahar"
+    },
+    "692": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Hulata"
+    },
+    "1449": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Sde Eliezer"
+    },
+    "631": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Dishon"
+    },
+    "1010": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Malkia"
+    },
+    "1416": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Ramot Naftali"
+    },
+    "1016": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Manara"
+    },
+    "789": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Yiftah"
+    },
+    "849": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kfar Giladi"
+    },
+    "569": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Gonen"
+    },
+    "927": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Lehavot HaBashan"
+    },
+    "842": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kfar Blum"
+    },
+    "1495": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Shamir"
+    },
+    "1275": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Amir"
+    },
+    "1087": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Neot Mordechai"
+    },
+    "1068": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Misgav Am"
+    },
+    "1032": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Ma'ayan Baruch"
+    },
+    "635": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Dan"
+    },
+    "636": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Dafna"
+    },
+    "1459": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Sde Nehemia"
+    },
+    "641": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "HaGoshrim"
+    },
+    "849": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kfar Giladi"
+    },
+    "446": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Beit Hillel"
+    },
+    "1440": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "She'ar Yashuv"
+    },
+    "1499": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Snir"
+    },
+    "2131": {
+      "name": "GalilElionNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Yuval"
+    },
+    "1093": {
+      "name": "naharianew",
+      "gis": "gis09.taldor.co.il",
+      "displayName": "Naharia"
     },
     "800": {
       "name": "Jerusalem",
