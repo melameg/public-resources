@@ -762,13 +762,41 @@
       "url": "https://gis.intertown.co.il/",
       "functionName": "gisIntertown"
     },
-    "gis07.taldor.co.il": {
-      "url": "https://gis07.taldor.co.il/",
-      "functionName": "gis07Taldor"
+    "gis01.taldor.co.il": {
+      "url": "https://gis01.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis02.taldor.co.il": {
+      "url": "https://gis02.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis03.taldor.co.il": {
+      "url": "https://gis03.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis04.taldor.co.il": {
+      "url": "https://gis04.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis05.taldor.co.il": {
+      "url": "https://gis05.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
     },
     "gis06.taldor.co.il": {
       "url": "https://gis06.taldor.co.il/",
-      "functionName": "gis06Taldor"
+      "functionName": "gis01To09Taldor"
+    },
+    "gis07.taldor.co.il": {
+      "url": "https://gis07.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis08.taldor.co.il": {
+      "url": "https://gis08.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gis09.taldor.co.il": {
+      "url": "https://gis09.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
     },
     "gismod.taldor.co.il": {
       "url": "https://gismod.taldor.co.il/",
