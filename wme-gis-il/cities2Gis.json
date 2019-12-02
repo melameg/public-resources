@@ -9,6 +9,10 @@
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
     },
+    "1390": {
+      "name": "Rishonlezion",
+      "gis": "v5.gis-net.co.il"
+    },
     "1474": {
       "name": "Shoham",
       "gis": "v5.gis-net.co.il"
