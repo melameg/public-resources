@@ -391,6 +391,11 @@
       "gis": "gis__prefix__.taldor.co.il",
       "displayName": "Kefar Sava"
     },
+    "1379": {
+      "name": "Kekron_muni",
+      "gis": "chrome-extension:v3.gis-net.co.il",
+      "displayName": "Kiryat Ekron"
+    },
     "899": {
       "name": "gisnet3/galil_tahton_v4",
       "gis": "v3.gis-net.co.il",
@@ -1021,6 +1026,10 @@
     "gisn.tel-aviv.gov.il": {
       "url": "https://gisn.tel-aviv.gov.il/iView2js4/index.aspx?extent=",
       "functionName": "likeTlv"
+    },
+    "chrome-extension:v3.gis-net.co.il": {
+      "url": "https://v3.gis-net.co.il/",
+      "functionName": "v3GisNetChromeExtension"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
