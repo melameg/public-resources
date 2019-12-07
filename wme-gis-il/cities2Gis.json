@@ -65,7 +65,8 @@
     "1417": {
       "name": "RamleGis",
       "gis": "gis06.taldor.co.il",
-      "displayName": "Ramle"
+      "displayName": "Ramle",
+      "suffix" :""
     },
     "558": {
       "name": "GivatShmuelNew",
