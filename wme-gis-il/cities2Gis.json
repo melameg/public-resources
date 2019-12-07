@@ -1029,7 +1029,7 @@
       "functionName": "likeTlv"
     },
     "chrome-extension:v3.gis-net.co.il": {
-      "url": "https://v3.gis-net.co.il/",
+      "url": "http://v3.gis-net.co.il/",
       "functionName": "v3GisNetChromeExtension"
     },
     "v3.gis-net.co.il": {
