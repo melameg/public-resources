@@ -426,7 +426,7 @@
       "name": "website/gis55/gis-net.asp?citycode=7900",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Petah Tikva",
-      "extent": false
+      "noExtent": true
     },
     "370": {
       "name": "gisnet/sharonim/",
