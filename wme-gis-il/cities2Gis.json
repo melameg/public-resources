@@ -407,6 +407,11 @@
       "gis": "gis__prefix__.taldor.co.il",
       "displayName": "Kefar Sava"
     },
+    "1366": {
+      "name": "kono/",
+      "gis": "chrome-extension:gis10.taldor.co.il",
+      "displayName": "Kiryat Ono"
+    },
     "1379": {
       "name": "Kekron_muni/",
       "gis": "chrome-extension:v3.gis-net.co.il",
@@ -1090,6 +1095,10 @@
     },
     "chrome-extension:gis3.gis-net.co.il": {
       "url": "http://gis3.gis-net.co.il/",
+      "functionName": "v3GisNetChromeExtension"
+    },
+    "chrome-extension:gis10.taldor.co.il": {
+      "url": "https://gis10.taldor.co.il/",
       "functionName": "v3GisNetChromeExtension"
     },
     "v3.gis-net.co.il": {
