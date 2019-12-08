@@ -408,7 +408,7 @@
       "displayName": "Kefar Sava"
     },
     "1379": {
-      "name": "Kekron_muni",
+      "name": "Kekron_muni/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Kiryat Ekron"
     },
@@ -418,13 +418,12 @@
       "displayName": "Ashdod"
     },
     "562": {
-      "name": "givataim",
+      "name": "givataim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Givataim"
     },
     "1316": {
-      "name": "website/gis55/gis-net.asp?citycode=7900",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "gis": "http://gis3.gis-net.co.il/website/gis55/gis-net.asp?citycode=7900",
       "displayName": "Petah Tikva"
     },
     "1390": {
@@ -433,27 +432,27 @@
       "displayName": "Kiryat Ekron"
     },
     "370": {
-      "name": "gisnet/sharonim",
+      "name": "gisnet/sharonim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Elyakhin"
     },
     "304": {
-      "name": "gisnet/sharonim",
+      "name": "gisnet/sharonim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Even Yehuda"
     },
     "1312": {
-      "name": "gisnet/sharonim",
+      "name": "gisnet/sharonim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Pardesiya"
     },
     "1335": {
-      "name": "gisnet/sharonim",
+      "name": "gisnet/sharonim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Kadima Zoran"
     },
     "1530": {
-      "name": "gisnet/sharonim",
+      "name": "gisnet/sharonim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Tel Mond"
     },
