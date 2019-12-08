@@ -424,7 +424,7 @@
     },
     "1316": {
       "name": "website/gis55/gis-net.asp?citycode=7900",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "gis": "chrome-extension:gis3.gis-net.co.il",
       "displayName": "Petah Tikva",
       "noExtent": true
     },
@@ -1087,6 +1087,10 @@
     "chrome-extension:v3.gis-net.co.il": {
       "url": "http://v3.gis-net.co.il/",
       "functionName": "v3GisNetChromeExtension"
+    },
+    "chrome-extension:gis3.gis-net.co.il": {
+      "url": "http://gis3.gis-net.co.il/",
+      "functionName": "gis3GisNetChromeExtension"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
