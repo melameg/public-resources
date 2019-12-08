@@ -1090,7 +1090,7 @@
     },
     "chrome-extension:gis3.gis-net.co.il": {
       "url": "http://gis3.gis-net.co.il/",
-      "functionName": "gis3GisNetChromeExtension"
+      "functionName": "v3GisNetChromeExtension"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
