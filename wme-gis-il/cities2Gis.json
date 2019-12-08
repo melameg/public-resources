@@ -423,13 +423,10 @@
       "displayName": "Givataim"
     },
     "1316": {
-      "gis": "http://gis3.gis-net.co.il/website/gis55/gis-net.asp?citycode=7900",
-      "displayName": "Petah Tikva"
-    },
-    "1390": {
-      "name": "rishon/index.htm",
+      "name": "website/gis55/gis-net.asp?citycode=7900",
       "gis": "chrome-extension:v3.gis-net.co.il",
-      "displayName": "Kiryat Ekron"
+      "displayName": "Petah Tikva",
+      "extent": false
     },
     "370": {
       "name": "gisnet/sharonim/",
