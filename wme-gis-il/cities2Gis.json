@@ -317,6 +317,21 @@
       "name": "ganey_tikva",
       "gis": "v5.gis-net.co.il"
     },
+    "1178": {
+      "name": "Mordot_hacarmel",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Nesher"
+    },
+    "1409": {
+      "name": "Mordot_hacarmel",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Rekhasim"
+    },
+    "741": {
+      "name": "Mordot_hacarmel",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Tirat Carmel"
+    },
     "1512": {
       "name": "GvaotAlonim",
       "gis": "v5.gis-net.co.il",
