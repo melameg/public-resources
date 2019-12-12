@@ -2002,6 +2002,10 @@
       "url": "https://gis04.taldor.co.il/",
       "functionName": "gis01To09Taldor"
     },
+    "gis5.taldor.co.il": {
+      "url": "https://gis5.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
     "gis05.taldor.co.il": {
       "url": "https://gis05.taldor.co.il/",
       "functionName": "gis01To09Taldor"
