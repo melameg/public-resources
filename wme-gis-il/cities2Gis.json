@@ -1041,6 +1041,21 @@
       "name": "AkkoNew",
       "gis": "gis07.taldor.co.il"
     },
+    "1369": {
+      "name": "KrayotNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kiryat Bialik"
+    },
+    "1372": {
+      "name": "KrayotNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kiryat Yam"
+    },
+    "1375": {
+      "name": "KrayotNew",
+      "gis": "gis08.taldor.co.il",
+      "displayName": "Kiryat Motzkin"
+    },
     "1352": {
       "name": "GalilElionNew",
       "gis": "gis08.taldor.co.il",
