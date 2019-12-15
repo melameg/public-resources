@@ -1431,6 +1431,71 @@
       "gis": "gis09.taldor.co.il",
       "displayName": "Naharia"
     },
+    "473": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Beit Kama"
+    },
+    "510": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Brosh"
+    },
+    "542": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Giv'ot Bar"
+    },
+    "618": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Dvir"
+    },
+    "727": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Hatzerim"
+    },
+    "921": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Cramim"
+    },
+    "926": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Lahav"
+    },
+    "1075": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Mishmar HaNegev"
+    },
+    "1089": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Nevatim"
+    },
+    "1473": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Shoval"
+    },
+    "1476": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Shomria"
+    },
+    "1520": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Ta'ashur"
+    },
+    "1521": {
+      "name": "map",
+      "gis": "gisIpTaldor80.179.96.52",
+      "displayName": "Tidhar"
+    },
     "800": {
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
@@ -2324,6 +2389,10 @@
     },
     "gis09.taldor.co.il": {
       "url": "https://gis09.taldor.co.il/",
+      "functionName": "gis01To09Taldor"
+    },
+    "gisIpTaldor80.179.96.52": {
+      "url": "http://80.179.96.52/",
       "functionName": "gis01To09Taldor"
     },
     "gis__prefix__.taldor.co.il": {
