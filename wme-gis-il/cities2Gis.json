@@ -1524,6 +1524,71 @@
       "name": "OrYehuda",
       "gis": "v5.gis-net.co.il"
     },
+    "441": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Guvrin"
+    },
+    "466": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Nir"
+    },
+    "585": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gal On"
+    },
+    "614": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gat"
+    },
+    "665": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Vardon"
+    },
+    "859": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar HaRif"
+    },
+    "884": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Menahem"
+    },
+    "1090": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Negba"
+    },
+    "1131": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Nahala"
+    },
+    "1188": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Sgula"
+    },
+    "1348": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kedma"
+    },
+    "1392": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Revadim"
+    },
+    "1454": {
+      "name": "yov",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Sde Yoav"
+    },
     "337": {
       "name": "azr",
       "gis": "gis.intertown.co.il",
