@@ -1524,6 +1524,171 @@
       "name": "OrYehuda",
       "gis": "v5.gis-net.co.il"
     },
+    "716": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Haspin"
+    },
+    "1094": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Nov"
+    },
+    "828": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kanaf"
+    },
+    "1038": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ma'ale Gamla"
+    },
+    "1349": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kidmat Tzvi"
+    },
+    "309": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Avnei Eitan"
+    },
+    "317": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Odem"
+    },
+    "332": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ortal"
+    },
+    "359": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "El Rom"
+    },
+    "366": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Alonei HaBashan"
+    },
+    "369": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Eliad"
+    },
+    "387": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ani'am"
+    },
+    "393": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Afik"
+    },
+    "492": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Bnei Yehuda"
+    },
+    "551": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Givat Yoav"
+    },
+    "610": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Geshur"
+    },
+    "685": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Had Ness"
+    },
+    "770": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yonatan"
+    },
+    "871": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Haruv"
+    },
+    "946": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Mevo Hama"
+    },
+    "998": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Metzar"
+    },
+    "1038": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ma'ale Gamla"
+    },
+    "1061": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Merom Golan"
+    },
+    "1085": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Neot Golan"
+    },
+    "1098": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Neve Ativ"
+    },
+    "1140": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Natur"
+    },
+    "1127": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Nimrod"
+    },
+    "1244": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ein Zivan"
+    },
+    "1363": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kela Alon"
+    },
+    "1383": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Keshet"
+    },
+    "1412": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ramot"
+    },
+    "1426": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ramat Magshimim"
+    },
+    "1501": {
+      "name": "gln",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Sha'al"
+    },
     "308": {
       "name": "sfr",
       "gis": "gis.intertown.co.il",
