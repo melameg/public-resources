@@ -1524,6 +1524,131 @@
       "name": "OrYehuda",
       "gis": "v5.gis-net.co.il"
     },
+    "458": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Hashmonai"
+    },
+    "469": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Uziel"
+    },
+    "573": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gezer"
+    },
+    "600": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ganei Hadar"
+    },
+    "602": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ganei Yohanan"
+    },
+    "689": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Hulda"
+    },
+    "762": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yad Rambam"
+    },
+    "791": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yatzitz"
+    },
+    "806": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yashresh"
+    },
+    "841": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Bilu"
+    },
+    "843": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Bin Nun"
+    },
+    "906": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Shmuel"
+    },
+    "917": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Karmei Yosef"
+    },
+    "1051": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Matsli'ah"
+    },
+    "1072": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Mishmar Ayalon"
+    },
+    "1073": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Mishmar David"
+    },
+    "1115": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Nof Ayalon"
+    },
+    "1173": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Na'an"
+    },
+    "1175": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Netzer Sereni"
+    },
+    "1204": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Sitria"
+    },
+    "1222": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Azaria"
+    },
+    "1295": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Pedaya"
+    },
+    "1317": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Petahia"
+    },
+    "1414": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ramot Meir"
+    },
+    "1502": {
+      "name": "gzr",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Sha'alvim"
+    },
     "716": {
       "name": "gln",
       "gis": "gis.intertown.co.il",
