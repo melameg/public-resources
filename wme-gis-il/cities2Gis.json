@@ -47,6 +47,11 @@
       "gis": "gis01.taldor.co.il",
       "displayName": "Kiryat Tiv'on"
     },
+    "765": {
+      "name": "yahudnew",
+      "gis": "gis02.taldor.co.il",
+      "displayName": "Yehud"
+    },
     "440": {
       "name": "MaaleNaftaliNew",
       "gis": "gis02.taldor.co.il",
