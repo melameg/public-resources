@@ -12,6 +12,41 @@
       "gis": "https://netanyagis.co.il/mobilemap/default.html",
       "displayName": "Netanya"
     },
+    "720": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Hazeva"
+    },
+    "1202": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Sapir"
+    },
+    "1226": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Idan"
+    },
+    "1249": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Ein Yahav"
+    },
+    "1292": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Paran"
+    },
+    "1326": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Tzofar"
+    },
+    "2807": {
+      "name": "AravaTichonaNew",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Tzukim"
+    },
     "494": {
       "name": "zmuranew",
       "gis": "gis01.taldor.co.il",
