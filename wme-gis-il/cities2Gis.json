@@ -2158,6 +2158,11 @@
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Tel Mond"
     },
+    "296": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Avtalion"
+    },
     "899": {
       "name": "gisnet3/galil_tahton_v4",
       "gis": "v3.gis-net.co.il",
@@ -2800,6 +2805,10 @@
     "chrome-extension:gis10.taldor.co.il": {
       "url": "https://gis10.taldor.co.il/",
       "functionName": "v3GisNetChromeExtension"
+    },
+    "www.arcgis.com": {
+      "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=",
+      "functionName": "arcgis"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
