@@ -2163,6 +2163,176 @@
       "gis": "www.arcgis.com",
       "displayName": "Avtalion"
     },
+    "404": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Eshbal"
+    },
+    "408": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Eshhar"
+    },
+    "578": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Gilon"
+    },
+    "634": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Dmeide"
+    },
+    "706": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Haluts"
+    },
+    "663": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Hararit"
+    },
+    "2764": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Hussniyya"
+    },
+    "732": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Harashim"
+    },
+    "743": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Tal-El"
+    },
+    "768": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Yuvalim"
+    },
+    "769": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Yodfat"
+    },
+    "782": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Ya'ad"
+    },
+    "821": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Kishor"
+    },
+    "824": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Kamanneh"
+    },
+    "826": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Kamon"
+    },
+    "923": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Lavon"
+    },
+    "933": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Lotem"
+    },
+    "974": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Moran"
+    },
+    "975": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Moreshet"
+    },
+    "1007": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Mikhmanim"
+    },
+    "1013": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Manof"
+    },
+    "1319": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Ma'ale Tzviya"
+    },
+    "1053": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Mitzpe Aviv"
+    },
+    "1196": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Sallama"
+    },
+    "1444": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Atzmon"
+    },
+    "1596": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Arab Al Naim"
+    },
+    "1302": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Pelekh"
+    },
+    "1333": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Tzurit"
+    },
+    "1356": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Koranit"
+    },
+    "1385": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Ras al-Ein"
+    },
+    "1435": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Rakefet"
+    },
+    "1479": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Shorashim"
+    },
+    "1491": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Shekhanya"
+    },
+    "1522": {
+      "name": "539957d586e94616bd2302c06ce24a3a",
+      "gis": "www.arcgis.com",
+      "displayName": "Tuval"
+    },
     "899": {
       "name": "gisnet3/galil_tahton_v4",
       "gis": "v3.gis-net.co.il",
