@@ -52,11 +52,6 @@
       "gis": "gis01.taldor.co.il",
       "displayName": "Bnei Ayish"
     },
-    "568": {
-      "name": "zmuranew",
-      "gis": "gis01.taldor.co.il",
-      "displayName": "Gedera"
-    },
     "593": {
       "name": "zmuranew",
       "gis": "gis01.taldor.co.il",
@@ -1569,6 +1564,11 @@
     "800": {
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
+    },
+    "568": {
+      "name": "Gedera",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Gedera"
     },
     "1390": {
       "name": "Rishonlezion",
