@@ -4,6 +4,10 @@
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
+    "1316": {
+      "gis": "https://petah-tikva.maps.arcgis.com/apps/webappviewer/index.html?id=df50790c6276416aa8eecce1ac156f9b",
+      "displayName": "Petah Tikva"
+    },
     "1423": {
       "gis": "http://gis.ramat-hasharon.muni.il/RHS/?config=general.xml",
       "displayName": "Ramat Hasharon"
@@ -2166,12 +2170,6 @@
       "name": "givataim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
       "displayName": "Givataim"
-    },
-    "1316": {
-      "name": "website/gis55/gis-net.asp?citycode=7900",
-      "gis": "chrome-extension:gis3.gis-net.co.il",
-      "displayName": "Petah Tikva",
-      "noExtent": true
     },
     "370": {
       "name": "gisnet/sharonim/",
