@@ -3010,7 +3010,7 @@
       "functionName": "v3GisNetChromeExtension"
     },
     "www.arcgis.com": {
-      "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=",
+      "url": "arcgis.com/apps/webappviewer/index.html?id=",
       "functionName": "arcgis"
     },
     "v3.gis-net.co.il": {
