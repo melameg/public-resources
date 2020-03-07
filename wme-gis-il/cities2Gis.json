@@ -1582,7 +1582,8 @@
     },
     "662": {
       "name": "Hertzeliya",
-      "gis": "v5.gis-net.co.il"
+      "gis": "v5.gis-net.co.il",
+      "queryParams": "minisite=public"
     },
     "568": {
       "name": "Gedera",
