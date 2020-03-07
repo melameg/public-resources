@@ -1580,6 +1580,10 @@
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
     },
+    "662": {
+      "name": "Hertzeliya",
+      "gis": "v5.gis-net.co.il"
+    },
     "568": {
       "name": "Gedera",
       "gis": "v5.gis-net.co.il",
@@ -2742,10 +2746,6 @@
     },
     "643": {
       "name": "Hod_hasharon",
-      "gis": "v3.gis-net.co.il"
-    },
-    "662": {
-      "name": "Herzliya",
       "gis": "v3.gis-net.co.il"
     },
     "626": {
