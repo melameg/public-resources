@@ -1614,6 +1614,41 @@
       "name": "OrYehuda",
       "gis": "v5.gis-net.co.il"
     },
+    "496": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Bnei Ram"
+    },
+    "2669": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ganei Tal"
+    },
+    "780": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yesodot"
+    },
+    "717": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Hefetz Haim"
+    },
+    "757": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yad Binyamin"
+    },
+    "454": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Halakiya"
+    },
+    "2545": {
+      "name": "nsk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Netzer Hazani"
+    },
     "458": {
       "name": "gzr",
       "gis": "gis.intertown.co.il",
