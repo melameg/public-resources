@@ -1585,6 +1585,31 @@
       "gis": "v5.gis-net.co.il",
       "queryParams": "minisite=public"
     },
+    "802": {
+      "name": "galil_merkazi",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Yirka"
+    },
+    "525": {
+      "name": "galil_merkazi",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Jadeidi-Makr"
+    },
+    "526": {
+      "name": "galil_merkazi",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Julis"
+    },
+    "287": {
+      "name": "galil_merkazi",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Abu Sinan"
+    },
+    "873": {
+      "name": "galil_merkazi",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Kfar Yasif"
+    },
     "568": {
       "name": "Gedera",
       "gis": "v5.gis-net.co.il",
