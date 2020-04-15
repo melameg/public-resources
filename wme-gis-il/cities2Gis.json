@@ -1675,6 +1675,21 @@
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
     },
+    "1194": {
+      "name": "lev_hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Sakhnin"
+    },
+    "1283": {
+      "name": "lev_hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Arabe"
+    },
+    "628": {
+      "name": "lev_hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Dir Jana"
+    },
     "538": {
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
