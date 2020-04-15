@@ -2507,6 +2507,216 @@
       "gis": "gis__prefix__.taldor.co.il",
       "displayName": "Kefar Sava"
     },
+    "300": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Avihail"
+    },
+    "342": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Ahituv"
+    },
+    "374": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Alyashiv"
+    },
+    "324": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Ometz"
+    },
+    "423": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Beerotayim"
+    },
+    "428": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Burgata"
+    },
+    "429": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Bahan"
+    },
+    "445": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Beit Halevi"
+    },
+    "461": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "beit yanai"
+    },
+    "457": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Beit Herut"
+    },
+    "462": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Beit Itzhak-Sha'Ar Hefer"
+    },
+    "481": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Beit Aharon"
+    },
+    "1586": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Bat Hen"
+    },
+    "520": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Bat Hefer"
+    },
+    "532": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Geulei Teiman"
+    },
+    "550": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Givat Haim (United)"
+    },
+    "549": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Givat Haim (Union)"
+    },
+    "560": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Givat Shapira"
+    },
+    "592": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Gan Yoshiya"
+    },
+    "642": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hadar Am"
+    },
+    "654": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hama'Apil"
+    },
+    "656": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Ha'Ogen"
+    },
+    "680": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Havatzelet Hasharon"
+    },
+    "696": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hofit"
+    },
+    "702": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hibat Tzion"
+    },
+    "713": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hani'El"
+    },
+    "728": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Herev Le'Et"
+    },
+    "759": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Yad Hana"
+    },
+    "858": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kfar Ha'Ro'E"
+    },
+    "860": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kfar Vitkin"
+    },
+    "684": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Hogla"
+    },
+    "867": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kfar Haim"
+    },
+    "764": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kfar Yedidia"
+    },
+    "880": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kfar Monesh"
+    },
+    "1006": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Michmoret"
+    },
+    "1025": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Ma'abarot"
+    },
+    "1078": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Mishmar Hasharon"
+    },
+    "1213": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Olesh"
+    },
+    "1237": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Ein Hahoresh"
+    },
+    "1327": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Tzukei Yam"
+    },
+    "1348": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Kedma"
+    },
+    "1480": {
+      "name": "EmekHeferGis/#",
+      "gis": "gis10.taldor.co.il",
+      "displayName": "Shoshanat Ha'Amakim"
+    },
     "1366": {
       "name": "KOnoGis/#",
       "gis": "gis10.taldor.co.il",
