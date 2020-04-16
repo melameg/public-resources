@@ -12,6 +12,21 @@
       "gis": "https://netanyagis.co.il/mobilemap/default.html",
       "displayName": "Netanya"
     },
+    "494": {
+      "name": "ZmuraGis",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "bnei ayish"
+    },
+    "977": {
+      "name": "ZmuraGis",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Mazkeret Batia"
+    },
+    "1379": {
+      "name": "ZmuraGis",
+      "gis": "gis01.taldor.co.il",
+      "displayName": "Kiryat ekron"
+    },
     "720": {
       "name": "AravaTichonaNew",
       "gis": "gis01.taldor.co.il",
