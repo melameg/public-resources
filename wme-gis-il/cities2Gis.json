@@ -1047,6 +1047,11 @@
       "gis": "gis05.taldor.co.il",
       "displayName": "Hadera"
     },
+    "593": {
+      "name": "GanYavnGis",
+      "gis": "gis06.taldor.co.il",
+      "displayName": "gan yavne"
+    },
     "2670": {
       "name": "HofAshkelonNew",
       "gis": "gis06.taldor.co.il",
