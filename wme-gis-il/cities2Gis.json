@@ -15,17 +15,20 @@
     "494": {
       "name": "ZmuraGis",
       "gis": "gis01.taldor.co.il",
-      "displayName": "bnei ayish"
+      "displayName": "bnei ayish",
+      "suffix": "#/"
     },
     "977": {
       "name": "ZmuraGis",
       "gis": "gis01.taldor.co.il",
-      "displayName": "Mazkeret Batia"
+      "displayName": "Mazkeret Batia",
+      "suffix": "#/"
     },
     "1379": {
       "name": "ZmuraGis",
       "gis": "gis01.taldor.co.il",
-      "displayName": "Kiryat ekron"
+      "displayName": "Kiryat ekron",
+      "suffix": "#/"
     },
     "720": {
       "name": "AravaTichonaNew",
