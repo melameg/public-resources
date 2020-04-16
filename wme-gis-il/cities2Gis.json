@@ -1045,7 +1045,8 @@
     "593": {
       "name": "GanYavnGis",
       "gis": "gis06.taldor.co.il",
-      "displayName": "gan yavne"
+      "displayName": "gan yavne",
+      "suffix": "#/"
     },
     "2670": {
       "name": "HofAshkelonNew",
