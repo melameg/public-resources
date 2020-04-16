@@ -62,26 +62,6 @@
       "gis": "gis01.taldor.co.il",
       "displayName": "Tzukim"
     },
-    "494": {
-      "name": "zmuranew",
-      "gis": "gis01.taldor.co.il",
-      "displayName": "Bnei Ayish"
-    },
-    "593": {
-      "name": "zmuranew",
-      "gis": "gis01.taldor.co.il",
-      "displayName": "Gan Yavne"
-    },
-    "977": {
-      "name": "zmuranew",
-      "gis": "gis01.taldor.co.il",
-      "displayName": "Mazkeret Batya"
-    },
-    "1379": {
-      "name": "zmuranew",
-      "gis": "gis01.taldor.co.il",
-      "displayName": "Kiryat Ekron"
-    },
     "1311": {
       "name": "pardeshananew",
       "gis": "gis01.taldor.co.il",
@@ -1211,11 +1191,6 @@
       "name": "efratnew",
       "gis": "gis06.taldor.co.il",
       "displayName": "Efrat"
-    },
-    "593": {
-      "name": "GanYavneNew",
-      "gis": "gis06.taldor.co.il",
-      "displayName": "Gan Yavne"
     },
     "1417": {
       "name": "RamleGis",
