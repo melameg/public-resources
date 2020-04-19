@@ -4,6 +4,30 @@
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
+    "1246": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Ein Hetzba"
+    },
+    "1086": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Ne'Ot Hakikar"
+    },
+    "1261": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Ein Tamar"
+    },
+    "659": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Har Amasha"
+    },
+    "1105": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Neve Zohar"
+    },
+    "1233": {
+      "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
+      "displayName": "Ein Gedi"
+    },
     "1423": {
       "gis": "http://gis.ramat-hasharon.muni.il/RHS/?config=general.xml",
       "displayName": "Ramat Hasharon"
