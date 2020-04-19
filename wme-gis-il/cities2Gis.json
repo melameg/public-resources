@@ -2963,6 +2963,71 @@
       "gis": "www.arcgis.com",
       "displayName": "Tuval"
     },
+    "316": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Udim"
+    },
+    "402": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Arsuf"
+    },
+    "459": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Beit Yehosua"
+    },
+    "495": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Bnei Zion"
+    },
+    "502": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Batzra"
+    },
+    "587": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Glil Yam"
+    },
+    "606": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Ga'Ash"
+    },
+    "729": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Harutzim"
+    },
+    "792": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Yakum"
+    },
+    "889": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Kfar Netter"
+    },
+    "1436": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Rishpon"
+    },
+    "1509": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Shefayim"
+    },
+    "1529": {
+      "name": "gisnet/Hof_Hasharon",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "Tel Yitzhak"
+    },
     "899": {
       "name": "gisnet3/galil_tahton_v4",
       "gis": "v3.gis-net.co.il",
