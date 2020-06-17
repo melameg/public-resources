@@ -1995,6 +1995,176 @@
       "name": "OrYehuda",
       "gis": "v5.gis-net.co.il"
     },
+    "545": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Givat Brenner"
+    },
+    "596": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gan Shlomo (Shiler Group)"
+    },
+    "1351": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kidron"
+    },
+    "436": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Elazary"
+    },
+    "497": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Banya"
+    },
+    "576": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Givton"
+    },
+    "589": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gan Hadarom"
+    },
+    "835": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Aviv"
+    },
+    "887": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Mordechai"
+    },
+    "1001": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Meishar"
+    },
+    "1067": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Misgav Dov"
+    },
+    "1467": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Shdema"
+    },
+    "1289": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Aseret"
+    },
+    "455": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Hanan"
+    },
+    "468": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Oved"
+    },
+    "534": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Galia"
+    },
+    "595": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Gan Sorek"
+    },
+    "854": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kefar Hanagid"
+    },
+    "1141": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Neta'Im"
+    },
+    "1303": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Palmachim"
+    },
+    "2803": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Irus"
+    },
+    "1228": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ayanot"
+    },
+    "442": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Gamliel"
+    },
+    "484": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ben Zakai"
+    },
+    "490": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Bnei Darom"
+    },
+    "1152": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Nir Galim"
+    },
+    "1346": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yavne Group"
+    },
+    "454": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Beit Halakiya"
+    },
+    "496": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "bnei ram"
+    },
+    "780": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yesodot"
+    },
+    "2669": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ganei Tal"
+    },
+    "2545": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Netzer Hazani"
+    },
+    "717": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Hefetz Haim"
+    },
+    "757": {
+      "name": "srk",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Yad Binyamin"
+    },
     "496": {
       "name": "nsk",
       "gis": "gis.intertown.co.il",
