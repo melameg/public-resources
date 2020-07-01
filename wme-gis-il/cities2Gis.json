@@ -124,6 +124,11 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Beit Jann"
     },
+    "1285": {
+      "name": "arad",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Arad"
+    },
     "699": {
       "name": "Maale_Naftali",
       "gis": "v5.gis-net.co.il",
@@ -886,11 +891,6 @@
       "name": "afulanew",
       "gis": "gis04.taldor.co.il",
       "displayName": "Afula"
-    },
-    "1285": {
-      "name": "aradnew",
-      "gis": "gis04.taldor.co.il",
-      "displayName": "Arad"
     },
     "1388": {
       "name": "etzbahagalilnew",
