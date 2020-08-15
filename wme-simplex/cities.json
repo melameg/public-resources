@@ -1,7 +1,12 @@
 {
   "329": {
-    "cityName": "",
+    "cityName": "Or Akiva",
     "appName": "orakiva",
+    "height": 0
+  },
+  "1311": {
+    "cityName": "Pardes Hana-Karkur",
+    "appName": "phk",
     "height": 0
   },
   "337": {
@@ -40,12 +45,12 @@
     "height": 0
   },
   "562": {
-    "cityName": "",
+    "cityName": "Givataaim",
     "appName": "gv",
     "height": 0
   },
   "643": {
-    "cityName": "",
+    "cityName": "Hod Hasharon",
     "appName": "hodhash",
     "height": 0
   },
@@ -60,27 +65,27 @@
     "height": 0
   },
   "734": {
-    "cityName": "",
+    "cityName": "Tiberias",
     "appName": "tvr",
     "height": 0
   },
   "765": {
-    "cityName": "",
+    "cityName": "Yehud",
     "appName": "yehud-mon",
     "height": 0
   },
   "795": {
-    "cityName": "",
+    "cityName": "Yokneam Illit",
     "appName": "yok",
     "height": 0
   },
   "800": {
-    "cityName": "",
+    "cityName": "Jerusalem",
     "appName": "jrs",
     "height": 1000
   },
   "891": {
-    "cityName": "",
+    "cityName": "Kfar Saba",
     "appName": "kfs",
     "height": 0
   },
@@ -95,27 +100,27 @@
     "height": 0
   },
   "1176": {
-    "cityName": "",
+    "cityName": "Nazerath",
     "appName": "naz",
     "height": 0
   },
   "1177": {
-    "cityName": "",
+    "cityName": "Nazerat Illit",
     "appName": "nzrt",
     "height": 0
   },
   "1184": {
-    "cityName": "",
+    "cityName": "Netanya",
     "appName": "net",
     "height": 0
   },
   "1358": {
-    "cityName": "",
+    "cityName": "Caesarea",
     "appName": "caes",
     "height": 0
   },
   "1366": {
-    "cityName": "",
+    "cityName": "Kiryat-Ono",
     "appName": "kono",
     "height": 0
   },
@@ -130,7 +135,7 @@
     "height": 0
   },
   "1419": {
-    "cityName": "",
+    "cityName": "Ramat Gan",
     "appName": "rg",
     "height": 0
   },
