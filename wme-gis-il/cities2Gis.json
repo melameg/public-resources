@@ -2973,11 +2973,6 @@
       "gis": "gis10.taldor.co.il",
       "displayName": "Kiryat Ono"
     },
-    "405": {
-      "name": "GISNet3/Ashdod/index.htm",
-      "gis": "chrome-extension:v3.gis-net.co.il",
-      "displayName": "Ashdod"
-    },
     "562": {
       "name": "givataim/",
       "gis": "chrome-extension:v3.gis-net.co.il",
