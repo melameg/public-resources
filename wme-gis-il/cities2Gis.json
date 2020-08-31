@@ -36,6 +36,131 @@
       "gis": "http://gis.netanyagis.co.il/Gis/#/",
       "displayName": "Netanya"
     },
+    "434": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Beit Oren"
+    },
+    "456": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "beit hanania"
+    },
+    "524": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Bat Shlomo"
+    },
+    "539": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Geva Carmel"
+    },
+    "624": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Dor"
+    },
+    "640": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "HaBonim"
+    },
+    "651": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Hahotrim"
+    },
+    "847": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Kfar Galim"
+    },
+    "915": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Kerem Maharal"
+    },
+    "955": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Megadim"
+    },
+    "1028": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ma'Agan Michael"
+    },
+    "1033": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ma'Ayan Tzvi"
+    },
+    "1108": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Neve Yam"
+    },
+    "1136": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Nahsholim"
+    },
+    "1161": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Nir Etzion"
+    },
+    "1215": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ofer"
+    },
+    "1230": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ein Ayala"
+    },
+    "1236": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ein Hod"
+    },
+    "1245": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ein Hud"
+    },
+    "1252": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Ein Carmel"
+    },
+    "1290": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Atlit"
+    },
+    "1342": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "tzrufa"
+    },
+    "1358": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Caesarea"
+    },
+    "1463": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Sadot Yam"
+    },
+    "942": {
+      "project": "light_hofhacarmel",
+      "gis": "sol-israel.co.il",
+      "displayName": "Meir Shfeya"
+    },
     "494": {
       "name": "ZmuraGis",
       "gis": "gis01.taldor.co.il",
