@@ -3964,6 +3964,10 @@
     "metrogis.metropolinet.co.il": {
       "url": "https://metrogis.metropolinet.co.il/",
       "functionName": "metropolinet"
+    },
+    "sol-israel.co.il": {
+      "url": "http://www.sol-israel.co.il/sightvision/light.aspx",
+      "functionName": "solIsrael"
     }
   }
 }
