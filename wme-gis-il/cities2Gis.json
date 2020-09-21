@@ -1250,7 +1250,8 @@
     "687": {
       "name": "HaderaGis",
       "gis": "gis05.taldor.co.il",
-      "displayName": "Hadera"
+      "displayName": "Hadera",
+      "suffix": "#"
     },
     "593": {
       "name": "GanYavnGis",
