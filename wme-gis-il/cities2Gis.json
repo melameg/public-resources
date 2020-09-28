@@ -1446,8 +1446,9 @@
       "displayName": "Elad"
     },
     "558": {
-      "name": "GivatShmuelNew",
-      "gis": "gis07.taldor.co.il"
+      "name": "givat_shmuel",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Givat Shmuel"
     },
     "1264": {
       "name": "AkkoNew",
