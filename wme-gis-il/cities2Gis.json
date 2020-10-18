@@ -3887,8 +3887,9 @@
       "displayName": "Jisr az-Zarqa"
     },
     "795": {
-      "name": "yokneam_public",
-      "gis": "v3.gis-net.co.il"
+      "name": "Yokneam",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Yokneam Illit"
     },
     "671": {
       "name": "shomron",
