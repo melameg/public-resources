@@ -1472,32 +1472,38 @@
     "1288": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "Ar'Ara- In The Negev"
+      "displayName": "Ar'Ara- In The Negev",
+      "suffix": "#/"
     },
     "831": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "Kuseife"
+      "displayName": "Kuseife",
+      "suffix": "#/"
     },
     "1533": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "Tel Sheva"
+      "displayName": "Tel Sheva",
+      "suffix": "#/"
     },
     "698": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "hura"
+      "displayName": "hura",
+      "suffix": "#/"
     },
     "1445": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "Segev-Shalom"
+      "displayName": "Segev-Shalom",
+      "suffix": "#/"
     },
     "940": {
       "name": "NegevMizrahiGis",
       "gis": "gis08.taldor.co.il",
-      "displayName": "Lakia"
+      "displayName": "Lakia",
+      "suffix": "#/"
     },
     "314": {
       "name": "MasherNew",
