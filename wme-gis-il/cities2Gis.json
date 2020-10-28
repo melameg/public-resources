@@ -1,7 +1,7 @@
 {
   "cities": {
     "1527": {
-      "name": "Tel Aviv",
+      "name": "Tel Aviv", 
       "gis": "gisn.tel-aviv.gov.il"
     },
     "1246": {
