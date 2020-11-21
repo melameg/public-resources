@@ -242,6 +242,7 @@
     "765": {
       "name": "YahudGis",
       "gis": "gis02.taldor.co.il",
+      "suffix": "#",
       "displayName": "Yehud"
     },
     "831": {
