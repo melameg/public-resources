@@ -4064,8 +4064,9 @@
       "displayName": "Fureidis"
     },
     "643": {
-      "name": "Hod_hasharon",
-      "gis": "v3.gis-net.co.il"
+      "name": "Hod_Hasharon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Hod Hasharon"
     },
     "1080": {
       "name": "lev_hasharon",
