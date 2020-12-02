@@ -183,5 +183,15 @@
     "cityName": "",
     "appName": "kiryatekron",
     "height": 0
+  },
+  "604": {
+    "cityName": "Ganei Tikva",
+    "appName": "GTikva",
+    "height": 0
+  },
+  "1368": {
+    "cityName": "Kiryat Ata",
+    "appName": "kata",
+    "height": 0
   }
 }
