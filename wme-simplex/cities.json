@@ -193,5 +193,30 @@
     "cityName": "Kiryat Ata",
     "appName": "kata",
     "height": 0
+  },
+  "1405": {
+    "cityName": "Rehovot",
+    "appName": "rehovot",
+    "height": 0
+  },
+  "1390": {
+    "cityName": "Rishon Lezion",
+    "appName": "rishonlezion",
+    "height": 0
+  },
+  "1169": {
+    "cityName": "Nes Ziona",
+    "appName": "nesziona",
+    "height": 0
+  },
+  "420": {
+    "cityName": "Be'Er Yaakov",
+    "appName": "beeryaakov",
+    "height": 0
+  },
+  "739": {
+    "cityName": "tira",
+    "appName": "tira",
+    "height": 0
   }
 }
