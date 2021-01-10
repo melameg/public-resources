@@ -1113,6 +1113,12 @@
       "gis": "gis5.taldor.co.il",
       "displayName": "Sha'ar HaAmakim"
     },
+    "343": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Ahisamakh"
+    },
     "611": {
       "name": "EmekHamaayanotGis",
       "suffix": "#",
