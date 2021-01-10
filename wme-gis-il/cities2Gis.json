@@ -1119,6 +1119,144 @@
       "gis": "gis05.taldor.co.il",
       "displayName": "Ahisamakh"
     },
+    "422": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Beerot Yitshak"
+    },
+    "465": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Beit Nechamia"
+    },
+    "471": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Beit Arif"
+    },
+    "487": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Ben Shemen (Moshav)"
+    },
+    "493": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Bney Atarot"
+    },
+    "518": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "bareket"
+    },
+    "554": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Givat Ko'Ah"
+    },
+    "588": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Gimzo"
+    },
+    "582": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Ginaton"
+    },
+    "686": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Hadid"
+    },
+    "740": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Tirat Yehuda"
+    },
+    "850": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Kfar Daniel"
+    },
+    "486": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Ben Shemen (Kefar No'Ar)"
+    },
+    "872": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Kfar Truman"
+    },
+    "904": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Kfar Ruth"
+    },
+    "488": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Kerem Ben Shemen"
+    },
+    "938": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Lapid"
+    },
+    "947": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Mevo Modi'im"
+    },
+    "976": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Mazor"
+    },
+    "1118": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "nofach"
+    },
+    "1133": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Nehalim"
+    },
+    "1432": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Rinatiya"
+    },
+    "1489": {
+      "name": "HevelModiinGis",
+      "suffix": "#",
+      "gis": "gis05.taldor.co.il",
+      "displayName": "Shilat"
+    },
     "611": {
       "name": "EmekHamaayanotGis",
       "suffix": "#",
