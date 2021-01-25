@@ -1,7 +1,7 @@
 {
   "cities": {
     "1527": {
-      "name": "Tel Aviv", 
+      "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
     "1246": {
@@ -3617,28 +3617,28 @@
       "displayName": "Givataim"
     },
     "370": {
-      "name": "gisnet/sharonim/",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "name": "Sharonim",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Elyakhin"
     },
     "304": {
-      "name": "gisnet/sharonim/",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "name": "Sharonim",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Even Yehuda"
     },
     "1312": {
-      "name": "gisnet/sharonim/",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "name": "Sharonim",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Pardesiya"
     },
     "1335": {
-      "name": "gisnet/sharonim/",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "name": "Sharonim",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Kadima Zoran"
     },
     "1530": {
-      "name": "gisnet/sharonim/",
-      "gis": "chrome-extension:v3.gis-net.co.il",
+      "name": "Sharonim",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Tel Mond"
     },
     "1316": {
@@ -4508,18 +4508,6 @@
     "gisn.tel-aviv.gov.il": {
       "url": "https://gisn.tel-aviv.gov.il/iView2js4/index.aspx?extent=",
       "functionName": "likeTlv"
-    },
-    "chrome-extension:v3.gis-net.co.il": {
-      "url": "http://v3.gis-net.co.il/",
-      "functionName": "v3GisNetChromeExtension"
-    },
-    "chrome-extension:gis3.gis-net.co.il": {
-      "url": "http://gis3.gis-net.co.il/",
-      "functionName": "v3GisNetChromeExtension"
-    },
-    "chrome-extension:gis10.taldor.co.il": {
-      "url": "https://gis10.taldor.co.il/",
-      "functionName": "v3GisNetChromeExtension"
     },
     "www.arcgis.com": {
       "url": "arcgis.com/apps/webappviewer/index.html?id=",
