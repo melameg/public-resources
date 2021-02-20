@@ -218,5 +218,15 @@
     "cityName": "tira",
     "appName": "tira",
     "height": 0
+  },
+  "969": {
+    "cityName": "Modi'in-Maccabim-Reut",
+    "appName": "modiin",
+    "height": 200
+  },
+  "907": {
+    "cityName": "Kfar Shmaryahu",
+    "appName": "KfarShmaryahu",
+    "height": 0
   }
 }
