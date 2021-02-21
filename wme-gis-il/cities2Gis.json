@@ -29,7 +29,7 @@
       "displayName": "Ein Gedi"
     },
     "1423": {
-      "gis": "http://gis.ramat-hasharon.muni.il/RHS/?config=general.xml",
+      "gis": "https://gis.ramat-hasharon.muni.il/gis",
       "displayName": "Ramat Hasharon"
     },
     "1184": {
@@ -220,7 +220,8 @@
       "displayName": "Pardes Hanna-Karkur"
     },
     "1371": {
-      "name": "KiryatTivonNew",
+      "name": "KiryatTivonGis",
+      "suffix": "#/",
       "gis": "gis01.taldor.co.il",
       "displayName": "Kiryat Tiv'on"
     },
@@ -1088,7 +1089,8 @@
       "displayName": "Tkuma"
     },
     "1169": {
-      "name": "nesszionanew",
+      "name": "NessZionaGis",
+      "suffix": "#/",
       "gis": "gis03.taldor.co.il",
       "displayName": "Ness Ziona"
     },
@@ -1134,56 +1136,67 @@
     },
     "336": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Usha"
     },
     "295": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Ibtin"
     },
     "703": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Khawaled"
     },
     "755": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Yagur"
     },
     "840": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Kfar Bialik"
     },
     "853": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Kfar HaMaccabi"
     },
     "870": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Kfar Hasidim"
     },
     "1117": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Nofit"
     },
     "1386": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Ras Ali"
     },
     "1424": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Ramat Yohanan"
     },
     "1505": {
       "name": "ZvulunNew",
+      "suffix": "#",
       "gis": "gis5.taldor.co.il",
       "displayName": "Sha'ar HaAmakim"
     },
@@ -1784,8 +1797,8 @@
       "displayName": "Qasr al-Sir"
     },
     "397": {
-      "name": "efratnew",
-      "gis": "gis06.taldor.co.il",
+      "name": "efrat",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Efrat"
     },
     "1417": {
@@ -2471,17 +2484,20 @@
       "displayName": "Shomrat"
     },
     "1369": {
-      "name": "KrayotNew",
+      "name": "KrayotGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kiryat Bialik"
     },
     "1372": {
-      "name": "KrayotNew",
+      "name": "KrayotGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kiryat Yam"
     },
     "1375": {
-      "name": "KrayotNew",
+      "name": "KrayotGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kiryat Motzkin"
     },
@@ -2701,7 +2717,7 @@
       "displayName": "Margaliot"
     },
     "1093": {
-      "name": "naharianew",
+      "name": "NahariaGis/#",
       "gis": "gis09.taldor.co.il",
       "displayName": "Naharia"
     },
@@ -4639,8 +4655,9 @@
       "displayName": "Sulam"
     },
     "643": {
-      "name": "Hod_hasharon",
-      "gis": "v3.gis-net.co.il"
+      "name": "Hod_Hasharon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Hod Hasharon"
     },
     "626": {
       "name": "gisnet/galil_mizrahi",
