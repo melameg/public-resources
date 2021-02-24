@@ -2722,68 +2722,55 @@
       "displayName": "Naharia"
     },
     "473": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Beit Kama"
     },
     "510": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Brosh"
     },
     "542": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Giv'ot Bar"
     },
     "618": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Dvir"
     },
     "727": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Hatzerim"
     },
     "921": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Cramim"
     },
     "926": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Lahav"
     },
     "1075": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Mishmar HaNegev"
     },
     "1089": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Nevatim"
     },
     "1473": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Shoval"
     },
     "1476": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Shomria"
     },
     "1520": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Ta'ashur"
     },
     "1521": {
-      "name": "map",
-      "gis": "gisIpTaldor80.179.96.52",
+      "gis": "http://80.179.96.52/Gis/#/",
       "displayName": "Tidhar"
     },
     "800": {
@@ -4977,10 +4964,6 @@
     },
     "gis10.taldor.co.il": {
       "url": "https://gis10.taldor.co.il/",
-      "functionName": "gis01To09Taldor"
-    },
-    "gisIpTaldor80.179.96.52": {
-      "url": "http://80.179.96.52/",
       "functionName": "gis01To09Taldor"
     },
     "gis__prefix__.taldor.co.il": {
