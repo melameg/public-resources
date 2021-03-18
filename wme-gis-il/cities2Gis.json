@@ -3683,7 +3683,7 @@
     },
     "337": {
       "name": "azr",
-      "gis": "gis.intertown.co.il",
+      "gis": "up.intertown.co.il",
       "displayName": "Azor"
     },
     "1370": {
@@ -4955,6 +4955,10 @@
     },
     "gis.intertown.co.il": {
       "url": "https://gis.intertown.co.il/",
+      "functionName": "gisIntertown"
+    },
+    "up.intertown.co.il": {
+      "url": "https://up.intertown.co.il/",
       "functionName": "gisIntertown"
     },
     "gis01.taldor.co.il": {
