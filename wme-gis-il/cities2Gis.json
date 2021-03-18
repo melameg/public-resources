@@ -8,6 +8,30 @@
       "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
       "displayName": "Ein Hetzba"
     },
+    "1582": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Ovnat"
+    },
+    "377": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Almog"
+    },
+    "448": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Beit Ha'Arava"
+    },
+    "664": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Vered Yeriho"
+    },
+    "1057": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Mitzpe Shalem"
+    },
+    "1360": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?WEBLAYOUT=Library%3a%2f%2fMegilot%2fLayouts%2fGuestLayout.WebLayout&USERNAME=Anonymous",
+      "displayName": "Kalya"
+    },
     "1086": {
       "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
       "displayName": "Ne'Ot Hakikar"
