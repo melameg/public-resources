@@ -1125,6 +1125,7 @@
     },
     "930": {
       "name": "LodGis",
+      "suffix": "#",
       "gis": "gis03.taldor.co.il",
       "displayName": "Lod"
     },
