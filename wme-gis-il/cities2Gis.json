@@ -4459,11 +4459,6 @@
       "gis": "www.arcgis.com",
       "displayName": "Immanuel"
     },
-    "739": {
-      "name": "gisnet/tira",
-      "gis": "v3.gis-net.co.il",
-      "displayName": "tira"
-    },
     "316": {
       "name": "gisnet/Hof_Hasharon",
       "gis": "v3.gis-net.co.il",
@@ -4669,6 +4664,11 @@
       "name": "shfelat_Hagalil",
       "gis": "v5.gis-net.co.il",
       "displayName": "Tamra"
+    },
+    "739": {
+      "name": "Tira",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Tira"
     },
     "808": {
       "name": "shfelat_Hagalil",
