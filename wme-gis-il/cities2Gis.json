@@ -4660,6 +4660,11 @@
       "name": "yavne",
       "gis": "v5.gis-net.co.il"
     },
+    "900": {
+      "name": "k_Kara",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "kafr qar"
+    },
     "747": {
       "name": "shfelat_Hagalil",
       "gis": "v5.gis-net.co.il",
