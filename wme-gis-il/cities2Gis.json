@@ -270,6 +270,10 @@
       "suffix": "#",
       "displayName": "Yehud"
     },
+    "401": {
+      "name": "Ariel",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Ariel"    },
     "527": {
       "name": "Jaljuliaint",
       "gis": "v5.gis-net.co.il",
@@ -2285,6 +2289,11 @@
       "name": "eld",
       "gis": "gis.intertown.co.il",
       "displayName": "Elad"
+    },
+    "970": {
+      "name": "Modiin_ilit",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Modi'In Ilit"
     },
     "538": {
       "name": "Mbinyamin",
@@ -4385,6 +4394,11 @@
       "gis": "www.arcgis.com",
       "displayName": "Immanuel"
     },
+    "739": {
+      "name": "gisnet/tira",
+      "gis": "v3.gis-net.co.il",
+      "displayName": "tira"
+    },
     "316": {
       "name": "gisnet/Hof_Hasharon",
       "gis": "v3.gis-net.co.il",
@@ -4585,6 +4599,21 @@
     "754": {
       "name": "yavne",
       "gis": "v5.gis-net.co.il"
+    },
+    "747": {
+      "name": "shfelat_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Tamra"
+    },
+    "808": {
+      "name": "shfelat_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Kabul"
+    },
+    "1500": {
+      "name": "shfelat_Hagalil",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Shaab"
     },
     "814": {
       "name": "MitzpeAfeq",
