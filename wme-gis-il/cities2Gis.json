@@ -4,6 +4,82 @@
       "name": "Tel Aviv",
       "gis": "gisn.tel-aviv.gov.il"
     },
+    "339": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Ahuzam"
+    },
+    "2065": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Eliav"
+    },
+    "386": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Amatsya"
+    },
+    "2064": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Bnei Dkalim"
+    },
+    "668": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Zohar"
+    },
+    "761": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Yad Natan"
+    },
+    "3146": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Karmei Katif"
+    },
+    "937": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Lakhish"
+    },
+    "1012": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "menuha"
+    },
+    "1091": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "nehora"
+    },
+    "1095": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Noga"
+    },
+    "1753": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Neta"
+    },
+    "1154": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Nir Hen"
+    },
+    "1282": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Otzem"
+    },
+    "1451": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Sde David"
+    },
+    "1457": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Sde Moshe"
+    },
+    "1482": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Shahar"
+    },
+    "1514": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Shekef"
+    },
+    "1542": {
+      "gis": "https://www.geomind.co.il/mapserver2014/mapviewerajax/?weblayout=Library://Lachish/Layouts/Guest.WebLayout&username=Anonymous&password=",
+      "displayName": "Tlamim"
+    },
     "1246": {
       "gis": "https://gisp.ma-tamar.co.il/portal/apps/webappviewer/index.html?id=5d99314f4cf34bf88a84688dfce540ee",
       "displayName": "Ein Hetzba"
