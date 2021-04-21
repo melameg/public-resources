@@ -325,6 +325,11 @@
       "gis": "gis01.taldor.co.il",
       "displayName": "Kiryat Tiv'on"
     },
+    "1649": {
+      "name": "NeotHovavGis",
+      "gis": "gis02.taldor.co.il",
+      "displayName": "Ramat Hovav"
+    },
     "952": {
       "name": "HarelNew",
       "gis": "gis02.taldor.co.il",
