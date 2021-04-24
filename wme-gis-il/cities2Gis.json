@@ -355,7 +355,8 @@
     "401": {
       "name": "Ariel",
       "gis": "v5.gis-net.co.il",
-      "displayName": "Ariel"    },
+      "displayName": "Ariel"
+    },
     "527": {
       "name": "Jaljuliaint",
       "gis": "v5.gis-net.co.il",
@@ -2831,217 +2832,260 @@
       "displayName": "Kiryat Motzkin"
     },
     "1352": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kadarim"
     },
     "819": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kahal"
     },
     "818": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Chorazin"
     },
     "385": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Amnun"
     },
     "1272": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ami'ad"
     },
     "911": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Karkom"
     },
     "372": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Elifelet"
     },
     "856": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar HaNassi"
     },
     "991": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Mahanayim"
     },
     "1074": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Mishmar HaYarden"
     },
     "565": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Gadot"
     },
     "348": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ayelet HaShahar"
     },
     "692": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Hulata"
     },
     "1449": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Sde Eliezer"
     },
     "631": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Dishon"
     },
     "1010": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Malkia"
     },
     "1416": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ramot Naftali"
     },
     "1016": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Manara"
     },
     "789": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Yiftah"
     },
     "849": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar Giladi"
     },
     "569": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Gonen"
     },
     "927": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Lehavot HaBashan"
     },
     "842": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar Blum"
     },
     "1495": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Shamir"
     },
     "1275": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Amir"
     },
     "1087": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Neot Mordechai"
     },
     "1068": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Misgav Am"
     },
     "1032": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ma'ayan Baruch"
     },
     "635": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Dan"
     },
     "636": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Dafna"
     },
     "1459": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Sde Nehemia"
     },
     "641": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "HaGoshrim"
     },
     "849": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar Giladi"
     },
     "446": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Beit Hillel"
     },
     "1440": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "She'ar Yashuv"
     },
     "1499": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Snir"
     },
     "2131": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Yuval"
     },
     "514": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Bar'am"
     },
     "797": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Yir'on"
     },
     "890": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar Szold"
     },
     "1186": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Sasa"
     },
     "1320": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Tziv'on"
     },
     "1060": {
-      "name": "GalilElionNew",
+      "name": "GalilElyonGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Margaliot"
     },
