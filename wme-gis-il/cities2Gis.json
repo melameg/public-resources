@@ -3150,6 +3150,31 @@
       "name": "Jerusalem",
       "gis": "https://jergisng.jerusalem.muni.il/baseWab/?config=../gisviewerngsupport/api/InjectingConfig"
     },
+    "1023": {
+      "name": "Maale_Hermon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Mas'Ade"
+    },
+    "953": {
+      "name": "Maale_Hermon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Majdal Shams"
+    },
+    "427": {
+      "name": "Maale_Hermon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Buq'Ata"
+    },
+    "1257": {
+      "name": "Maale_Hermon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Ein Qiniyye"
+    },
+    "1205": {
+      "name": "Maale_Hermon",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Ghajar"
+    },
     "1194": {
       "name": "lev_hagalil",
       "gis": "v5.gis-net.co.il",
