@@ -362,11 +362,6 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Jaljulia"
     },
-    "831": {
-      "name": "Kseifaint",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Kuseife"
-    },
     "957": {
       "name": "Migdal_Haemek",
       "gis": "v5.gis-net.co.il",
@@ -467,12 +462,6 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Bar Giyora"
     },
-    "1112": {
-      "name": "MateYehudaGis",
-      "suffix": "#/",
-      "gis": "gis03.taldor.co.il",
-      "displayName": "Giv'ot Eden"
-    },
     "552": {
       "name": "MateYehudaGis",
       "suffix": "#/",
@@ -568,7 +557,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Motza Illit"
     },
-    "478": {
+    "992": {
       "name": "MateYehudaGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -712,7 +701,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Ramat Raziel"
     },
-    "800": {
+    "1430": {
       "name": "MateYehudaGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -760,7 +749,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Tarum"
     },
-    "1322": {
+    "318": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -790,7 +779,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Erez"
     },
-    "949": {
+    "403": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -844,7 +833,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Gevim"
     },
-    "1026": {
+    "540": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -862,7 +851,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Dorot"
     },
-    "1539": {
+    "637": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -910,7 +899,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Yakhini"
     },
-    "1273": {
+    "804": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -1138,7 +1127,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Sde Tzvi"
     },
-    "674": {
+    "1472": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -1150,7 +1139,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Shokeda"
     },
-    "1026": {
+    "1484": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -1168,7 +1157,7 @@
       "gis": "gis03.taldor.co.il",
       "displayName": "Sharsheret"
     },
-    "881": {
+    "1524": {
       "name": "NegevMaaraviGis",
       "suffix": "#/",
       "gis": "gis03.taldor.co.il",
@@ -2570,175 +2559,20 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Modi'In Ilit"
     },
-    "538": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Geva Binyamin"
-    },
     "1269": {
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
       "displayName": "Almon"
-    },
-    "1560": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Alon"
-    },
-    "453": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Beit Horon"
     },
     "541": {
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
       "displayName": "Giv'On Hahadasha"
     },
-    "2115": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Givat Harel"
-    },
-    "3141": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Ganei Modi'in"
-    },
-    "623": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Dolev"
-    },
-    "733": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Hashmona'Im"
-    },
-    "746": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Talmon"
-    },
-    "813": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Kokhav Hashahar"
-    },
-    "816": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Kokhav Ya'Akov"
-    },
-    "836": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Kfar Adumim"
-    },
-    "851": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Kfar Ha'Oranim"
-    },
-    "945": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Mevo Horon"
-    },
-    "2657": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "migron"
-    },
-    "1041": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Ma'Ale Mikhmas"
-    },
-    "1040": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Ma'Ale Levona"
-    },
-    "1808": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Mitzpe Dani"
-    },
-    "1054": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Mitzpe Yeriho"
-    },
-    "1084": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Matityahu"
-    },
-    "707": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Halamish"
-    },
-    "1132": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Nahliel"
-    },
     "1144": {
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
       "displayName": "Nili"
-    },
-    "1171": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Na'Ale"
-    },
-    "2647": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Neria"
-    },
-    "1225": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Ateret"
-    },
-    "1266": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Eli"
-    },
-    "2023": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Amona"
-    },
-    "3417": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Amihai"
-    },
-    "1216": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Ofra"
-    },
-    "1305": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Psagot"
-    },
-    "1411": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Rimonim"
-    },
-    "1488": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Shilo"
     },
     "558": {
       "name": "givat_shmuel",
@@ -3150,12 +2984,6 @@
       "gis": "gis08.taldor.co.il",
       "displayName": "HaGoshrim"
     },
-    "849": {
-      "name": "GalilElyonGis",
-      "suffix": "#",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Kfar Giladi"
-    },
     "446": {
       "name": "GalilElyonGis",
       "suffix": "#",
@@ -3321,11 +3149,6 @@
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
       "displayName": "Geva Binyamin"
-    },
-    "1560": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Alon"
     },
     "453": {
       "name": "Mbinyamin",
@@ -3526,7 +3349,8 @@
     },
     "690": {
       "name": "Holon",
-      "gis": "v5.gis-net.co.il"
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Holon"
     },
     "325": {
       "name": "Ofakim",
@@ -3670,46 +3494,6 @@
       "name": "srk",
       "gis": "gis.intertown.co.il",
       "displayName": "Yavne Group"
-    },
-    "454": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Beit Halakiya"
-    },
-    "496": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "bnei ram"
-    },
-    "780": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Yesodot"
-    },
-    "2669": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Ganei Tal"
-    },
-    "2545": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Netzer Hazani"
-    },
-    "717": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Hefetz Haim"
-    },
-    "757": {
-      "name": "srk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Yad Binyamin"
-    },
-    "496": {
-      "name": "nsk",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Bnei Ram"
     },
     "2669": {
       "name": "nsk",
@@ -3880,11 +3664,6 @@
       "name": "gln",
       "gis": "gis.intertown.co.il",
       "displayName": "Kanaf"
-    },
-    "1038": {
-      "name": "gln",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Ma'ale Gamla"
     },
     "1349": {
       "name": "gln",
@@ -4151,11 +3930,6 @@
       "gis": "gis.intertown.co.il",
       "displayName": "Sgula"
     },
-    "1348": {
-      "name": "yov",
-      "gis": "gis.intertown.co.il",
-      "displayName": "Kedma"
-    },
     "1392": {
       "name": "yov",
       "gis": "gis.intertown.co.il",
@@ -4183,7 +3957,8 @@
     },
     "875": {
       "name": "K_Yona",
-      "gis": "v5.gis-net.co.il"
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Kfar Yona"
     },
     "604": {
       "name": "ganey_tikva",
@@ -4231,7 +4006,8 @@
     },
     "352": {
       "name": "eilat",
-      "gis": "v5.gis-net.co.il"
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Eilat"
     },
     "412": {
       "name": "ashkelon",
@@ -5031,10 +4807,6 @@
       "gis": "https://gis.br7.org.il/apps/br7/",
       "displayName": "Be'er Sheva"
     },
-    "478": {
-      "name": "Beit_Shemesh",
-      "gis": "v5.gis-net.co.il"
-    },
     "489": {
       "name": "bnei-brak",
       "gis": "v3.gis-net.co.il",
@@ -5050,24 +4822,13 @@
       "gis": "orhitec.erpgis.co.il",
       "displayName": "Katzrin"
     },
-    "891": {
-      "name": "Kefar Sava",
-      "gis": "https://gisks.taldor.co.il/KsGis"
-    },
     "478": {
       "name": "Beit_Shemesh",
-      "gis": "v5.gis-net.co.il"
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Beit Shemesh"
     },
     "522": {
       "name": "batyam",
-      "gis": "v5.gis-net.co.il"
-    },
-    "875": {
-      "name": "K_Yona",
-      "gis": "v5.gis-net.co.il"
-    },
-    "690": {
-      "name": "Holon",
       "gis": "v5.gis-net.co.il"
     },
     "734": {
@@ -5433,10 +5194,6 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Ya'ara"
     },
-    "352": {
-      "name": "eilat",
-      "gis": "v5.gis-net.co.il"
-    },
     "1163": {
       "name": "Sdot_dan",
       "gis": "v5.gis-net.co.il",
@@ -5581,20 +5338,10 @@
       "gis": "v3.gis-net.co.il",
       "displayName": "Maghar"
     },
-    "398": {
-      "name": "gisnet/galil_mizrahi",
-      "gis": "v3.gis-net.co.il",
-      "displayName": "Arbel"
-    },
     "956": {
       "name": "gisnet/galil_mizrahi",
       "gis": "v3.gis-net.co.il",
       "displayName": "Migdal"
-    },
-    "1143": {
-      "name": "gisnet/galil_mizrahi",
-      "gis": "v3.gis-net.co.il",
-      "displayName": "Nein"
     },
     "329": {
       "name": "y_baron",
@@ -5625,11 +5372,6 @@
       "name": "y_baron",
       "gis": "v5.gis-net.co.il",
       "displayName": "Fureidis"
-    },
-    "643": {
-      "name": "Hod_Hasharon",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Hod Hasharon"
     },
     "1080": {
       "name": "lev_hasharon",
@@ -5675,11 +5417,6 @@
       "name": "lev_hasharon",
       "gis": "v5.gis-net.co.il",
       "displayName": "Porat"
-    },
-    "533": {
-      "name": "lev_hasharon",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Geulim"
     },
     "1503": {
       "name": "lev_hasharon",
