@@ -1743,7 +1743,7 @@
       "gis": "gis05.taldor.co.il",
       "displayName": "Eyal"
     },
-    "643": {
+    "375": {
       "name": "DhasharonGis",
       "suffix": "#",
       "gis": "gis05.taldor.co.il",
@@ -2080,12 +2080,6 @@
       "displayName": "Ramle",
       "suffix": ""
     },
-    "365": {
-      "name": "israelimGis",
-      "suffix": "#/",
-      "gis": "gis07.taldor.co.il",
-      "displayName": "Aloney Abba"
-    },
     "340": {
       "name": "israelimGis",
       "suffix": "#/",
@@ -2385,6 +2379,121 @@
       "suffix": "#/",
       "gis": "gis07.taldor.co.il",
       "displayName": "Ka'abiyye-Tabbash-Hajajre"
+    },
+    "298": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Avivim"
+    },
+    "326": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Or Haganuz"
+    },
+    "384": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Amirim"
+    },
+    "433": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Biriya"
+    },
+    "508": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Bar Yochai"
+    },
+    "622": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "dovev"
+    },
+    "633": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Dalton"
+    },
+    "701": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Hazon"
+    },
+    "750": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Tfahot"
+    },
+    "823": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kalanit"
+    },
+    "868": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Hananya"
+    },
+    "905": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kfar Shamai"
+    },
+    "913": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Kerem Ben Zimra"
+    },
+    "925": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Levenim"
+    },
+    "1000": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Meron"
+    },
+    "1203": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Safsufa"
+    },
+    "1231": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Ein El-Assad"
+    },
+    "1268": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Alma"
+    },
+    "1270": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "amuka"
+    },
+    "1313": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Parod"
+    },
+    "1406": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Rehicaniya"
+    },
+    "1481": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Shazur"
+    },
+    "1511": {
+      "name": "mhg",
+      "gis": "gis.intertown.co.il",
+      "displayName": "Shefer"
     },
     "378": {
       "name": "eld",
@@ -3312,11 +3421,6 @@
       "name": "Mbinyamin",
       "gis": "v5.gis-net.co.il",
       "displayName": "Nahliel"
-    },
-    "1144": {
-      "name": "Mbinyamin",
-      "gis": "v5.gis-net.co.il",
-      "displayName": "Nili"
     },
     "1171": {
       "name": "Mbinyamin",
