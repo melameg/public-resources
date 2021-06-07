@@ -2620,157 +2620,188 @@
       "suffix": "#/"
     },
     "314": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Adamit"
     },
     "341": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ahihud"
     },
     "349": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Eilon"
     },
     "396": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Afek"
     },
     "413": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Oshrat"
     },
     "425": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Bustan HaGalil"
     },
     "447": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Beit HaEmek"
     },
     "485": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ben Ami"
     },
     "503": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Betzet"
     },
     "607": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ga'aton"
     },
     "612": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Gesher HaZiv"
     },
     "714": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Hanita"
     },
     "773": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Yehiam"
     },
     "781": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Yas'ur"
     },
     "810": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kabri"
     },
     "822": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Klil"
     },
     "885": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Kfar Masaryk"
     },
     "901": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Rosh HaNikra"
     },
     "932": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Lohamei HaGeta'ot"
     },
     "979": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Mazra'a"
     },
     "1050": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Matzuva"
     },
     "1168": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Nes Ammim"
     },
     "1182": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Netiv HaShayara"
     },
     "1201": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Sa'ar"
     },
     "1207": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Evron"
     },
     "1238": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Ein HaMifratz"
     },
     "1277": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Amka"
     },
     "1395": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Regba"
     },
     "1441": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Shavei Tzion"
     },
     "1487": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Sheikh Danun"
     },
     "1497": {
-      "name": "MasherNew",
+      "name": "MasherGis",
+      "suffix": "#",
       "gis": "gis08.taldor.co.il",
       "displayName": "Shomrat"
     },
