@@ -248,5 +248,75 @@
     "cityName": "Or Yehuda",
     "appName": "oryehuda",
     "height": 0
+  },
+  "1071": {
+    "cityName": "Masu%27Ot Yitzhak",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1510": {
+    "cityName": "Shafir",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1256": {
+    "cityName": "Ein Tzurim",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1064": {
+    "cityName": "merkaz shapira",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1398": {
+    "cityName": "Revaha",
+    "appName": "shafir",
+    "height": 0
+  },
+  "360": {
+    "cityName": "Aluma",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1355": {
+    "cityName": "Komemiyut",
+    "appName": "shafir",
+    "height": 0
+  },
+  "667": {
+    "cityName": "Zavdiel",
+    "appName": "shafir",
+    "height": 0
+  },
+  "678": {
+    "cityName": "Zrahia",
+    "appName": "shafir",
+    "height": 0
+  },
+  "354": {
+    "cityName": "Eitan",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1211": {
+    "cityName": "Uza",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1492": {
+    "cityName": "Shalva",
+    "appName": "shafir",
+    "height": 0
+  },
+  "1114": {
+    "cityName": "Noam",
+    "appName": "shafir",
+    "height": 0
+  },
+  "308": {
+    "cityName": "Even Shmuel",
+    "appName": "shafir",
+    "height": 0
   }
 }
