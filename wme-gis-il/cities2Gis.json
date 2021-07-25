@@ -1211,7 +1211,8 @@
       "displayName": "Ra'anana"
     },
     "1280": {
-      "name": "afulanew",
+      "name": "AfulaGis",
+      "suffix": "#",
       "gis": "gis04.taldor.co.il",
       "displayName": "Afula"
     },
