@@ -174,7 +174,7 @@
     "type": "url",
     "cameraName": "מצלמת חוף תל אביב",
     "direction": "",
-    "cameraUrl": "",
+    "cameraUrl": "https://www.isramedia.net/15091/%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%9E%D7%A6%D7%9C%D7%9E%D7%AA-%D7%97%D7%95%D7%A3-%D7%AA%D7%9C-%D7%90%D7%91%D7%99%D7%91",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.086805506326805&lon=34.769130569072345&mapComments=22806849.227871881.619879",
     "lat": "32.086806",
     "lon": "34.769131"
@@ -233,23 +233,14 @@
     "lat": "32.043275",
     "lon": "34.783341"
   },
-  "ayalonhw_": {
+  "ayalonhw_חולון צפון - איילון": {
     "type": "ayalonhw",
-    "cameraName": "",
+    "cameraName": "חולון צפון - איילון",
     "direction": "צפון מזרח (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.038606704120156&lon=34.779213265518024&mapComments=22806848.227937412.964301",
     "lat": "32.038607",
     "lon": "34.779213"
-  },
-  "iroads_": {
-    "type": "iroads",
-    "cameraName": "",
-    "direction": "",
-    "cameraUrl": "https://tinyurl.com/il-LiveCamera",
-    "url": "https://www.waze.com/editor?zoom=6&lat=31.9859457416443&lon=34.890269478743775&mapComments=22872384.228658303.641480",
-    "lat": "31.985946",
-    "lon": "34.890269"
   },
   "iroads_המלאכה": {
     "type": "iroads",
