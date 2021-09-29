@@ -2060,9 +2060,9 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-Hertzelia.stream/playlist.m3u8"
   },
-  "ayalonhw_רוקח – קק\"ל": {
+  "ayalonhw_רוקח - קק\"ל": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/40_-_רוקח_-_קק_ל_2020-05-19_11-12-13.960.png",
-    "cameraName": "רוקח – קק\"ל",
+    "cameraName": "רוקח - קק\"ל",
     "area": "תל אביב",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8"
@@ -2074,9 +2074,9 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal.stream/playlist.m3u8"
   },
-  "ayalonhw_קק\"ל – גלילות": {
+  "ayalonhw_קק\"ל - גלילות": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/42_-_קקל_גלילות_2020-05-19_11-12-24.780-1.png",
-    "cameraName": "קק\"ל – גלילות",
+    "cameraName": "קק\"ל - גלילות",
     "area": "תל אביב",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8"
@@ -2186,9 +2186,9 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holon_SW.stream/playlist.m3u8"
   },
-  "ayalonhw_דב הוז": {
+  "ayalonhw_מחלף דב הוז": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/10_-_דב_הוז_2020-05-19_11-03-51.757.png",
-    "cameraName": "דב הוז",
+    "cameraName": "מחלף דב הוז",
     "area": "חולון",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Dov_oz.stream/playlist.m3u8"
@@ -2207,9 +2207,9 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yafo_D.stream/playlist.m3u8"
   },
-  "ayalonhw_קוממיות": {
+  "ayalonhw_מחלף קוממיות": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/06_-_קוממיות_2020-05-19_11-03-14.095.png",
-    "cameraName": "קוממיות",
+    "cameraName": "מחלף קוממיות",
     "area": "בת ים",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hakomemiyot.stream/playlist.m3u8"
@@ -2221,16 +2221,16 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hatanaim.stream/playlist.m3u8"
   },
-  "ayalonhw_יוספטל – דב הוז": {
+  "ayalonhw_יוספטל - דב הוז": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/09_-_יוספטל_-_דב_הוז_2020-05-19_11-03-28.225.png",
-    "cameraName": "יוספטל – דב הוז",
+    "cameraName": "יוספטל - דב הוז",
     "area": "חולון",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yoseftal-dov_oz.stream/playlist.m3u8"
   },
-  "ayalonhw_חולות": {
+  "ayalonhw_מחלף חולות": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/01_-_חולות_2020-05-19_11-02-45.517-1.png",
-    "cameraName": "חולות",
+    "cameraName": "מחלף חולות",
     "area": "ראשון לציון",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holot.stream/playlist.m3u8"
@@ -2242,9 +2242,9 @@
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/431-2.stream/playlist.m3u8"
   },
-  "ayalonhw_משה דיין": {
+  "ayalonhw_מחלף משה דיין": {
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/05_-_משה_דיין_2020-05-19_11-03-04.301.png",
-    "cameraName": "משה דיין",
+    "cameraName": "מחלף משה דיין",
     "area": "ראשון לציון",
     "type": "ayalonhw",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mosha_Dayan.stream/playlist.m3u8"

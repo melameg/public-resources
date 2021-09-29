@@ -143,9 +143,9 @@
     "lat": "32.073030",
     "lon": "34.793880"
   },
-  "ayalonhw_יפו ד - איילון": {
+  "ayalonhw_יפו ד' - איילון": {
     "type": "ayalonhw",
-    "cameraName": "יפו ד - איילון",
+    "cameraName": "יפו ד' - איילון",
     "direction": "צפון מזרח (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.03577878295629&lon=34.75923863472458&mapComments=22806848.227806340.964196",
@@ -287,18 +287,18 @@
     "lat": "32.101602",
     "lon": "34.897883"
   },
-  "ayalonhw_ארלוזורוב- איילון": {
+  "ayalonhw_ארלוזורוב - איילון": {
     "type": "ayalonhw",
-    "cameraName": "ארלוזורוב- איילון",
+    "cameraName": "ארלוזורוב - איילון",
     "direction": "דרום מערב (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.08044619707643&lon=34.7980399777214&mapComments=22806849.228068488.964200",
     "lat": "32.080446",
     "lon": "34.798040"
   },
-  "ayalonhw_דרך מס' 1 -כביש 1": {
+  "ayalonhw_דרך מס' 1 - איילון": {
     "type": "ayalonhw",
-    "cameraName": "דרך מס' 1 -כביש 1",
+    "cameraName": "דרך מס' 1 - איילון",
     "direction": "צפון מערב (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.04075303171877&lon=34.78990659944708&mapComments=22806848.228002948.964087",
@@ -422,18 +422,18 @@
     "lat": "32.106218",
     "lon": "34.804888"
   },
-  "ayalonhw_גלילות- איילון": {
+  "ayalonhw_גלילות - איילון": {
     "type": "ayalonhw",
-    "cameraName": "גלילות- איילון",
+    "cameraName": "גלילות - איילון",
     "direction": "דרום (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.13892025040845&lon=34.809094888685344&mapComments=22806849.228134030.964177",
     "lat": "32.138920",
     "lon": "34.809095"
   },
-  "ayalonhw_יוספטל-דב הוז - איילון": {
+  "ayalonhw_יוספטל - דב הוז - איילון": {
     "type": "ayalonhw",
-    "cameraName": "יוספטל-דב הוז - איילון",
+    "cameraName": "יוספטל - דב הוז - איילון",
     "direction": "צפון מערב (לא קבוע)",
     "cameraUrl": "https://tinyurl.com/il-LiveCamera-Ayalon",
     "url": "https://www.waze.com/editor?zoom=6&lat=32.01952027557372&lon=34.76215397130879&mapComments=22806848.227806338.964195",
