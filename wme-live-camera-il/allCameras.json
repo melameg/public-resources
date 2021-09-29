@@ -1199,9 +1199,9 @@
     "type": "iroads",
     "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAZKRETBATYA.stream/playlist.m3u8"
   },
-  "iroads_מחלף חן קרית ביאליק ": {
+  "iroads_מחלף חן קרית ביאליק": {
     "image": "https://iroads.bvtech.co.il:444/upfiles/HENBIALIK22/HENBIALIK22.PNG",
-    "cameraName": "מחלף חן קרית ביאליק ",
+    "cameraName": "מחלף חן קרית ביאליק",
     "location": "כביש 22,79",
     "area": "צפון",
     "type": "iroads",
@@ -1510,6 +1510,14 @@
     "area": "מרכז",
     "type": "iroads",
     "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8"
+  },
+  "iroads_אבו גוש": {
+    "image": "https://iroads.bvtech.co.il:444/upfiles/ABUGOSH/abugosh.png",
+    "cameraName": "אבו גוש",
+    "location": "כביש 425,397",
+    "area": "מרכז",
+    "type": "iroads",
+    "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ABUGOSH.stream/playlist.m3u8"
   },
   "iroads_סגולה": {
     "image": "https://iroads.bvtech.co.il:444/upfiles/SGULA/SGULA_2.PNG",
