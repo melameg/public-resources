@@ -11,6 +11,18 @@
     "commentID": "22937919.229379193.597299",
     "direction": "דרום"
   },
+  "iroads_אבו גוש": {
+    "lat": "31.801840",
+    "lon": "35.108282",
+    "area": "מרכז",
+    "cameraName": "אבו גוש",
+    "location": "כביש 425,3975",
+    "image": "https://iroads.bvtech.co.il:444/upfiles/ABUGOSH/abugosh.png",
+    "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ABUGOSH.stream/playlist.m3u8",
+    "type": "iroads",
+    "commentID": "23003454.230100076.933590",
+    "direction": "דרום מזרח"
+  },
   "iroads_אבליים": {
     "lat": "32.822675",
     "lon": "35.151654",
@@ -275,11 +287,11 @@
     "commentID": "22872388.228789419.619885",
     "direction": "צפון מערב"
   },
-  "iroads_ביל\"ו": {
+  "iroads_ביל%20ו": {
     "lat": "31.870980",
     "lon": "34.819792",
     "area": "מרכז",
-    "cameraName": "ביל\"ו",
+    "cameraName": "ביל%20ו",
     "location": "כביש 40,412",
     "image": "https://iroads.bvtech.co.il:444/upfiles/BILU/BILU.PNG",
     "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BILU.stream/playlist.m3u8",
@@ -1739,11 +1751,11 @@
     "commentID": "22937919.229575798.619936",
     "direction": "דרום מזרח"
   },
-  "iroads_מל\"ל": {
+  "iroads_מל%20ל": {
     "lat": "32.172824",
     "lon": "34.893215",
     "area": "מרכז",
-    "cameraName": "מל\"ל",
+    "cameraName": "מל%20ל",
     "location": "כביש 402",
     "image": "https://iroads.bvtech.co.il:444/upfiles/MALAL/MALAL.PNG",
     "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MALAL.stream/playlist.m3u8",
@@ -2063,18 +2075,6 @@
     "commentID": "22872387.228527265.619943",
     "direction": "דרום"
   },
-  "iroads_אבו גוש": {
-    "lat": "31.801840",
-    "lon": "35.108282",
-    "area": "מרכז",
-    "cameraName": "אבו גוש",
-    "location": "כביש 425,397",
-    "image": "https://iroads.bvtech.co.il:444/upfiles/ABUGOSH/abugosh.png",
-    "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ABUGOSH.stream/playlist.m3u8",
-    "type": "iroads",
-    "commentID": "23003454.230100076.933590",
-    "direction": "דרום מזרח"
-  },
   "iroads_סגולה": {
     "lat": "32.101602",
     "lon": "34.897883",
@@ -2268,15 +2268,15 @@
     "direction": "צפון"
   },
   "iroads_פולג": {
-    "lat": "32.273366",
-    "lon": "34.854861",
+    "lat": "32.273376",
+    "lon": "34.854837",
     "area": "מרכז",
     "cameraName": "פולג",
     "location": "כביש 2,553",
     "image": "https://iroads.bvtech.co.il:444/upfiles/POLEG/POLEG_NEW.PNG",
     "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/POLEG.stream/playlist.m3u8",
     "type": "iroads",
-    "commentID": "22872387.228396187.625933",
+    "commentID": "22872387.228396187.1130375",
     "direction": "דרום מערב"
   },
   "iroads_פוראדיס": {
@@ -2302,18 +2302,6 @@
     "type": "iroads",
     "commentID": "22872389.228854960.617456",
     "direction": "דרום מערב"
-  },
-  "iroads_פלוגות": {
-    "lat": "31.625603",
-    "lon": "34.757225",
-    "area": "דרום",
-    "cameraName": "פלוגות",
-    "location": "כביש 35,40",
-    "image": "https://iroads.bvtech.co.il:444/upfiles/PLUGOT/PLUGOT.PNG",
-    "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/PLUGOT.stream/playlist.m3u8",
-    "type": "iroads",
-    "commentID": "22806844.227806299.617457",
-    "direction": "צפון מזרח"
   },
   "iroads_פרדסיה": {
     "lat": "32.304782",
@@ -2375,11 +2363,11 @@
     "commentID": "22806845.227806309.617459",
     "direction": "צפון מזרח"
   },
-  "iroads_קצא\"א": {
+  "iroads_קצא%20א": {
     "lat": "31.627437",
     "lon": "34.585653",
     "area": "דרום",
-    "cameraName": "קצא\"א",
+    "cameraName": "קצא%20א",
     "location": "כביש 4",
     "image": "https://iroads.bvtech.co.il:444/upfiles/KATZA/KATZA.PNG",
     "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KATZA.stream/playlist.m3u8",
@@ -2663,18 +2651,6 @@
     "commentID": "22675771.226692175.619955",
     "direction": "צפון מערב"
   },
-  "iroads_שעריה": {
-    "lat": "32.068044",
-    "lon": "34.903725",
-    "area": "מרכז",
-    "cameraName": "שעריה",
-    "location": "כביש 40,471",
-    "image": "https://iroads.bvtech.co.il:444/upfiles/SHAARIYA/SHAARIYA_2.PNG",
-    "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHAARIYA.stream/playlist.m3u8",
-    "type": "iroads",
-    "commentID": "22872385.228723847.619956",
-    "direction": "צפון מערב"
-  },
   "iroads_שפיה": {
     "lat": "32.583144",
     "lon": "34.967832",
@@ -2855,11 +2831,11 @@
     "commentID": "22806850.228134031.964277",
     "direction": "דרום (לא קבוע)"
   },
-  "ayalonhw_רוקח - קק\"ל": {
+  "ayalonhw_רוקח – קק\"ל": {
     "lat": "32.112066",
     "lon": "34.810621",
     "area": "תל אביב",
-    "cameraName": "רוקח - קק\"ל",
+    "cameraName": "רוקח – קק\"ל",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/40_-_רוקח_-_קק_ל_2020-05-19_11-12-13.960.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8",
@@ -2879,11 +2855,11 @@
     "commentID": "22806849.228134028.964075",
     "direction": "צפון מערב (לא קבוע)"
   },
-  "ayalonhw_קק\"ל - גלילות": {
+  "ayalonhw_קק\"ל – גלילות": {
     "lat": "32.129377",
     "lon": "34.810653",
     "area": "תל אביב",
-    "cameraName": "קק\"ל - גלילות",
+    "cameraName": "קק\"ל – גלילות",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/42_-_קקל_גלילות_2020-05-19_11-12-24.780-1.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8",
@@ -3071,11 +3047,11 @@
     "commentID": "22806848.227937412.964198",
     "direction": "דרום מזרח (לא קבוע)"
   },
-  "ayalonhw_מחלף דב הוז": {
+  "ayalonhw_דב הוז": {
     "lat": "32.023185",
     "lon": "34.760623",
     "area": "חולון",
-    "cameraName": "מחלף דב הוז",
+    "cameraName": "דב הוז",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/10_-_דב_הוז_2020-05-19_11-03-51.757.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Dov_oz.stream/playlist.m3u8",
@@ -3107,11 +3083,11 @@
     "commentID": "22806848.227806340.964196",
     "direction": "צפון מזרח (לא קבוע)"
   },
-  "ayalonhw_מחלף קוממיות": {
+  "ayalonhw_קוממיות": {
     "lat": "32.001608",
     "lon": "34.759309",
     "area": "בת ים",
-    "cameraName": "מחלף קוממיות",
+    "cameraName": "קוממיות",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/06_-_קוממיות_2020-05-19_11-03-14.095.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hakomemiyot.stream/playlist.m3u8",
@@ -3131,11 +3107,11 @@
     "commentID": "22806848.227806337.964085",
     "direction": "צפון (לא קבוע)"
   },
-  "ayalonhw_יוספטל - דב הוז": {
+  "ayalonhw_יוספטל – דב הוז": {
     "lat": "32.019520",
     "lon": "34.762154",
     "area": "חולון",
-    "cameraName": "יוספטל - דב הוז",
+    "cameraName": "יוספטל – דב הוז",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/09_-_יוספטל_-_דב_הוז_2020-05-19_11-03-28.225.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yoseftal-dov_oz.stream/playlist.m3u8",
@@ -3143,11 +3119,11 @@
     "commentID": "22806848.227806338.964195",
     "direction": "צפון מערב (לא קבוע)"
   },
-  "ayalonhw_מחלף חולות": {
+  "ayalonhw_חולות": {
     "lat": "31.954252",
     "lon": "34.758500",
     "area": "ראשון לציון",
-    "cameraName": "מחלף חולות",
+    "cameraName": "חולות",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/01_-_חולות_2020-05-19_11-02-45.517-1.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holot.stream/playlist.m3u8",
@@ -3167,11 +3143,11 @@
     "commentID": "22806848.227806333.964295",
     "direction": "צפון (לא קבוע)"
   },
-  "ayalonhw_מחלף משה דיין": {
+  "ayalonhw_משה דיין": {
     "lat": "31.987451",
     "lon": "34.758138",
     "area": "ראשון לציון",
-    "cameraName": "מחלף משה דיין",
+    "cameraName": "משה דיין",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/05_-_משה_דיין_2020-05-19_11-03-04.301.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mosha_Dayan.stream/playlist.m3u8",
