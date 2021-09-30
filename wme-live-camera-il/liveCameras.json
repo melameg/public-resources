@@ -2831,11 +2831,11 @@
     "commentID": "22806850.228134031.964277",
     "direction": "דרום (לא קבוע)"
   },
-  "ayalonhw_רוקח – קק\"ל": {
+  "ayalonhw_רוקח – קק%20ל": {
     "lat": "32.112066",
     "lon": "34.810621",
     "area": "תל אביב",
-    "cameraName": "רוקח – קק\"ל",
+    "cameraName": "רוקח – קק%20ל",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/40_-_רוקח_-_קק_ל_2020-05-19_11-12-13.960.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8",
@@ -2843,11 +2843,11 @@
     "commentID": "22806849.228134027.964076",
     "direction": "דרום מערב (לא קבוע)"
   },
-  "ayalonhw_קק\"ל": {
+  "ayalonhw_קק%20ל": {
     "lat": "32.118733",
     "lon": "34.811129",
     "area": "תל אביב",
-    "cameraName": "קק\"ל",
+    "cameraName": "קק%20ל",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/41_-_קק_ל_2020-05-19_11-12-19.748.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal.stream/playlist.m3u8",
@@ -2855,11 +2855,11 @@
     "commentID": "22806849.228134028.964075",
     "direction": "צפון מערב (לא קבוע)"
   },
-  "ayalonhw_קק\"ל – גלילות": {
+  "ayalonhw_קק%20ל – גלילות": {
     "lat": "32.129377",
     "lon": "34.810653",
     "area": "תל אביב",
-    "cameraName": "קק\"ל – גלילות",
+    "cameraName": "קק%20ל – גלילות",
     "location": "",
     "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/42_-_קקל_גלילות_2020-05-19_11-12-24.780-1.png",
     "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8",
