@@ -563,6 +563,18 @@
     "location": "כביש 40,411,4123",
     "area": "מרכז"
   },
+  "iroads_גבולות": {
+    "lat": "31.269749",
+    "lon": "34.432177",
+    "cameraName": "גבולות",
+    "image": "https://iroads.bvtech.co.il:444/upfiles/GVULUT/GVULOT.PNG",
+    "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GVULUT.stream/playlist.m3u8",
+    "type": "iroads",
+    "commentID": "22544697.225643575.617399",
+    "direction": "דרום מערב",
+    "location": "כביש 222,232",
+    "area": "דרום"
+  },
   "iroads_גבעת זאב": {
     "lat": "31.863190",
     "lon": "35.172926",
@@ -1966,6 +1978,18 @@
     "location": "כביש 2,6531",
     "area": "צפון"
   },
+  "iroads_מעון": {
+    "lat": "31.313632",
+    "lon": "34.439245",
+    "cameraName": "מעון",
+    "image": "https://iroads.bvtech.co.il:444/upfiles/MAON/MAON.PNG",
+    "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAON.stream/playlist.m3u8",
+    "type": "iroads",
+    "commentID": "22544697.225709115.780310",
+    "direction": "דרום מערב",
+    "location": "כביש 232,241",
+    "area": "דרום"
+  },
   "iroads_מעונה": {
     "lat": "33.019433",
     "lon": "35.265412",
@@ -3366,14 +3390,6 @@
     "commentID": "22937928.229117136.617387",
     "cameraUrl": "https://www.isramedia.net/site/222/0"
   },
-  "url_מצלמה בקיבוץ חנתון": {
-    "lat": "32.783388",
-    "lon": "35.246192",
-    "cameraName": "מצלמה בקיבוץ חנתון",
-    "type": "url",
-    "commentID": "23069000.231017678.597307",
-    "cameraUrl": "https://www.weather2day.co.il/hanaton"
-  },
   "url_שידור חי מאוניברסיטת חיפה": {
     "lat": "32.762852",
     "lon": "35.017888",
@@ -3382,13 +3398,13 @@
     "commentID": "22937928.229510348.617388",
     "cameraUrl": "https://www.isramedia.net/411/%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C/%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%97%D7%99-%D7%9E%D7%90%D7%95%D7%A0%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA-%D7%97%D7%99%D7%A4%D7%94"
   },
-  "url_מצלמת הכנרת": {
-    "lat": "32.785986",
-    "lon": "35.635885",
-    "cameraName": "מצלמת הכנרת",
+  "url_מצלמה בקיבוץ חנתון": {
+    "lat": "32.783388",
+    "lon": "35.246192",
+    "cameraName": "מצלמה בקיבוץ חנתון",
     "type": "url",
-    "commentID": "23331144.233573583.617389",
-    "cameraUrl": "https://www.weather2day.co.il/kinneret"
+    "commentID": "23069000.231017678.597307",
+    "cameraUrl": "https://www.weather2day.co.il/hanaton"
   },
   "url_מצלמת צפת": {
     "lat": "32.964853",
@@ -3398,6 +3414,14 @@
     "commentID": "23265610.232721632.619880",
     "cameraUrl": "https://www.weather2day.co.il/zefat-webcam"
   },
+  "url_מצלמת הכנרת": {
+    "lat": "32.785986",
+    "lon": "35.635885",
+    "cameraName": "מצלמת הכנרת",
+    "type": "url",
+    "commentID": "23331144.233573583.617389",
+    "cameraUrl": "https://www.weather2day.co.il/kinneret"
+  },
   "url_מרום גולן שידור חי": {
     "lat": "33.132631",
     "lon": "35.777449",
@@ -3405,5 +3429,21 @@
     "type": "url",
     "commentID": "23462219.234491121.597306",
     "cameraUrl": "https://www.weather2day.co.il/merom-golan-live"
+  },
+  "url_עליון": {
+    "lat": "33.305810",
+    "lon": "35.784023",
+    "cameraName": "עליון",
+    "type": "url",
+    "commentID": "23462221.234491139.619878",
+    "cameraUrl": "https://www.skihermon.co.il/"
+  },
+  "url_תחתון": {
+    "lat": "33.308377",
+    "lon": "35.772519",
+    "cameraName": "תחתון",
+    "type": "url",
+    "commentID": "23462221.234425603.597305",
+    "cameraUrl": "https://www.skihermon.co.il/"
   }
 }
