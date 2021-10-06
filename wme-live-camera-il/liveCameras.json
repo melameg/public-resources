@@ -3987,5 +3987,75 @@
         "type": "url",
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://www.skihermon.co.il/"
+    },
+    "iroads_סביון": {
+        "lat": "32.032903",
+        "lon": "34.866029",
+        "cameraName": "סביון",
+        "type": "missing_camera",
+        "commentID": "22872384.228527235.625930"
+    },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "cameraName": "אחיסמך",
+        "type": "missing_camera",
+        "commentID": "22872383.228658297.617384"
+    },
+    "iroads_נתב%20ג": {
+        "lat": "31.985946",
+        "lon": "34.890269",
+        "cameraName": "נתב%20ג",
+        "type": "missing_camera",
+        "commentID": "22872384.228658303.641480"
+    },
+    "iroads_אל-על": {
+        "lat": "31.989628",
+        "lon": "34.906941",
+        "cameraName": "אל-על",
+        "type": "missing_camera",
+        "commentID": "22872384.228789375.619877"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
+    },
+    "iroads_קיסריה": {
+        "lat": "32.460766",
+        "lon": "34.895634",
+        "cameraName": "קיסריה",
+        "type": "missing_camera",
+        "commentID": "22872389.228723886.619950"
+    },
+    "iroads_גילה מנהרה קצרה": {
+        "lat": "31.724642",
+        "lon": "35.187805",
+        "cameraName": "גילה מנהרה קצרה",
+        "type": "missing_camera",
+        "commentID": "23068989.230624356.617402"
+    },
+    "iroads_עמק התימנים": {
+        "lat": "31.770246",
+        "lon": "35.158911",
+        "cameraName": "עמק התימנים",
+        "type": "missing_camera",
+        "commentID": "23068990.230427753.783989"
+    },
+    "iroads_פארק בר לב": {
+        "lat": "32.912093",
+        "lon": "35.181049",
+        "cameraName": "פארק בר לב",
+        "type": "missing_camera",
+        "commentID": "23069001.230558939.1130181"
+    },
+    "iroads_קרית אתא צפון": {
+        "lat": "32.815234",
+        "lon": "35.091509",
+        "cameraName": "קרית אתא צפון",
+        "type": "missing_camera",
+        "commentID": "23003464.229969106.783995"
     }
 }
