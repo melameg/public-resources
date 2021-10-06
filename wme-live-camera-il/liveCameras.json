@@ -153,20 +153,6 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "cameraName": "אחיסמך",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872383.228658297.617384",
-        "direction": "צפון מערב",
-        "location": "כביש 40",
-        "area": "מרכז"
-    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -718,8 +704,6 @@
         "lon": "34.765035",
         "cameraName": "גדרה",
         "image": "https://iroads.bvtech.co.il:444/upfiles/GEDERA/GEDERA.PNG",
-        "height": 768,
-        "width": 1365,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GEDERA.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22806846.227871852.625885",
@@ -1683,8 +1667,6 @@
         "lon": "35.142466",
         "cameraName": "כברי",
         "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI.PNG",
-        "height": 1024,
-        "width": 1820,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23003466.230296806.619922",
@@ -1753,6 +1735,8 @@
         "lon": "35.551958",
         "cameraName": "כפר הנשיא",
         "image": "https://iroads.bvtech.co.il:444/upfiles/KFARHANASI/KFARHANASI.PNG",
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/KFARHANASI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23331146.232983777.780306",
@@ -2573,8 +2557,6 @@
         "lon": "34.637364",
         "cameraName": "ניצנים",
         "image": "https://iroads.bvtech.co.il:444/upfiles/NITZANIM/nitzanim.png",
-        "height": 576,
-        "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NITZANIM.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22675773.227019877.617444",
@@ -2740,8 +2722,6 @@
         "lon": "35.209052",
         "cameraName": "עטרות",
         "image": "https://iroads.bvtech.co.il:444/upfiles/ATAROT/atarot.png",
-        "height": 768,
-        "width": 1365,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ATAROT.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23068991.230755442.617450",
@@ -2874,18 +2854,6 @@
         "direction": "צפון",
         "location": "כביש 483,4872",
         "area": "מרכז"
-    },
-    "iroads_פארק בר לב": {
-        "lat": "32.912093",
-        "lon": "35.181049",
-        "cameraName": "פארק בר לב",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/PARKBARLEV/PARKBARLEV.PNG",
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/PARKBARLEV.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23069001.230558939.1130181",
-        "direction": "מזרח",
-        "location": "כביש 85",
-        "area": "צפון"
     },
     "iroads_פולג": {
         "lat": "32.273376",
@@ -3580,7 +3548,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-East.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134030.964177",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום",
         "area": "תל אביב"
     },
     "ayalonhw_גלילות מערב": {
@@ -3593,7 +3561,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-West.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068494.964278",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון",
         "area": "תל אביב"
     },
     "ayalonhw_שבעת הכוכבים": {
@@ -3606,7 +3574,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-Hertzelia.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806850.228134031.964277",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום",
         "area": "הרצליה"
     },
     "ayalonhw_רוקח – קק%20ל": {
@@ -3617,7 +3585,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134027.964076",
-        "direction": "דרום מערב (לא קבוע)",
+        "direction": "דרום מערב %28לא קבוע%29",
         "area": "תל אביב"
     },
     "ayalonhw_קק%20ל": {
@@ -3630,7 +3598,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134028.964075",
-        "direction": "צפון מערב (לא קבוע)",
+        "direction": "צפון מערב %28לא קבוע%29",
         "area": "תל אביב"
     },
     "ayalonhw_קק%20ל – גלילות": {
@@ -3641,7 +3609,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134029.964279",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום %28לא קבוע%29",
         "area": "תל אביב"
     },
     "ayalonhw_ארלוזורוב": {
@@ -3654,7 +3622,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Arlozorov.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068488.964200",
-        "direction": "דרום מערב (לא קבוע)",
+        "direction": "דרום מערב",
         "area": "תל אביב"
     },
     "ayalonhw_ההלכה": {
@@ -3667,7 +3635,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaHalacha.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068489.964092",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום",
         "area": "תל אביב"
     },
     "ayalonhw_רוקח": {
@@ -3680,7 +3648,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068491.964304",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום %28לא קבוע%29",
         "area": "תל אביב"
     },
     "ayalonhw_השלום": {
@@ -3693,7 +3661,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaShalom.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228002951.964090",
-        "direction": "דרום (לא קבוע)",
+        "direction": "דרום",
         "area": "תל אביב"
     },
     "ayalonhw_מוזס": {
@@ -3706,7 +3674,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mozes_Gantry.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068488.964303",
-        "direction": "צפון מזרח (לא קבוע)",
+        "direction": "צפון מזרח",
         "area": "תל אביב"
     },
     "ayalonhw_ארלוזורוב לדרום": {
@@ -3719,7 +3687,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Arlozorov-sb.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228068488.964091",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון",
         "area": "תל אביב"
     },
     "ayalonhw_קיבוץ גלויות": {
@@ -3732,7 +3700,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kibutz_Galuiot.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228002949.964088",
-        "direction": "דרום מזרח (לא קבוע)",
+        "direction": "דרום מזרח",
         "area": "תל אביב"
     },
     "ayalonhw_לה גווארדיה": {
@@ -3745,7 +3713,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/La_Guardia.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228002950.964089",
-        "direction": "צפון מזרח (לא קבוע)",
+        "direction": "צפון מזרח",
         "area": "תל אביב"
     },
     "ayalonhw_יצחק שדה": {
@@ -3756,7 +3724,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Itzak_Sade.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228002950.964199",
-        "direction": "דרום מערב (לא קבוע)",
+        "direction": "דרום מערב",
         "area": "תל אביב"
     },
     "ayalonhw_חולון צפון": {
@@ -3769,7 +3737,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holon-North.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227937412.964301",
-        "direction": "צפון מזרח (לא קבוע)",
+        "direction": "צפון מזרח",
         "area": "חולון"
     },
     "ayalonhw_הולץ": {
@@ -3780,7 +3748,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holtz.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227937412.964302",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון",
         "area": "חולון"
     },
     "ayalonhw_דרך מס%27 1": {
@@ -3793,7 +3761,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Road_1.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.228002948.964087",
-        "direction": "צפון מערב (לא קבוע)",
+        "direction": "צפון מערב %28לא קבוע%29",
         "area": "תל אביב"
     },
     "ayalonhw_מנהרת בית הבילויים": {
@@ -3806,7 +3774,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Beit_Habiluim-West_End.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227871876.964300",
-        "direction": "מערב (לא קבוע)",
+        "direction": "מערב",
         "area": "חולון"
     },
     "ayalonhw_הגיבורים": {
@@ -3819,7 +3787,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Tel_Giborim.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227871876.964197",
-        "direction": "מזרח (לא קבוע)",
+        "direction": "מזרח",
         "area": "חולון"
     },
     "ayalonhw_חולון מרכז": {
@@ -3832,7 +3800,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holon_SW.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227937412.964198",
-        "direction": "דרום מזרח (לא קבוע)",
+        "direction": "דרום מזרח",
         "area": "חולון"
     },
     "ayalonhw_דב הוז": {
@@ -3845,7 +3813,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Dov_oz.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806338.964086",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון",
         "area": "חולון"
     },
     "ayalonhw_וולפסון": {
@@ -3853,12 +3821,10 @@
         "lon": "34.760246",
         "cameraName": "וולפסון",
         "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/05/12_-_וולפסון_-_דב_הוז_דרומי_2020-05-19_11-04-18.691-1.png",
-        "height": 576,
-        "width": 720,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Dov_Hoz.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806339.964299",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון %28לא קבוע%29",
         "area": "חולון"
     },
     "ayalonhw_יפו ד%27": {
@@ -3871,7 +3837,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yafo_D.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806340.964196",
-        "direction": "צפון מזרח (לא קבוע)",
+        "direction": "צפון מזרח %28לא קבוע%29",
         "area": "חולון"
     },
     "ayalonhw_קוממיות": {
@@ -3895,7 +3861,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hatanaim.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806337.964085",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון %28לא קבוע%29",
         "area": "חולון"
     },
     "ayalonhw_יוספטל – דב הוז": {
@@ -3908,7 +3874,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yoseftal-dov_oz.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806338.964195",
-        "direction": "צפון מערב (לא קבוע)",
+        "direction": "צפון מערב %28לא קבוע%29",
         "area": "חולון"
     },
     "ayalonhw_חולות": {
@@ -3921,7 +3887,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holot.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806331.964189",
-        "direction": "דרום-מערב (לא קבוע)",
+        "direction": "דרום-מערב",
         "area": "ראשון לציון"
     },
     "ayalonhw_מבוא איילון": {
@@ -3934,7 +3900,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/431-2.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806333.964295",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון",
         "area": "ראשון לציון"
     },
     "ayalonhw_משה דיין": {
@@ -3947,7 +3913,7 @@
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mosha_Dayan.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806335.964190",
-        "direction": "צפון (לא קבוע)",
+        "direction": "צפון %28לא קבוע%29",
         "area": "ראשון לציון"
     },
     "url_מצלמת חוף תל אביב": {
