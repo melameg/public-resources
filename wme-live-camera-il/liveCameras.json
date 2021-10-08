@@ -153,6 +153,20 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "cameraName": "אחיסמך",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872383.228658297.617384",
+        "direction": "צפון מערב",
+        "location": "כביש 40",
+        "area": "מרכז"
+    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -704,6 +718,8 @@
         "lon": "34.765035",
         "cameraName": "גדרה",
         "image": "https://iroads.bvtech.co.il:444/upfiles/GEDERA/GEDERA.PNG",
+        "height": 768,
+        "width": 1365,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GEDERA.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22806846.227871852.625885",
@@ -1661,18 +1677,6 @@
         "direction": "מזרח",
         "location": "כביש 1,3",
         "area": "מרכז"
-    },
-    "iroads_כברי": {
-        "lat": "33.016669",
-        "lon": "35.142466",
-        "cameraName": "כברי",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI.PNG",
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003466.230296806.619922",
-        "direction": "דרום מזרח",
-        "location": "כביש 70,89",
-        "area": "צפון"
     },
     "iroads_כוכב יאיר": {
         "lat": "32.220304",
@@ -2722,6 +2726,8 @@
         "lon": "35.209052",
         "cameraName": "עטרות",
         "image": "https://iroads.bvtech.co.il:444/upfiles/ATAROT/atarot.png",
+        "height": 768,
+        "width": 1365,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ATAROT.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23068991.230755442.617450",
@@ -2854,6 +2860,20 @@
         "direction": "צפון",
         "location": "כביש 483,4872",
         "area": "מרכז"
+    },
+    "iroads_פארק בר לב": {
+        "lat": "32.912093",
+        "lon": "35.181049",
+        "cameraName": "פארק בר לב",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/PARKBARLEV/PARKBARLEV.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/PARKBARLEV.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23069001.230558939.1130181",
+        "direction": "מזרח",
+        "location": "כביש 85",
+        "area": "צפון"
     },
     "iroads_פולג": {
         "lat": "32.273376",
@@ -3224,6 +3244,8 @@
         "lon": "34.889677",
         "cameraName": "רעננה צפון",
         "image": "https://iroads.bvtech.co.il:444/upfiles/RAANANANORTH/raanananorth.png",
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/RAANANANORTH.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872386.228658323.780205",
@@ -3582,6 +3604,8 @@
         "lon": "34.810621",
         "cameraName": "רוקח – קק%20ל",
         "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/40_-_רוקח_-_קק_ל_2020-05-19_11-12-13.960.png",
+        "height": 576,
+        "width": 704,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134027.964076",
@@ -3606,6 +3630,8 @@
         "lon": "34.810653",
         "cameraName": "קק%20ל – גלילות",
         "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/42_-_קקל_גלילות_2020-05-19_11-12-24.780-1.png",
+        "height": 576,
+        "width": 720,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806849.228134029.964279",
@@ -3996,14 +4022,6 @@
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
     },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "direction": "צפון מערב",
-        "cameraName": "אחיסמך",
-        "type": "missing_camera",
-        "commentID": "22872383.228658297.617384"
-    },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
         "lon": "34.890269",
@@ -4052,14 +4070,6 @@
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
     },
-    "iroads_פארק בר לב": {
-        "lat": "32.912093",
-        "lon": "35.181049",
-        "direction": "מזרח",
-        "cameraName": "פארק בר לב",
-        "type": "missing_camera",
-        "commentID": "23069001.230558939.1130181"
-    },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
         "lon": "35.091509",
@@ -4067,5 +4077,13 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
+    },
+    "iroads_כברי": {
+        "lat": "33.016669",
+        "lon": "35.142466",
+        "direction": "דרום מזרח",
+        "cameraName": "כברי",
+        "type": "missing_camera",
+        "commentID": "23003466.230296806.619922"
     }
 }
