@@ -12,7 +12,7 @@
     "residential": true,
     "approved": true,
     "streetID": {{streetID}},
-    "houseNumber":, {{houseNumber}},
+    "houseNumber": {{houseNumber}},
     "id": -101
   }
 }
