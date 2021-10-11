@@ -1,0 +1,18 @@
+{
+  "_objectType": "venue",
+  "action": "ADD",
+  "attributes": {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        {{lon}},
+        {{lat}}
+      ]
+    },
+    "residential": true,
+    "approved": true,
+    "streetID": {{streetID}},
+    "houseNumber":, "{{houseNumber}}",
+    "id": -101
+  }
+}
