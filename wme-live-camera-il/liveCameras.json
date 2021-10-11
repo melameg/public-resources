@@ -1147,6 +1147,19 @@
         "location": "כביש 38",
         "area": "מרכז"
     },
+    "iroads_הר טוב ב%27": {
+        "lat": "31.760548",
+        "lon": "34.987489",
+        "cameraName": "הר טוב ב%27",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HARTUVB/HARTUVB.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HARTUVB.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937918.229313640.780302",
+        "direction": "צפון מזרח",
+        "location": "כביש 3865"
+    },
     "iroads_הראל": {
         "lat": "31.798395",
         "lon": "35.147266",
@@ -1670,6 +1683,8 @@
         "lon": "35.142466",
         "cameraName": "כברי",
         "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI.PNG",
+        "height": 1024,
+        "width": 1820,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23003466.230296806.619922",
@@ -2560,6 +2575,8 @@
         "lon": "34.637364",
         "cameraName": "ניצנים",
         "image": "https://iroads.bvtech.co.il:444/upfiles/NITZANIM/nitzanim.png",
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NITZANIM.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22675773.227019877.617444",
@@ -2593,6 +2610,20 @@
         "commentID": "22872384.228461691.780315",
         "direction": "צפון מזרח",
         "location": "כביש 44,4313",
+        "area": "מרכז"
+    },
+    "iroads_נמל אשדוד": {
+        "lat": "31.828092",
+        "lon": "34.670715",
+        "cameraName": "נמל אשדוד",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAMALASHDOD/NAMALASHDOD.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NAMALASHDOD.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22741310.227216495.625926",
+        "direction": "צפון מזרח",
+        "location": "כביש 41",
         "area": "מרכז"
     },
     "iroads_נעורה": {
@@ -2886,6 +2917,20 @@
         "commentID": "22872390.229051579.617455",
         "direction": "צפון",
         "location": "כביש 4,70",
+        "area": "צפון"
+    },
+    "iroads_פל ים": {
+        "lat": "32.480500",
+        "lon": "34.920182",
+        "cameraName": "פל ים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/PALYAM/PALYAM_2.PNG",
+        "height": 1536,
+        "width": 2048,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/PALYAM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872389.228854960.617456",
+        "direction": "דרום מערב",
+        "location": "כביש 4,651",
         "area": "צפון"
     },
     "iroads_פלוגות": {
@@ -3975,7 +4020,7 @@
         "cameraName": "עליון",
         "type": "url",
         "commentID": "23462221.234491139.619878",
-        "cameraUrl": "https://www.skihermon.co.il/"
+        "cameraUrl": "https://skihermon.co.il/live/"
     },
     "url_תחתון": {
         "lat": "33.308377",
@@ -3983,15 +4028,7 @@
         "cameraName": "תחתון",
         "type": "url",
         "commentID": "23462221.234425603.597305",
-        "cameraUrl": "https://www.skihermon.co.il/"
-    },
-    "iroads_הר טוב ב%27": {
-        "lat": "31.760548",
-        "lon": "34.987489",
-        "direction": "צפון מזרח",
-        "cameraName": "הר טוב ב%27",
-        "type": "missing_camera",
-        "commentID": "22937918.229313640.780302"
+        "cameraUrl": "https://skihermon.co.il/live/"
     },
     "iroads_סביון": {
         "lat": "32.032903",
@@ -4000,14 +4037,6 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
-    },
-    "iroads_נמל אשדוד": {
-        "lat": "31.828092",
-        "lon": "34.670715",
-        "direction": "צפון מזרח",
-        "cameraName": "נמל אשדוד",
-        "type": "missing_camera",
-        "commentID": "22741310.227216495.625926"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
@@ -4040,14 +4069,6 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
-    },
-    "iroads_פל ים": {
-        "lat": "32.480500",
-        "lon": "34.920182",
-        "direction": "דרום מערב",
-        "cameraName": "פל ים",
-        "type": "missing_camera",
-        "commentID": "22872389.228854960.617456"
     },
     "iroads_גילה מנהרה קצרה": {
         "lat": "31.724642",
