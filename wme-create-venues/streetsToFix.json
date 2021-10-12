@@ -1,10 +1,27 @@
 {
+    "5630": {
+        "streetName": "תחנת דלק",
+        "areaManagers": [
+            "star2000tv"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.02213&lon=35.32889&zoomLevel=16&segments=934198,934197"
+    },
+    "6254": {
+        "streetName": "גנים",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.25131&lon=34.66416&zoomLevel=16&segments=964925,964921,964936,964937"
+    },
     "7864": {
         "streetName": "4X4",
-        "areaManagers": [
-            "Gadikr"
-        ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.53693&lon=34.93707&zoomLevel=16&segments=333557,333556,333555"
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.56856&lon=35.48197&zoomLevel=16&segments=286709"
+    },
+    "10196": {
+        "streetName": "תחנת דלק סונול\"ערערה\"",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.50141&lon=35.07503&zoomLevel=16&segments=937448,937447"
     },
     "10790": {
         "streetName": "בוסתן הגולן",
@@ -12,6 +29,13 @@
             "avimor304"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.11746&lon=35.80376&zoomLevel=16&segments=1275295,1275294,212765,1213990,1205549"
+    },
+    "11199": {
+        "streetName": "תל קדש",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.11312&lon=35.53086&zoomLevel=16&segments=59853"
     },
     "11214": {
         "streetName": "תחנת דלק סונול",
@@ -21,19 +45,38 @@
     "13004": {
         "streetName": "השדות",
         "areaManagers": [
-            "lg1992"
+            "P5YDUCK"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.20963&lon=34.41750&zoomLevel=16&segments=1382696"
+        "url": "https://www.waze.com/editor?env=il&lat=32.30845&lon=34.99850&zoomLevel=16&segments=909809,909810"
+    },
+    "13011": {
+        "streetName": "ארסוף קדם",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.20534&lon=34.81798&zoomLevel=16&segments=684447,684448,1629789,1629790,212631,212629,1091336,1324978"
     },
     "14538": {
         "streetName": "התמר",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
     },
+    "14946": {
+        "streetName": "הירדן",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.98778&lon=34.90886&zoomLevel=16&segments=878008,878007"
+    },
     "17043": {
         "streetName": "דרך עפר",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.48615&lon=35.46321&zoomLevel=16&segments=1174964"
+    },
+    "17599": {
+        "streetName": "החקלאים",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.48243&lon=34.62980&zoomLevel=16&segments=442287,442282"
+        "url": "https://www.waze.com/editor?env=il&lat=32.20208&lon=34.85905&zoomLevel=16&segments=192571"
     },
     "17647": {
         "streetName": "גדר ההפרדה",
@@ -66,12 +109,67 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=30.67747&lon=35.24503&zoomLevel=16&segments=124956"
     },
+    "19490": {
+        "streetName": "שביל נוף שלוחת צבאים, רמות יששכר",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.55517&lon=35.48211&zoomLevel=16&segments=1078339,1078341,1078342,125400,288620,199931,199928"
+    },
+    "19491": {
+        "streetName": "בריכת יוחי",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.55642&lon=35.45048&zoomLevel=16&segments=125392,125395,1100408,1100409"
+    },
+    "19505": {
+        "streetName": "נחל הקיבוצים",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.49836&lon=35.45908&zoomLevel=16&segments=125670"
+    },
+    "19602": {
+        "streetName": "גבעות",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.67919&lon=35.10151&zoomLevel=16&segments=1129945,1129944,871975,871974,1110571,1511134,1511133,1103607,1103608,1351636"
+    },
     "19905": {
         "streetName": "כפר גלעדי",
         "areaManagers": [
             "avimor304"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.24654&lon=35.57206&zoomLevel=16&segments=229253"
+    },
+    "19906": {
+        "streetName": "דרך נוף הרי נפתלי",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.20102&lon=35.56202&zoomLevel=16&segments=1504047"
+    },
+    "20387": {
+        "streetName": "מקביל 77 מזרח",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74520&lon=35.22260&zoomLevel=16&segments=312905,131961"
+    },
+    "20390": {
+        "streetName": "מעבר חקלאי תת קרקעי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74564&lon=35.22261&zoomLevel=16&segments=314054,131962"
+    },
+    "20622": {
+        "streetName": "גן לאומי קומראן",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.74156&lon=35.46008&zoomLevel=16&segments=134542"
+    },
+    "20679": {
+        "streetName": "רכבל",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.19460&lon=35.55673&zoomLevel=16&segments=1670536"
     },
     "21119": {
         "streetName": "שמורת הר טייסים",
@@ -93,9 +191,9 @@
     "21886": {
         "streetName": "מחצבה",
         "areaManagers": [
-            "avimor304"
+            "motimarkus"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=33.24142&lon=35.57096&zoomLevel=16&segments=128423"
+        "url": "https://www.waze.com/editor?env=il&lat=31.71602&lon=35.01739&zoomLevel=16&segments=1499474,1499475,1366542,859924,1368911"
     },
     "21948": {
         "streetName": "דרך ציר הנפט",
@@ -104,10 +202,31 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.15852&lon=35.68888&zoomLevel=16&segments=1275233"
     },
+    "22064": {
+        "streetName": "מסלול נחל יששכר",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.54775&lon=35.51046&zoomLevel=16&segments=145379"
+    },
+    "22579": {
+        "streetName": "כביש הערבה הירדני",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.02195&lon=35.46105&zoomLevel=16&segments=150363,150366"
+    },
     "23535": {
         "streetName": "בור איתן",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.76216&lon=35.11309&zoomLevel=16&segments=156049"
+    },
+    "23565": {
+        "streetName": "משאבת מקורות",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.99273&lon=34.91073&zoomLevel=16&segments=156420"
     },
     "23863": {
         "streetName": "מעלה עורבים",
@@ -115,6 +234,25 @@
             "avimor304"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.14510&lon=35.67702&zoomLevel=16&segments=1660457,1053876"
+    },
+    "24266": {
+        "streetName": "חנייה לטווח ארוך",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.98788&lon=34.89229&zoomLevel=16&segments=1319148,1319147"
+    },
+    "24305": {
+        "streetName": "לעין מודע",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.48008&lon=35.46661&zoomLevel=16&segments=1149091,596243,1210638,160500,1288105,1288109"
+    },
+    "25053": {
+        "streetName": "חקלאית",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05829&lon=34.93626&zoomLevel=16&segments=176714,176712,590529,640908"
     },
     "25141": {
         "streetName": "עין תמר",
@@ -126,10 +264,20 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.75222&lon=35.12693&zoomLevel=16&segments=209127,167237"
     },
+    "25888": {
+        "streetName": "ירוק, שביל ישראל",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.50159&lon=34.76069&zoomLevel=16&segments=187483,187488,174437,119180,919708,187564,187569,947684"
+    },
     "25890": {
         "streetName": "כחול, שביל ישראל",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.71510&lon=35.05161&zoomLevel=16&segments=219575,219576,333492,143314,143330,143338"
+    },
+    "26175": {
+        "streetName": "לקדוח ירקון 8",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05735&lon=34.93587&zoomLevel=16&segments=176713"
     },
     "26271": {
         "streetName": "תחנת שאיבה מקורות כסלון",
@@ -141,12 +289,26 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.58489&lon=34.82164&zoomLevel=16&segments=26288"
     },
+    "27093": {
+        "streetName": "מאגר",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.24362&lon=34.50420&zoomLevel=16&segments=856123,856117,856115,402388,402385"
+    },
+    "27199": {
+        "streetName": "צפרות ונוף תל סהרון",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.44935&lon=35.52221&zoomLevel=16&segments=386329"
+    },
     "27462": {
         "streetName": "דרך השדות",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.21694&lon=34.45897&zoomLevel=16&segments=516679,279285"
+        "url": "https://www.waze.com/editor?env=il&lat=31.20908&lon=34.51880&zoomLevel=16&segments=865597,865596,865599,865585,865600,856387,830881,867899,867898"
     },
     "27480": {
         "streetName": "נחל זנוח חורבות חנות",
@@ -216,10 +378,48 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=29.77517&lon=34.86839&zoomLevel=16&segments=242288"
     },
+    "28445": {
+        "streetName": "פארק בית שאן נחל חרוד",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.50635&lon=35.48441&zoomLevel=16&segments=882755,902405,190370"
+    },
     "28519": {
         "streetName": "תצפית",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.49191&lon=35.38708&zoomLevel=16&segments=86045"
+    },
+    "29259": {
+        "streetName": "אדום, תל דור",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.61670&lon=34.91673&zoomLevel=16&segments=835776,835777"
+    },
+    "29269": {
+        "streetName": "227, מעלה עקרבים",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.90676&lon=35.13164&zoomLevel=16&segments=216646"
+    },
+    "29533": {
+        "streetName": "ירידה לחוף הים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.20885&lon=34.81493&zoomLevel=16&segments=1157127,631993,631995,207031,684482,472983,1324977"
+    },
+    "29575": {
+        "streetName": "לבית עלמין מסילות",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.48905&lon=35.46961&zoomLevel=16&segments=1149092"
+    },
+    "29576": {
+        "streetName": "בית עלמין מסילות",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.49001&lon=35.46760&zoomLevel=16&segments=196993,928836,928837"
     },
     "30017": {
         "streetName": "דרך מקשרת",
@@ -235,8 +435,10 @@
     },
     "30113": {
         "streetName": "\"כביש הביטחון\"",
-        "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=32.60353&lon=35.45110&zoomLevel=16&segments=600591,265347,199665"
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.56338&lon=35.46477&zoomLevel=16&segments=300610,1802961,288622,291368"
     },
     "30114": {
         "streetName": "דרך חקלאית סלולה",
@@ -253,14 +455,29 @@
     "30116": {
         "streetName": "\"ציר הנפט עירק חיפה\"",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=32.61036&lon=35.47532&zoomLevel=16&segments=1254449,1254448"
+        "url": "https://www.waze.com/editor?env=il&lat=32.62484&lon=35.42365&zoomLevel=16&segments=200432,214304,291751"
     },
     "30159": {
         "streetName": "דרך חקלאית",
         "areaManagers": [
             "eyal-k"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=32.48293&lon=35.52444&zoomLevel=16&segments=1164602"
+        "url": "https://www.waze.com/editor?env=il&lat=32.49787&lon=35.45150&zoomLevel=16&segments=1306867,1306866,1306865,1306864,1306863,375922,378078,824654,1076770,784055,784054,270025,198642"
+    },
+    "30160": {
+        "streetName": "נוף נחל חרוד",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.50281&lon=35.46983&zoomLevel=16&segments=190345"
+    },
+    "30288": {
+        "streetName": "חניון לילה",
+        "areaManagers": [
+            "lg1992",
+            "freedivers"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=29.52720&lon=34.91080&zoomLevel=16&segments=1066522"
     },
     "30417": {
         "streetName": "הר ספון",
@@ -284,7 +501,19 @@
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=30.67841&lon=34.89549&zoomLevel=16&segments=1530289,1530281,1530280"
+        "url": "https://www.waze.com/editor?env=il&lat=30.65647&lon=34.85388&zoomLevel=16&segments=1530279,1530278,1530280"
+    },
+    "31049": {
+        "streetName": "הצור",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.78475&lon=35.45919&zoomLevel=16&segments=207699"
+    },
+    "31162": {
+        "streetName": "רמת בקע",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.10489&lon=34.88752&zoomLevel=16&segments=1173596"
     },
     "31708": {
         "streetName": "כניסה סגורה",
@@ -300,12 +529,17 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.48128&lon=35.55728&zoomLevel=16&segments=211236"
     },
+    "31711": {
+        "streetName": "למאגר טירת צבי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.42495&lon=35.52881&zoomLevel=16&segments=823707,1180590,1180589"
+    },
     "31978": {
         "streetName": "דרך נוף",
         "areaManagers": [
-            "lg1992"
+            "eyal-k"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=30.88391&lon=34.81460&zoomLevel=16&segments=1803027,1244247,1212283,1802984,1804270,1804269"
+        "url": "https://www.waze.com/editor?env=il&lat=32.49935&lon=35.45739&zoomLevel=16&segments=145466,145467,1064438,1076768"
     },
     "32268": {
         "streetName": "מכללת תל חי",
@@ -339,16 +573,16 @@
     "33349": {
         "streetName": "עפר",
         "areaManagers": [
-            "avimor304"
+            "eyal-k"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=32.98369&lon=35.82697&zoomLevel=16&segments=224009"
+        "url": "https://www.waze.com/editor?env=il&lat=32.49933&lon=35.46087&zoomLevel=16&segments=160503,312790,312786"
     },
     "33360": {
         "streetName": "ציר הנפט",
         "areaManagers": [
             "avimor304"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=33.02719&lon=35.75706&zoomLevel=16&segments=1189142,1189145,201234,1398337"
+        "url": "https://www.waze.com/editor?env=il&lat=32.94258&lon=35.83704&zoomLevel=16&segments=1254478,1254477"
     },
     "33526": {
         "streetName": "מקשר אוהד תלמי אליהו",
@@ -357,12 +591,19 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.23330&lon=34.42994&zoomLevel=16&segments=184575"
     },
+    "33682": {
+        "streetName": "4x4",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.90097&lon=35.18040&zoomLevel=16&segments=1112286,1112287"
+    },
     "33890": {
         "streetName": "דרך נוף השיטה המלבינה",
         "areaManagers": [
             "eyal-k"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=32.48770&lon=35.52201&zoomLevel=16&segments=1354028,1354029,1354049"
+        "url": "https://www.waze.com/editor?env=il&lat=32.48595&lon=35.51842&zoomLevel=16&segments=1354028"
     },
     "33900": {
         "streetName": "מערכת-קמפ",
@@ -399,6 +640,25 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.42662&lon=34.46112&zoomLevel=16&segments=1514682,1514681"
     },
+    "35144": {
+        "streetName": "בארות עודד",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.47801&lon=34.72559&zoomLevel=16&segments=240003"
+    },
+    "35772": {
+        "streetName": "עין מודע",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.47929&lon=35.45585&zoomLevel=16&segments=244200"
+    },
+    "36191": {
+        "streetName": "באר מאחז",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.50931&lon=34.79488&zoomLevel=16&segments=247527"
+    },
     "36210": {
         "streetName": "כביש עפר",
         "areaManagers": [],
@@ -408,6 +668,27 @@
         "streetName": "חציית נחל",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.45022&lon=35.03011&zoomLevel=16&segments=233344"
+    },
+    "37712": {
+        "streetName": "דרך נוף עמק החולה",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.13961&lon=35.62858&zoomLevel=16&segments=1326897"
+    },
+    "37749": {
+        "streetName": "חוות ניסיונות מ.א. גליל עליון",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.14995&lon=35.62156&zoomLevel=16&segments=1054375"
+    },
+    "38436": {
+        "streetName": "הכרם",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.99524&lon=34.86939&zoomLevel=16&segments=1284310,1284312"
     },
     "38576": {
         "streetName": "38 ליער המלאכים שחריה",
@@ -426,12 +707,38 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.76199&lon=34.78818&zoomLevel=16&segments=378816"
     },
+    "40559": {
+        "streetName": "גשר חקלאי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.86704&lon=34.87382&zoomLevel=16&segments=314680"
+    },
     "40752": {
         "streetName": "קניון הלס",
         "areaManagers": [
             "lg1992"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.01386&lon=34.50763&zoomLevel=16&segments=278958"
+    },
+    "40753": {
+        "streetName": "ללא שם - עץ דקל",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.02469&lon=34.54301&zoomLevel=16&segments=278980"
+    },
+    "40756": {
+        "streetName": "רחובות שבנגב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.03135&lon=34.56673&zoomLevel=16&segments=201834"
+    },
+    "40915": {
+        "streetName": "נחל ב\"ש",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21468&lon=34.69387&zoomLevel=16&segments=1306703,1289135,1289134,1289133,1289132"
     },
     "41632": {
         "streetName": "שמורת הר טייסים - חניון",
@@ -448,12 +755,17 @@
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.27367&lon=34.49962&zoomLevel=16&segments=404565,402398,397785,855649"
+        "url": "https://www.waze.com/editor?env=il&lat=31.23595&lon=34.47779&zoomLevel=16&segments=518933,518931,518936,856942"
     },
     "42174": {
         "streetName": "דרך נןף",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.49860&lon=34.69424&zoomLevel=16&segments=182451,337913"
+    },
+    "42536": {
+        "streetName": "גדר המערכת",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.35604&lon=35.54510&zoomLevel=16&segments=1258174,1207100,818812"
     },
     "42616": {
         "streetName": "לוזית תל צפית",
@@ -481,12 +793,37 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.77383&lon=35.66642&zoomLevel=16&segments=1646560"
     },
+    "44212": {
+        "streetName": "עוקף רשפון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.22010&lon=34.84762&zoomLevel=16&segments=779712"
+    },
+    "44765": {
+        "streetName": "כניסה לשביל נחל ציפורי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74557&lon=35.24297&zoomLevel=16&segments=312715"
+    },
     "44892": {
         "streetName": "תצפית הר צניפים",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=30.12866&lon=34.86029&zoomLevel=16&segments=160745"
+        "url": "https://www.waze.com/editor?env=il&lat=30.33945&lon=34.87372&zoomLevel=16&segments=283546"
+    },
+    "44923": {
+        "streetName": "שביל נחל ציפורי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74239&lon=35.23654&zoomLevel=16&segments=1338566,312713,1124866,312906"
+    },
+    "45040": {
+        "streetName": "גבעות הסוללים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74559&lon=35.22393&zoomLevel=16&segments=320400,313273"
+    },
+    "45041": {
+        "streetName": "נוף נחל ציפורי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.74589&lon=35.24488&zoomLevel=16&segments=1528244"
     },
     "45159": {
         "streetName": "עוקף רקפת",
@@ -520,6 +857,13 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.48756&lon=34.70914&zoomLevel=16&segments=1132805,1132804,1023925,1023924,327889"
     },
+    "46839": {
+        "streetName": "חניון עין עיט",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.95602&lon=35.75369&zoomLevel=16&segments=1156483,1156484"
+    },
     "46952": {
         "streetName": "דרך נופית בית ניר-יער חרובית ותל צפית",
         "areaManagers": [
@@ -533,6 +877,11 @@
             "motimarkus"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.69784&lon=34.84682&zoomLevel=16&segments=109827,345111,326310,326311"
+    },
+    "47382": {
+        "streetName": "חרבת כישור",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.46582&lon=34.85643&zoomLevel=16&segments=333654"
     },
     "47867": {
         "streetName": "בור מים",
@@ -566,10 +915,32 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.75507&lon=35.15871&zoomLevel=16&segments=1177549,1177548"
     },
+    "48870": {
+        "streetName": "חסום",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05523&lon=35.25860&zoomLevel=16&segments=925386"
+    },
     "49096": {
         "streetName": "גשר עבדאללה",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.79853&lon=35.51433&zoomLevel=16&segments=1165728"
+        "url": "https://www.waze.com/editor?env=il&lat=31.79887&lon=35.50918&zoomLevel=16&segments=1355420,1165728,139473"
+    },
+    "49272": {
+        "streetName": " ל- 6 דרום",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "49539": {
+        "streetName": "רציף אהרון רוזנפלד",
+        "areaManagers": [
+            "hen20001"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.83542&lon=34.98018&zoomLevel=16&segments=270174"
+    },
+    "50046": {
+        "streetName": "שער נעול",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.83377&lon=34.89246&zoomLevel=16&segments=367589"
     },
     "50124": {
         "streetName": "תחנת דלק סד\"ש",
@@ -585,6 +956,18 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.23119&lon=35.58019&zoomLevel=16&segments=1462086,1462089"
     },
+    "50241": {
+        "streetName": "כביש גישה שער אמפי",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.22844&lon=34.84140&zoomLevel=16&segments=722013"
+    },
+    "50957": {
+        "streetName": "שביל הפלמ\"ח",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.11277&lon=35.56083&zoomLevel=16&segments=161129"
+    },
     "50973": {
         "streetName": "סינגל אופניים סובב בארי דרום",
         "areaManagers": [],
@@ -596,6 +979,13 @@
             "zeze13"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.57756&lon=35.12209&zoomLevel=16&segments=869869,1194805,228237"
+    },
+    "51141": {
+        "streetName": "הבשור כניסה דרומית",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21539&lon=34.52816&zoomLevel=16&segments=851184"
     },
     "51508": {
         "streetName": "סינגל אופניים ג%27מבורי עליון",
@@ -624,16 +1014,16 @@
     "52073": {
         "streetName": "שער סגור",
         "areaManagers": [
-            "zeze13"
+            "eyal-k"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=32.58959&lon=35.10635&zoomLevel=16&segments=595289"
+        "url": "https://www.waze.com/editor?env=il&lat=32.47926&lon=35.46962&zoomLevel=16&segments=596244,1288576,1288588,1174965"
     },
     "52111": {
         "streetName": "גישה לנקז צאלים",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.20346&lon=34.54396&zoomLevel=16&segments=553664,516527,516535,516534,553663"
+        "url": "https://www.waze.com/editor?env=il&lat=31.20293&lon=34.53946&zoomLevel=16&segments=302153,393573,516527"
     },
     "52120": {
         "streetName": "מאגר צאלים",
@@ -689,7 +1079,7 @@
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.25442&lon=34.48678&zoomLevel=16&segments=518942,720950,850825,850826,855708,850847,855697,855696,404666,519098"
+        "url": "https://www.waze.com/editor?env=il&lat=31.24833&lon=34.48816&zoomLevel=16&segments=871800,404661,404657,519096"
     },
     "52415": {
         "streetName": "חמלול מערב",
@@ -698,12 +1088,26 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.26923&lon=34.46420&zoomLevel=16&segments=400158"
     },
+    "52421": {
+        "streetName": "תיגל",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22737&lon=34.49518&zoomLevel=16&segments=856141,856134,856147,401111"
+    },
     "52422": {
         "streetName": "11 - ג",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.21195&lon=34.47658&zoomLevel=16&segments=516674"
+        "url": "https://www.waze.com/editor?env=il&lat=31.20965&lon=34.47843&zoomLevel=16&segments=393592,553465,516674,516713,518965,396222"
+    },
+    "52423": {
+        "streetName": "11 - ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.20758&lon=34.48403&zoomLevel=16&segments=396220,396221,396219"
     },
     "52432": {
         "streetName": "ציר הקבלנים",
@@ -733,12 +1137,75 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.26377&lon=34.48712&zoomLevel=16&segments=396490"
     },
+    "52462": {
+        "streetName": "11 - ד",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.20559&lon=34.47658&zoomLevel=16&segments=396477"
+    },
+    "52464": {
+        "streetName": "מאגר מערב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.24081&lon=34.49194&zoomLevel=16&segments=856077,856093,856080"
+    },
+    "52465": {
+        "streetName": "מאגר מזרח",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23447&lon=34.49804&zoomLevel=16&segments=856131"
+    },
+    "52467": {
+        "streetName": "10 ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21167&lon=34.50027&zoomLevel=16&segments=396474,518957,856983,394167,394168,394178"
+    },
+    "52468": {
+        "streetName": "6 א,ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21154&lon=34.50634&zoomLevel=16&segments=516523,396846,396850"
+    },
+    "52484": {
+        "streetName": "14 ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.20208&lon=34.48339&zoomLevel=16&segments=401090,856903,401319"
+    },
+    "52486": {
+        "streetName": "38 - 39",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21422&lon=34.50761&zoomLevel=16&segments=401100"
+    },
+    "52487": {
+        "streetName": "2 ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21474&lon=34.51618&zoomLevel=16&segments=865581,865591,516524,401098"
+    },
     "52493": {
         "streetName": "שטח 7",
         "areaManagers": [
             "lg1992"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.20046&lon=34.54151&zoomLevel=16&segments=869141"
+    },
+    "52497": {
+        "streetName": "מאגר הבשור",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23604&lon=34.49963&zoomLevel=16&segments=856126,850581"
     },
     "52501": {
         "streetName": "13 ה",
@@ -856,12 +1323,33 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.20137&lon=34.54405&zoomLevel=16&segments=869144"
     },
+    "52539": {
+        "streetName": "2 א",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21080&lon=34.51885&zoomLevel=16&segments=865593,865586"
+    },
+    "52540": {
+        "streetName": "6 ב",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21215&lon=34.50330&zoomLevel=16&segments=396475,553476,394159"
+    },
+    "52541": {
+        "streetName": "6 א",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21583&lon=34.50605&zoomLevel=16&segments=856383,856384"
+    },
     "52542": {
         "streetName": "13 א",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.19999&lon=34.50510&zoomLevel=16&segments=859997,396531,396538,396536"
+        "url": "https://www.waze.com/editor?env=il&lat=31.20038&lon=34.50555&zoomLevel=16&segments=396531,396538,516502,859997"
     },
     "52543": {
         "streetName": "9 ח",
@@ -870,12 +1358,47 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.19659&lon=34.50579&zoomLevel=16&segments=866093,866084,859999,859998,394128,553466"
     },
+    "52561": {
+        "streetName": "מאגר חוחובה",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23434&lon=34.53729&zoomLevel=16&segments=910122,402376"
+    },
     "52562": {
         "streetName": "חוחובה מח\"ע",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.22278&lon=34.53030&zoomLevel=16&segments=867891"
+        "url": "https://www.waze.com/editor?env=il&lat=31.22342&lon=34.53087&zoomLevel=16&segments=553494,867891"
+    },
+    "52564": {
+        "streetName": "חציית נחל הבשור - מאגרים",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23991&lon=34.50561&zoomLevel=16&segments=856125,850611,402394"
+    },
+    "52565": {
+        "streetName": "ציר המים - מאגר הבשור",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23575&lon=34.49462&zoomLevel=16&segments=856091,856090,1662977,1662976,856132,394484"
+    },
+    "52574": {
+        "streetName": "הדרי מעון - פרדס צאלים",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21583&lon=34.52299&zoomLevel=16&segments=402952"
+    },
+    "52575": {
+        "streetName": "הדרי מעון - מאגר הבשור",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23245&lon=34.50048&zoomLevel=16&segments=519426,402966,852767,402965,856089,402963,402960,553490,402968,856142,856137,856952,856954,856951,850583,404642,404652,404653,1118369,1118370,404656,518888"
     },
     "52578": {
         "streetName": "הדרי מעון - פרדס מאגר גבולות",
@@ -904,6 +1427,13 @@
             "lg1992"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.28371&lon=34.49036&zoomLevel=16&segments=855662"
+    },
+    "52618": {
+        "streetName": "הדרי מעון - דיה",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22202&lon=34.50928&zoomLevel=16&segments=404908,404923,867906"
     },
     "52623": {
         "streetName": "9 ב",
@@ -959,14 +1489,42 @@
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.23223&lon=34.47432&zoomLevel=16&segments=393598,518935"
+        "url": "https://www.waze.com/editor?env=il&lat=31.23444&lon=34.47544&zoomLevel=16&segments=518935,394152"
+    },
+    "52634": {
+        "streetName": "ליסי",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23292&lon=34.47796&zoomLevel=16&segments=397716"
+    },
+    "52635": {
+        "streetName": "כרמלה",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23238&lon=34.48087&zoomLevel=16&segments=518974,518971,397718"
+    },
+    "52636": {
+        "streetName": "תהל",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23253&lon=34.48483&zoomLevel=16&segments=860183,397383"
+    },
+    "52637": {
+        "streetName": "שרון , תהל",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.23527&lon=34.48570&zoomLevel=16&segments=394442"
     },
     "52664": {
         "streetName": "שמורת נחל הבשור",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.28079&lon=34.50017&zoomLevel=16&segments=855668,855664"
+        "url": "https://www.waze.com/editor?env=il&lat=31.25409&lon=34.50424&zoomLevel=16&segments=1162824"
     },
     "53015": {
         "streetName": "להר קרן",
@@ -980,6 +1538,11 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.02174&lon=34.91799&zoomLevel=16&segments=1167057,1167056,990068,990067"
     },
+    "53655": {
+        "streetName": "הזית",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.22818&lon=34.86303&zoomLevel=16&segments=103406"
+    },
     "53663": {
         "streetName": "יער כיסופים",
         "areaManagers": [],
@@ -990,17 +1553,27 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.46766&lon=35.01070&zoomLevel=16&segments=1523478"
     },
+    "53727": {
+        "streetName": "פארק אלעש",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.83923&lon=35.22202&zoomLevel=16&segments=324461"
+    },
     "53783": {
         "streetName": "דרך התקוה",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.80845&lon=35.08147&zoomLevel=16&segments=1545840,1545839,1087435"
+    },
+    "53794": {
+        "streetName": "20 איילון צפון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.21638&lon=34.83536&zoomLevel=16&segments=1482945"
     },
     "53810": {
         "streetName": "דרך הבשור",
         "areaManagers": [
             "lg1992"
         ],
-        "url": "https://www.waze.com/editor?env=il&lat=31.25498&lon=34.49187&zoomLevel=16&segments=850604,850603,518908"
+        "url": "https://www.waze.com/editor?env=il&lat=31.24799&lon=34.49288&zoomLevel=16&segments=856076,856075,852769,854935,518908"
     },
     "54069": {
         "streetName": "יחיאל",
@@ -1024,6 +1597,21 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.82500&lon=35.12506&zoomLevel=16&segments=458025"
     },
+    "55070": {
+        "streetName": "חרמון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.70863&lon=35.31225&zoomLevel=16&segments=1599861"
+    },
+    "55175": {
+        "streetName": "היקפי דרום חורשים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.13718&lon=34.96711&zoomLevel=16&segments=453427"
+    },
+    "55176": {
+        "streetName": "למרכז אירועים חורשים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.14228&lon=34.97073&zoomLevel=16&segments=1083315"
+    },
     "55189": {
         "streetName": "לתל א-ריחניה",
         "areaManagers": [
@@ -1038,12 +1626,49 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.45177&lon=35.04572&zoomLevel=16&segments=464426"
     },
+    "55347": {
+        "streetName": "מאגר דויד",
+        "areaManagers": [
+            "israel_j05017rh"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.29240&lon=34.66349&zoomLevel=16&segments=1200682,1200681,938903,938898"
+    },
+    "55433": {
+        "streetName": "נחל רחבעם",
+        "areaManagers": [
+            "lg1992",
+            "freedivers"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=29.53866&lon=34.89797&zoomLevel=16&segments=814282,814283"
+    },
+    "55434": {
+        "streetName": "נחל יהושפט",
+        "areaManagers": [
+            "lg1992",
+            "freedivers"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=29.54618&lon=34.89305&zoomLevel=16&segments=287570"
+    },
+    "55667": {
+        "streetName": "כביש אורון-צין %28פרטי%21%29",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.84906&lon=35.08095&zoomLevel=16&segments=933975"
+    },
     "55749": {
         "streetName": "פארן - עשת הדסה",
         "areaManagers": [
             "lg1992"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=30.36404&lon=35.18079&zoomLevel=16&segments=507958,1221929,475000,475017,987833,987830"
+    },
+    "57579": {
+        "streetName": "מצפור הר החלק",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.85291&lon=35.02632&zoomLevel=16&segments=522033,522032"
     },
     "57770": {
         "streetName": "40 צפון, 3 מזרח",
@@ -1064,6 +1689,18 @@
         "streetName": "כחול- דרך נוף דרומית",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.78056&lon=35.07401&zoomLevel=16&segments=1790315,1402323,267085"
+    },
+    "58837": {
+        "streetName": "ציר המצלעות",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.90048&lon=35.13585&zoomLevel=16&segments=975391"
+    },
+    "59273": {
+        "streetName": "20 איילון דרום",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.21542&lon=34.83408&zoomLevel=16&segments=1505702"
     },
     "59585": {
         "streetName": "שביל הליכה",
@@ -1095,15 +1732,41 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.38607&lon=35.22294&zoomLevel=16&segments=526776"
     },
+    "60683": {
+        "streetName": "מצודת ישע / כ\"ח",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.11426&lon=35.55556&zoomLevel=16&segments=1360260,1360259"
+    },
     "60882": {
         "streetName": "בית עלמין אלונה",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.54862&lon=35.00457&zoomLevel=16&segments=625817"
     },
+    "61156": {
+        "streetName": "דרך אלקנה",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05715&lon=35.26177&zoomLevel=16&segments=287220,1128993,1128992"
+    },
     "62211": {
         "streetName": "שער",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.49851&lon=35.46086&zoomLevel=16&segments=1131729"
+    },
+    "62228": {
+        "streetName": "חניון האלה",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.11183&lon=35.54708&zoomLevel=16&segments=668296,1395087"
+    },
+    "62474": {
+        "streetName": "דרך האבות",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=32.69626&lon=35.57753&zoomLevel=16&segments=1030289"
+        "url": "https://www.waze.com/editor?env=il&lat=31.65985&lon=35.12637&zoomLevel=16&segments=732579"
     },
     "62838": {
         "streetName": "דרך כורכר",
@@ -1129,15 +1792,41 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.24849&lon=34.93103&zoomLevel=16&segments=1266655,1541211,1541210"
     },
+    "64144": {
+        "streetName": "חוות שלח לכיש",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22328&lon=34.49583&zoomLevel=16&segments=855294,871802"
+    },
+    "64147": {
+        "streetName": "דרך עפר חקלאית הדרי מעון",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22420&lon=34.49636&zoomLevel=16&segments=720414"
+    },
     "64815": {
         "streetName": "שערי אברהם",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.76067&lon=34.79352&zoomLevel=16&segments=554561"
     },
+    "66056": {
+        "streetName": "תחנת דלק פז חגור",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.14566&lon=34.94683&zoomLevel=16&segments=767177,767275"
+    },
     "66256": {
         "streetName": "נחל אשחר",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "66495": {
+        "streetName": "מצפה רן - שביל החידות",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.10421&lon=35.56377&zoomLevel=16&segments=781012"
     },
     "66774": {
         "streetName": "הר שחרור",
@@ -1153,6 +1842,11 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.04374&lon=35.67108&zoomLevel=16&segments=305427"
     },
+    "67327": {
+        "streetName": "לגזית",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.63575&lon=35.43902&zoomLevel=16&segments=1594168"
+    },
     "67399": {
         "streetName": "כביש מנדטורי שבטה - קציעות",
         "areaManagers": [
@@ -1167,6 +1861,14 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=30.34098&lon=35.14505&zoomLevel=16&segments=242189"
     },
+    "68336": {
+        "streetName": "נחל שלמה",
+        "areaManagers": [
+            "lg1992",
+            "freedivers"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=29.54290&lon=34.90331&zoomLevel=16&segments=188843,1066523,473774"
+    },
     "68525": {
         "streetName": "תע\"א מזרח",
         "areaManagers": [
@@ -1174,10 +1876,34 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.00493&lon=34.90767&zoomLevel=16&segments=1538055,1189239,1614461,1614462,1614467,1614468"
     },
+    "68734": {
+        "streetName": "דרך מערכת",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=33.09217&lon=35.12210&zoomLevel=16&segments=763183"
+    },
+    "69229": {
+        "streetName": "הנתיב המהיר",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.99371&lon=34.86829&zoomLevel=16&segments=1844842"
+    },
+    "69268": {
+        "streetName": "חוות דעת",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.77575&lon=34.77413&zoomLevel=16&segments=576300"
+    },
     "69272": {
         "streetName": "תצפית נחל אוג",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.80929&lon=35.33845&zoomLevel=16&segments=1110641,1175939,1175938"
+    },
+    "69381": {
+        "streetName": "לשדה הבולבוסים",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.84150&lon=35.05566&zoomLevel=16&segments=872460,474040"
     },
     "69548": {
         "streetName": "חניה ציבורית",
@@ -1191,10 +1917,46 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.25959&lon=34.48180&zoomLevel=16&segments=720945,720780"
     },
+    "69981": {
+        "streetName": "שטחי מח\"ע",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.24061&lon=34.51020&zoomLevel=16&segments=553492,856118"
+    },
+    "70138": {
+        "streetName": "עירית מזרח",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21906&lon=34.48354&zoomLevel=16&segments=1480746,1480747"
+    },
+    "70177": {
+        "streetName": "חוות המטעים",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.15000&lon=35.62187&zoomLevel=16&segments=860955"
+    },
     "70323": {
         "streetName": "סינגל יער גברעם",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.59259&lon=34.60715&zoomLevel=16&segments=1604804,1604805"
+    },
+    "70501": {
+        "streetName": "דרך נוף הכרמים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05466&lon=35.31740&zoomLevel=16&segments=870829,400269"
+    },
+    "70529": {
+        "streetName": "דרך מעלה לבונה",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05044&lon=35.25943&zoomLevel=16&segments=1128999,1027912"
+    },
+    "70677": {
+        "streetName": "קליבר 3",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
     },
     "70808": {
         "streetName": "דרך המצפה",
@@ -1216,7 +1978,19 @@
     "72430": {
         "streetName": "דרך עפר עין השלושה",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.35062&lon=34.38711&zoomLevel=16&segments=1022297,914899"
+        "url": "https://www.waze.com/editor?env=il&lat=31.35097&lon=34.38787&zoomLevel=16&segments=914899"
+    },
+    "72526": {
+        "streetName": "כביש לחממות",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.54127&lon=35.18950&zoomLevel=16&segments=373909"
+    },
+    "72870": {
+        "streetName": "עוז וגאון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.64235&lon=35.13499&zoomLevel=16&segments=1660029,1660028,925491"
     },
     "72881": {
         "streetName": "טיילת גן סער",
@@ -1231,6 +2005,13 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.17667&lon=34.98001&zoomLevel=16&segments=205256"
     },
+    "73349": {
+        "streetName": "סונול חורפיש",
+        "areaManagers": [
+            "star2000tv"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.01363&lon=35.35491&zoomLevel=16&segments=934894,934895"
+    },
     "73503": {
         "streetName": "פז מצפה טורעאן",
         "areaManagers": [],
@@ -1240,6 +2021,11 @@
         "streetName": "סונול צומת גולני",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.77242&lon=35.39369&zoomLevel=16&segments=1356710"
+    },
+    "73788": {
+        "streetName": "אל-ח%27נסא‬‎",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.11789&lon=34.98858&zoomLevel=16&segments=594713,1056393,1056394"
     },
     "75447": {
         "streetName": "נבי אל יעפורי",
@@ -1256,6 +2042,20 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.00927&lon=34.86757&zoomLevel=16&segments=1000876,1523222,1523217"
     },
+    "75506": {
+        "streetName": "חוות של\"ח לכיש",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22312&lon=34.49584&zoomLevel=16&segments=871801"
+    },
+    "75795": {
+        "streetName": "שלפים",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.47607&lon=35.47830&zoomLevel=16&segments=1065117,1288595,1288594,1288597,1288583,1808912,1808911,966197,1287899,1287898,1287901,1287900"
+    },
     "76955": {
         "streetName": "דרך הגבול",
         "areaManagers": [
@@ -1267,6 +2067,25 @@
         "streetName": "למחנה שמשון",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.76772&lon=35.39216&zoomLevel=16&segments=995613"
+    },
+    "77152": {
+        "streetName": "נתיב מהיר",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "77253": {
+        "streetName": "עגור",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.98741&lon=34.89648&zoomLevel=16&segments=886047"
+    },
+    "77357": {
+        "streetName": "שער אחורי יונתן",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.93880&lon=35.79823&zoomLevel=16&segments=1002307"
     },
     "77484": {
         "streetName": "בית הבד חלוצה",
@@ -1282,6 +2101,13 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=32.08724&lon=34.88752&zoomLevel=16&segments=243797"
     },
+    "77708": {
+        "streetName": "ציר העמודים",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.94245&lon=35.77449&zoomLevel=16&segments=201280"
+    },
     "77981": {
         "streetName": "נחל זורם - עביר רק לג%27יפים",
         "areaManagers": [],
@@ -1293,6 +2119,20 @@
             "lg1992"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=30.64590&lon=35.19347&zoomLevel=16&segments=1521230"
+    },
+    "78482": {
+        "streetName": "א-גודילה",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.95523&lon=35.75807&zoomLevel=16&segments=1452537"
+    },
+    "78483": {
+        "streetName": "עין עיט",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.95514&lon=35.75478&zoomLevel=16&segments=205012"
     },
     "78846": {
         "streetName": "איחוד העם",
@@ -1313,20 +2153,56 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.70470&lon=35.01753&zoomLevel=16&segments=1040930"
     },
+    "79337": {
+        "streetName": "נחל שמריה",
+        "areaManagers": [
+            "israel_j05017rh"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.33899&lon=34.64200&zoomLevel=16&segments=1021719"
+    },
+    "79431": {
+        "streetName": "קאסר אל יהוד, %28אתר הטבילה%29",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.84435&lon=35.51310&zoomLevel=16&segments=809189"
+    },
+    "79436": {
+        "streetName": "מבואות יריחו",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.90790&lon=35.42046&zoomLevel=16&segments=1046466,1508150,1508149"
+    },
     "79475": {
         "streetName": "המישלטים",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.80251&lon=35.08682&zoomLevel=16&segments=73886"
+    },
+    "80282": {
+        "streetName": "שלפים הרחבה",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.47623&lon=35.47573&zoomLevel=16&segments=1065108,1065114,1064850"
     },
     "80586": {
         "streetName": "שער צפוני מחנה רגבים %28גולני%29",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.52790&lon=35.05870&zoomLevel=16&segments=1068449"
     },
+    "80587": {
+        "streetName": "שער דרומי מחנה רגבים %28גולני%29",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.52455&lon=35.06298&zoomLevel=16&segments=1068453"
+    },
     "80856": {
         "streetName": "אבו קוידר",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "81048": {
+        "streetName": "תחנה מטאורולוגית דרור ויינגרג",
+        "areaManagers": [
+            "Gadikr"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.58792&lon=35.12096&zoomLevel=16&segments=1028320"
     },
     "81312": {
         "streetName": "גן לאומי תל צפית",
@@ -1334,6 +2210,11 @@
             "motimarkus"
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.69800&lon=34.85422&zoomLevel=16&segments=1333077,1066695"
+    },
+    "82720": {
+        "streetName": "כביש 60 הישן",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.67179&lon=35.14083&zoomLevel=16&segments=1107841"
     },
     "82768": {
         "streetName": "מכון טיהור שפכים הסוללים",
@@ -1350,6 +2231,23 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.28866&lon=34.86137&zoomLevel=16&segments=1121688"
     },
+    "84138": {
+        "streetName": "דרך אלקנה- חסום",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05925&lon=35.25799&zoomLevel=16&segments=1128994,1128997"
+    },
+    "84154": {
+        "streetName": "גבעת הרואה",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.05485&lon=35.26221&zoomLevel=16&segments=1129104,1129102,1129133"
+    },
+    "85219": {
+        "streetName": "רשפים",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.48504&lon=35.47887&zoomLevel=16&segments=1264135"
+    },
     "85496": {
         "streetName": "חניון הרמוניה",
         "areaManagers": [
@@ -1364,6 +2262,21 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=33.23248&lon=35.54559&zoomLevel=16&segments=1163875"
     },
+    "86284": {
+        "streetName": "מחבר זרחיה שפיר",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.68868&lon=34.74024&zoomLevel=16&segments=1169125,1169124"
+    },
+    "86560": {
+        "streetName": "שער מעונות %28סטודנטים בלבד%29",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.10535&lon=35.20201&zoomLevel=16&segments=1173078"
+    },
+    "87505": {
+        "streetName": "דרך החקלאים",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.20064&lon=34.85587&zoomLevel=16&segments=1746523"
+    },
     "87688": {
         "streetName": "תעשייה אווירית מערב",
         "areaManagers": [],
@@ -1373,6 +2286,13 @@
         "streetName": "תעשייה אווירית מזרח",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "88440": {
+        "streetName": "שד%27 העליה",
+        "areaManagers": [
+            "ravid007"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.98858&lon=34.89758&zoomLevel=16&segments=123368"
     },
     "88708": {
         "streetName": "מצפה הר יעלה",
@@ -1401,6 +2321,13 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.75656&lon=35.02211&zoomLevel=16&segments=180344,180345,180351,180348,1260233,182135,182136"
     },
+    "90848": {
+        "streetName": "לע%27ג%27ר",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.27268&lon=35.63599&zoomLevel=16&segments=1491875,1363930"
+    },
     "91174": {
         "streetName": "דרך מים שקטים",
         "areaManagers": [
@@ -1417,6 +2344,13 @@
         "streetName": "דרך לוד",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
+    "92353": {
+        "streetName": "כניסה לנחל הקיבוצים",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.49824&lon=35.46242&zoomLevel=16&segments=1131728"
     },
     "92581": {
         "streetName": "חניה בריכת רם",
@@ -1518,6 +2452,20 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.10261&lon=35.38678&zoomLevel=16&segments=1071323"
     },
+    "96977": {
+        "streetName": "Nuba-Halhul",
+        "areaManagers": [
+            "Gadikr"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.60102&lon=35.06114&zoomLevel=16&segments=1317860"
+    },
+    "96979": {
+        "streetName": "Halhul-Tarqumiah",
+        "areaManagers": [
+            "Gadikr"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.58467&lon=35.05988&zoomLevel=16&segments=1237887,1037501"
+    },
     "97174": {
         "streetName": "50 שד%27 בגין צפון",
         "areaManagers": [],
@@ -1528,10 +2476,51 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.75172&lon=35.18990&zoomLevel=16&segments=1525185,1052175"
     },
+    "97241": {
+        "streetName": "הגבלת גובה 4.30",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.27629&lon=34.94197&zoomLevel=16&segments=1430226"
+    },
+    "98125": {
+        "streetName": "שביל ישראל - תל אפק",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.10830&lon=34.93286&zoomLevel=16&segments=1728131,1728132"
+    },
+    "98623": {
+        "streetName": "כביש 60 ישן",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.66550&lon=35.14322&zoomLevel=16&segments=1463916"
+    },
+    "98875": {
+        "streetName": "طريق المعرجات",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=16&segments="
+    },
     "98886": {
         "streetName": "Sarra - Bait wazan",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.21608&lon=35.20157&zoomLevel=16&segments=1344325,1344326,1822327,1822326"
+    },
+    "98916": {
+        "streetName": "السنديان",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.01909&lon=35.19443&zoomLevel=16&segments=1468824"
+    },
+    "100052": {
+        "streetName": "עירית",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.21867&lon=34.47897&zoomLevel=16&segments=404922"
+    },
+    "100214": {
+        "streetName": "משולש עירית",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=31.22289&lon=34.48357&zoomLevel=16&segments=856921,401322,519091"
     },
     "100897": {
         "streetName": "דרך עפר לבית עלמין מנוחת עולם",
@@ -1543,10 +2532,24 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.04993&lon=35.42186&zoomLevel=16&segments=1528998,1528995"
     },
+    "102321": {
+        "streetName": "טיילת הרב שך",
+        "areaManagers": [
+            "eyal-k"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.49911&lon=35.49295&zoomLevel=16&segments=1397313"
+    },
     "103099": {
         "streetName": "שביל טל",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.42832&lon=34.47165&zoomLevel=16&segments=1268647"
+    },
+    "104327": {
+        "streetName": "להבות הבשן",
+        "areaManagers": [
+            "avimor304"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=33.13963&lon=35.64434&zoomLevel=16&segments=1533957,1533956"
     },
     "104534": {
         "streetName": "קלע",
@@ -1579,7 +2582,7 @@
     "105413": {
         "streetName": "الرشيد",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.53435&lon=34.44337&zoomLevel=16&segments=1554590,1554622,1554621,1554704,1554695,1554694,1556738,1554143,1316597,1554150,1554147,1554146,1554155,1554154,1554207,1554204,1554187,1554186,1554228,1554278,1554277"
+        "url": "https://www.waze.com/editor?env=il&lat=31.49329&lon=34.40603&zoomLevel=16&segments=1316480"
     },
     "105414": {
         "streetName": "بغداد",
@@ -1589,7 +2592,7 @@
     "105415": {
         "streetName": "صلاح الدين",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.50571&lon=34.47071&zoomLevel=16&segments=1555702,1555114,1555178,1557374,1555302,1555301,1555408"
+        "url": "https://www.waze.com/editor?env=il&lat=31.44935&lon=34.40658&zoomLevel=16&segments=1892567"
     },
     "105416": {
         "streetName": "الكرامة",
@@ -1629,7 +2632,7 @@
     "105436": {
         "streetName": "الرشيد",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.47866&lon=34.39135&zoomLevel=16&segments=1316492,1316493"
+        "url": "https://www.waze.com/editor?env=il&lat=31.46868&lon=34.38090&zoomLevel=16&segments=1316492"
     },
     "105437": {
         "streetName": "الرشيد",
@@ -1724,7 +2727,7 @@
     "105518": {
         "streetName": "عمر بن الخطاب",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.46902&lon=34.41559&zoomLevel=16&segments=1557949,1557864"
+        "url": "https://www.waze.com/editor?env=il&lat=31.46635&lon=34.40712&zoomLevel=16&segments=1557949,1557948,1557881,1557880"
     },
     "105519": {
         "streetName": "محمد العزايزة",
@@ -1915,7 +2918,7 @@
     "105597": {
         "streetName": "شارع النصر",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.30395&lon=34.28246&zoomLevel=16&segments=1317723"
+        "url": "https://www.waze.com/editor?env=il&lat=31.29745&lon=34.29482&zoomLevel=16&segments=1317724,1317723"
     },
     "105598": {
         "streetName": "شارع ميراج",
@@ -1930,7 +2933,7 @@
     "105600": {
         "streetName": "الفخاري",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.30145&lon=34.31761&zoomLevel=16&segments=1566050,1566049,1566098"
+        "url": "https://www.waze.com/editor?env=il&lat=31.29674&lon=34.32058&zoomLevel=16&segments=1566002,1566011,1566034,1566016,1566031,1566030,1566028,1566027,1566099,1566098"
     },
     "105601": {
         "streetName": "البحر",
@@ -1965,7 +2968,7 @@
     "105649": {
         "streetName": "גבול הרצועה حدود القطاع",
         "areaManagers": [],
-        "url": "https://www.waze.com/editor?env=il&lat=31.48626&lon=34.50043&zoomLevel=16&segments=1561708"
+        "url": "https://www.waze.com/editor?env=il&lat=31.42304&lon=34.41959&zoomLevel=16&segments=1561711"
     },
     "105650": {
         "streetName": "الصفطاوي",
@@ -1987,6 +2990,13 @@
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.47865&lon=34.46667&zoomLevel=16&segments=1566326,1566324,1566322,1566321,1566335,1566334,1566333,1566310,1566307,1566306,1566313,1566336"
     },
+    "106690": {
+        "streetName": "גן לאומי עין עבדת",
+        "areaManagers": [
+            "lg1992"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=30.82742&lon=34.76562&zoomLevel=16&segments=1577626"
+    },
     "107708": {
         "streetName": "ابو سبيله",
         "areaManagers": [
@@ -2004,6 +3014,11 @@
         "streetName": "60 עוקף חווארה - בהקמה",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=32.12214&lon=35.25586&zoomLevel=16&segments=1735146"
+    },
+    "108590": {
+        "streetName": "60 עוקף אל-ערוב - בהקמה",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.62478&lon=35.13146&zoomLevel=16&segments=1645614,1645680,1645679"
     },
     "109731": {
         "streetName": "דרך נוף גלעד",
@@ -2062,14 +3077,29 @@
         ],
         "url": "https://www.waze.com/editor?env=il&lat=31.19971&lon=34.91953&zoomLevel=16&segments=1303827"
     },
+    "116194": {
+        "streetName": "שביל הר ציון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.56834&lon=35.51984&zoomLevel=16&segments=1789564"
+    },
     "116546": {
         "streetName": "طريق بيرنبالا",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.85296&lon=35.18740&zoomLevel=16&segments=1797498,1797497,1414763,1397535,1094470"
     },
+    "116864": {
+        "streetName": "ירוק, תל גזר",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=31.84446&lon=34.90730&zoomLevel=16&segments=1596318"
+    },
     "118749": {
         "streetName": "דרך דיפנבייקר",
         "areaManagers": [],
         "url": "https://www.waze.com/editor?env=il&lat=31.80384&lon=35.07308&zoomLevel=16&segments=1548702,1548701,1276537,1285336,1074531"
+    },
+    "118860": {
+        "streetName": "طريق سلفيت - اللّبن الشرقيّة",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.07621&lon=35.22382&zoomLevel=16&segments=1898316"
     }
 }
