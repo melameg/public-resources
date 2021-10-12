@@ -1,0 +1,19 @@
+{
+    "53794": {
+        "streetName": "20 איילון צפון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.14600&lon=34.81310&zoomLevel=16&segments=1220727,1220728,21002,1766938,1766939,1766942,1766941,15010"
+    },
+    "59273": {
+        "streetName": "20 איילון דרום",
+        "areaManagers": [
+            "gad_m"
+        ],
+        "url": "https://www.waze.com/editor?env=il&lat=32.13534&lon=34.81162&zoomLevel=16&segments=16672,45573,1480379,18428,31198,39676"
+    },
+    "69267": {
+        "streetName": "דרך הירקון",
+        "areaManagers": [],
+        "url": "https://www.waze.com/editor?env=il&lat=32.13062&lon=34.91028&zoomLevel=16&segments=1248599"
+    }
+}
