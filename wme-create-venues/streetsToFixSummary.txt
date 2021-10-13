@@ -1,0 +1,1603 @@
+no-area-manager
+שביל אופניים https://www.waze.com/editor?env=il&lat=31.78553&lon=35.17003&zoomLevel=17&segments=1224204,1224205,754205,1271722
+תחנת דלק סונול"ערערה" https://www.waze.com/editor?env=il&lat=32.50141&lon=35.07503&zoomLevel=17&segments=937448,937447
+מעבר תת קרקעי https://www.waze.com/editor?env=il&lat=32.02940&lon=34.95911&zoomLevel=17&segments=305389
+הר הכרמל https://www.waze.com/editor?env=il&lat=32.71419&lon=34.97703&zoomLevel=17&segments=102959,102960,89856
+גילגל/נתיב הגדוד https://www.waze.com/editor?env=il&lat=31.99690&lon=35.44974&zoomLevel=17&segments=67132
+ארסוף קדם https://www.waze.com/editor?env=il&lat=32.20534&lon=34.81798&zoomLevel=17&segments=684447,684448,1629789,1629790,212631,212629,1091336,1324978
+התמר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+אזור תעשייה שגיא 2000 https://www.waze.com/editor?env=il&lat=32.65761&lon=35.23469&zoomLevel=17&segments=1829018,1829017,1829009,1829015,1829005
+רמות https://www.waze.com/editor?env=il&lat=32.86171&lon=35.65091&zoomLevel=17&segments=1592782
+הקלרנית https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דיפנבייקר https://www.waze.com/editor?env=il&lat=31.81005&lon=35.03795&zoomLevel=17&segments=73876,1268441,1268440,176364
+החקלאים https://www.waze.com/editor?env=il&lat=32.20208&lon=34.85905&zoomLevel=17&segments=192571
+חנייה https://www.waze.com/editor?env=il&lat=32.86077&lon=35.25786&zoomLevel=17&segments=970266,970267
+יער אילנות https://www.waze.com/editor?env=il&lat=32.29292&lon=34.89930&zoomLevel=17&segments=1360537,1360538,1078299
+1 מזרח / 6 דרום https://www.waze.com/editor?env=il&lat=31.94332&lon=34.92982&zoomLevel=17&segments=65484
+1 מערב / 6 צפון https://www.waze.com/editor?env=il&lat=31.93762&lon=34.92899&zoomLevel=17&segments=17042
+נוף גבעת המורה https://www.waze.com/editor?env=il&lat=32.59683&lon=35.38099&zoomLevel=17&segments=476431,476430,1138995,286696,475647
+חניה https://www.waze.com/editor?env=il&lat=31.88252&lon=34.84053&zoomLevel=17&segments=331444
+ורד יריחו https://www.waze.com/editor?env=il&lat=31.82377&lon=35.43970&zoomLevel=17&segments=120516
+יקיר נופים https://www.waze.com/editor?env=il&lat=32.14085&lon=35.12497&zoomLevel=17&segments=701724,1172910,1172909
+בית אל https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+מאוזוליאום מזור https://www.waze.com/editor?env=il&lat=32.04645&lon=34.94620&zoomLevel=17&segments=217032
+חניה למבצר קולה https://www.waze.com/editor?env=il&lat=32.03797&lon=34.95544&zoomLevel=17&segments=121987
+אנדרטת לח"י https://www.waze.com/editor?env=il&lat=31.86714&lon=34.95103&zoomLevel=17&segments=118279
+גבעות https://www.waze.com/editor?env=il&lat=31.67919&lon=35.10151&zoomLevel=17&segments=1129945,1129944,871975,871974,1110571,1511134,1511133,1103607,1103608,1351636
+כניסה אחורית למשטרת לטרון https://www.waze.com/editor?env=il&lat=31.83842&lon=34.98169&zoomLevel=17&segments=297621
+כניסה למת"א https://www.waze.com/editor?env=il&lat=31.86587&lon=35.21419&zoomLevel=17&segments=986676
+תצפית על מערב ודרום בית לחם https://www.waze.com/editor?env=il&lat=31.69033&lon=35.16187&zoomLevel=17&segments=1284504
+מקביל 77 מזרח https://www.waze.com/editor?env=il&lat=32.74520&lon=35.22260&zoomLevel=17&segments=312905,131961
+מעבר חקלאי תת קרקעי https://www.waze.com/editor?env=il&lat=32.74564&lon=35.22261&zoomLevel=17&segments=314054,131962
+בקעת הורקניה https://www.waze.com/editor?env=il&lat=31.71199&lon=35.38540&zoomLevel=17&segments=163978,1402997,300921
+בית היערן https://www.waze.com/editor?env=il&lat=32.73780&lon=35.38705&zoomLevel=17&segments=135071
+שביל בית היערן https://www.waze.com/editor?env=il&lat=32.73733&lon=35.38722&zoomLevel=17&segments=135004,135008,135073
+נחל געתון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+שמורת הר טייסים https://www.waze.com/editor?env=il&lat=31.77319&lon=35.08835&zoomLevel=17&segments=314672,686409,189540,287414,287420,287422,287419
+מעלה רחבעם https://www.waze.com/editor?env=il&lat=31.64786&lon=35.25860&zoomLevel=17&segments=1045939
+לשלוחת שיירות https://www.waze.com/editor?env=il&lat=31.79925&lon=35.04007&zoomLevel=17&segments=19257
+משלט 21 https://www.waze.com/editor?env=il&lat=31.80320&lon=35.03490&zoomLevel=17&segments=101901
+המוביל https://www.waze.com/editor?env=il&lat=32.20923&lon=34.93907&zoomLevel=17&segments=65922,338465,955051,955048
+בור איתן https://www.waze.com/editor?env=il&lat=31.76216&lon=35.11309&zoomLevel=17&segments=156049
+ללא שם 71 https://www.waze.com/editor?env=il&lat=32.70581&lon=34.95899&zoomLevel=17&segments=128380,128386,937564,937563
+ללא שם 83 https://www.waze.com/editor?env=il&lat=32.70772&lon=34.96577&zoomLevel=17&segments=149289
+חניון בית היערן https://www.waze.com/editor?env=il&lat=32.73824&lon=35.05148&zoomLevel=17&segments=1784563
+יער ניר עציון https://www.waze.com/editor?env=il&lat=32.71351&lon=34.97868&zoomLevel=17&segments=903520
+משער הגיא לשלוחת שיירות https://www.waze.com/editor?env=il&lat=31.79615&lon=35.04944&zoomLevel=17&segments=167438
+תחנת כוח אורות רבין https://www.waze.com/editor?env=il&lat=32.47533&lon=34.89507&zoomLevel=17&segments=1073197,1073198
+תחנת שאיבה דוד https://www.waze.com/editor?env=il&lat=31.77791&lon=35.05904&zoomLevel=17&segments=173871
+לקדוח לוד31 https://www.waze.com/editor?env=il&lat=32.04829&lon=34.93550&zoomLevel=17&segments=1327601
+לקדוח ירקון 8 https://www.waze.com/editor?env=il&lat=32.05735&lon=34.93587&zoomLevel=17&segments=176713
+תחנת שאיבה מקורות כסלון https://www.waze.com/editor?env=il&lat=31.77543&lon=35.02429&zoomLevel=17&segments=177262
+דרך יער הרצל https://www.waze.com/editor?env=il&lat=31.94813&lon=34.94165&zoomLevel=17&segments=292996,179600,1237438,1237437,229981,192136,166629,287681
+שמורת המסרק https://www.waze.com/editor?env=il&lat=31.79262&lon=35.04197&zoomLevel=17&segments=235559
+נוף הר חורשן https://www.waze.com/editor?env=il&lat=32.58119&lon=34.98538&zoomLevel=17&segments=179989
+שטח פרטי https://www.waze.com/editor?env=il&lat=31.58489&lon=34.82164&zoomLevel=17&segments=26288
+יציאה לשדות https://www.waze.com/editor?env=il&lat=31.76815&lon=34.81522&zoomLevel=17&segments=370105
+יער שוהם, שביל ישראל https://www.waze.com/editor?env=il&lat=32.00171&lon=34.96230&zoomLevel=17&segments=1147905,1147912,1147911
+דרך נוף רמות יששכר https://www.waze.com/editor?env=il&lat=32.57175&lon=35.42598&zoomLevel=17&segments=1877180,1877181,308606,215544,215580,180822
+מתקן התפלה גרנות https://www.waze.com/editor?env=il&lat=31.71358&lon=34.68661&zoomLevel=17&segments=184890,345713,1101480,1101481
+נחל כסלון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כביש שירות https://www.waze.com/editor?env=il&lat=32.75852&lon=35.09584&zoomLevel=17&segments=1686011
+לאנדרטה https://www.waze.com/editor?env=il&lat=31.79139&lon=35.01857&zoomLevel=17&segments=186561
+הר כרמילה https://www.waze.com/editor?env=il&lat=31.78688&lon=35.02869&zoomLevel=17&segments=387221,186542,186557,186560,1069762,1069763,671733
+שמורת גבעת גד https://www.waze.com/editor?env=il&lat=31.52472&lon=34.90127&zoomLevel=17&segments=968015,247521,1264707,1264708,285605
+סגול https://www.waze.com/editor?env=il&lat=31.50144&lon=34.88620&zoomLevel=17&segments=185053,332547
+תחנת דלק אלון"בית דגן" https://www.waze.com/editor?env=il&lat=31.98948&lon=34.82966&zoomLevel=17&segments=187539
+לעין פוריה https://www.waze.com/editor?env=il&lat=32.73415&lon=35.55329&zoomLevel=17&segments=142320
+תחנת דלק ומסעדה https://www.waze.com/editor?env=il&lat=32.41754&lon=34.90625&zoomLevel=17&segments=1157752
+מכון תערובת צמח https://www.waze.com/editor?env=il&lat=32.70302&lon=35.58707&zoomLevel=17&segments=200039
+כניסה למקהל ומעין חרוד https://www.waze.com/editor?env=il&lat=32.55296&lon=35.34163&zoomLevel=17&segments=190446,829409,829410
+תצפית https://www.waze.com/editor?env=il&lat=31.76563&lon=35.45089&zoomLevel=17&segments=279864,279865
+חולות https://www.waze.com/editor?env=il&lat=31.61358&lon=34.51276&zoomLevel=17&segments=347218
+יער בן-שמן, שביל ישראל https://www.waze.com/editor?env=il&lat=31.95011&lon=34.95545&zoomLevel=17&segments=1203525
+בקעת הנזירים, שביל ישראל https://www.waze.com/editor?env=il&lat=31.93610&lon=34.94914&zoomLevel=17&segments=166621
+שחור, שביל ישראל https://www.waze.com/editor?env=il&lat=31.93827&lon=34.95373&zoomLevel=17&segments=191730
+פארק עצמאות https://www.waze.com/editor?env=il&lat=31.74662&lon=35.04823&zoomLevel=17&segments=1167878
+נוף רמות יששכר https://www.waze.com/editor?env=il&lat=32.58062&lon=35.41690&zoomLevel=17&segments=180816
+ירידה לחוף הים https://www.waze.com/editor?env=il&lat=32.20885&lon=34.81493&zoomLevel=17&segments=1157127,631993,631995,207031,684482,472983,1324977
+קופת חולים כללית וספריה https://www.waze.com/editor?env=il&lat=33.05277&lon=35.40841&zoomLevel=17&segments=197915
+גישה ליראון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חממות https://www.waze.com/editor?env=il&lat=32.33311&lon=34.96995&zoomLevel=17&segments=634940
+החוף https://www.waze.com/editor?env=il&lat=32.41122&lon=34.87087&zoomLevel=17&segments=341340
+מבצר כוכב הירדן https://www.waze.com/editor?env=il&lat=32.59505&lon=35.51901&zoomLevel=17&segments=270244,199768,199650
+לכוכב הירדן https://www.waze.com/editor?env=il&lat=32.60025&lon=35.46881&zoomLevel=17&segments=1802975,1498188,1498187,1802974,299925,1498190,1498189,199644,1528571,1528570,199661
+מקשר לטייבה https://www.waze.com/editor?env=il&lat=32.60640&lon=35.45059&zoomLevel=17&segments=1619608,1619607
+"ציר הנפט עירק חיפה" https://www.waze.com/editor?env=il&lat=32.61905&lon=35.44432&zoomLevel=17&segments=200432,214304,291751,1254449,1254448
+מקשר לרמת צבי https://www.waze.com/editor?env=il&lat=32.59596&lon=35.40542&zoomLevel=17&segments=214023,1210374,1210373
+נחל אביחיל https://www.waze.com/editor?env=il&lat=32.35606&lon=34.88626&zoomLevel=17&segments=38949,523166
+מכללת כנרת בעמק הירדן https://www.waze.com/editor?env=il&lat=32.70490&lon=35.59063&zoomLevel=17&segments=202199
+בית גבריאל https://www.waze.com/editor?env=il&lat=32.70480&lon=35.59026&zoomLevel=17&segments=1224996
+נוף יער בית קשת https://www.waze.com/editor?env=il&lat=32.72803&lon=35.37469&zoomLevel=17&segments=286316
+נוף מבואות הירדן https://www.waze.com/editor?env=il&lat=32.68434&lon=35.56234&zoomLevel=17&segments=1181375,1181376,1066864,1066863
+הגעה לדרך נוף מבואות הירדן https://www.waze.com/editor?env=il&lat=32.69316&lon=35.57372&zoomLevel=17&segments=203427,516051
+נק%27 תצפית על כביש 6 https://www.waze.com/editor?env=il&lat=32.44617&lon=35.03482&zoomLevel=17&segments=205389,247469
+כניסה/יציאה מסינגל. https://www.waze.com/editor?env=il&lat=32.57938&lon=35.00276&zoomLevel=17&segments=208857
+הצור https://www.waze.com/editor?env=il&lat=32.78475&lon=35.45919&zoomLevel=17&segments=207699
+סינגל https://www.waze.com/editor?env=il&lat=32.86924&lon=35.23741&zoomLevel=17&segments=314133
+דרך נוף נחל מערות - סינגל https://www.waze.com/editor?env=il&lat=32.66736&lon=34.97584&zoomLevel=17&segments=210654,668502
+למאגר טירת צבי https://www.waze.com/editor?env=il&lat=32.41985&lon=35.52994&zoomLevel=17&segments=786308,1180590,1152475,1152474
+עץ ועצה https://www.waze.com/editor?env=il&lat=32.45398&lon=34.98291&zoomLevel=17&segments=1180250
+בולטנסקי ווילדר https://www.waze.com/editor?env=il&lat=32.60342&lon=35.01547&zoomLevel=17&segments=221701,209691
+שביל המוביל הארצי https://www.waze.com/editor?env=il&lat=32.31447&lon=34.97058&zoomLevel=17&segments=1402260,223079
+ציר המערכת וגאון הירדן https://www.waze.com/editor?env=il&lat=32.49167&lon=35.57753&zoomLevel=17&segments=218763
+נוף נחל אלכסנדר https://www.waze.com/editor?env=il&lat=32.33297&lon=34.96723&zoomLevel=17&segments=220170,220169,877749,1402259
+יער עופר - גבעת שלוחית https://www.waze.com/editor?env=il&lat=32.64832&lon=34.97782&zoomLevel=17&segments=210719
+לאתר צלמון https://www.waze.com/editor?env=il&lat=32.85200&lon=35.40656&zoomLevel=17&segments=915644
+עין אל בלד https://www.waze.com/editor?env=il&lat=31.74051&lon=35.14955&zoomLevel=17&segments=1301037,1301036,1184788,1184783
+ירוק- אנדרטת הטייסים התורכים https://www.waze.com/editor?env=il&lat=32.72411&lon=35.63396&zoomLevel=17&segments=226924
+לתל גזר https://www.waze.com/editor?env=il&lat=31.87910&lon=34.91595&zoomLevel=17&segments=741741
+הר עוזרר https://www.waze.com/editor?env=il&lat=31.84311&lon=35.06948&zoomLevel=17&segments=233000,234413,234194
+חניון לילה נחל צובה https://www.waze.com/editor?env=il&lat=31.76439&lon=35.09743&zoomLevel=17&segments=233065
+אדום, דרך הג%27יפים https://www.waze.com/editor?env=il&lat=31.80094&lon=35.03129&zoomLevel=17&segments=239237,387230,248476,68485,1340864
+שביל הקיפי https://www.waze.com/editor?env=il&lat=32.11743&lon=35.13146&zoomLevel=17&segments=1549451,1549450
+נוף ציפורי https://www.waze.com/editor?env=il&lat=32.75868&lon=35.19739&zoomLevel=17&segments=234972
+מתקני המים https://www.waze.com/editor?env=il&lat=31.41043&lon=34.46649&zoomLevel=17&segments=235235,421480
+חנאביר בארי https://www.waze.com/editor?env=il&lat=31.45103&lon=34.46395&zoomLevel=17&segments=235264
+מכרות הגופרית https://www.waze.com/editor?env=il&lat=31.42600&lon=34.46132&zoomLevel=17&segments=1514682,1514681
+חוליקאת https://www.waze.com/editor?env=il&lat=31.60753&lon=34.64747&zoomLevel=17&segments=340013,1084081,1084082,235275,1039209,1039208
+גבעה 138.5 חוליקאת https://www.waze.com/editor?env=il&lat=31.60519&lon=34.64125&zoomLevel=17&segments=235282
+הדיונה הגדולה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גבעת הפרדונים,"המשק הישן"גברעם https://www.waze.com/editor?env=il&lat=31.59003&lon=34.59984&zoomLevel=17&segments=164849
+לשביל המוביל https://www.waze.com/editor?env=il&lat=32.31316&lon=34.97070&zoomLevel=17&segments=223715
+מערת חזן https://www.waze.com/editor?env=il&lat=31.51776&lon=34.90314&zoomLevel=17&segments=1003731
+חציית נחל https://www.waze.com/editor?env=il&lat=32.45022&lon=35.03011&zoomLevel=17&segments=233344
+ערב אל מוריסאת https://www.waze.com/editor?env=il&lat=32.88913&lon=35.36378&zoomLevel=17&segments=802875,802892,802893,802887
+38 ליער המלאכים שחריה https://www.waze.com/editor?env=il&lat=31.59601&lon=34.83602&zoomLevel=17&segments=265739,452427
+שער קדומים https://www.waze.com/editor?env=il&lat=31.94268&lon=34.97884&zoomLevel=17&segments=40127,91127
+המרווה https://www.waze.com/editor?env=il&lat=31.76199&lon=34.78818&zoomLevel=17&segments=378816
+גן בטבע https://www.waze.com/editor?env=il&lat=31.93346&lon=34.77345&zoomLevel=17&segments=275121
+דרך החשמל https://www.waze.com/editor?env=il&lat=31.94387&lon=34.95883&zoomLevel=17&segments=92490,259569,414604
+לחניון אל-מדון https://www.waze.com/editor?env=il&lat=31.93755&lon=34.97370&zoomLevel=17&segments=40130
+נוף יער מודיעין https://www.waze.com/editor?env=il&lat=31.92493&lon=34.95743&zoomLevel=17&segments=1140500
+בקעת הנזירים https://www.waze.com/editor?env=il&lat=31.92696&lon=34.98499&zoomLevel=17&segments=172100,297399,286171
+שחור- נחל גמזו https://www.waze.com/editor?env=il&lat=31.93190&lon=34.96546&zoomLevel=17&segments=293051,285148,285151,1563347
+שביל ישראל - לטרון https://www.waze.com/editor?env=il&lat=31.84012&lon=34.98160&zoomLevel=17&segments=288389
+--- https://www.waze.com/editor?env=il&lat=31.87702&lon=34.97515&zoomLevel=17&segments=287789
+שמורת הר טייסים - חניון https://www.waze.com/editor?env=il&lat=31.77357&lon=35.08947&zoomLevel=17&segments=287421
+מצפור הר טייסים https://www.waze.com/editor?env=il&lat=31.77226&lon=35.08867&zoomLevel=17&segments=287418
+הפגודה התאילנדית https://www.waze.com/editor?env=il&lat=31.94675&lon=34.95687&zoomLevel=17&segments=236561
+עוקף רישפון https://www.waze.com/editor?env=il&lat=32.19894&lon=34.84181&zoomLevel=17&segments=821002,821003
+תחנת דלק דלק "מצר" https://www.waze.com/editor?env=il&lat=32.43701&lon=35.02652&zoomLevel=17&segments=998257,998256
+שביל ישראל, שעלבים https://www.waze.com/editor?env=il&lat=31.86609&lon=34.97934&zoomLevel=17&segments=1250958,1250957
+דרך נוף גבעת המורה https://www.waze.com/editor?env=il&lat=32.58079&lon=35.39201&zoomLevel=17&segments=735358,1101105,1101106
+לבית העלמין כפר יחזקאל https://www.waze.com/editor?env=il&lat=32.57405&lon=35.36503&zoomLevel=17&segments=1323918,1323919
+שביל אופניים "מים לי-ם" https://www.waze.com/editor?env=il&lat=31.87735&lon=34.95525&zoomLevel=17&segments=1236499,290227,289557,290637
+דרך נןף https://www.waze.com/editor?env=il&lat=31.50034&lon=34.69377&zoomLevel=17&segments=182451
+מעבר מים תת קרקעי https://www.waze.com/editor?env=il&lat=31.90657&lon=34.89109&zoomLevel=17&segments=291602
+לאורך נחל מודיעין https://www.waze.com/editor?env=il&lat=31.95159&lon=34.99500&zoomLevel=17&segments=292568
+נחל גמזו-סינגל אופניים https://www.waze.com/editor?env=il&lat=31.92983&lon=34.96945&zoomLevel=17&segments=293050
+יד הנקטפים https://www.waze.com/editor?env=il&lat=31.93186&lon=34.99090&zoomLevel=17&segments=127048,297433
+שטח אש -מטווחים https://www.waze.com/editor?env=il&lat=31.97646&lon=34.96448&zoomLevel=17&segments=293346
+מחסום אבנים https://www.waze.com/editor?env=il&lat=31.97657&lon=34.96500&zoomLevel=17&segments=293349
+יער מצדה https://www.waze.com/editor?env=il&lat=31.92864&lon=34.98845&zoomLevel=17&segments=293846
+אתר זיכרון לקהילת זגלמביה https://www.waze.com/editor?env=il&lat=31.93728&lon=34.98321&zoomLevel=17&segments=293828
+יער הנסיך הקטן https://www.waze.com/editor?env=il&lat=31.93009&lon=34.99972&zoomLevel=17&segments=294664
+מערת הנזירים https://www.waze.com/editor?env=il&lat=31.92700&lon=34.97321&zoomLevel=17&segments=996648,996647
+מעלה ישראל https://www.waze.com/editor?env=il&lat=32.11597&lon=35.10491&zoomLevel=17&segments=295656
+מסילת רכבת https://www.waze.com/editor?env=il&lat=31.62728&lon=34.53000&zoomLevel=17&segments=915476
+מרכז שורק https://www.waze.com/editor?env=il&lat=31.89158&lon=34.69816&zoomLevel=17&segments=1254550,1451298,1451297
+תצפית מרסבא https://www.waze.com/editor?env=il&lat=31.70742&lon=35.33531&zoomLevel=17&segments=821488
+חוף כורסי https://www.waze.com/editor?env=il&lat=32.82636&lon=35.64738&zoomLevel=17&segments=969046
+דרך נוף נחל חוקוק https://www.waze.com/editor?env=il&lat=32.87826&lon=35.45902&zoomLevel=17&segments=1172112,1171122
+שביל אופניים מים לי-ם https://www.waze.com/editor?env=il&lat=32.03348&lon=34.96016&zoomLevel=17&segments=879361
+מכון וינגייט: מגרשי כדורגל דרומיים https://www.waze.com/editor?env=il&lat=32.25665&lon=34.83459&zoomLevel=17&segments=1845844,1845843
+עוקף רשפון https://www.waze.com/editor?env=il&lat=32.22010&lon=34.84762&zoomLevel=17&segments=779712
+ציר הזבל https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כניסה לשביל נחל ציפורי https://www.waze.com/editor?env=il&lat=32.74557&lon=35.24297&zoomLevel=17&segments=312715
+שביל נחל ציפורי https://www.waze.com/editor?env=il&lat=32.74239&lon=35.23654&zoomLevel=17&segments=1338566,312713,1124866,312906
+גבעות הסוללים https://www.waze.com/editor?env=il&lat=32.74559&lon=35.22393&zoomLevel=17&segments=320400,313273
+נוף נחל ציפורי https://www.waze.com/editor?env=il&lat=32.75318&lon=35.21819&zoomLevel=17&segments=632028,914989,914988,1528244
+עוקף רקפת https://www.waze.com/editor?env=il&lat=32.85455&lon=35.25882&zoomLevel=17&segments=1795099,1795100,341181
+סינגל שיחת פתיחה https://www.waze.com/editor?env=il&lat=32.86042&lon=35.24953&zoomLevel=17&segments=314129
+21K https://www.waze.com/editor?env=il&lat=31.82596&lon=35.02840&zoomLevel=17&segments=1267695
+21K, פארק איילון https://www.waze.com/editor?env=il&lat=31.82907&lon=34.99875&zoomLevel=17&segments=298280
+דרך נוף יער לוי אשכול https://www.waze.com/editor?env=il&lat=32.67769&lon=35.53303&zoomLevel=17&segments=1622036,1328703,1494338,1057780,1057781,1233378
+נקודת תצפית "פני הים" https://www.waze.com/editor?env=il&lat=31.80176&lon=35.40340&zoomLevel=17&segments=953740,953741
+עוקף רעננה רישפון https://www.waze.com/editor?env=il&lat=32.19785&lon=34.84314&zoomLevel=17&segments=336646,1746528
+יער החמישה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+משעול אודי צימרינג https://www.waze.com/editor?env=il&lat=31.81971&lon=35.13002&zoomLevel=17&segments=329467
+משטח אבוקדו https://www.waze.com/editor?env=il&lat=32.88448&lon=35.21133&zoomLevel=17&segments=324483
+דרך נוף - יער שגב https://www.waze.com/editor?env=il&lat=32.86706&lon=35.24208&zoomLevel=17&segments=309292,1124576,1636611,983651,983650,327299,309180
+סינגל דרימר https://www.waze.com/editor?env=il&lat=32.86662&lon=35.24484&zoomLevel=17&segments=1707328
+חניה אחוזת גן https://www.waze.com/editor?env=il&lat=31.88270&lon=34.84105&zoomLevel=17&segments=359174,331445
+מנחת מצדה https://www.waze.com/editor?env=il&lat=31.32772&lon=35.38842&zoomLevel=17&segments=332882
+כלניות https://www.waze.com/editor?env=il&lat=31.49796&lon=34.86697&zoomLevel=17&segments=333566
+חרבת כישור https://www.waze.com/editor?env=il&lat=31.46582&lon=34.85643&zoomLevel=17&segments=333654
+מצפה "האפס" https://www.waze.com/editor?env=il&lat=31.58357&lon=35.39202&zoomLevel=17&segments=273732,273733,273671
+בור מים https://www.waze.com/editor?env=il&lat=31.56353&lon=35.36469&zoomLevel=17&segments=340209,273724,273725,273726
+גברעם הישנה https://www.waze.com/editor?env=il&lat=31.59269&lon=34.60279&zoomLevel=17&segments=340417,164846
+שביל ישראל שעלבים https://www.waze.com/editor?env=il&lat=31.87431&lon=34.97225&zoomLevel=17&segments=807944,807943
+נחל יתלה https://www.waze.com/editor?env=il&lat=31.81539&lon=35.09590&zoomLevel=17&segments=344244,344965,343984
+20K - הר הרוח https://www.waze.com/editor?env=il&lat=31.81293&lon=35.07825&zoomLevel=17&segments=940831,940835,344967,343997
+המטעים https://www.waze.com/editor?env=il&lat=32.69992&lon=35.61914&zoomLevel=17&segments=1217539,1217542,1217541,1178377,1178376,1282795,1282796
+יער ארז https://www.waze.com/editor?env=il&lat=31.56727&lon=34.59086&zoomLevel=17&segments=347263
+פארק השרון https://www.waze.com/editor?env=il&lat=32.41731&lon=34.89806&zoomLevel=17&segments=515894,515893,1268600
+סינגל לאופני שטח https://www.waze.com/editor?env=il&lat=32.54028&lon=35.00734&zoomLevel=17&segments=205284,217494,208859,208863,208874,212470,212468,212474
+חסום https://www.waze.com/editor?env=il&lat=31.88523&lon=35.20697&zoomLevel=17&segments=1179804,925386
+שביל נחל איילון https://www.waze.com/editor?env=il&lat=32.02981&lon=34.82318&zoomLevel=17&segments=1466388,1466387,352663,352857,352858,1209278,1209279,1631192,1631191,1283335,918834,1214565,1208241
+גשר עבדאללה https://www.waze.com/editor?env=il&lat=31.79911&lon=35.51592&zoomLevel=17&segments=1355420,139473,1165728,1496013
+מורן https://www.waze.com/editor?env=il&lat=32.52381&lon=34.97264&zoomLevel=17&segments=1501874,1501873
+ ל- 6 דרום https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חניה אחוזת https://www.waze.com/editor?env=il&lat=31.88306&lon=34.84133&zoomLevel=17&segments=364093
+תחנת דלק - דור אלון גילון https://www.waze.com/editor?env=il&lat=32.91566&lon=35.22659&zoomLevel=17&segments=895163,1023321,1023320,984825
+שער נעול https://www.waze.com/editor?env=il&lat=31.84876&lon=35.04088&zoomLevel=17&segments=1393857,1031148
+פארק אלונה - מי קדם https://www.waze.com/editor?env=il&lat=32.55434&lon=35.00614&zoomLevel=17&segments=68342
+כביש גישה שער אמפי https://www.waze.com/editor?env=il&lat=32.22844&lon=34.84140&zoomLevel=17&segments=722013
+כביש 1000 https://www.waze.com/editor?env=il&lat=31.44911&lon=34.50712&zoomLevel=17&segments=780819,780818,780820,780816,780799
+סינגל אופניים סובב בארי דרום https://www.waze.com/editor?env=il&lat=31.44191&lon=34.46477&zoomLevel=17&segments=932532
+אוהל אברהם https://www.waze.com/editor?env=il&lat=31.94749&lon=34.97354&zoomLevel=17&segments=273304
+פרי מגדים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+עוקף מכתש בארי https://www.waze.com/editor?env=il&lat=31.43251&lon=34.49419&zoomLevel=17&segments=851557,1264802,1264801
+מקביל נחל פולג https://www.waze.com/editor?env=il&lat=32.26459&lon=34.84072&zoomLevel=17&segments=315059
+סינגל אופניים https://www.waze.com/editor?env=il&lat=31.41039&lon=34.44135&zoomLevel=17&segments=932690,932707
+סינגל בארי אופניים https://www.waze.com/editor?env=il&lat=31.40083&lon=34.45255&zoomLevel=17&segments=932714
+דרך עפר שטח אש https://www.waze.com/editor?env=il&lat=31.73091&lon=34.60899&zoomLevel=17&segments=436564,436562
+עוטף שטחי חלוצה https://www.waze.com/editor?env=il&lat=31.40502&lon=34.52796&zoomLevel=17&segments=399370,399387,1388988
+דרך עפר חקלאית - שטחי חלוצה https://www.waze.com/editor?env=il&lat=31.33945&lon=34.51372&zoomLevel=17&segments=398855,398860,398858,398856
+ציר המים - יזרעם https://www.waze.com/editor?env=il&lat=31.42402&lon=34.54566&zoomLevel=17&segments=1316339,1181897,399388,1388981,1022371,1316338,1388978,1247554,1158022,1577977,1577978,400680,1631662,1631663,1626084
+דרך עפר חקלאית - שוקדה https://www.waze.com/editor?env=il&lat=31.41404&lon=34.53672&zoomLevel=17&segments=400688
+ת"פ 1 https://www.waze.com/editor?env=il&lat=31.28734&lon=34.46638&zoomLevel=17&segments=516701,1518296,397774,397780,397781,397779,397776
+ת"פ 5 https://www.waze.com/editor?env=il&lat=31.28741&lon=34.47410&zoomLevel=17&segments=401070,401069,401073,1540827,1540826,401068,401066,401067
+תצפית שמורת פולג https://www.waze.com/editor?env=il&lat=32.25921&lon=34.84019&zoomLevel=17&segments=407460
+שדות בני עטרות https://www.waze.com/editor?env=il&lat=32.02174&lon=34.91799&zoomLevel=17&segments=1167057,1167056,990068,990067
+יער ציפורי - שביל ישראל https://www.waze.com/editor?env=il&lat=32.76312&lon=35.21501&zoomLevel=17&segments=150773
+הזית https://www.waze.com/editor?env=il&lat=32.22818&lon=34.86303&zoomLevel=17&segments=103406
+יער כיסופים https://www.waze.com/editor?env=il&lat=31.38650&lon=34.42427&zoomLevel=17&segments=433376
+קריית החינוך מנשה https://www.waze.com/editor?env=il&lat=32.46766&lon=35.01070&zoomLevel=17&segments=1523478
+פארק אלעש https://www.waze.com/editor?env=il&lat=32.83923&lon=35.22202&zoomLevel=17&segments=324461
+דרך התקוה https://www.waze.com/editor?env=il&lat=31.80845&lon=35.08147&zoomLevel=17&segments=1545840,1545839,1087435
+אלשיך סעיד https://www.waze.com/editor?env=il&lat=32.40015&lon=35.03858&zoomLevel=17&segments=309374,309406
+עינות פצאל https://www.waze.com/editor?env=il&lat=32.05022&lon=35.40665&zoomLevel=17&segments=950990,950988,950989
+למעין עין אבו דרג%27 https://www.waze.com/editor?env=il&lat=32.12392&lon=35.43418&zoomLevel=17&segments=1002666
+דלק לידו https://www.waze.com/editor?env=il&lat=31.77389&lon=35.50461&zoomLevel=17&segments=919271,919268,919269
+ישוב הדעת https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כביש גישה - מצפה קידה, אש קודש https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כביש גישה - ישוב הדעת, קידה, אש קודש https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+הרב שך https://www.waze.com/editor?env=il&lat=31.85541&lon=34.75883&zoomLevel=17&segments=438439
+דרך ניר גלים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+לאנדרטת זיכרון חללי מגב עמק הירדן https://www.waze.com/editor?env=il&lat=32.69061&lon=35.61703&zoomLevel=17&segments=458080
+יער אחיהוד https://www.waze.com/editor?env=il&lat=32.91562&lon=35.21102&zoomLevel=17&segments=1150022,1312076,1312075
+מעלה יבניאל https://www.waze.com/editor?env=il&lat=32.69193&lon=35.50165&zoomLevel=17&segments=461522
+חרמון https://www.waze.com/editor?env=il&lat=32.70863&lon=35.31225&zoomLevel=17&segments=1599861
+היקפי דרום חורשים https://www.waze.com/editor?env=il&lat=32.13718&lon=34.96711&zoomLevel=17&segments=453427
+למרכז אירועים חורשים https://www.waze.com/editor?env=il&lat=32.14228&lon=34.97073&zoomLevel=17&segments=1083315
+סאלח אל-בסרי https://www.waze.com/editor?env=il&lat=32.91950&lon=35.06810&zoomLevel=17&segments=466732
+מעלה אבנר %28הדרומי%29 https://www.waze.com/editor?env=il&lat=32.42029&lon=35.43214&zoomLevel=17&segments=466736
+לעין ארובות https://www.waze.com/editor?env=il&lat=32.48211&lon=35.02257&zoomLevel=17&segments=523332
+שביל ישראל - נחל צבעון https://www.waze.com/editor?env=il&lat=33.03012&lon=35.41552&zoomLevel=17&segments=470552
+מעלה גודרים https://www.waze.com/editor?env=il&lat=33.04786&lon=35.38275&zoomLevel=17&segments=999708
+מאגר הר אגר https://www.waze.com/editor?env=il&lat=33.01680&lon=35.25498&zoomLevel=17&segments=859137
+חורש באזור בת שלמה https://www.waze.com/editor?env=il&lat=32.59091&lon=35.00696&zoomLevel=17&segments=106827
+כביש עפר מוביל לביה״ח קרית שלמה https://www.waze.com/editor?env=il&lat=32.23528&lon=34.86794&zoomLevel=17&segments=344201
+חוף ניצנים https://www.waze.com/editor?env=il&lat=31.74464&lon=34.60108&zoomLevel=17&segments=304440
+الحريقة https://www.waze.com/editor?env=il&lat=32.24057&lon=35.24454&zoomLevel=17&segments=1348393
+בית ספר שדה גליל מערבי https://www.waze.com/editor?env=il&lat=33.05985&lon=35.10537&zoomLevel=17&segments=1528385,1528384
+40 צפון, 3 מזרח https://www.waze.com/editor?env=il&lat=31.75113&lon=34.77566&zoomLevel=17&segments=782385,782384,1125843,244108,1125842,244475,244479
+40 דרום, 3 מערב https://www.waze.com/editor?env=il&lat=31.75034&lon=34.77465&zoomLevel=17&segments=782391,244521,228804,341326,107886,1394646
+אנדרטת התאומים https://www.waze.com/editor?env=il&lat=31.80719&lon=35.18060&zoomLevel=17&segments=1638893,1638892
+המוביל הארצי https://www.waze.com/editor?env=il&lat=32.20578&lon=34.93786&zoomLevel=17&segments=1231486,1231485
+שער - מחסום https://www.waze.com/editor?env=il&lat=32.33280&lon=34.96432&zoomLevel=17&segments=1021570,1021569
+כחול- דרך נוף דרומית https://www.waze.com/editor?env=il&lat=31.78018&lon=35.06856&zoomLevel=17&segments=1402323,267085,1790315,1790314
+מכון טיהור שפכים %27קולחי השרון%27 https://www.waze.com/editor?env=il&lat=32.23878&lon=34.88366&zoomLevel=17&segments=890720
+הברוש https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך ללול בת שבע/גבי https://www.waze.com/editor?env=il&lat=31.62141&lon=34.82772&zoomLevel=17&segments=558159
+עין שרונה https://www.waze.com/editor?env=il&lat=32.71358&lon=35.47329&zoomLevel=17&segments=608960
+חניון הר האחים https://www.waze.com/editor?env=il&lat=32.83294&lon=35.31920&zoomLevel=17&segments=602190
+חוסניה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גן לאומי כורסי https://www.waze.com/editor?env=il&lat=32.82675&lon=35.65039&zoomLevel=17&segments=1773158,1773157
+הר יללת התנים https://www.waze.com/editor?env=il&lat=32.70472&lon=35.01629&zoomLevel=17&segments=256962
+בית עלמין אלונה https://www.waze.com/editor?env=il&lat=32.54862&lon=35.00457&zoomLevel=17&segments=625817
+סינגל אפניים https://www.waze.com/editor?env=il&lat=31.92452&lon=34.96512&zoomLevel=17&segments=295253
+דרך אלקנה https://www.waze.com/editor?env=il&lat=32.05715&lon=35.26177&zoomLevel=17&segments=287220,1128993,1128992
+חניון בנין 4 ו-5 https://www.waze.com/editor?env=il&lat=32.65339&lon=35.29253&zoomLevel=17&segments=1344363
+חניון בנין תקשורת https://www.waze.com/editor?env=il&lat=32.65155&lon=35.29298&zoomLevel=17&segments=326899,357943
+אזור תעשייה מעלה שומרון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גדר מערכת https://www.waze.com/editor?env=il&lat=32.62480&lon=35.56583&zoomLevel=17&segments=1345623,1345631,1345632,1352898,1352899,1889119,1208204,820196,820197,1777425,1777424,1178676,756283,1889120
+תחנת דלק - סונול בית עובד https://www.waze.com/editor?env=il&lat=31.92440&lon=34.77190&zoomLevel=17&segments=934342,934343
+יער עופר סינגל אופניים וולו https://www.waze.com/editor?env=il&lat=32.64707&lon=34.97707&zoomLevel=17&segments=903618
+סינגל לאופניים https://www.waze.com/editor?env=il&lat=32.65201&lon=34.97473&zoomLevel=17&segments=656267
+יער עופר סינגל שבילי רון https://www.waze.com/editor?env=il&lat=32.65861&lon=34.98741&zoomLevel=17&segments=903588
+דרך שועלי החוף https://www.waze.com/editor?env=il&lat=32.73917&lon=34.95144&zoomLevel=17&segments=79665
+קידה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גוש שילה https://www.waze.com/editor?env=il&lat=32.05061&lon=35.33731&zoomLevel=17&segments=1496369
+אסקנדר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך גדעון https://www.waze.com/editor?env=il&lat=32.04211&lon=35.34397&zoomLevel=17&segments=1238715,1643973,1643974
+שביל התפוזים - פארק לילדים https://www.waze.com/editor?env=il&lat=32.45273&lon=34.94143&zoomLevel=17&segments=1062624
+בני דרום https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+ארגון יזרעאל https://www.waze.com/editor?env=il&lat=32.24849&lon=34.93103&zoomLevel=17&segments=1266655,1541211,1541210
+ניר גלים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+תחנת הכח רוטנברג - מחסנים https://www.waze.com/editor?env=il&lat=31.62505&lon=34.53632&zoomLevel=17&segments=1458288,734881,1381029
+כפר הנופש אכזיב https://www.waze.com/editor?env=il&lat=33.05260&lon=35.10328&zoomLevel=17&segments=200569
+תצפית מאגר נווה אור https://www.waze.com/editor?env=il&lat=32.58889&lon=35.56972&zoomLevel=17&segments=902336
+סכר נהריים https://www.waze.com/editor?env=il&lat=32.64464&lon=35.57338&zoomLevel=17&segments=707212,936906,936905,775401,775400
+דרך נוף יער אחיהוד https://www.waze.com/editor?env=il&lat=32.91734&lon=35.20123&zoomLevel=17&segments=1178747,1832098,1832100
+לול אילון חווה חדשה https://www.waze.com/editor?env=il&lat=33.05775&lon=35.21961&zoomLevel=17&segments=731335
+גולן https://www.waze.com/editor?env=il&lat=31.87927&lon=34.86775&zoomLevel=17&segments=218249,1061788,1061789
+Sderrot Radzyner https://www.waze.com/editor?env=il&lat=32.17602&lon=34.83679&zoomLevel=17&segments=959404,959405
+כביש הגישה לבני אדם https://www.waze.com/editor?env=il&lat=31.84564&lon=35.30236&zoomLevel=17&segments=757853
+שערי אברהם https://www.waze.com/editor?env=il&lat=31.76067&lon=34.79352&zoomLevel=17&segments=554561
+דרך נוף גלבוע https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חורבת דנעילה https://www.waze.com/editor?env=il&lat=33.06639&lon=35.24504&zoomLevel=17&segments=743296
+מעבר בארי https://www.waze.com/editor?env=il&lat=31.43490&lon=34.49802&zoomLevel=17&segments=745360
+מקשר חרב לאת חיבת ציון https://www.waze.com/editor?env=il&lat=32.40019&lon=34.92043&zoomLevel=17&segments=1569918
+כביש ההדר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כניסה לחניה https://www.waze.com/editor?env=il&lat=32.26630&lon=34.84315&zoomLevel=17&segments=316658
+תחנת דלק פז חגור https://www.waze.com/editor?env=il&lat=32.14566&lon=34.94683&zoomLevel=17&segments=767177,767275
+פארק המיחזור חיריה https://www.waze.com/editor?env=il&lat=32.02549&lon=34.82566&zoomLevel=17&segments=310673
+נחל אשחר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+אתר הטמנה https://www.waze.com/editor?env=il&lat=32.60229&lon=34.97665&zoomLevel=17&segments=773987
+הר אביתר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+לשדמות דבורה https://www.waze.com/editor?env=il&lat=32.69322&lon=35.42886&zoomLevel=17&segments=1219368
+לגזית https://www.waze.com/editor?env=il&lat=32.63575&lon=35.43902&zoomLevel=17&segments=1594168
+חניון צומת יד מרדכי https://www.waze.com/editor?env=il&lat=31.58796&lon=34.56521&zoomLevel=17&segments=931446,931447
+التعامرة https://www.waze.com/editor?env=il&lat=31.71288&lon=35.27271&zoomLevel=17&segments=1049847,1049850,1049835,1049836,1049839
+ניל"י https://www.waze.com/editor?env=il&lat=31.96754&lon=35.04650&zoomLevel=17&segments=818210
+דרך מערכת https://www.waze.com/editor?env=il&lat=33.09217&lon=35.12210&zoomLevel=17&segments=763183
+שביל ישראל - נחל דישון https://www.waze.com/editor?env=il&lat=33.06187&lon=35.46393&zoomLevel=17&segments=1216485,1054653
+שביל ישראל נחל דישון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+מכון טיהור שפכים כרמיאל https://www.waze.com/editor?env=il&lat=32.90133&lon=35.20866&zoomLevel=17&segments=1461893,1479364,838484,921553
+דרך הירקון https://www.waze.com/editor?env=il&lat=32.13062&lon=34.91028&zoomLevel=17&segments=1248599
+תצפית נחל אוג https://www.waze.com/editor?env=il&lat=31.80929&lon=35.33845&zoomLevel=17&segments=1110641,1175939,1175938
+בא"ח שפיפון https://www.waze.com/editor?env=il&lat=31.43651&lon=34.86582&zoomLevel=17&segments=186013
+פארק הירקון - שביל ישראל https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+שדה בועז https://www.waze.com/editor?env=il&lat=31.69033&lon=35.14631&zoomLevel=17&segments=1179817,1139003,1347029
+חניה ציבורית https://www.waze.com/editor?env=il&lat=32.29862&lon=34.87600&zoomLevel=17&segments=842291,928681
+סינגל יער גברעם https://www.waze.com/editor?env=il&lat=31.59259&lon=34.60715&zoomLevel=17&segments=1604804,1604805
+כביש גישה חורבת קציון https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+קידוח מגד 5 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+לזינוק הקפת התבור https://www.waze.com/editor?env=il&lat=32.69405&lon=35.41201&zoomLevel=17&segments=633755,788397
+מחצבת שגב https://www.waze.com/editor?env=il&lat=32.86212&lon=35.26004&zoomLevel=17&segments=1685343,1685344
+דרך נוף הכרמים https://www.waze.com/editor?env=il&lat=32.05145&lon=35.32471&zoomLevel=17&segments=1399328,275574,698285,870829,400269
+דרך מעלה לבונה https://www.waze.com/editor?env=il&lat=32.05195&lon=35.25747&zoomLevel=17&segments=1129000,1128999,1027912
+קליבר 3 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חומה ומגדל - יער חניתה https://www.waze.com/editor?env=il&lat=33.08009&lon=35.16453&zoomLevel=17&segments=134573
+שער סגור 4233 https://www.waze.com/editor?env=il&lat=31.87130&lon=34.86157&zoomLevel=17&segments=881133
+Salfit - Ramallah https://www.waze.com/editor?env=il&lat=32.06512&lon=35.15230&zoomLevel=17&segments=754074,1419492
+Road to Goats with the Wind https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+וירוס https://www.waze.com/editor?env=il&lat=33.05488&lon=35.43555&zoomLevel=17&segments=903296
+גבעת וולפסון https://www.waze.com/editor?env=il&lat=32.72053&lon=35.01704&zoomLevel=17&segments=904411
+ייעור גליל עליון https://www.waze.com/editor?env=il&lat=32.97875&lon=35.50168&zoomLevel=17&segments=855940
+דרך מרכז שדה קק"ל לביא https://www.waze.com/editor?env=il&lat=32.77285&lon=35.41840&zoomLevel=17&segments=262560
+שיבולת https://www.waze.com/editor?env=il&lat=31.98965&lon=34.94510&zoomLevel=17&segments=914737
+דרך עפר עין השלושה https://www.waze.com/editor?env=il&lat=31.35078&lon=34.38745&zoomLevel=17&segments=1022297,914899
+וואדי קלט https://www.waze.com/editor?env=il&lat=31.82062&lon=35.39019&zoomLevel=17&segments=1580494,1580495
+יב״א https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+עוז וגאון https://www.waze.com/editor?env=il&lat=31.64235&lon=35.13499&zoomLevel=17&segments=1660029,1660028,925491
+תחנת דלק בת שלמה https://www.waze.com/editor?env=il&lat=32.60255&lon=35.01792&zoomLevel=17&segments=932244,932243
+פז סולם צור https://www.waze.com/editor?env=il&lat=33.06835&lon=35.11124&zoomLevel=17&segments=1391229
+דרך חסדאי אליעזר https://www.waze.com/editor?env=il&lat=32.17667&lon=34.98001&zoomLevel=17&segments=205256
+דור אלון צומת יובלים https://www.waze.com/editor?env=il&lat=32.86396&lon=35.26775&zoomLevel=17&segments=1235964
+תחנת דלק הגליל https://www.waze.com/editor?env=il&lat=32.86430&lon=35.27444&zoomLevel=17&segments=903322
+פז מנדא https://www.waze.com/editor?env=il&lat=32.81130&lon=35.24756&zoomLevel=17&segments=903357,903356
+סונול צומת גולני https://www.waze.com/editor?env=il&lat=32.77242&lon=35.39369&zoomLevel=17&segments=1356710
+אל-ח%27נסא‬‎ https://www.waze.com/editor?env=il&lat=32.11789&lon=34.98858&zoomLevel=17&segments=594713,1056393,1056394
+כניסה לקדומים צפון https://www.waze.com/editor?env=il&lat=32.23402&lon=35.17107&zoomLevel=17&segments=263889
+אלשיך עבדאללה https://www.waze.com/editor?env=il&lat=32.39743&lon=35.03900&zoomLevel=17&segments=310042
+דרך נוף קריית אתא https://www.waze.com/editor?env=il&lat=32.78211&lon=35.15856&zoomLevel=17&segments=1526661,1526666,1526806,1526805,1730150,1730149
+כניסה למטע מנגו מירב https://www.waze.com/editor?env=il&lat=32.43240&lon=35.44281&zoomLevel=17&segments=966841
+גישה למנהרה 3 https://www.waze.com/editor?env=il&lat=31.81240&lon=35.16784&zoomLevel=17&segments=964361
+נחל לוז https://www.waze.com/editor?env=il&lat=31.81159&lon=35.16885&zoomLevel=17&segments=981968
+דרך - קידוח כוכב השחר https://www.waze.com/editor?env=il&lat=31.97162&lon=35.33688&zoomLevel=17&segments=447290
+כביש שירות - אלונית https://www.waze.com/editor?env=il&lat=32.15986&lon=34.94316&zoomLevel=17&segments=1160105,1160106
+כוכב הצפון https://www.waze.com/editor?env=il&lat=32.48554&lon=35.00991&zoomLevel=17&segments=972935,972932
+גבעת הפרדונים https://www.waze.com/editor?env=il&lat=31.59002&lon=34.59882&zoomLevel=17&segments=980433
+מוצב חורש ירון https://www.waze.com/editor?env=il&lat=31.94539&lon=35.13784&zoomLevel=17&segments=980627
+למחנה שמשון https://www.waze.com/editor?env=il&lat=32.76772&lon=35.39216&zoomLevel=17&segments=995613
+נתיב מהיר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חיל ההנדסה https://www.waze.com/editor?env=il&lat=31.78280&lon=35.22735&zoomLevel=17&segments=964379
+אבן ג%27ובייר https://www.waze.com/editor?env=il&lat=31.79158&lon=35.22921&zoomLevel=17&segments=830300
+נחל זורם - עביר רק לג%27יפים https://www.waze.com/editor?env=il&lat=31.75928&lon=35.08847&zoomLevel=17&segments=1013936
+מנהרת נעמי שמר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+תחנת דלק "מפגש אולגה" https://www.waze.com/editor?env=il&lat=32.43962&lon=34.89135&zoomLevel=17&segments=129170
+דרך שירות רכבת ישראל בלבד https://www.waze.com/editor?env=il&lat=31.87595&lon=34.95755&zoomLevel=17&segments=1275325,1275324
+المقدسي https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך עין תות https://www.waze.com/editor?env=il&lat=31.91576&lon=35.23540&zoomLevel=17&segments=1042607
+דרך נוף נס ציונה https://www.waze.com/editor?env=il&lat=31.91517&lon=34.77370&zoomLevel=17&segments=1331583,1028041
+שבי שומרון https://www.waze.com/editor?env=il&lat=32.26404&lon=35.17110&zoomLevel=17&segments=1032053
+איחוד העם https://www.waze.com/editor?env=il&lat=31.87394&lon=35.13299&zoomLevel=17&segments=1033084
+القدس-الخليل https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+קאסר אל יהוד, %28אתר הטבילה%29 https://www.waze.com/editor?env=il&lat=31.84435&lon=35.51310&zoomLevel=17&segments=809189
+שקוף https://www.waze.com/editor?env=il&lat=32.00085&lon=35.43079&zoomLevel=17&segments=1110985,1046817
+חולות אשדוד https://www.waze.com/editor?env=il&lat=31.85673&lon=34.69710&zoomLevel=17&segments=1048606
+המישלטים https://www.waze.com/editor?env=il&lat=31.80251&lon=35.08682&zoomLevel=17&segments=73886
+אל-מתן https://www.waze.com/editor?env=il&lat=32.16038&lon=35.07485&zoomLevel=17&segments=1495044,1872420,1872421
+תחנת דלק מפגש השלום https://www.waze.com/editor?env=il&lat=32.95413&lon=35.18891&zoomLevel=17&segments=992343
+שער צפוני מחנה רגבים %28גולני%29 https://www.waze.com/editor?env=il&lat=32.52790&lon=35.05870&zoomLevel=17&segments=1068449
+שער דרומי מחנה רגבים %28גולני%29 https://www.waze.com/editor?env=il&lat=32.52455&lon=35.06298&zoomLevel=17&segments=1068453
+חוות מרים https://www.waze.com/editor?env=il&lat=32.42570&lon=34.90759&zoomLevel=17&segments=1069680
+שדרה 29 https://www.waze.com/editor?env=il&lat=32.47233&lon=34.89165&zoomLevel=17&segments=886869,560354,1054417,1054418,1253247,1073104,1073105,1073108,1073095,1073096,526545
+רחוב 2 https://www.waze.com/editor?env=il&lat=32.46686&lon=34.88684&zoomLevel=17&segments=1071957,1082273,1082274,1082276,1082277
+חניון בנין משרדים דרומי https://www.waze.com/editor?env=il&lat=32.46673&lon=34.88692&zoomLevel=17&segments=1071950
+חניון התחבורה https://www.waze.com/editor?env=il&lat=32.46686&lon=34.88775&zoomLevel=17&segments=1071956
+רחוב 10 https://www.waze.com/editor?env=il&lat=32.46911&lon=34.88944&zoomLevel=17&segments=1079569
+שדרה 27 https://www.waze.com/editor?env=il&lat=32.47405&lon=34.89155&zoomLevel=17&segments=585579
+אבו קוידר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+עין יבניאל https://www.waze.com/editor?env=il&lat=32.69247&lon=35.50514&zoomLevel=17&segments=1039887,1039886,461513
+שדרה 31 https://www.waze.com/editor?env=il&lat=32.47037&lon=34.89137&zoomLevel=17&segments=1079570,1072666,1076031
+רחוב 14 https://www.waze.com/editor?env=il&lat=32.47032&lon=34.88222&zoomLevel=17&segments=1040025
+רחוב 28 https://www.waze.com/editor?env=il&lat=32.47258&lon=34.88998&zoomLevel=17&segments=585532,1073097
+רחוב 32 https://www.waze.com/editor?env=il&lat=32.47357&lon=34.89073&zoomLevel=17&segments=1073092
+רחוב 38 https://www.waze.com/editor?env=il&lat=32.47519&lon=34.88941&zoomLevel=17&segments=1073101,1073102
+שדרה 35 https://www.waze.com/editor?env=il&lat=32.46962&lon=34.89366&zoomLevel=17&segments=671607
+רחוב 8 https://www.waze.com/editor?env=il&lat=32.46796&lon=34.88909&zoomLevel=17&segments=1072667
+רחוב 12 https://www.waze.com/editor?env=il&lat=32.46959&lon=34.88744&zoomLevel=17&segments=1358333,1084232,1082279
+שדרה 21 https://www.waze.com/editor?env=il&lat=32.46783&lon=34.88752&zoomLevel=17&segments=1080951
+הר גריזים https://www.waze.com/editor?env=il&lat=32.19404&lon=35.26859&zoomLevel=17&segments=532124
+שדרה 15 https://www.waze.com/editor?env=il&lat=32.46850&lon=34.88615&zoomLevel=17&segments=1080950
+שדרה 25 https://www.waze.com/editor?env=il&lat=32.47213&lon=34.89009&zoomLevel=17&segments=938873
+דרך חברון https://www.waze.com/editor?env=il&lat=31.72403&lon=35.20372&zoomLevel=17&segments=1492747
+דרך נוף הר טורען https://www.waze.com/editor?env=il&lat=32.79345&lon=35.35242&zoomLevel=17&segments=411086,411090,1480404,1480405,1096650,123867,241663
+שורה 3 https://www.waze.com/editor?env=il&lat=31.94447&lon=35.14906&zoomLevel=17&segments=1099502,1099503
+שורה 2 https://www.waze.com/editor?env=il&lat=31.94451&lon=35.14906&zoomLevel=17&segments=1099496
+שורה 4 https://www.waze.com/editor?env=il&lat=31.94464&lon=35.14883&zoomLevel=17&segments=1099499
+שורה 5 https://www.waze.com/editor?env=il&lat=31.94361&lon=35.14967&zoomLevel=17&segments=1099504,1099509,1099510
+כניסה לנבי ענר https://www.waze.com/editor?env=il&lat=31.95542&lon=35.10803&zoomLevel=17&segments=1108218
+שורה 1 https://www.waze.com/editor?env=il&lat=31.94461&lon=35.14935&zoomLevel=17&segments=980799
+כביש 60 הישן https://www.waze.com/editor?env=il&lat=31.67179&lon=35.14083&zoomLevel=17&segments=1107841
+מכון טיהור שפכים הסוללים https://www.waze.com/editor?env=il&lat=32.75045&lon=35.25991&zoomLevel=17&segments=1103415
+כביש בטחון https://www.waze.com/editor?env=il&lat=31.92118&lon=35.03900&zoomLevel=17&segments=1109258
+ציר המים - קו ירקון מערבי https://www.waze.com/editor?env=il&lat=31.42856&lon=34.55026&zoomLevel=17&segments=1446959,400668
+קו ירקון מערבי https://www.waze.com/editor?env=il&lat=31.45320&lon=34.56575&zoomLevel=17&segments=1115823
+מחסני המחסנים ישראל https://www.waze.com/editor?env=il&lat=31.91059&lon=34.77022&zoomLevel=17&segments=1120437
+חוות פלד https://www.waze.com/editor?env=il&lat=31.91127&lon=34.76941&zoomLevel=17&segments=1120439
+גשר 6 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גשר 10 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גשר 9 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חניה ברוש 5 https://www.waze.com/editor?env=il&lat=32.29953&lon=34.87508&zoomLevel=17&segments=1121629
+חניה טמבור https://www.waze.com/editor?env=il&lat=32.28866&lon=34.86137&zoomLevel=17&segments=1121688
+וילה מונסון פרימיום https://www.waze.com/editor?env=il&lat=33.00750&lon=35.22484&zoomLevel=17&segments=1122199
+וילה מונסון https://www.waze.com/editor?env=il&lat=33.00733&lon=35.22480&zoomLevel=17&segments=1122202
+בת חצור https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך אלקנה- חסום https://www.waze.com/editor?env=il&lat=32.05929&lon=35.25796&zoomLevel=17&segments=1128994,1128997
+גבעת הרואה https://www.waze.com/editor?env=il&lat=32.05485&lon=35.26221&zoomLevel=17&segments=1129104,1129102,1129133
+מאגר מים קולחים נוגה https://www.waze.com/editor?env=il&lat=31.61092&lon=34.68421&zoomLevel=17&segments=1141865
+מגדלים https://www.waze.com/editor?env=il&lat=32.08651&lon=35.34208&zoomLevel=17&segments=950879
+בית אמין https://www.waze.com/editor?env=il&lat=32.13071&lon=35.02476&zoomLevel=17&segments=1139059,1142233,1142234
+ח%27רבת ג%27לעוד https://www.waze.com/editor?env=il&lat=32.15101&lon=34.99581&zoomLevel=17&segments=1141333,1141332,1141320
+חבלה https://www.waze.com/editor?env=il&lat=32.13641&lon=35.00717&zoomLevel=17&segments=1141311,1141312
+כפר ת%27ולת%27 https://www.waze.com/editor?env=il&lat=32.14688&lon=35.03887&zoomLevel=17&segments=967057
+קראוות בני חסן https://www.waze.com/editor?env=il&lat=32.12565&lon=35.10048&zoomLevel=17&segments=1479422,1479423,1141257,1141256,1141205,1141209,1141210,1141194
+ארבל https://www.waze.com/editor?env=il&lat=32.80360&lon=35.48246&zoomLevel=17&segments=76050
+שביל הנחש https://www.waze.com/editor?env=il&lat=31.31501&lon=35.35843&zoomLevel=17&segments=1150511
+שביל הסוללה https://www.waze.com/editor?env=il&lat=31.31716&lon=35.35056&zoomLevel=17&segments=1528827,1528826
+לבורת מים https://www.waze.com/editor?env=il&lat=31.31720&lon=35.35176&zoomLevel=17&segments=1150560
+יחזקאל https://www.waze.com/editor?env=il&lat=31.84307&lon=35.30646&zoomLevel=17&segments=1790014,1790013
+רויזמן https://www.waze.com/editor?env=il&lat=31.84292&lon=35.30605&zoomLevel=17&segments=1506935,1506936
+סנה https://www.waze.com/editor?env=il&lat=31.84384&lon=35.30613&zoomLevel=17&segments=1151027,1151028,1151031,1151030
+בני אדם https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+שם טוב https://www.waze.com/editor?env=il&lat=31.84310&lon=35.30532&zoomLevel=17&segments=748522
+ציר מרווה https://www.waze.com/editor?env=il&lat=31.44781&lon=34.52271&zoomLevel=17&segments=1151697,1151698,1494362,1494361,1639332,1759190,1759191
+גבעת כ"ח https://www.waze.com/editor?env=il&lat=32.01853&lon=34.93810&zoomLevel=17&segments=1572384
+מחבר זרחיה שפיר https://www.waze.com/editor?env=il&lat=31.68868&lon=34.74024&zoomLevel=17&segments=1169125,1169124
+למטווח https://www.waze.com/editor?env=il&lat=32.14312&lon=35.12052&zoomLevel=17&segments=1171849
+שער מעונות %28סטודנטים בלבד%29 https://www.waze.com/editor?env=il&lat=32.10535&lon=35.20201&zoomLevel=17&segments=1173078
+חוצה אורגני בית https://www.waze.com/editor?env=il&lat=31.44570&lon=34.50700&zoomLevel=17&segments=745366
+אלראזי https://www.waze.com/editor?env=il&lat=32.41627&lon=35.03301&zoomLevel=17&segments=1175634
+הנתיב המהיר ל - תל אביב https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+נווה שריה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך החקלאים https://www.waze.com/editor?env=il&lat=32.20064&lon=34.85587&zoomLevel=17&segments=1746523
+תעשייה אווירית מערב https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+תעשייה אווירית מזרח https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+נתיב מילוט https://www.waze.com/editor?env=il&lat=32.87747&lon=35.26073&zoomLevel=17&segments=1197056,1197059
+מעבר רגלי בלבד https://www.waze.com/editor?env=il&lat=32.65885&lon=35.30338&zoomLevel=17&segments=1175550
+מנחת רוחמה https://www.waze.com/editor?env=il&lat=31.46264&lon=34.72097&zoomLevel=17&segments=983748
+שדרות כרמית https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חניון מקורה https://www.waze.com/editor?env=il&lat=31.90891&lon=35.00157&zoomLevel=17&segments=1204641
+פנימי,חוף צינברי https://www.waze.com/editor?env=il&lat=32.73660&lon=35.56903&zoomLevel=17&segments=1078356
+ציר המים - יזרעם ב%27 https://www.waze.com/editor?env=il&lat=31.38445&lon=34.52172&zoomLevel=17&segments=1210437
+דרך שניידר https://www.waze.com/editor?env=il&lat=31.68015&lon=34.72879&zoomLevel=17&segments=1545651
+מעבר ניר https://www.waze.com/editor?env=il&lat=31.67757&lon=34.72202&zoomLevel=17&segments=1211232
+מצפה הר יעלה https://www.waze.com/editor?env=il&lat=31.75090&lon=35.03738&zoomLevel=17&segments=778523
+תחנת דלק פז מסילת ציון https://www.waze.com/editor?env=il&lat=31.80816&lon=35.01797&zoomLevel=17&segments=1293701
+שביל נחל אלכסנדר https://www.waze.com/editor?env=il&lat=32.37762&lon=34.89711&zoomLevel=17&segments=58085,1073151
+השעורה https://www.waze.com/editor?env=il&lat=31.79898&lon=34.81156&zoomLevel=17&segments=932115
+דרך יד קנדי https://www.waze.com/editor?env=il&lat=31.75001&lon=35.13538&zoomLevel=17&segments=348782
+דרך כרם אביה https://www.waze.com/editor?env=il&lat=31.95862&lon=35.13144&zoomLevel=17&segments=1538795,1383418,1600942,1236696,1538794,1494435
+גשר בזק https://www.waze.com/editor?env=il&lat=32.91569&lon=35.11675&zoomLevel=17&segments=1236423,1236427,1236428
+שביל המעיינות-בנימין https://www.waze.com/editor?env=il&lat=31.96317&lon=35.13177&zoomLevel=17&segments=1236694
+מסיק https://www.waze.com/editor?env=il&lat=32.74354&lon=35.42282&zoomLevel=17&segments=190811,1188000,1188001
+מעבר חפיר מים https://www.waze.com/editor?env=il&lat=32.66327&lon=34.94230&zoomLevel=17&segments=80363,80368
+הדגן https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+מתחם עלמא https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך המקלחות https://www.waze.com/editor?env=il&lat=32.47259&lon=34.88992&zoomLevel=17&segments=1073099
+שדרה 23 https://www.waze.com/editor?env=il&lat=32.47370&lon=34.89014&zoomLevel=17&segments=1073362,1073363
+רחוב 36 https://www.waze.com/editor?env=il&lat=32.47444&lon=34.89155&zoomLevel=17&segments=1040015,585580
+דלק ארז https://www.waze.com/editor?env=il&lat=31.92103&lon=35.00700&zoomLevel=17&segments=820855
+מט"ש נתניה https://www.waze.com/editor?env=il&lat=32.37189&lon=34.89018&zoomLevel=17&segments=1073123
+דרך בורמה https://www.waze.com/editor?env=il&lat=31.79251&lon=35.04539&zoomLevel=17&segments=101910
+שער שטח אש https://www.waze.com/editor?env=il&lat=31.70042&lon=34.58927&zoomLevel=17&segments=1283564
+שער כניסה לבני אדם https://www.waze.com/editor?env=il&lat=31.84868&lon=35.29295&zoomLevel=17&segments=1287686
+מוזיאון בר-דוד https://www.waze.com/editor?env=il&lat=33.05970&lon=35.43153&zoomLevel=17&segments=1289448
+דרך לוד https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+Sheikh Zayed https://www.waze.com/editor?env=il&lat=31.53604&lon=34.50953&zoomLevel=17&segments=1316460,1316461,1316462,1316459
+al-Bahr https://www.waze.com/editor?env=il&lat=31.35812&lon=34.28926&zoomLevel=17&segments=1316540,1316541,1317671,1317678,1317672,1317675,1558710,1558709,1558735,1318175,1317695,1317691,1318180,1318176,1318179,1558734,1318300
+al-Mashtal https://www.waze.com/editor?env=il&lat=31.54077&lon=34.45152&zoomLevel=17&segments=1554118,1554151,1554152
+Kahira https://www.waze.com/editor?env=il&lat=31.51340&lon=34.42699&zoomLevel=17&segments=1555378,1555377
+al-Aqsa University https://www.waze.com/editor?env=il&lat=31.35846&lon=34.27667&zoomLevel=17&segments=1317673
+al-Seka https://www.waze.com/editor?env=il&lat=31.33686&lon=34.30133&zoomLevel=17&segments=1558544,1558541,1558561,1558560
+Jalal https://www.waze.com/editor?env=il&lat=31.34513&lon=34.30559&zoomLevel=17&segments=1318224
+al-Suniya https://www.waze.com/editor?env=il&lat=31.34336&lon=34.30536&zoomLevel=17&segments=1318242,1318243
+Rabaya https://www.waze.com/editor?env=il&lat=31.33726&lon=34.33636&zoomLevel=17&segments=1555592,1558500,1558499
+al-Qara https://www.waze.com/editor?env=il&lat=31.31256&lon=34.35927&zoomLevel=17&segments=1318285
+Khuza%27a https://www.waze.com/editor?env=il&lat=31.30993&lon=34.36361&zoomLevel=17&segments=1318287
+דרך הרעות https://www.waze.com/editor?env=il&lat=32.28210&lon=34.86587&zoomLevel=17&segments=1300951
+גישה לגן גפן כרם רעים https://www.waze.com/editor?env=il&lat=31.95845&lon=35.13840&zoomLevel=17&segments=1322195
+private road https://www.waze.com/editor?env=il&lat=32.08590&lon=34.93392&zoomLevel=17&segments=1259359
+אל ואדי אל שרקי https://www.waze.com/editor?env=il&lat=32.71326&lon=35.32802&zoomLevel=17&segments=1231974
+עוקף נצרת עילית https://www.waze.com/editor?env=il&lat=32.71315&lon=35.32794&zoomLevel=17&segments=1231900
+Jit https://www.waze.com/editor?env=il&lat=32.21586&lon=35.17081&zoomLevel=17&segments=1357768
+פצאל דרומי https://www.waze.com/editor?env=il&lat=32.03841&lon=35.46412&zoomLevel=17&segments=1197087,1238497
+פצאל מרכזי https://www.waze.com/editor?env=il&lat=32.04098&lon=35.46590&zoomLevel=17&segments=1238496
+פצאל צפוני https://www.waze.com/editor?env=il&lat=32.04364&lon=35.46914&zoomLevel=17&segments=1238517
+Hadab Al-Fawwar https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+שביל בית הבד - יער המלאכים https://www.waze.com/editor?env=il&lat=31.60487&lon=34.83314&zoomLevel=17&segments=1375599
+דרך השלום ע"ש חוסיין https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+נופים https://www.waze.com/editor?env=il&lat=32.15163&lon=35.10716&zoomLevel=17&segments=234561
+דור אלון תפן https://www.waze.com/editor?env=il&lat=32.98380&lon=35.28021&zoomLevel=17&segments=1398492
+נתיב בידוק מיכליות https://www.waze.com/editor?env=il&lat=31.30500&lon=34.73137&zoomLevel=17&segments=1493439
+דרך בריכת המים https://www.waze.com/editor?env=il&lat=32.10261&lon=35.38678&zoomLevel=17&segments=1071323
+شبتين https://www.waze.com/editor?env=il&lat=31.97417&lon=35.05047&zoomLevel=17&segments=1413026
+שביל ישראל - תל אפק https://www.waze.com/editor?env=il&lat=32.10830&lon=34.93286&zoomLevel=17&segments=1728131,1728132
+דרך רון ארד https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+כביש 60 ישן https://www.waze.com/editor?env=il&lat=31.66550&lon=35.14322&zoomLevel=17&segments=1463916
+طريق المعرجات https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+السنديان https://www.waze.com/editor?env=il&lat=32.01909&lon=35.19443&zoomLevel=17&segments=1468824
+דרך עפר לבית עלמין מנוחת עולם https://www.waze.com/editor?env=il&lat=32.29551&lon=34.87633&zoomLevel=17&segments=1468863
+מסלול מנחת תנובות https://www.waze.com/editor?env=il&lat=32.30869&lon=34.97797&zoomLevel=17&segments=1124360
+דרך הצבר - יער הכ"ח %28קולה%29 https://www.waze.com/editor?env=il&lat=32.04030&lon=34.95654&zoomLevel=17&segments=121975,121983,901389,878292
+שדרת הצברים - יער הכ"ח %28קולה%29 https://www.waze.com/editor?env=il&lat=32.03851&lon=34.95570&zoomLevel=17&segments=1026462,879398
+דרך המבצר - יער הכ"ח %28קולה%29 https://www.waze.com/editor?env=il&lat=32.03719&lon=34.96056&zoomLevel=17&segments=121997,879407
+דרך הכ"ח - יער הכ"ח %28קולה%29 https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+Bet eiba https://www.waze.com/editor?env=il&lat=32.22937&lon=35.20363&zoomLevel=17&segments=1347730,1347716
+דרך עינות פצאל https://www.waze.com/editor?env=il&lat=32.04993&lon=35.42186&zoomLevel=17&segments=1528998,1528995
+עוקף הוואלג%27ה https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+طريق دير مار سابا https://www.waze.com/editor?env=il&lat=31.71225&lon=35.32231&zoomLevel=17&segments=1049688
+דרך נוף יער שוקדה https://www.waze.com/editor?env=il&lat=31.42480&lon=34.52732&zoomLevel=17&segments=1284049
+שביל טל https://www.waze.com/editor?env=il&lat=31.42749&lon=34.47516&zoomLevel=17&segments=1268647,1064958
+שביל הפסגה https://www.waze.com/editor?env=il&lat=32.68653&lon=35.39018&zoomLevel=17&segments=1530799,1531606,1531613,1531612
+התבור כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+הגליל כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+הירדן כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+אחו בנימינה https://www.waze.com/editor?env=il&lat=32.49946&lon=34.95455&zoomLevel=17&segments=1306195
+מח"ל דרך בורמה %28מז%27%29 https://www.waze.com/editor?env=il&lat=31.80917&lon=35.02099&zoomLevel=17&segments=1326936
+الرشيد https://www.waze.com/editor?env=il&lat=31.52483&lon=34.43480&zoomLevel=17&segments=1317015,1317081,1554705,1554821,1554820,1555062,1555061,1316480,1555383,1555382,1555372,1554590,1554622,1554621,1554704,1554695,1554694,1556738,1554143,1316597,1554150,1554147,1554146,1554155,1554154,1554207,1554204,1554187,1554186,1554228,1554278,1554277
+بغداد https://www.waze.com/editor?env=il&lat=31.49708&lon=34.47448&zoomLevel=17&segments=1559923,1557111,1559924
+الكرامة https://www.waze.com/editor?env=il&lat=31.48602&lon=34.46330&zoomLevel=17&segments=1557884,1317520,1558047,1558045,1558048,1555327,1316715,1566247,1566303,1557883,1566355,1317521,1566354,1317509,1566350,1566345,1563653,1563652,1557345,1556373,1563699,1563698,1557372,1557371,1557344,1559959
+الكرامة https://www.waze.com/editor?env=il&lat=31.52237&lon=34.51040&zoomLevel=17&segments=1556993,1563662,1563661,1563618,1563631,1563630,1556677,1556676,1556990,1316440,1316442
+الجرو https://www.waze.com/editor?env=il&lat=31.50733&lon=34.48106&zoomLevel=17&segments=1555122,1557378,1557342,1557365,1557362,1557368,1557358,1557357,1557352,1557377
+الشعف https://www.waze.com/editor?env=il&lat=31.50248&lon=34.47901&zoomLevel=17&segments=1555123,1557381,1557382
+الرشيد https://www.waze.com/editor?env=il&lat=31.56566&lon=34.47168&zoomLevel=17&segments=1552987,1556029,1556030
+يحيى جبر https://www.waze.com/editor?env=il&lat=31.43516&lon=34.39930&zoomLevel=17&segments=1555516
+غوش قطيف https://www.waze.com/editor?env=il&lat=31.31719&lon=34.25867&zoomLevel=17&segments=1318104,1318105,1318337,1317813,1318338
+غوش قطيف https://www.waze.com/editor?env=il&lat=31.36521&lon=34.28213&zoomLevel=17&segments=1317658,1317699,1316537,1557222,1557221,1318211,1558986,1558985,1557216
+الرشيد https://www.waze.com/editor?env=il&lat=31.47588&lon=34.38845&zoomLevel=17&segments=1316492,1316493
+الرشيد https://www.waze.com/editor?env=il&lat=31.45451&lon=34.36731&zoomLevel=17&segments=1316498,1316489
+الرشيد https://www.waze.com/editor?env=il&lat=31.43777&lon=34.35083&zoomLevel=17&segments=1555637,1557988,1557987
+الرشيد https://www.waze.com/editor?env=il&lat=31.41492&lon=34.32639&zoomLevel=17&segments=1557206,1575194,1575195,1557197,1557188,1326702
+الرشيد https://www.waze.com/editor?env=il&lat=31.37334&lon=34.27810&zoomLevel=17&segments=1316536,1557223,1557224,1557215,1557214,1317545
+الرشيد https://www.waze.com/editor?env=il&lat=31.33572&lon=34.23486&zoomLevel=17&segments=1601866,1601867,1728910,1728909
+بني سهيلا https://www.waze.com/editor?env=il&lat=31.34302&lon=34.32425&zoomLevel=17&segments=1555572,1555828,1555827,1555824,1555582,1555602,1555597,1558498,1558497
+العودة https://www.waze.com/editor?env=il&lat=31.33973&lon=34.32801&zoomLevel=17&segments=1558509,1558508
+عبسان الكبيرة https://www.waze.com/editor?env=il&lat=31.32226&lon=34.34788&zoomLevel=17&segments=1318283,1318286
+عبسان الجديدة https://www.waze.com/editor?env=il&lat=31.34000&lon=34.34685&zoomLevel=17&segments=1557423,1557428,1557435,1557434,1557432
+كيسوفيم https://www.waze.com/editor?env=il&lat=31.38070&lon=34.35730&zoomLevel=17&segments=1317785,1317786
+خالد بن الوليد https://www.waze.com/editor?env=il&lat=31.42966&lon=34.36950&zoomLevel=17&segments=1555646,1555660,1557994,1557993
+جامعة الأقصى https://www.waze.com/editor?env=il&lat=31.35666&lon=34.27577&zoomLevel=17&segments=1317674
+الكرامة https://www.waze.com/editor?env=il&lat=31.54007&lon=34.53596&zoomLevel=17&segments=1556541,1556560,1556569,1556551,1556546,1556559,1556552,1556639,1556638,1316415,1552956,1316418,1556451,1556568,1556625,1556624,1556617,1556614
+صلاح خلف https://www.waze.com/editor?env=il&lat=31.53960&lon=34.46475&zoomLevel=17&segments=1553206,1553205,1553203,1563495,1563494,1563501,1563500,1553297,1553286,1553383,1553384
+القدس https://www.waze.com/editor?env=il&lat=31.52764&lon=34.48426&zoomLevel=17&segments=1555238,1557019,1557045,1557044,1556382,1555666,1353152,1557059,1555212,1555257,1555239,1563603,1563602
+الفالوجا https://www.waze.com/editor?env=il&lat=31.53709&lon=34.48860&zoomLevel=17&segments=1563729,1563728,1556049,1556039,1556043,1555197,1555193,1563479,1563478,1563612,1563611
+الفالوجا https://www.waze.com/editor?env=il&lat=31.54755&lon=34.49570&zoomLevel=17&segments=1556704,1559865,1559864,1563323,1563322
+المنشية https://www.waze.com/editor?env=il&lat=31.54636&lon=34.50749&zoomLevel=17&segments=1556698,1556685,1556684,1559910,1559909
+العودة https://www.waze.com/editor?env=il&lat=31.54768&lon=34.52078&zoomLevel=17&segments=1316664,1316759,1316760,1556431,1556430
+العودة https://www.waze.com/editor?env=il&lat=31.53921&lon=34.50908&zoomLevel=17&segments=1556110,1556109,1556198,1556415,1556420,1556419
+العودة https://www.waze.com/editor?env=il&lat=31.53040&lon=34.49738&zoomLevel=17&segments=1557054,1557053,1557038,1557037,1556094,1556093,1556091,1556102,1556401,1556400,1556387,1563601,1563600
+ام النصر https://www.waze.com/editor?env=il&lat=31.55054&lon=34.51918&zoomLevel=17&segments=1316662,1316659,1316658
+الجسر https://www.waze.com/editor?env=il&lat=31.54334&lon=34.52594&zoomLevel=17&segments=1556549,1556548,1556557,1556556,1556674,1556673,1556439,1556438,1556436,1556435
+البحر https://www.waze.com/editor?env=il&lat=31.54649&lon=34.47555&zoomLevel=17&segments=1561780,1552985,1552984,1556875,1563511,1563512,1561781,1562297,1562296,1563491,1563490,1559500,1559496
+النصر https://www.waze.com/editor?env=il&lat=31.52682&lon=34.45116&zoomLevel=17&segments=1554489,1554503,1554528,1554569,1578184,1578183,1554741,1554746,1554745,1554781,1554780,1554777,1554925,1555060,1555059,1555399,1555398,1553081,1553219,1553218,1553266,1553265,1553309,1553329,1553328,1553318,1553315,1553312,1553321,1553754,1553733,1553819,1553850,1553829,1553826,1553837,1553873,1553872,1553861,1553860,1554238,1554325,1554369,1554377,1554376
+التوام https://www.waze.com/editor?env=il&lat=31.54413&lon=34.47072&zoomLevel=17&segments=1316792,1316721
+التوام https://www.waze.com/editor?env=il&lat=31.55242&lon=34.47814&zoomLevel=17&segments=1552989,1559503,1559502
+النصيرات https://www.waze.com/editor?env=il&lat=31.45041&lon=34.38678&zoomLevel=17&segments=1558021,1558020,1557997,1557952,1557996
+عمر بن الخطاب https://www.waze.com/editor?env=il&lat=31.46746&lon=34.41066&zoomLevel=17&segments=1557948,1557881,1557880,1557949,1557864
+محمد العزايزة https://www.waze.com/editor?env=il&lat=31.40342&lon=34.37229&zoomLevel=17&segments=1558101,1558100,1558093
+الشهداء https://www.waze.com/editor?env=il&lat=31.41884&lon=34.34819&zoomLevel=17&segments=1557148,1557147,1557166,1557165,1557142
+عمر بن الخطاب https://www.waze.com/editor?env=il&lat=31.29532&lon=34.26906&zoomLevel=17&segments=1329288,1329289,1318123,1559453,1559452,1317797,1317728,1317727
+عمر بن الخطاب https://www.waze.com/editor?env=il&lat=31.32379&lon=34.28897&zoomLevel=17&segments=1887565,1887566,1887562,1887545,1887546,1887540,1887541,1887556
+طه حسين https://www.waze.com/editor?env=il&lat=31.29209&lon=34.25430&zoomLevel=17&segments=1559463,1559462,1559457
+الامام علي https://www.waze.com/editor?env=il&lat=31.29957&lon=34.24763&zoomLevel=17&segments=1602073,1602074,1602068,1602069,1602108,1602109,1602102,1602082,1318121,1602040,1602046,1602037,1318342,1602103,1602090
+ابن سينا https://www.waze.com/editor?env=il&lat=31.30652&lon=34.24392&zoomLevel=17&segments=1560595,1560624,1560610,1602408,1602407
+جمال عبد الناصر https://www.waze.com/editor?env=il&lat=31.34889&lon=34.30731&zoomLevel=17&segments=1558555,1558580,1558579,1558571,1318238,1318239,1558719,1558720,1318184,1558740,1558739
+شارع 5 https://www.waze.com/editor?env=il&lat=31.36185&lon=34.30176&zoomLevel=17&segments=1558983,1558982
+عثمان بن عفّان https://www.waze.com/editor?env=il&lat=31.28874&lon=34.25892&zoomLevel=17&segments=1559469,1559466
+القدس https://www.waze.com/editor?env=il&lat=31.34360&lon=34.31076&zoomLevel=17&segments=1555823,1555822,1555563
+شارع النصر https://www.waze.com/editor?env=il&lat=31.30136&lon=34.28739&zoomLevel=17&segments=1317724,1317723
+شارع ميراج https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+زايد https://www.waze.com/editor?env=il&lat=31.29153&lon=34.32642&zoomLevel=17&segments=1565978,1565966,1565994,1565993,1566134,1566133,1566116,1566123
+الفخاري https://www.waze.com/editor?env=il&lat=31.29815&lon=34.31968&zoomLevel=17&segments=1566002,1566011,1566034,1566016,1566031,1566030,1566028,1566027,1566099,1566050,1566049,1566098
+البحر https://www.waze.com/editor?env=il&lat=31.32167&lon=34.23482&zoomLevel=17&segments=1560575
+جاسر https://www.waze.com/editor?env=il&lat=31.31253&lon=34.23907&zoomLevel=17&segments=1560597,1560588,1560617,1560616,1602140,1602203,1602312,1602311,1602355,1602356,1602344,1602345
+Guraiz https://www.waze.com/editor?env=il&lat=31.31363&lon=34.24270&zoomLevel=17&segments=1560603,1560612,1560620,1560619,1602318,1602319,1602360,1602361,1602339,1602340
+The last st. https://www.waze.com/editor?env=il&lat=31.31225&lon=34.24061&zoomLevel=17&segments=1560608,1602224,1602225,1602335,1602352,1602353
+شارع النصف https://www.waze.com/editor?env=il&lat=31.30987&lon=34.24263&zoomLevel=17&segments=1560613,1560618,1602404,1602405
+شارع 10 https://www.waze.com/editor?env=il&lat=31.48855&lon=34.43096&zoomLevel=17&segments=1316702,1316703,1559537,1559536,1317057
+الصفطاوي https://www.waze.com/editor?env=il&lat=31.53605&lon=34.47711&zoomLevel=17&segments=1563487,1563488
+الجلاء https://www.waze.com/editor?env=il&lat=31.52306&lon=34.46094&zoomLevel=17&segments=1554434,1554433,1554446,1554445,1554470,1554475,1554474,1554513,1554544,1554556,1554555,1554532,1554896,1554895,1554890,1553919,1553918,1553901,1553971,1554420,1317035,1553013,1553053,1553052,1553069,1553249,1553248,1555669,1555668,1553887,1553886
+الرشيد https://www.waze.com/editor?env=il&lat=31.55177&lon=34.46013&zoomLevel=17&segments=1552959,1552958,1316398,1316399
+الكرامة https://www.waze.com/editor?env=il&lat=31.47865&lon=34.46667&zoomLevel=17&segments=1566326,1566324,1566322,1566321,1566335,1566334,1566333,1566310,1566307,1566306,1566313,1566336
+דרך משה נצר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+סמטת הבשן https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+חוות ברורים https://www.waze.com/editor?env=il&lat=31.76774&lon=34.78023&zoomLevel=17&segments=1856626,1856627,927360,1641123
+נווה הדסה https://www.waze.com/editor?env=il&lat=32.24887&lon=34.87519&zoomLevel=17&segments=31110
+פארק אוסטרליה https://www.waze.com/editor?env=il&lat=32.85974&lon=35.25845&zoomLevel=17&segments=1215938
+ל - מנחת %28מלחה%29, 50 שד%27 בגין דרום https://www.waze.com/editor?env=il&lat=31.75525&lon=35.19103&zoomLevel=17&segments=709647,988432
+60 עוקף חווארה - בהקמה https://www.waze.com/editor?env=il&lat=32.13303&lon=35.25955&zoomLevel=17&segments=1735146,1735145,1735148,1735149,1735142
+60 עוקף אל-ערוב - בהקמה https://www.waze.com/editor?env=il&lat=31.61743&lon=35.12703&zoomLevel=17&segments=1645620,1645617,1645615,1645614,1645680,1645679
+דרך חטיבת אלכסנדרוני https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך נוף גלעד https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=712386,
+Al Naseem street https://www.waze.com/editor?env=il&lat=31.86879&lon=35.44164&zoomLevel=17&segments=1640583
+شارع تعنك الرئيسي https://www.waze.com/editor?env=il&lat=32.52035&lon=35.22075&zoomLevel=17&segments=1420378,1420385,1702045,1702046,1702034,1420117,1420112,1420120,1420109,1420130
+شارع تعنك - عانين https://www.waze.com/editor?env=il&lat=32.51433&lon=35.21475&zoomLevel=17&segments=1420477,1420474
+شارع الطيبة https://www.waze.com/editor?env=il&lat=32.51329&lon=35.19652&zoomLevel=17&segments=1417951,1434236,1417940,1417943,1417946,1417952
+النفق https://www.waze.com/editor?env=il&lat=32.22747&lon=35.22285&zoomLevel=17&segments=1812464,1812463
+شارع الطب - جامعة النجاح الوطنية https://www.waze.com/editor?env=il&lat=32.22847&lon=35.22155&zoomLevel=17&segments=1699864
+شارع البي 3 - جامعة النجاح الوطنية https://www.waze.com/editor?env=il&lat=32.22897&lon=35.22169&zoomLevel=17&segments=1699867
+شوارع خاصة داخل جامعة النجاح الوطنية https://www.waze.com/editor?env=il&lat=32.22832&lon=35.22182&zoomLevel=17&segments=1699868,1699870,1699859,1699861,1699863,1699862,1699845,1699883,1699884,1699875,1699877,1699876,1701049,1701050,1701047
+אלחבאיל الحبايل https://www.waze.com/editor?env=il&lat=32.52800&lon=35.13997&zoomLevel=17&segments=1710721
+شارع طوباس الزبابدة https://www.waze.com/editor?env=il&lat=32.37226&lon=35.33853&zoomLevel=17&segments=1411127,1412710
+شارع زبوبا الرئيسي https://www.waze.com/editor?env=il&lat=32.53772&lon=35.21885&zoomLevel=17&segments=1491006,1491026,1491027,1491024,1491014,1491015,1491011,1491008,1491021
+شارع برقثين https://www.waze.com/editor?env=il&lat=32.44275&lon=35.26348&zoomLevel=17&segments=1409043,1453471,1453466,1453474,1453473
+شارع حيفا https://www.waze.com/editor?env=il&lat=32.50572&lon=35.24296&zoomLevel=17&segments=1423630,1422792,1434137,1434138,1435519,1435500,1435496,1435499,1435533,1435534,1435528,1423616,1419775,1419796,1419752,1418805,1418806,1418862,1421112,1699677,1699679,1699678,1420104,1699688,1699681,1699680,1699682,1699685,1699687,1699686,1703427,1703428,1420115,1423704,1415973
+ציר דני https://www.waze.com/editor?env=il&lat=32.48406&lon=35.14975&zoomLevel=17&segments=924420,924419,924416,924417
+דרך 1 https://www.waze.com/editor?env=il&lat=31.32404&lon=35.34685&zoomLevel=17&segments=1733754,1733755,1733748,1733738,1733737
+דרך 2 https://www.waze.com/editor?env=il&lat=31.32422&lon=35.34735&zoomLevel=17&segments=1733725,1733750,1733749
+דרך 3 https://www.waze.com/editor?env=il&lat=31.32466&lon=35.34623&zoomLevel=17&segments=1733742,1733741
+דרך 4 https://www.waze.com/editor?env=il&lat=31.32398&lon=35.34762&zoomLevel=17&segments=1733724
+דרך 5 https://www.waze.com/editor?env=il&lat=31.32339&lon=35.34845&zoomLevel=17&segments=1733730
+דרך 6 https://www.waze.com/editor?env=il&lat=31.32311&lon=35.34705&zoomLevel=17&segments=1733752,1733751
+شارع الطيبة - رمانة https://www.waze.com/editor?env=il&lat=32.51644&lon=35.19574&zoomLevel=17&segments=1417949,1417814,1417816,1417807,1417853,1417829,1417827,1417826,1417832,1417879,1417878,1417875,1417874,1417856,1417868,1417911,1417905,1417915,1417914,1417888,1417948
+דרך בטחון לגדר ההפרדה https://www.waze.com/editor?env=il&lat=31.77597&lon=35.15936&zoomLevel=17&segments=1754940,1083785,1787547,1787538,1787553,1787552,1331168,1787554,1787611,1787610,1754770,1754939,1754950
+طريق بيت اكسا https://www.waze.com/editor?env=il&lat=31.82857&lon=35.16641&zoomLevel=17&segments=1754768,1754769,1754760,1754873,1754870,1754894
+طريق بيت حنينا التحتا https://www.waze.com/editor?env=il&lat=31.84208&lon=35.20932&zoomLevel=17&segments=1447860,1447861,1757014,1757015
+طريق بيت اجزا https://www.waze.com/editor?env=il&lat=31.84314&lon=35.15302&zoomLevel=17&segments=1868614,1868678,1868679,1868712,1868713,1868704
+طريق بيت دقو https://www.waze.com/editor?env=il&lat=31.85477&lon=35.14485&zoomLevel=17&segments=1757018
+כניסה לבני ראם https://www.waze.com/editor?env=il&lat=31.76046&lon=34.78778&zoomLevel=17&segments=1771499,1771500
+طريق الخليل https://www.waze.com/editor?env=il&lat=31.69411&lon=35.17569&zoomLevel=17&segments=1784157,1786542,1786540,1781820,1781811,1781812,1087607,1783958,1783968,1782409,1782481,1782480,1782478,1782477,1782476,1047291,1782556,1782545,1782549,1782540,1782576,1782575,1782561,1782566,1782565,1790931,1790930,1790932,1635503,1783003,1783004,1623283,1046042,1783515,1783517,1783516,1783505,1783508,1783500,1783544,1783539,1783541,1783540,1783532,1783526,1783525,1783524,1783567,1783564,1783555,1783554,1783557,1783556,1783609,1089313,1089314,1783623,1783622,1781745,1087610,1784156,1784145
+שביל הר ציון https://www.waze.com/editor?env=il&lat=32.56834&lon=35.51984&zoomLevel=17&segments=1789564
+طريق الهروب https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+דרך נוף חוות עמק תרצה https://www.waze.com/editor?env=il&lat=32.19974&lon=35.42603&zoomLevel=17&segments=1793464
+תחנת דלק יעד דייר חנא https://www.waze.com/editor?env=il&lat=32.85779&lon=35.38209&zoomLevel=17&segments=1795664
+דרך 2.0 https://www.waze.com/editor?env=il&lat=31.32452&lon=35.34861&zoomLevel=17&segments=1795886
+דרך 5.5 https://www.waze.com/editor?env=il&lat=31.32410&lon=35.34911&zoomLevel=17&segments=1795885
+طريق بيرنبالا https://www.waze.com/editor?env=il&lat=31.85284&lon=35.19067&zoomLevel=17&segments=1797498,1414763,1397535,1094470,1487243,1094478,1094479,1797497,1797493,1797492,884462
+خلة النعمان https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+גונן %28קטמון%29, תלפיות https://www.waze.com/editor?env=il&lat=31.75666&lon=35.19519&zoomLevel=17&segments=1802745
+גונן %28קטמון%29, א.ת. תלפיות https://www.waze.com/editor?env=il&lat=31.75923&lon=35.19957&zoomLevel=17&segments=1802747
+50 שד%27 בגין, קרית היובל %28מנהרה%29 https://www.waze.com/editor?env=il&lat=31.75923&lon=35.19957&zoomLevel=17&segments=1802750
+מרכז העיר, גבעת רם %28מנהרה%29 https://www.waze.com/editor?env=il&lat=31.75666&lon=35.19519&zoomLevel=17&segments=1802741
+الابرار https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+הגלעד כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+הגולן כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+נחל שניר כרם רעים https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=
+شارع الحفيرة https://www.waze.com/editor?env=il&lat=32.53034&lon=35.22296&zoomLevel=17&segments=1699692
+خط العرقة والهاشمية https://www.waze.com/editor?env=il&lat=32.49049&lon=35.22121&zoomLevel=17&segments=1441890,1441891,1420480,1420259
+طريق خرائب ام اللحم https://www.waze.com/editor?env=il&lat=31.83813&lon=35.10440&zoomLevel=17&segments=1413468,1413464
+רח%27 117 https://www.waze.com/editor?env=il&lat=32.75862&lon=35.18221&zoomLevel=17&segments=1887359,1887385,1887386,1887377,1887378,1887368,1887369,1887361,1887362
+דרך דיפנבייקר https://www.waze.com/editor?env=il&lat=31.80519&lon=35.06663&zoomLevel=17&segments=1548702,1548701,1276537,1074531,1285335,1285336
+طريق سلفيت - اللّبن الشرقيّة https://www.waze.com/editor?env=il&lat=32.07621&lon=35.22382&zoomLevel=17&segments=1898316
+-------------------------------------------
+star2000tv
+תחנת דלק https://www.waze.com/editor?env=il&lat=32.71223&lon=35.13777&zoomLevel=17&segments=1360581,1360582,190558,243850,935032,935033
+שביל הגולן https://www.waze.com/editor?env=il&lat=33.04214&lon=35.72276&zoomLevel=17&segments=1635545,1635552,1635553,1630744,1630741,1630742,1630743,1217510,1217511,1217509,1217512
+לבריכה הסודית https://www.waze.com/editor?env=il&lat=32.93346&lon=35.38990&zoomLevel=17&segments=1568110,1568109
+שביל הליכה https://www.waze.com/editor?env=il&lat=32.31834&lon=35.06687&zoomLevel=17&segments=1439555,587591,305537
+מתלול צורים https://www.waze.com/editor?env=il&lat=32.93923&lon=35.29930&zoomLevel=17&segments=670889,671086,671087,1054704,1054703
+טיילת גן סער https://www.waze.com/editor?env=il&lat=33.24618&lon=35.76777&zoomLevel=17&segments=925712
+נבי אל יעפורי https://www.waze.com/editor?env=il&lat=33.24112&lon=35.76839&zoomLevel=17&segments=927990
+חמדת ימים https://www.waze.com/editor?env=il&lat=32.94881&lon=35.42438&zoomLevel=17&segments=917295,917296,74702
+חניה בריכת רם https://www.waze.com/editor?env=il&lat=33.23798&lon=35.76581&zoomLevel=17&segments=1460837
+קובסי מזרח https://www.waze.com/editor?env=il&lat=32.94186&lon=35.29917&zoomLevel=17&segments=1435718
+-------------------------------------------
+zeze13
+תחנת דלק https://www.waze.com/editor?env=il&lat=32.71223&lon=35.13777&zoomLevel=17&segments=1360581,1360582,190558,243850,935032,935033
+מוחרקה https://www.waze.com/editor?env=il&lat=32.67442&lon=35.08646&zoomLevel=17&segments=17450
+יער https://www.waze.com/editor?env=il&lat=32.57333&lon=35.19048&zoomLevel=17&segments=296668
+גבעת דיצה https://www.waze.com/editor?env=il&lat=32.62226&lon=35.11185&zoomLevel=17&segments=125478
+גשר אירי https://www.waze.com/editor?env=il&lat=32.59035&lon=35.02259&zoomLevel=17&segments=209957
+לאגם כפר ברוך https://www.waze.com/editor?env=il&lat=32.65019&lon=35.20049&zoomLevel=17&segments=1062076
+נוף נחל חרוד https://www.waze.com/editor?env=il&lat=32.52052&lon=35.44780&zoomLevel=17&segments=973323,1137989,1137990,813104,813105,1262674,1262673,145487,199976,193979,1685081,1685077,1685078,192367,190345,270223,270225,270226,192464,192465
+טוביה פנחס https://www.waze.com/editor?env=il&lat=32.59110&lon=35.02297&zoomLevel=17&segments=209950
+מדי מים גוטמן https://www.waze.com/editor?env=il&lat=32.59024&lon=35.02743&zoomLevel=17&segments=209963
+למרחביה מושב https://www.waze.com/editor?env=il&lat=32.59619&lon=35.31349&zoomLevel=17&segments=215578,211550
+הפארק https://www.waze.com/editor?env=il&lat=32.59226&lon=35.13202&zoomLevel=17&segments=557965,557983,228250
+אנדרטת יער הקיבוצים https://www.waze.com/editor?env=il&lat=32.59765&lon=35.13143&zoomLevel=17&segments=228253
+מטעים בת שלמה https://www.waze.com/editor?env=il&lat=32.62177&lon=35.02735&zoomLevel=17&segments=199402
+מקשר בית זרזיר https://www.waze.com/editor?env=il&lat=32.71788&lon=35.20847&zoomLevel=17&segments=281098
+תחנת דלק דור אלון https://www.waze.com/editor?env=il&lat=32.57324&lon=35.19690&zoomLevel=17&segments=1144951,1144950,1144955
+דרך נחל תנינים צפונית https://www.waze.com/editor?env=il&lat=32.56397&lon=35.04152&zoomLevel=17&segments=180027,1283207,1283206
+דרך נחל תנינים דרומית https://www.waze.com/editor?env=il&lat=32.55688&lon=35.02004&zoomLevel=17&segments=313365,515922,313359,313355,313363,519002
+דרך שמורת האלונים https://www.waze.com/editor?env=il&lat=32.71801&lon=35.19765&zoomLevel=17&segments=1635673,1635674,1222978,1222977,523628,354905,357133,357129,357130
+בית קברות אלוני אבא https://www.waze.com/editor?env=il&lat=32.73339&lon=35.17831&zoomLevel=17&segments=789802,789803
+דרך הפארק https://www.waze.com/editor?env=il&lat=32.57517&lon=35.11649&zoomLevel=17&segments=180037,558008,558007,1578442,144358,869869,1194805,228237
+דרך אש https://www.waze.com/editor?env=il&lat=32.58605&lon=35.13118&zoomLevel=17&segments=557980,557982,144362
+עליה לפסגה https://www.waze.com/editor?env=il&lat=32.58706&lon=35.12874&zoomLevel=17&segments=228243,144366
+סינגל אופניים - הדורבן https://www.waze.com/editor?env=il&lat=32.59190&lon=35.13273&zoomLevel=17&segments=384572
+סינגל אופניים - הנשרן https://www.waze.com/editor?env=il&lat=32.58490&lon=35.13313&zoomLevel=17&segments=384578,557985
+סינגל אופניים - הפרפרים https://www.waze.com/editor?env=il&lat=32.58672&lon=35.13121&zoomLevel=17&segments=557981,385013
+סינגל אופניים ג%27מבורי תחתון https://www.waze.com/editor?env=il&lat=32.59878&lon=35.13019&zoomLevel=17&segments=384558,557995
+שער סגור https://www.waze.com/editor?env=il&lat=32.50826&lon=35.04012&zoomLevel=17&segments=524251,595289
+דרך מקשרת קיבוץ מושב https://www.waze.com/editor?env=il&lat=32.60263&lon=35.31086&zoomLevel=17&segments=211578
+יד לבנים מגידו - עומרים https://www.waze.com/editor?env=il&lat=32.60225&lon=35.09590&zoomLevel=17&segments=462564,470375,470372,905639,905638
+בית ספר עומרים https://www.waze.com/editor?env=il&lat=32.60222&lon=35.09583&zoomLevel=17&segments=462566
+אודם https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=,1062791
+לג%27וערה https://www.waze.com/editor?env=il&lat=32.61639&lon=35.11046&zoomLevel=17&segments=142271
+שער https://www.waze.com/editor?env=il&lat=32.83529&lon=35.33268&zoomLevel=17&segments=1511954,1511997,1511979,1000059,732287,686446,1851753,1760791,1217823,1030289,1811872
+מעבר רכב חקלאי https://www.waze.com/editor?env=il&lat=32.70290&lon=35.20023&zoomLevel=17&segments=990936
+פז תענכים https://www.waze.com/editor?env=il&lat=32.58333&lon=35.24400&zoomLevel=17&segments=1780810,1780809
+מסלול מנחת מגידו https://www.waze.com/editor?env=il&lat=32.59721&lon=35.22522&zoomLevel=17&segments=992295,992307,992306,992305
+מסלול הסעה מנחת מגידו https://www.waze.com/editor?env=il&lat=32.59680&lon=35.23458&zoomLevel=17&segments=992297,992296
+דרך עפר לכעביה טבאש https://www.waze.com/editor?env=il&lat=32.73976&lon=35.18125&zoomLevel=17&segments=311808
+אלסודאני https://www.waze.com/editor?env=il&lat=32.74664&lon=35.17222&zoomLevel=17&segments=1887456,1887459,1887568,1887569
+שביל השבלולים https://www.waze.com/editor?env=il&lat=32.72073&lon=35.09417&zoomLevel=17&segments=905573
+-------------------------------------------
+lg1992
+גנים https://www.waze.com/editor?env=il&lat=31.25131&lon=34.66416&zoomLevel=17&segments=964925,964921,964936,964937
+4X4 https://www.waze.com/editor?env=il&lat=31.38654&lon=34.93161&zoomLevel=17&segments=334114,333653,333652,333655,333651,333657,333656,1495273,333568,314375,292056,286709,1215291,313613,189760,187653,952454,1108574,333564,333563,333562,365088,333557,333556,333555,323344,392672,300922
+השדות https://www.waze.com/editor?env=il&lat=31.50398&lon=34.56623&zoomLevel=17&segments=909809,909810,1382695,1382696
+דרך עפר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=868926,485758,1177551,338760,516519,396540,865607,865606,553475,866076,858920,394179,676374,,530095,878306,557847,208838,567301,1163444,1187513,1533182,1533181
+עין יהב - חצבה https://www.waze.com/editor?env=il&lat=30.67560&lon=35.24073&zoomLevel=17&segments=1100341,1348715,1633784,1633785,1633779,995672
+נקרות https://www.waze.com/editor?env=il&lat=30.67747&lon=35.24503&zoomLevel=17&segments=124956
+שקוף - עין ירקעם https://www.waze.com/editor?env=il&lat=30.93780&lon=35.04136&zoomLevel=17&segments=141026
+כביש הערבה הירדני https://www.waze.com/editor?env=il&lat=31.02195&lon=35.46105&zoomLevel=17&segments=150363,150366
+כביש הערבה הישן https://www.waze.com/editor?env=il&lat=30.74079&lon=35.24179&zoomLevel=17&segments=919430,1457263,160257,1457262
+תצפית מכרה מזר https://www.waze.com/editor?env=il&lat=30.96035&lon=35.23815&zoomLevel=17&segments=160317
+מצפה מכרה עורץ https://www.waze.com/editor?env=il&lat=30.97980&lon=35.25827&zoomLevel=17&segments=160322,160321
+לעין עברונה https://www.waze.com/editor?env=il&lat=29.67944&lon=34.99156&zoomLevel=17&segments=1496596
+לעמק הנעלם https://www.waze.com/editor?env=il&lat=29.67239&lon=34.96088&zoomLevel=17&segments=872436
+תל ערד https://www.waze.com/editor?env=il&lat=31.27566&lon=35.12724&zoomLevel=17&segments=994770,994769
+מאגר https://www.waze.com/editor?env=il&lat=31.24362&lon=34.50420&zoomLevel=17&segments=856123,856117,856115,402388,402385
+דרך עפר ללא שם https://www.waze.com/editor?env=il&lat=31.78364&lon=35.13186&zoomLevel=17&segments=584100,584102,205279,321290,320439,563242,567302,293140,233811
+דרך השדות https://www.waze.com/editor?env=il&lat=31.21067&lon=34.49861&zoomLevel=17&segments=1517666,516679,279285,865597,865596,865599,865585,865600,856387,830881,867899,867898
+דקל הדום https://www.waze.com/editor?env=il&lat=29.65906&lon=34.99282&zoomLevel=17&segments=872529
+הגבול https://www.waze.com/editor?env=il&lat=29.69919&lon=35.01167&zoomLevel=17&segments=994985
+להר ברק https://www.waze.com/editor?env=il&lat=29.79503&lon=34.87640&zoomLevel=17&segments=216417,189118
+נחל בטם https://www.waze.com/editor?env=il&lat=29.79771&lon=34.85767&zoomLevel=17&segments=189126,189124,189129,189121
+הפטרולים https://www.waze.com/editor?env=il&lat=29.77292&lon=34.86819&zoomLevel=17&segments=189114,242288
+אירוסים https://www.waze.com/editor?env=il&lat=31.27139&lon=35.12565&zoomLevel=17&segments=194966
+227, מעלה עקרבים https://www.waze.com/editor?env=il&lat=30.90676&lon=35.13164&zoomLevel=17&segments=216646
+דרך מקשרת https://www.waze.com/editor?env=il&lat=31.61054&lon=34.76648&zoomLevel=17&segments=1264193,1264192,1116017,211252
+דרך חקלאית סלולה https://www.waze.com/editor?env=il&lat=32.21892&lon=35.25186&zoomLevel=17&segments=1262639,519064,203603
+חניון לילה https://www.waze.com/editor?env=il&lat=30.41508&lon=34.70125&zoomLevel=17&segments=283608,283609,290218
+הר ספון https://www.waze.com/editor?env=il&lat=30.86800&lon=34.55740&zoomLevel=17&segments=201876
+דרך הפסלים https://www.waze.com/editor?env=il&lat=30.65794&lon=34.85783&zoomLevel=17&segments=1530279,1530280,1530278,1530277,1530289
+רמת בקע https://www.waze.com/editor?env=il&lat=31.10530&lon=34.86859&zoomLevel=17&segments=1879614,1879615,1197756,1197757,963022,1173601,1845230,1845225,1507299,1173596
+דרך נוף https://www.waze.com/editor?env=il&lat=31.94656&lon=35.12765&zoomLevel=17&segments=1803828,1803829,1210836,1212283,1841820,1841821,781505,263788,1268491,118540,145467
+ציר הנפט https://www.waze.com/editor?env=il&lat=32.44089&lon=35.61471&zoomLevel=17&segments=1668825,1313228,1189144,1189149,1229708,1398338,201323,872370,1313221,1314816,1222160,1222161,1254478,1254477,1189142,1189145,201234,1398337
+מקשר אוהד תלמי אליהו https://www.waze.com/editor?env=il&lat=31.23330&lon=34.42994&zoomLevel=17&segments=184575
+4x4 https://www.waze.com/editor?env=il&lat=31.29886&lon=34.93645&zoomLevel=17&segments=146301,235378,1233916,1511722,1459278,1459279,333670,333673,333672,1158086,326641,393935,390445,1017482,1112286,1112287,1282139,1847933
+ירידה למאנורות נחש צמא https://www.waze.com/editor?env=il&lat=30.76084&lon=34.86919&zoomLevel=17&segments=228283,228282,228284
+חניון לילה - נחל גלד - נקרות https://www.waze.com/editor?env=il&lat=30.63336&lon=35.05129&zoomLevel=17&segments=236818
+נחל מעוק https://www.waze.com/editor?env=il&lat=30.60155&lon=35.05329&zoomLevel=17&segments=236828
+אדום-שמורת טבע מצפה רמון https://www.waze.com/editor?env=il&lat=30.60770&lon=34.90217&zoomLevel=17&segments=807251
+בארות עודד https://www.waze.com/editor?env=il&lat=30.47801&lon=34.72559&zoomLevel=17&segments=240003
+שבטה https://www.waze.com/editor?env=il&lat=30.93115&lon=34.63439&zoomLevel=17&segments=1148638
+ראש זוהר https://www.waze.com/editor?env=il&lat=31.23216&lon=35.23712&zoomLevel=17&segments=243772
+קניון הלס https://www.waze.com/editor?env=il&lat=31.01386&lon=34.50763&zoomLevel=17&segments=278958
+ללא שם - עץ דקל https://www.waze.com/editor?env=il&lat=31.02469&lon=34.54301&zoomLevel=17&segments=278980
+רחובות שבנגב https://www.waze.com/editor?env=il&lat=31.03135&lon=34.56673&zoomLevel=17&segments=201834
+נחל ב"ש https://www.waze.com/editor?env=il&lat=31.21468&lon=34.69387&zoomLevel=17&segments=1306703,1289135,1289134,1289133,1289132
+חניון לילה עין עקב https://www.waze.com/editor?env=il&lat=30.83287&lon=34.81163&zoomLevel=17&segments=1466590
+חניון לילה בורות לוץ https://www.waze.com/editor?env=il&lat=30.51352&lon=34.60865&zoomLevel=17&segments=285182
+הר שגיא מזרח https://www.waze.com/editor?env=il&lat=30.35996&lon=34.64346&zoomLevel=17&segments=160820
+דרך עפר חקלאית https://www.waze.com/editor?env=il&lat=31.32735&lon=34.53341&zoomLevel=17&segments=337952,423354,897269,897270,396561,1221276,859689,859688,516680,396251,397723,397731,518938,518947,395079,395087,516689,862594,510619,855759,855766,404499,855636,516702,518914,397775,394116,855311,519428,855306,516525,858911,858914,856910,394157,518933,518931,518936,856942,999203,855704,519057,850836,855701,854929,331174,1529841,1529840,518906,518905,404565,402398,397785,855649,470365,145447,1190789
+חצבה - עידן https://www.waze.com/editor?env=il&lat=30.78561&lon=35.29299&zoomLevel=17&segments=1138931,1138932
+חצבה - עין יהב https://www.waze.com/editor?env=il&lat=30.72732&lon=35.28290&zoomLevel=17&segments=1160416,273437,493905,1236671,1236672
+אדום-נחל פרצים https://www.waze.com/editor?env=il&lat=31.07230&lon=35.35665&zoomLevel=17&segments=1811879,1811878,325176,325177
+ירוק-נחל פרצים https://www.waze.com/editor?env=il&lat=31.11987&lon=35.36675&zoomLevel=17&segments=1804814,1473195,292416,1804815
+שחור-הר סדום https://www.waze.com/editor?env=il&lat=31.07843&lon=35.37958&zoomLevel=17&segments=960732,960733
+דרך 4 על 4 https://www.waze.com/editor?env=il&lat=30.73660&lon=34.88587&zoomLevel=17&segments=125103,1215303,1215306,1215307,818007
+תצפית הר אבנון https://www.waze.com/editor?env=il&lat=30.97263&lon=34.97645&zoomLevel=17&segments=176673
+עצים מאובנים https://www.waze.com/editor?env=il&lat=30.96023&lon=34.98243&zoomLevel=17&segments=309113
+תצפית הר צניפים https://www.waze.com/editor?env=il&lat=30.29932&lon=34.86102&zoomLevel=17&segments=160711,283546
+מעלה משורה https://www.waze.com/editor?env=il&lat=30.91708&lon=34.71688&zoomLevel=17&segments=514220
+חניון לילה מכתש קטן https://www.waze.com/editor?env=il&lat=30.95263&lon=35.22675&zoomLevel=17&segments=323551
+מאגר נחל לבן https://www.waze.com/editor?env=il&lat=30.95997&lon=34.37189&zoomLevel=17&segments=340469,340471,340470,340472,340474
+חניון הערבה https://www.waze.com/editor?env=il&lat=30.85795&lon=35.26240&zoomLevel=17&segments=1306851,1306852
+תצפית הר כיפה https://www.waze.com/editor?env=il&lat=30.40978&lon=35.03024&zoomLevel=17&segments=931363
+הבשור כניסה דרומית https://www.waze.com/editor?env=il&lat=31.21539&lon=34.52816&zoomLevel=17&segments=851184
+גישה לנקז צאלים https://www.waze.com/editor?env=il&lat=31.20329&lon=34.54248&zoomLevel=17&segments=302153,393573,553664,516527,516535,516534,553663
+מאגר צאלים https://www.waze.com/editor?env=il&lat=31.19603&lon=34.53228&zoomLevel=17&segments=516531
+מדרך השדות לניר יצחק https://www.waze.com/editor?env=il&lat=31.22486&lon=34.38102&zoomLevel=17&segments=860235
+חממות מבטחים https://www.waze.com/editor?env=il&lat=31.23043&lon=34.39842&zoomLevel=17&segments=860223,860219
+5 - ד https://www.waze.com/editor?env=il&lat=31.18916&lon=34.50683&zoomLevel=17&segments=395062
+מח"ע https://www.waze.com/editor?env=il&lat=31.26719&lon=34.39803&zoomLevel=17&segments=856551
+שטחי מבטחים https://www.waze.com/editor?env=il&lat=31.22927&lon=34.38661&zoomLevel=17&segments=397959
+13 - ד https://www.waze.com/editor?env=il&lat=31.19269&lon=34.48693&zoomLevel=17&segments=394547
+הדרי מעון - פרדס גבולות https://www.waze.com/editor?env=il&lat=31.24826&lon=34.48533&zoomLevel=17&segments=553655,871800,404661,404657,519096,518942,720950,850825,850826,855708,850847,855697,855696,404666,519098
+חמלול מערב https://www.waze.com/editor?env=il&lat=31.26923&lon=34.46420&zoomLevel=17&segments=400158
+תיגל https://www.waze.com/editor?env=il&lat=31.22715&lon=34.49539&zoomLevel=17&segments=856141,856134,856147,401111
+11 - ג https://www.waze.com/editor?env=il&lat=31.20995&lon=34.47819&zoomLevel=17&segments=393592,553465,516674,516713,518965,396222
+11 - ב https://www.waze.com/editor?env=il&lat=31.20758&lon=34.48403&zoomLevel=17&segments=396220,396221,396219
+ציר הקבלנים https://www.waze.com/editor?env=il&lat=31.18460&lon=34.55102&zoomLevel=17&segments=400196
+מובלעת צפון https://www.waze.com/editor?env=il&lat=31.27344&lon=34.48440&zoomLevel=17&segments=855655
+תל פרע 1 https://www.waze.com/editor?env=il&lat=31.28560&lon=34.46740&zoomLevel=17&segments=397782
+מובלעת דרום https://www.waze.com/editor?env=il&lat=31.26377&lon=34.48712&zoomLevel=17&segments=396490
+11 - ד https://www.waze.com/editor?env=il&lat=31.20559&lon=34.47658&zoomLevel=17&segments=396477
+מאגר מערב https://www.waze.com/editor?env=il&lat=31.24081&lon=34.49194&zoomLevel=17&segments=856077,856093,856080
+מאגר מזרח https://www.waze.com/editor?env=il&lat=31.23447&lon=34.49804&zoomLevel=17&segments=856131
+10 ב https://www.waze.com/editor?env=il&lat=31.21167&lon=34.50027&zoomLevel=17&segments=396474,518957,856983,394167,394168,394178
+6 א,ב https://www.waze.com/editor?env=il&lat=31.21154&lon=34.50634&zoomLevel=17&segments=516523,396846,396850
+14 ב https://www.waze.com/editor?env=il&lat=31.20208&lon=34.48339&zoomLevel=17&segments=401090,856903,401319
+38 - 39 https://www.waze.com/editor?env=il&lat=31.21422&lon=34.50761&zoomLevel=17&segments=401100
+2 ב https://www.waze.com/editor?env=il&lat=31.21474&lon=34.51618&zoomLevel=17&segments=865581,865591,516524,401098
+שטח 7 https://www.waze.com/editor?env=il&lat=31.20046&lon=34.54151&zoomLevel=17&segments=869141
+מאגר הבשור https://www.waze.com/editor?env=il&lat=31.23604&lon=34.49963&zoomLevel=17&segments=856126,850581
+13 ה https://www.waze.com/editor?env=il&lat=31.19804&lon=34.48488&zoomLevel=17&segments=401315
+חממות חלוצה -דע"ר https://www.waze.com/editor?env=il&lat=31.25981&lon=34.46011&zoomLevel=17&segments=518949,518948
+12 ג https://www.waze.com/editor?env=il&lat=31.25954&lon=34.45344&zoomLevel=17&segments=862595,855753,855749,855768,855767
+12 ב https://www.waze.com/editor?env=il&lat=31.26288&lon=34.45582&zoomLevel=17&segments=399423,399420,399424,399425,396693,855745,855769
+12 ד https://www.waze.com/editor?env=il&lat=31.25686&lon=34.44415&zoomLevel=17&segments=1044512,862589,862591,855765
+5 ד https://www.waze.com/editor?env=il&lat=31.18842&lon=34.50551&zoomLevel=17&segments=859695,859700,516549,866266,862703
+5 ה https://www.waze.com/editor?env=il&lat=31.19081&lon=34.50012&zoomLevel=17&segments=396807,859693,859692,859694,862709
+5 ו https://www.waze.com/editor?env=il&lat=31.18832&lon=34.49336&zoomLevel=17&segments=394500,859653,862699
+13 ג https://www.waze.com/editor?env=il&lat=31.19462&lon=34.49265&zoomLevel=17&segments=859652,866082,394554,394552,395065,394130
+ת"פ 4 https://www.waze.com/editor?env=il&lat=31.28121&lon=34.46883&zoomLevel=17&segments=397350,855623,855622,855639,855632,1707812
+ת"פ 3 https://www.waze.com/editor?env=il&lat=31.28027&lon=34.47595&zoomLevel=17&segments=397795,855627,855650
+ת"פ 2 https://www.waze.com/editor?env=il&lat=31.27486&lon=34.47409&zoomLevel=17&segments=1079878,394143,397792,855641,855644,855643
+חוות יענים https://www.waze.com/editor?env=il&lat=31.18895&lon=34.54734&zoomLevel=17&segments=349052
+8 א https://www.waze.com/editor?env=il&lat=31.19927&lon=34.53450&zoomLevel=17&segments=860019,516529
+כרם זיתים - מלכה https://www.waze.com/editor?env=il&lat=31.20137&lon=34.54405&zoomLevel=17&segments=869144
+2 א https://www.waze.com/editor?env=il&lat=31.21080&lon=34.51885&zoomLevel=17&segments=865593,865586
+6 ב https://www.waze.com/editor?env=il&lat=31.21215&lon=34.50330&zoomLevel=17&segments=396475,553476,394159
+6 א https://www.waze.com/editor?env=il&lat=31.21583&lon=34.50605&zoomLevel=17&segments=856383,856384
+13 א https://www.waze.com/editor?env=il&lat=31.20022&lon=34.50537&zoomLevel=17&segments=396536,396531,396538,516502,859997
+9 ח https://www.waze.com/editor?env=il&lat=31.19659&lon=34.50579&zoomLevel=17&segments=866093,866084,859999,859998,394128,553466
+מאגר חוחובה https://www.waze.com/editor?env=il&lat=31.23448&lon=34.53755&zoomLevel=17&segments=402376,910122
+חוחובה מח"ע https://www.waze.com/editor?env=il&lat=31.22750&lon=34.53490&zoomLevel=17&segments=867891,401980,553494
+חציית נחל הבשור - מאגרים https://www.waze.com/editor?env=il&lat=31.23991&lon=34.50561&zoomLevel=17&segments=856125,850611,402394
+ציר המים - מאגר הבשור https://www.waze.com/editor?env=il&lat=31.23575&lon=34.49462&zoomLevel=17&segments=856091,856090,1662977,1662976,856132,394484
+הדרי מעון - פרדס צאלים https://www.waze.com/editor?env=il&lat=31.21583&lon=34.52299&zoomLevel=17&segments=402952
+הדרי מעון - מאגר הבשור https://www.waze.com/editor?env=il&lat=31.23219&lon=34.50081&zoomLevel=17&segments=519426,402966,852767,402965,856089,402963,402960,553490,402968,856142,856137,856952,856954,856951,850583,404642,404652,404653,1118369,1118370,404656,518888
+הדרי מעון - פרדס מאגר גבולות https://www.waze.com/editor?env=il&lat=31.25108&lon=34.49070&zoomLevel=17&segments=402989
+פרדסים - שטחי עצמונה https://www.waze.com/editor?env=il&lat=31.23991&lon=34.46139&zoomLevel=17&segments=403597,403606,403607,403602,403608,859804,859806
+ת"פ 6 https://www.waze.com/editor?env=il&lat=31.27461&lon=34.47915&zoomLevel=17&segments=403843,403955
+שמורת הבשור - באר שרוחן https://www.waze.com/editor?env=il&lat=31.28371&lon=34.49036&zoomLevel=17&segments=855662
+הדרי מעון - דיה https://www.waze.com/editor?env=il&lat=31.22202&lon=34.50928&zoomLevel=17&segments=404908,404923,867906
+9 ב https://www.waze.com/editor?env=il&lat=31.20082&lon=34.51592&zoomLevel=17&segments=396832
+גבעת אשלים https://www.waze.com/editor?env=il&lat=31.19043&lon=34.50711&zoomLevel=17&segments=866098
+צילה מערב https://www.waze.com/editor?env=il&lat=31.24029&lon=34.46508&zoomLevel=17&segments=397735
+רונית מערב https://www.waze.com/editor?env=il&lat=31.24731&lon=34.47483&zoomLevel=17&segments=397727
+צילה מזרח , מערב https://www.waze.com/editor?env=il&lat=31.23797&lon=34.46698&zoomLevel=17&segments=397730
+ניצה מערב https://www.waze.com/editor?env=il&lat=31.23495&lon=34.46857&zoomLevel=17&segments=518939
+ניצה מזרח , מערב https://www.waze.com/editor?env=il&lat=31.23459&lon=34.47194&zoomLevel=17&segments=397720
+מאירה https://www.waze.com/editor?env=il&lat=31.23352&lon=34.47497&zoomLevel=17&segments=393598,518935,394152
+ליסי https://www.waze.com/editor?env=il&lat=31.23292&lon=34.47796&zoomLevel=17&segments=397716
+כרמלה https://www.waze.com/editor?env=il&lat=31.23238&lon=34.48087&zoomLevel=17&segments=518974,518971,397718
+תהל https://www.waze.com/editor?env=il&lat=31.23253&lon=34.48483&zoomLevel=17&segments=860183,397383
+שרון , תהל https://www.waze.com/editor?env=il&lat=31.23527&lon=34.48570&zoomLevel=17&segments=394442
+שמורת נחל הבשור https://www.waze.com/editor?env=il&lat=31.26576&lon=34.50248&zoomLevel=17&segments=404541,404538,1162824,1188839,855668,855664
+עידן-חצבה דרך הנחל https://www.waze.com/editor?env=il&lat=30.77928&lon=35.30470&zoomLevel=17&segments=1372781,1176063,1441041,1441042,1401691
+להר קרן https://www.waze.com/editor?env=il&lat=30.94786&lon=34.50300&zoomLevel=17&segments=414316
+20 איילון צפון https://www.waze.com/editor?env=il&lat=32.09658&lon=34.79894&zoomLevel=17&segments=1307475,22754,252138,116975,55283,44478,1215560,1220728,1766942,1766941,1253037,1280848,1252673,1292603,319643,242085,1307476,244491,1172122,118933,20673,881020,56554,92623,92646,15010,1220727,21002,1766938,1766939,1482945
+דרך הבשור https://www.waze.com/editor?env=il&lat=31.25116&lon=34.49242&zoomLevel=17&segments=856076,856075,852769,854935,850604,850603,518908
+יחיאל https://www.waze.com/editor?env=il&lat=31.17837&lon=34.88937&zoomLevel=17&segments=885759
+כביש גישה למצד צפיר https://www.waze.com/editor?env=il&lat=30.94601&lon=35.10295&zoomLevel=17&segments=441842
+לקניון האדום https://www.waze.com/editor?env=il&lat=29.67346&lon=34.87172&zoomLevel=17&segments=77230
+כביש אורון-צין %28פרטי%21%29 https://www.waze.com/editor?env=il&lat=30.85152&lon=35.07458&zoomLevel=17&segments=846814,472031,933975,472028
+פארן - עשת הדסה https://www.waze.com/editor?env=il&lat=30.36832&lon=35.17838&zoomLevel=17&segments=507958,1221929,475017,987830,475000,987833,1020787,1020786
+מצפור הר החלק https://www.waze.com/editor?env=il&lat=30.85291&lon=35.02632&zoomLevel=17&segments=522033,522032
+מעלה שחרות https://www.waze.com/editor?env=il&lat=29.90962&lon=35.03083&zoomLevel=17&segments=1768407,1090218,1768408
+סכיני דימונה - הסכין הצפונית https://www.waze.com/editor?env=il&lat=31.15189&lon=35.16738&zoomLevel=17&segments=544640,544642,960248
+מעלה כמריר https://www.waze.com/editor?env=il&lat=31.16107&lon=35.16853&zoomLevel=17&segments=544667,544668,544669,544670,1125116
+תצפית המכתש הקטן https://www.waze.com/editor?env=il&lat=30.93962&lon=35.16309&zoomLevel=17&segments=556027
+ציר המצלעות https://www.waze.com/editor?env=il&lat=30.90036&lon=35.13540&zoomLevel=17&segments=975392,975391
+20 איילון דרום https://www.waze.com/editor?env=il&lat=32.09812&lon=34.79938&zoomLevel=17&segments=102773,135584,836374,456698,1324105,1324106,96696,1324102,1324103,1480375,1480381,1480379,1474607,250463,246600,123265,500583,96702,1719221,57594,21271,31198,39676,16672,45573,18428,1505702
+12 ישן https://www.waze.com/editor?env=il&lat=29.84767&lon=34.83940&zoomLevel=17&segments=1238282
+מסלול נחל תמר https://www.waze.com/editor?env=il&lat=30.98137&lon=35.30402&zoomLevel=17&segments=846813
+דרך נפט https://www.waze.com/editor?env=il&lat=29.66731&lon=34.97423&zoomLevel=17&segments=822127,994978,821905,821906,686492,821061,816575,860150,1060572,677846,1809688,1809687
+משמורת סהרונים https://www.waze.com/editor?env=il&lat=30.88309&lon=34.45744&zoomLevel=17&segments=693058,692820,692821
+חניון לילה הר כיפה https://www.waze.com/editor?env=il&lat=30.39971&lon=35.03003&zoomLevel=17&segments=383544
+חוות שלח לכיש https://www.waze.com/editor?env=il&lat=31.22328&lon=34.49583&zoomLevel=17&segments=855294,871802
+דרך עפר חקלאית הדרי מעון https://www.waze.com/editor?env=il&lat=31.22420&lon=34.49636&zoomLevel=17&segments=720414
+הר שחרור https://www.waze.com/editor?env=il&lat=29.99365&lon=34.94151&zoomLevel=17&segments=788806
+כביש מנדטורי שבטה - קציעות https://www.waze.com/editor?env=il&lat=30.89216&lon=34.53150&zoomLevel=17&segments=798223,802238,802239
+למרכבות וקשתות https://www.waze.com/editor?env=il&lat=29.78628&lon=34.95045&zoomLevel=17&segments=1484726,1484727,1484721,1484728
+מכרה הנחושת תמנע https://www.waze.com/editor?env=il&lat=29.76025&lon=34.98430&zoomLevel=17&segments=841177
+נחל זוהר https://www.waze.com/editor?env=il&lat=31.15018&lon=35.35424&zoomLevel=17&segments=805237
+נחל פרצים https://www.waze.com/editor?env=il&lat=31.05842&lon=35.37566&zoomLevel=17&segments=1023365
+מסלול הליכה בנחל חווארים https://www.waze.com/editor?env=il&lat=30.84510&lon=34.75734&zoomLevel=17&segments=858612
+נחל חווארים https://www.waze.com/editor?env=il&lat=30.84791&lon=34.75401&zoomLevel=17&segments=232241
+ציר המעיינות https://www.waze.com/editor?env=il&lat=30.34098&lon=35.14505&zoomLevel=17&segments=242189
+נחל שלמה https://www.waze.com/editor?env=il&lat=29.55831&lon=34.89755&zoomLevel=17&segments=473774,875331,875330
+חוות דעת https://www.waze.com/editor?env=il&lat=30.77575&lon=34.77413&zoomLevel=17&segments=576300
+לשדה הבולבוסים https://www.waze.com/editor?env=il&lat=30.84107&lon=35.05373&zoomLevel=17&segments=872460
+פרדס מאגר גבולות https://www.waze.com/editor?env=il&lat=31.25959&lon=34.48180&zoomLevel=17&segments=720945,720780
+שטחי מח"ע https://www.waze.com/editor?env=il&lat=31.24061&lon=34.51020&zoomLevel=17&segments=553492,856118
+עירית מזרח https://www.waze.com/editor?env=il&lat=31.21906&lon=34.48354&zoomLevel=17&segments=1480746,1480747
+לאנדרטת פטרה https://www.waze.com/editor?env=il&lat=30.34628&lon=35.17065&zoomLevel=17&segments=315731
+ממשית, חניון לילה https://www.waze.com/editor?env=il&lat=31.02739&lon=35.06512&zoomLevel=17&segments=870362
+כביש אילת ישן 1954 https://www.waze.com/editor?env=il&lat=31.05053&lon=34.82336&zoomLevel=17&segments=892450,892447,892451,896147
+מנחת ערד https://www.waze.com/editor?env=il&lat=31.23097&lon=35.19461&zoomLevel=17&segments=231469,1032383,229217,193010
+כביש לחממות https://www.waze.com/editor?env=il&lat=30.54867&lon=35.18747&zoomLevel=17&segments=373909,371455
+הסכין הצפונית https://www.waze.com/editor?env=il&lat=31.15124&lon=35.14843&zoomLevel=17&segments=960241
+הסכין הצפונית ביותר https://www.waze.com/editor?env=il&lat=31.15807&lon=35.14422&zoomLevel=17&segments=960229
+חוות של"ח לכיש https://www.waze.com/editor?env=il&lat=31.22312&lon=34.49584&zoomLevel=17&segments=871801
+חניון לילה נחל רחף https://www.waze.com/editor?env=il&lat=31.28846&lon=35.37304&zoomLevel=17&segments=900290
+דרך הגבול https://www.waze.com/editor?env=il&lat=29.68474&lon=35.01277&zoomLevel=17&segments=994984,994981,993166
+חלמוניות ירוחם https://www.waze.com/editor?env=il&lat=30.97554&lon=34.89662&zoomLevel=17&segments=998911
+בית הבד חלוצה https://www.waze.com/editor?env=il&lat=30.98005&lon=34.73618&zoomLevel=17&segments=1003992
+חניון הסעות https://www.waze.com/editor?env=il&lat=31.05844&lon=34.83935&zoomLevel=17&segments=1268691,1268690
+ערוץ נקרות https://www.waze.com/editor?env=il&lat=30.64596&lon=35.19304&zoomLevel=17&segments=1521231,1521230
+גישה לתחנת מקורות קטורה 9, 19 https://www.waze.com/editor?env=il&lat=30.02036&lon=35.10352&zoomLevel=17&segments=1039228
+כביש גישה ליב״א https://www.waze.com/editor?env=il&lat=30.65464&lon=34.78930&zoomLevel=17&segments=1123344,1122528
+Groon Ala%27shrh https://www.waze.com/editor?env=il&lat=31.24157&lon=35.02280&zoomLevel=17&segments=1092009
+Drb Alooz https://www.waze.com/editor?env=il&lat=31.23514&lon=35.01618&zoomLevel=17&segments=1089143
+Ala%27grh https://www.waze.com/editor?env=il&lat=31.23601&lon=35.01087&zoomLevel=17&segments=1092428,1093105,1093106
+Alkrkar https://www.waze.com/editor?env=il&lat=31.23708&lon=35.01396&zoomLevel=17&segments=1092004,1092005,1092006,1091918
+Am Rsoom https://www.waze.com/editor?env=il&lat=31.24316&lon=35.01103&zoomLevel=17&segments=1172371
+Aldmms https://www.waze.com/editor?env=il&lat=31.23997&lon=35.01028&zoomLevel=17&segments=1090906
+Albaat & Tl Almallh https://www.waze.com/editor?env=il&lat=31.24145&lon=35.02596&zoomLevel=17&segments=1092003,1092011,1090884,1090885
+Alhmaadh https://www.waze.com/editor?env=il&lat=31.24435&lon=35.01504&zoomLevel=17&segments=1089141
+Alfra%27h https://www.waze.com/editor?env=il&lat=31.24134&lon=35.01074&zoomLevel=17&segments=1093103
+Wadi Ala%27shrh https://www.waze.com/editor?env=il&lat=31.23909&lon=35.02707&zoomLevel=17&segments=1089208
+Sha%27b Alkheel https://www.waze.com/editor?env=il&lat=31.24404&lon=35.01306&zoomLevel=17&segments=1092923,1090907
+Almsjeed https://www.waze.com/editor?env=il&lat=31.24015&lon=35.01846&zoomLevel=17&segments=1088161
+שבט אלסראיעה https://www.waze.com/editor?env=il&lat=31.20989&lon=35.09229&zoomLevel=17&segments=901500
+Alktair https://www.waze.com/editor?env=il&lat=31.23274&lon=35.00770&zoomLevel=17&segments=1112648,1112654,1112655
+Albyathh https://www.waze.com/editor?env=il&lat=31.22914&lon=35.00563&zoomLevel=17&segments=1112646,1112650,1112651
+מעלה הגדוד https://www.waze.com/editor?env=il&lat=31.04775&lon=35.08957&zoomLevel=17&segments=1112061
+אל-עול https://www.waze.com/editor?env=il&lat=31.12937&lon=35.01480&zoomLevel=17&segments=1796370,1796369,1584900
+אבו עשיבה https://www.waze.com/editor?env=il&lat=31.12723&lon=34.96821&zoomLevel=17&segments=1160194,1160163
+נחל יעלים https://www.waze.com/editor?env=il&lat=31.23881&lon=35.36090&zoomLevel=17&segments=1122922
+דרך החוארים https://www.waze.com/editor?env=il&lat=30.78915&lon=35.29957&zoomLevel=17&segments=728237
+אל-סרה צפון https://www.waze.com/editor?env=il&lat=31.24370&lon=35.03087&zoomLevel=17&segments=1170393
+אל-סרה דרום https://www.waze.com/editor?env=il&lat=31.24112&lon=35.03257&zoomLevel=17&segments=596107
+הַגִלְגַל https://www.waze.com/editor?env=il&lat=30.90364&lon=35.01022&zoomLevel=17&segments=808981
+רציפי הורדה/העלאה https://www.waze.com/editor?env=il&lat=31.05890&lon=34.83869&zoomLevel=17&segments=1270827,1270828
+דרך מים שקטים https://www.waze.com/editor?env=il&lat=30.97458&lon=35.08233&zoomLevel=17&segments=1265256
+חצבה-עידן-עין יהב https://www.waze.com/editor?env=il&lat=30.76447&lon=35.28526&zoomLevel=17&segments=314406
+al-Qulal https://www.waze.com/editor?env=il&lat=31.27135&lon=34.25886&zoomLevel=17&segments=1317765
+נחל נמיה https://www.waze.com/editor?env=il&lat=30.66104&lon=35.19910&zoomLevel=17&segments=1523973,1523970,1523974
+אבו סבילה ابو سبيلة https://www.waze.com/editor?env=il&lat=31.19904&lon=34.92093&zoomLevel=17&segments=1392907
+דרך החרדונים https://www.waze.com/editor?env=il&lat=29.57596&lon=34.96846&zoomLevel=17&segments=1464203,1464202,1464200,1393133,1393131
+עירית https://www.waze.com/editor?env=il&lat=31.21867&lon=34.47897&zoomLevel=17&segments=404922
+משולש עירית https://www.waze.com/editor?env=il&lat=31.22289&lon=34.48357&zoomLevel=17&segments=856921,401322,519091
+תצפית הבקעה https://www.waze.com/editor?env=il&lat=29.78810&lon=34.95353&zoomLevel=17&segments=1484720
+חניה הפיטריה https://www.waze.com/editor?env=il&lat=29.78537&lon=34.94792&zoomLevel=17&segments=1485254,1485255
+שביל ספארי https://www.waze.com/editor?env=il&lat=30.57604&lon=35.17991&zoomLevel=17&segments=1856237
+קושרת - Charlie https://www.waze.com/editor?env=il&lat=29.72231&lon=35.00921&zoomLevel=17&segments=1550519
+מסלול הסעה Bravo https://www.waze.com/editor?env=il&lat=29.72598&lon=35.00897&zoomLevel=17&segments=1550520,1550531,1550537,1550536
+מסלול הסעה - Alpha https://www.waze.com/editor?env=il&lat=29.72734&lon=35.01211&zoomLevel=17&segments=1550522,1550549,1550548,1550545,1550546,1550542,1550541
+קושרת - Delta https://www.waze.com/editor?env=il&lat=29.72419&lon=35.00976&zoomLevel=17&segments=1550530
+קושרת - Echo https://www.waze.com/editor?env=il&lat=29.72854&lon=35.01102&zoomLevel=17&segments=1550535
+קושרת - Fox https://www.waze.com/editor?env=il&lat=29.73395&lon=35.01258&zoomLevel=17&segments=1550540
+קושרת - Alpha 4 https://www.waze.com/editor?env=il&lat=29.73306&lon=35.01446&zoomLevel=17&segments=1550543
+קושרת - Alpha 3 https://www.waze.com/editor?env=il&lat=29.72403&lon=35.01206&zoomLevel=17&segments=1550544
+קושרת - Alpha 2 https://www.waze.com/editor?env=il&lat=29.72215&lon=35.01153&zoomLevel=17&segments=1550547
+صلاح الدين https://www.waze.com/editor?env=il&lat=31.41948&lon=34.39609&zoomLevel=17&segments=1559763,1559762,1559843,1559842,1559840,1559855,1712462,1712463,1559985,1559984,1558994,1559037,1559032,1559010,1560091,1560090,1559042,1565716,1565844,1565843,1559015,1559023,1559043,1560434,1561534,1561566,1561571,1561570,1565815,1565814,1565809,1558241,1558250,1558249,1887493,1560455,1560449,1560448,1566136,1887516,1887517,1887496,1558538,1558537,1555569,1555565,1555586,1555614,1555613,1318201,1555570,1555611,1555610,1318320,1557140,1555633,1561192,1557138,1557137,1557124,1557132,1557174,1557173,1557167,1555524,1555662,1561193,1555518,1555517,1555520,1561207,1561206,1892612,1892609,1892611,1892572,1892573,1892575,1892569,1892570,1892564,1892567,1892577,1892578,1892608,1557109,1557108,1557117,1576147,1576148,1892606,1892601,1892602,1555702,1555114,1555178,1555302,1555301,1555408,1557007,1570678,1570677,1557374,1563621,1563620,1556670,1556669,1556986,1556985,1557006,1316443,1316419,1316449,1316758,1556447,1556448,1563683,1566357
+سوفة https://www.waze.com/editor?env=il&lat=31.27413&lon=34.31921&zoomLevel=17&segments=1565879,1565878,1565857,1565939,1565938,1565950,1565949,1565934,1565933,1559420,1565974,1565983,1565984,1565914,1565946,1565945,1565923,1558251
+أبو بكر الصديق https://www.waze.com/editor?env=il&lat=31.30522&lon=34.24007&zoomLevel=17&segments=1602062,1557240,1318127,1557250,1557249,1559459,1602015,1602016,1560577,1560614,1555831,1601944,1601943,1601935,1601969,1601972,1601963,1601964,1601966,1601958,1602061,1602085,1602122,1602123,1560460,1560549,1728906,1728907
+صلاح الدين https://www.waze.com/editor?env=il&lat=31.25717&lon=34.26817&zoomLevel=17&segments=1558991,1558990,1559019
+شارع المطار https://www.waze.com/editor?env=il&lat=31.25359&lon=34.28033&zoomLevel=17&segments=1560013,1560061,1560098,1560097,1560146,1560145,1560069,1560044,1560087,1560083,1560080,1560142,1560141,1560202,1560201
+الرباط https://www.waze.com/editor?env=il&lat=31.26531&lon=34.27043&zoomLevel=17&segments=1558998,1558997,1559154,1559153,1559148
+الجامعة https://www.waze.com/editor?env=il&lat=31.27471&lon=34.26032&zoomLevel=17&segments=1557303,1557302,1557286,1318128
+صدّام https://www.waze.com/editor?env=il&lat=31.27724&lon=34.26562&zoomLevel=17&segments=1318131,1317770,1329286,1559220,1559231,1559230,1559226,1559225,1557270,1557274,1557273,1557293,1557292
+البرازيل https://www.waze.com/editor?env=il&lat=31.26953&lon=34.25790&zoomLevel=17&segments=1557301,1557308,1557307,1559447,1559446,1559445,1317776,1559448
+العروبة https://www.waze.com/editor?env=il&lat=31.27006&lon=34.27082&zoomLevel=17&segments=1559002,1559025,1559112,1559167,1559166,1559191,1559190,1559185,1559184,1557251,1557336,1317763,1557247,1559451,1559026,1559014,1559021,1559020
+عثمان بن عفّان https://www.waze.com/editor?env=il&lat=31.27887&lon=34.25493&zoomLevel=17&segments=1557245,1557244,1557243,1317807
+أبو ميسرة https://www.waze.com/editor?env=il&lat=31.26852&lon=34.27324&zoomLevel=17&segments=1559006,1559121,1559135,1559133,1559132,1559136
+أبو يوسف النجّار https://www.waze.com/editor?env=il&lat=31.27510&lon=34.27215&zoomLevel=17&segments=1559348,1559347,1559334,1557326,1559209,1559208,1559270,1559269,1559305,1559304
+مصعب بن عمير https://www.waze.com/editor?env=il&lat=31.24919&lon=34.26729&zoomLevel=17&segments=1559615,1559610,1712474,1712475,1559890,1559623,1559935,1559934,1559650,1559652,1559651,1559702,1559765,1559797,1559796,1559787,1559831,1559832,1559820,1559819
+الإيمان https://www.waze.com/editor?env=il&lat=31.26488&lon=34.26102&zoomLevel=17&segments=1557329,1557328,1559442,1559441
+المسلخ https://www.waze.com/editor?env=il&lat=31.26900&lon=34.25748&zoomLevel=17&segments=1557316,1557315
+المنتزه https://www.waze.com/editor?env=il&lat=31.28383&lon=34.25544&zoomLevel=17&segments=1559454,1317800,1317801
+طه حسين https://www.waze.com/editor?env=il&lat=31.27691&lon=34.28079&zoomLevel=17&segments=1559205,1559244,1557235,1559295,1559322,1559321,1559308
+الدباري https://www.waze.com/editor?env=il&lat=31.26307&lon=34.29064&zoomLevel=17&segments=1561604,1565847,1565846,1712466,1712467,1712468,1712469,1560373,1560360,1560406,1560405,1560411,1560410,1561584,1561596
+تمراز https://www.waze.com/editor?env=il&lat=31.25567&lon=34.28756&zoomLevel=17&segments=1560351,1560346,1560368,1560379,1560378,1560365
+גבול הרצועה حدود القطاع https://www.waze.com/editor?env=il&lat=31.50391&lon=34.49916&zoomLevel=17&segments=1561723,1561722,1561711,1561708,1566359,1566360
+גן לאומי עין עבדת https://www.waze.com/editor?env=il&lat=30.82742&lon=34.76562&zoomLevel=17&segments=1577626
+Maze 1 https://www.waze.com/editor?env=il&lat=30.17000&lon=34.86183&zoomLevel=17&segments=1588411,1588412,1588426,1588430,1588431,1588417,1588418,1585433,1585435,1585427,1585423,1585469,1585461,1585449,1585441,1585445,1585481,1585482,1585473,1585477
+Maze 2 https://www.waze.com/editor?env=il&lat=30.16978&lon=34.86189&zoomLevel=17&segments=1585563,1585567,1585555,1585559,1585545,1585547,1585551,1585595,1585599,1585587,1585591,1585579,1585583,1585573,1585575,1585600
+Maze 3 https://www.waze.com/editor?env=il&lat=30.16956&lon=34.86194&zoomLevel=17&segments=1588436,1588437,1585691,1585695,1585683,1585687,1585679,1585665,1585669,1585671,1585720,1585715,1585719,1585707,1585711,1585699,1585703
+Maze 4 https://www.waze.com/editor?env=il&lat=30.16934&lon=34.86198&zoomLevel=17&segments=1588446,1588458,1588459,1588448,1588449,1588481,1588482,1585785,1585789,1585819,1585823,1585811,1585815,1585803,1585807,1585795,1585840,1585839,1585827,1585831
+Maze 5 https://www.waze.com/editor?env=il&lat=30.16912&lon=34.86184&zoomLevel=17&segments=1588494,1588495,1588869,1588870,1585915,1585919,1585905,1585907,1585911,1585947,1585951,1585939,1585943,1585931,1585935,1585927,1585960,1585955
+Maze 6 https://www.waze.com/editor?env=il&lat=30.16890&lon=34.86205&zoomLevel=17&segments=1588508,1588509,1588500,1588501,1588896,1588897,1586047,1586035,1586039,1586025,1586075,1586079,1586067,1586071,1586059,1586063,1586051,1586055,1586080
+Maze 7 https://www.waze.com/editor?env=il&lat=30.16868&lon=34.86188&zoomLevel=17&segments=1586200,1586195,1586199,1586187,1586191,1586179,1586183,1586171,1586175,1586163,1586167,1586155,1586159,1586145,1586147,1586151
+Maze 8 https://www.waze.com/editor?env=il&lat=30.16846&lon=34.86207&zoomLevel=17&segments=1586265,1586271,1586299,1586303,1586291,1586295,1586283,1586287,1586275,1586320,1586315,1586319,1586307,1586311,1588920,1588919,1588906,1588908,1588909
+Maze 9 https://www.waze.com/editor?env=il&lat=30.16824&lon=34.86188&zoomLevel=17&segments=1586395,1586399,1586385,1586387,1586391,1586427,1586431,1586419,1586423,1586411,1586415,1586403,1586407,1586440,1586435,1586439
+Maze 10 https://www.waze.com/editor?env=il&lat=30.16802&lon=34.86181&zoomLevel=17&segments=1586525,1586517,1586519,1586505,1586507,1586511,1586559,1586547,1586551,1586539,1586543,1586529,1586531,1586535,1586560,1588972,1588973
+Maze 11 https://www.waze.com/editor?env=il&lat=30.16780&lon=34.86188&zoomLevel=17&segments=1586651,1586655,1586643,1586647,1586635,1586639,1586625,1586627,1586631,1586680,1586675,1586679,1586667,1586671,1586659,1586663
+Maze 12 https://www.waze.com/editor?env=il&lat=30.16758&lon=34.86188&zoomLevel=17&segments=1588528,1588533,1588534,1588521,1588522,1588527,1586745,1586747,1586751,1586783,1586775,1586763,1586767,1586759,1586800,1586797,1586799,1586791,1588925,1588926
+Maze 13 https://www.waze.com/editor?env=il&lat=30.16736&lon=34.86188&zoomLevel=17&segments=1586875,1586879,1586869,1586871,1586907,1586911,1586899,1586903,1586891,1586895,1586883,1586887,1586923,1586924,1586915,1586919
+Maze 14 https://www.waze.com/editor?env=il&lat=30.16714&lon=34.86197&zoomLevel=17&segments=1588542,1588543,1588545,1588546,1587001,1587003,1587007,1587035,1587039,1587027,1587031,1587023,1587015,1587056,1587051,1587055,1587043,1587047
+Maze 15 https://www.waze.com/editor?env=il&lat=30.16692&lon=34.86188&zoomLevel=17&segments=1588990,1588991,1587067,1587071,1587061,1587063,1587097,1587099,1587103,1587083,1587087,1587075,1587079,1587115,1587116,1587107,1587111
+Maze A https://www.waze.com/editor?env=il&lat=30.16849&lon=34.86337&zoomLevel=17&segments=1586263,1586383,1585425,1586503,1588601,1588602,1588595,1588596,1585543,1586623,1586743,1585783,1586867,1588936,1588937,1586999,1587060,1586023,1586143
+Maze B https://www.waze.com/editor?env=il&lat=30.16846&lon=34.86316&zoomLevel=17&segments=1586269,1586389,1585429,1586509,1585549,1586629,1585667,1586749,1585787,1586873,1585909,1587005,1587065,1587066,1586029,1586149
+Maze C https://www.waze.com/editor?env=il&lat=30.16850&lon=34.86295&zoomLevel=17&segments=1586273,1586393,1585431,1585553,1588616,1588609,1588610,1588615,1586633,1585673,1586753,1586877,1585913,1587009,1587069,1587070,1586033,1586153
+Maze D https://www.waze.com/editor?env=il&lat=30.16846&lon=34.86274&zoomLevel=17&segments=1586277,1586397,1585437,1586515,1585557,1586637,1585677,1586757,1585797,1586881,1585917,1587013,1586037,1587073,1587074,1586157
+Maze E https://www.waze.com/editor?env=il&lat=30.16838&lon=34.86253&zoomLevel=17&segments=1586281,1586401,1585439,1586521,1585561,1588635,1588636,1586641,1585681,1586761,1585801,1586885,1585921,1587017,1586041,1587078,1586161
+Maze F https://www.waze.com/editor?env=il&lat=30.16850&lon=34.86232&zoomLevel=17&segments=1586285,1586405,1585443,1585565,1586645,1585685,1586765,1588849,1588850,1586889,1588960,1588961,1585925,1587021,1586045,1587081,1587082,1586165
+Maze G https://www.waze.com/editor?env=il&lat=30.16848&lon=34.86211&zoomLevel=17&segments=1586289,1586409,1585447,1586527,1588657,1588658,1585569,1586649,1585689,1586769,1585809,1586893,1585929,1587025,1587085,1587086,1586049
+Maze H https://www.waze.com/editor?env=il&lat=30.16844&lon=34.86188&zoomLevel=17&segments=1586293,1586413,1585571,1586653,1588713,1588714,1585693,1586773,1585813,1586897,1585933,1587029,1587089,1586053,1586173
+Maze entrance https://www.waze.com/editor?env=il&lat=30.17028&lon=34.86188&zoomLevel=17&segments=1585453
+Maze Exit https://www.waze.com/editor?env=il&lat=30.16663&lon=34.86188&zoomLevel=17&segments=1587090
+Maze I https://www.waze.com/editor?env=il&lat=30.16860&lon=34.86169&zoomLevel=17&segments=1586177,1586297,1586417,1585455,1586537,1585577,1586657,1588745,1588746,1588743,1586777,1585817,1586901,1585937,1587033,1587093,1587094,1586057
+Maze J https://www.waze.com/editor?env=il&lat=30.16860&lon=34.86146&zoomLevel=17&segments=1586181,1586301,1586421,1585459,1586541,1585581,1586661,1588762,1588765,1588767,1586781,1585821,1586905,1585941,1587037,1587096,1587095,1586061
+Maze K https://www.waze.com/editor?env=il&lat=30.16846&lon=34.86127&zoomLevel=17&segments=1586185,1586305,1586425,1585465,1586545,1585585,1586665,1585705,1586785,1585825,1586909,1585945,1587041,1587101,1587102,1586065
+Maze L https://www.waze.com/editor?env=il&lat=30.16844&lon=34.86102&zoomLevel=17&segments=1586189,1586309,1585467,1585589,1586669,1585709,1588808,1588813,1588814,1588807,1586789,1585829,1586913,1585949,1587045,1586069,1587105,1587106
+Maze M https://www.waze.com/editor?env=il&lat=30.16855&lon=34.86081&zoomLevel=17&segments=1586193,1586313,1586433,1585471,1586553,1586673,1585713,1588819,1588820,1586793,1585833,1586917,1585953,1587049,1586073,1587109,1587110
+Maze N https://www.waze.com/editor?env=il&lat=30.16847&lon=34.86060&zoomLevel=17&segments=1586197,1586317,1586437,1585475,1586557,1585597,1586677,1585717,1586795,1585837,1586921,1585957,1587053,1586077,1587113,1587114
+Maze O https://www.waze.com/editor?env=il&lat=30.16833&lon=34.86039&zoomLevel=17&segments=1586201,1586321,1586441,1585479,1586561,1585601,1586681,1585721,1586801,1588843,1588844,1588839,1585841,1586925,1585961,1587117,1587118,1586081
+ابو سبيله https://www.waze.com/editor?env=il&lat=31.19887&lon=34.92087&zoomLevel=17&segments=1392908
+פארק תעשיות רותם https://www.waze.com/editor?env=il&lat=31.02612&lon=35.09174&zoomLevel=17&segments=1668121,1668120,71172,1668113,1668112,1668115,1668114,1668116,76815,242070,1363596,1363595,1812179,78039,1330292,1669497,1669496,1669498,1330289,1330291,1329917,1329918,1669490,1669493,1669494,567161,1669483,1669484,1330283
+אבו קוידר ابو قويدر https://www.waze.com/editor?env=il&lat=31.19971&lon=34.91953&zoomLevel=17&segments=1303827
+דרך נימרה https://www.waze.com/editor?env=il&lat=29.73609&lon=34.97937&zoomLevel=17&segments=1892361,1892362
+דרך חכליל https://www.waze.com/editor?env=il&lat=29.73532&lon=34.97562&zoomLevel=17&segments=1892358
+-------------------------------------------
+Gadikr
+4X4 https://www.waze.com/editor?env=il&lat=31.38654&lon=34.93161&zoomLevel=17&segments=334114,333653,333652,333655,333651,333657,333656,1495273,333568,314375,292056,286709,1215291,313613,189760,187653,952454,1108574,333564,333563,333562,365088,333557,333556,333555,323344,392672,300922
+תחנת דלק - דלק https://www.waze.com/editor?env=il&lat=31.30491&lon=34.89799&zoomLevel=17&segments=71947
+מאגר מים https://www.waze.com/editor?env=il&lat=31.86145&lon=35.23464&zoomLevel=17&segments=1820321,1820320,124403
+חרבת עיטון https://www.waze.com/editor?env=il&lat=31.49296&lon=34.92140&zoomLevel=17&segments=187414,187417
+4x4 https://www.waze.com/editor?env=il&lat=31.29886&lon=34.93645&zoomLevel=17&segments=146301,235378,1233916,1511722,1459278,1459279,333670,333673,333672,1158086,326641,393935,390445,1017482,1112286,1112287,1282139,1847933
+החלמוניות https://www.waze.com/editor?env=il&lat=31.33559&lon=35.02453&zoomLevel=17&segments=195234
+3265 - 354 https://www.waze.com/editor?env=il&lat=31.49824&lon=34.96155&zoomLevel=17&segments=370113
+כניסה לאתר סוסיא https://www.waze.com/editor?env=il&lat=31.40305&lon=35.10661&zoomLevel=17&segments=129828
+עשהאל https://www.waze.com/editor?env=il&lat=31.37376&lon=35.04451&zoomLevel=17&segments=1742431
+מאחז אביגיל https://www.waze.com/editor?env=il&lat=31.40337&lon=35.14020&zoomLevel=17&segments=985879,1118062
+מכרמל לאום דרג%27 https://www.waze.com/editor?env=il&lat=31.43409&lon=35.18741&zoomLevel=17&segments=1241625
+מרכז חירום בית דרור אדוריים https://www.waze.com/editor?env=il&lat=31.48470&lon=35.04503&zoomLevel=17&segments=1010875,1010874
+בני נעים - Bnei Naim https://www.waze.com/editor?env=il&lat=31.51655&lon=35.13522&zoomLevel=17&segments=1252413
+ציר המתפללים https://www.waze.com/editor?env=il&lat=31.52489&lon=35.11594&zoomLevel=17&segments=1459513
+humsa road https://www.waze.com/editor?env=il&lat=31.53102&lon=34.99011&zoomLevel=17&segments=1223405
+ציר המזבלה https://www.waze.com/editor?env=il&lat=31.44176&lon=35.17024&zoomLevel=17&segments=1492501
+Nuba-Halhul https://www.waze.com/editor?env=il&lat=31.60102&lon=35.06114&zoomLevel=17&segments=1317860
+Halhul-Tarqumiah https://www.waze.com/editor?env=il&lat=31.58454&lon=35.05563&zoomLevel=17&segments=1237887,1132431,1047017
+LZON https://www.waze.com/editor?env=il&lat=31.54704&lon=35.12327&zoomLevel=17&segments=1465457,1465447
+גישה לחוות אלה https://www.waze.com/editor?env=il&lat=31.44194&lon=34.90025&zoomLevel=17&segments=668415
+-------------------------------------------
+motimarkus
+4X4 https://www.waze.com/editor?env=il&lat=31.38654&lon=34.93161&zoomLevel=17&segments=334114,333653,333652,333655,333651,333657,333656,1495273,333568,314375,292056,286709,1215291,313613,189760,187653,952454,1108574,333564,333563,333562,365088,333557,333556,333555,323344,392672,300922
+שביל לאופניים https://www.waze.com/editor?env=il&lat=31.80624&lon=35.01042&zoomLevel=17&segments=68513,68466
+סלולה בין שדה מיכה ליער חרובית https://www.waze.com/editor?env=il&lat=31.71142&lon=34.89015&zoomLevel=17&segments=315423,315426,326306,101292,295352
+כניסה לנחושה https://www.waze.com/editor?env=il&lat=31.64549&lon=34.92792&zoomLevel=17&segments=224023
+ליער חרובית ותל צפית https://www.waze.com/editor?env=il&lat=31.73033&lon=34.85276&zoomLevel=17&segments=296963,123353
+יער חרובית https://www.waze.com/editor?env=il&lat=31.72443&lon=34.86217&zoomLevel=17&segments=796684,796685,310541,310542,297262,182075,239677,182076,295483,182935,326305,327915,310512,296961,796690,796691,310311,239676,1186482,1186483,310509,109847,109850,109852,109857,182074,1143581,1143580,295421
+מחלף נחשון https://www.waze.com/editor?env=il&lat=31.82526&lon=34.95571&zoomLevel=17&segments=248622
+גבעת התורמוסים https://www.waze.com/editor?env=il&lat=31.68142&lon=34.97230&zoomLevel=17&segments=1789036,205559
+בית עלמין https://www.waze.com/editor?env=il&lat=31.80992&lon=34.85478&zoomLevel=17&segments=197279
+הפסלים https://www.waze.com/editor?env=il&lat=31.77604&lon=34.98779&zoomLevel=17&segments=147026,147029,1896836,1896837,28590
+חניון נכי צה"ל https://www.waze.com/editor?env=il&lat=31.73739&lon=34.85531&zoomLevel=17&segments=1660467,1660468,123355
+אתר הנצחה לחללי ההנדסה הקרבית https://www.waze.com/editor?env=il&lat=31.81673&lon=34.89649&zoomLevel=17&segments=137249
+יער צרעה https://www.waze.com/editor?env=il&lat=31.79385&lon=34.97187&zoomLevel=17&segments=361992,961652,961650,171174,309453,309462,309457,309459,309481,315147,1266983,309564,309566,309573,309570,309576,175470,298373
+מצפה הראל https://www.waze.com/editor?env=il&lat=31.80752&lon=34.96400&zoomLevel=17&segments=173867
+דרך יער https://www.waze.com/editor?env=il&lat=32.00536&lon=35.05552&zoomLevel=17&segments=1052184,1052185,1031601,1031600,171979,1174925
+דרך נופית ליער חרובית ותל צפית https://www.waze.com/editor?env=il&lat=31.72118&lon=34.86050&zoomLevel=17&segments=326320
+פינת פיקניק מרשה https://www.waze.com/editor?env=il&lat=31.59591&lon=34.89470&zoomLevel=17&segments=184170,184171,184172
+עליה לתל מרשה https://www.waze.com/editor?env=il&lat=31.60104&lon=34.89310&zoomLevel=17&segments=146676
+פינת פיקניק צידונית https://www.waze.com/editor?env=il&lat=31.58993&lon=34.90405&zoomLevel=17&segments=184187,184185,184191,184188
+כניסה דרום מערבית לפארק בריטניה https://www.waze.com/editor?env=il&lat=31.62016&lon=34.89297&zoomLevel=17&segments=309794,943512,943513,1064585,1064586
+חרובית https://www.waze.com/editor?env=il&lat=31.72649&lon=34.86218&zoomLevel=17&segments=796683,326304,796680,796679,796692,796693,332912,327914,310477,546051,310470
+פארק בריטניה https://www.waze.com/editor?env=il&lat=31.62684&lon=34.89912&zoomLevel=17&segments=186911,184422,184424,184425,353456,299954
+לחוות התבלין https://www.waze.com/editor?env=il&lat=31.77825&lon=35.01495&zoomLevel=17&segments=1784958
+לחדר חשמל https://www.waze.com/editor?env=il&lat=31.59151&lon=34.90247&zoomLevel=17&segments=184193
+פארק בריטניה צפוני https://www.waze.com/editor?env=il&lat=31.69014&lon=34.93758&zoomLevel=17&segments=295453,353680,295463,965590,965591
+פארק ברטיניה https://www.waze.com/editor?env=il&lat=31.65161&lon=34.91411&zoomLevel=17&segments=184423,770436
+חרבת https://www.waze.com/editor?env=il&lat=31.69763&lon=34.99556&zoomLevel=17&segments=187994
+שטח https://www.waze.com/editor?env=il&lat=31.79919&lon=34.95409&zoomLevel=17&segments=188003,226852,218885
+חורבה https://www.waze.com/editor?env=il&lat=31.69717&lon=34.99546&zoomLevel=17&segments=973949
+מערבים https://www.waze.com/editor?env=il&lat=31.61974&lon=34.87376&zoomLevel=17&segments=1564434,1564433,189723
+בית עלמין אזורי https://www.waze.com/editor?env=il&lat=31.74890&lon=34.87811&zoomLevel=17&segments=298824,307562
+שטח מרעה https://www.waze.com/editor?env=il&lat=31.63016&lon=34.90520&zoomLevel=17&segments=186908,345126,346463,346465,346464
+ירידה לכוון חלקת באר https://www.waze.com/editor?env=il&lat=31.60804&lon=34.88702&zoomLevel=17&segments=970641
+למשטרה https://www.waze.com/editor?env=il&lat=31.60927&lon=34.88498&zoomLevel=17&segments=186937
+משטרה בריטית בית גוברין https://www.waze.com/editor?env=il&lat=31.60507&lon=34.88560&zoomLevel=17&segments=174107
+מרעה https://www.waze.com/editor?env=il&lat=31.68183&lon=34.95724&zoomLevel=17&segments=1343357,1343358
+אזור גן לאומי תל צפית https://www.waze.com/editor?env=il&lat=31.70157&lon=34.84609&zoomLevel=17&segments=195843,195853,195859
+תל צרעה https://www.waze.com/editor?env=il&lat=31.77371&lon=34.98526&zoomLevel=17&segments=1635026
+בית הרצל - יער חולדה https://www.waze.com/editor?env=il&lat=31.82428&lon=34.89266&zoomLevel=17&segments=1222754
+עפר https://www.waze.com/editor?env=il&lat=31.85911&lon=34.94105&zoomLevel=17&segments=422974,422975,422972,422973,422970,422971,422979,422977,354172,300975,347260,347272,347274,235399,796686,310543,261653,1356570,1356571,217962,218028,299542,85995,312784,312790,224009
+4x4 https://www.waze.com/editor?env=il&lat=31.29886&lon=34.93645&zoomLevel=17&segments=146301,235378,1233916,1511722,1459278,1459279,333670,333673,333672,1158086,326641,393935,390445,1017482,1112286,1112287,1282139,1847933
+מצפור יונתן https://www.waze.com/editor?env=il&lat=31.73465&lon=34.85730&zoomLevel=17&segments=239702,239706,310474
+בורמה https://www.waze.com/editor?env=il&lat=31.80989&lon=34.98020&zoomLevel=17&segments=151057,300235,300240,293279,894864,293288
+הדרך הלבנה https://www.waze.com/editor?env=il&lat=32.23962&lon=34.93597&zoomLevel=17&segments=1077219,1022881,189739
+יער השלום והפיוס https://www.waze.com/editor?env=il&lat=31.61133&lon=34.88332&zoomLevel=17&segments=309805
+ללא מוצא https://www.waze.com/editor?env=il&lat=32.35309&lon=34.96007&zoomLevel=17&segments=326089,195096
+גבול שמורת צפרירים https://www.waze.com/editor?env=il&lat=31.63110&lon=34.92364&zoomLevel=17&segments=308328,299958
+חניה בא"פ לכיש https://www.waze.com/editor?env=il&lat=31.58633&lon=34.90358&zoomLevel=17&segments=332672
+מדרגה גודד https://www.waze.com/editor?env=il&lat=31.63580&lon=34.91437&zoomLevel=17&segments=267367
+דרך נופית https://www.waze.com/editor?env=il&lat=31.80941&lon=35.03087&zoomLevel=17&segments=651550,298336,420972,104341,265666,1289648,349201,349200,242596
+עליה דרך בוסתן https://www.waze.com/editor?env=il&lat=31.61209&lon=34.88468&zoomLevel=17&segments=387884,267717
+מגודד למרעה https://www.waze.com/editor?env=il&lat=31.62575&lon=34.91236&zoomLevel=17&segments=267381
+סלולה https://www.waze.com/editor?env=il&lat=31.66264&lon=34.92331&zoomLevel=17&segments=347012
+דרך נחל האלה https://www.waze.com/editor?env=il&lat=31.69623&lon=34.89448&zoomLevel=17&segments=266297
+כביש 3 הישן https://www.waze.com/editor?env=il&lat=31.82988&lon=34.96750&zoomLevel=17&segments=269976,1895141,1895142
+עין חילה https://www.waze.com/editor?env=il&lat=31.81815&lon=34.99606&zoomLevel=17&segments=289340
+תחנת דלק נחשון https://www.waze.com/editor?env=il&lat=31.81505&lon=34.91968&zoomLevel=17&segments=1702693,1702694,1162192
+כחול- שביל אופנים מים לי-ם https://www.waze.com/editor?env=il&lat=31.81115&lon=34.99444&zoomLevel=17&segments=291670,1320150,1320151
+דרך בורמה -הסרפנטינות https://www.waze.com/editor?env=il&lat=31.80778&lon=34.99295&zoomLevel=17&segments=245909
+ירוק-שביל ישראל https://www.waze.com/editor?env=il&lat=31.81282&lon=34.98966&zoomLevel=17&segments=245910,290133,292858
+דרך עגור חרובית https://www.waze.com/editor?env=il&lat=31.70309&lon=34.89824&zoomLevel=17&segments=289937,290723
+נחל האלה https://www.waze.com/editor?env=il&lat=31.70476&lon=34.90487&zoomLevel=17&segments=314376,576786,287027,291148,298835,289936,364711,859908,859907,290726
+לוזית עגור https://www.waze.com/editor?env=il&lat=31.69088&lon=34.89226&zoomLevel=17&segments=290927,352153
+גדות נחל האלה https://www.waze.com/editor?env=il&lat=31.70513&lon=34.83045&zoomLevel=17&segments=1066693
+לוזית תל צפית https://www.waze.com/editor?env=il&lat=31.68737&lon=34.87219&zoomLevel=17&segments=1364153,1364154
+אדום- שביל ישראל https://www.waze.com/editor?env=il&lat=31.81655&lon=34.98172&zoomLevel=17&segments=105289
+גפן- יער חרובית https://www.waze.com/editor?env=il&lat=31.73322&lon=34.87316&zoomLevel=17&segments=310530,293930,502338,294026
+עגור-שדות מיכה https://www.waze.com/editor?env=il&lat=31.70458&lon=34.89670&zoomLevel=17&segments=289940
+ואדי עגור https://www.waze.com/editor?env=il&lat=31.70051&lon=34.90756&zoomLevel=17&segments=301878,314433,286282,354171,289935,314517,300990,315357,290055,290801
+לוזית-חרובית https://www.waze.com/editor?env=il&lat=31.70183&lon=34.89093&zoomLevel=17&segments=290928,352171
+מצפה משואה https://www.waze.com/editor?env=il&lat=31.66656&lon=34.92230&zoomLevel=17&segments=295962,297286,132574
+כורכר https://www.waze.com/editor?env=il&lat=31.67938&lon=34.92051&zoomLevel=17&segments=252812,1503562,297595,297713,295363
+הצבים https://www.waze.com/editor?env=il&lat=31.69995&lon=34.92300&zoomLevel=17&segments=290850,354169
+עגור-ואדי עגור 4X4 https://www.waze.com/editor?env=il&lat=31.70153&lon=34.91257&zoomLevel=17&segments=313193
+דרך נופית מעל נחל האלה https://www.waze.com/editor?env=il&lat=31.70523&lon=34.92321&zoomLevel=17&segments=315425,300998
+המטוס https://www.waze.com/editor?env=il&lat=31.81769&lon=34.91876&zoomLevel=17&segments=304297
+כניסת שרות בית האלה https://www.waze.com/editor?env=il&lat=31.68615&lon=34.94739&zoomLevel=17&segments=308212
+כביש פרטי https://www.waze.com/editor?env=il&lat=31.79120&lon=34.98052&zoomLevel=17&segments=309477
+אדוט https://www.waze.com/editor?env=il&lat=31.78491&lon=35.01034&zoomLevel=17&segments=289068
+דרך חרובית https://www.waze.com/editor?env=il&lat=31.71718&lon=34.85384&zoomLevel=17&segments=182072,310437,310438,310435
+תצפית לואדי https://www.waze.com/editor?env=il&lat=31.70021&lon=34.90725&zoomLevel=17&segments=314515
+לבורות המים https://www.waze.com/editor?env=il&lat=31.59132&lon=34.89834&zoomLevel=17&segments=193488
+רוק - יער צרעה https://www.waze.com/editor?env=il&lat=31.77687&lon=34.98669&zoomLevel=17&segments=1732238,1732239
+סובב תל צפית https://www.waze.com/editor?env=il&lat=31.69315&lon=34.85225&zoomLevel=17&segments=339202,346457,326309,492415
+דרך נופית בית ניר-יער חרובית ותל צפית https://www.waze.com/editor?env=il&lat=31.66653&lon=34.85744&zoomLevel=17&segments=364707,339203,348154,960770,109791
+אנטנת גלאון https://www.waze.com/editor?env=il&lat=31.63436&lon=34.82823&zoomLevel=17&segments=940733
+יער חרובית-תל צפית https://www.waze.com/editor?env=il&lat=31.72705&lon=34.85157&zoomLevel=17&segments=362015,796688,72215,299191,109867,300934
+שדות מיכה-יער חרובית ותל צפית https://www.waze.com/editor?env=il&lat=31.71274&lon=34.87485&zoomLevel=17&segments=295923
+יער חרובית-תל צפית 4X4 https://www.waze.com/editor?env=il&lat=31.70857&lon=34.87076&zoomLevel=17&segments=1333072,1333071,1081718
+תל צפית https://www.waze.com/editor?env=il&lat=31.69895&lon=34.84705&zoomLevel=17&segments=326310,326311,109827,345111,326307
+חורבת צורה - צומת נחושה https://www.waze.com/editor?env=il&lat=31.64277&lon=34.91554&zoomLevel=17&segments=1492031,184450,357793,1074114
+זהרים - נחושה https://www.waze.com/editor?env=il&lat=31.62738&lon=34.92017&zoomLevel=17&segments=269114
+חירבת שוכה https://www.waze.com/editor?env=il&lat=31.68190&lon=34.97393&zoomLevel=17&segments=119419
+שביל ישראל-פארק בריטניה צפוני https://www.waze.com/editor?env=il&lat=31.68390&lon=34.92932&zoomLevel=17&segments=346450,345277
+דרך נופית-תצפית על מישור החוף https://www.waze.com/editor?env=il&lat=31.68878&lon=34.93084&zoomLevel=17&segments=184802
+לוזית - מצפה משואה https://www.waze.com/editor?env=il&lat=31.67220&lon=34.90673&zoomLevel=17&segments=346909,349182,364119,364115,364120
+שביל האלות https://www.waze.com/editor?env=il&lat=31.68027&lon=34.92515&zoomLevel=17&segments=293321
+משחטת עופות https://www.waze.com/editor?env=il&lat=31.74091&lon=34.83391&zoomLevel=17&segments=258009
+דרך החממות https://www.waze.com/editor?env=il&lat=31.69363&lon=34.91775&zoomLevel=17&segments=290377,353666
+לבית הבד https://www.waze.com/editor?env=il&lat=31.59242&lon=34.89644&zoomLevel=17&segments=933154
+בית הבד https://www.waze.com/editor?env=il&lat=31.59108&lon=34.89738&zoomLevel=17&segments=193486
+שביל ישראל פארק בריטניה https://www.waze.com/editor?env=il&lat=31.67762&lon=34.92922&zoomLevel=17&segments=295359,186873,295473
+שביל ישראל - פארק בריטניה דרומי https://www.waze.com/editor?env=il&lat=31.65637&lon=34.92231&zoomLevel=17&segments=346467
+שביל ישראל מדרגות גודד https://www.waze.com/editor?env=il&lat=31.63239&lon=34.91406&zoomLevel=17&segments=267366
+כניסה לגפן https://www.waze.com/editor?env=il&lat=31.74295&lon=34.87179&zoomLevel=17&segments=303894,239651
+גודד לכביש בית גוברין בית ניר https://www.waze.com/editor?env=il&lat=31.63084&lon=34.88831&zoomLevel=17&segments=186909,186912,357791
+בית גוברין-בית ניר https://www.waze.com/editor?env=il&lat=31.62239&lon=34.88529&zoomLevel=17&segments=156940,309796,1109554,189740,309803,186942,184412,1050311,985903,309798,194618,985904,365565
+חירבת צורה-עיי כדון-בית גוברין https://www.waze.com/editor?env=il&lat=31.63861&lon=34.90637&zoomLevel=17&segments=356705,938123,1216720
+עיי כדון-בית גוברין https://www.waze.com/editor?env=il&lat=31.63491&lon=34.88866&zoomLevel=17&segments=985898,985897
+עיי כידון https://www.waze.com/editor?env=il&lat=31.63807&lon=34.89298&zoomLevel=17&segments=359694
+בית ניר - נחלה https://www.waze.com/editor?env=il&lat=31.66130&lon=34.82649&zoomLevel=17&segments=362702,1269625,1269624,296185,362683
+דרך פארק ראשית-תל עזקה https://www.waze.com/editor?env=il&lat=31.69569&lon=34.93039&zoomLevel=17&segments=997130
+נחל הבשור https://www.waze.com/editor?env=il&lat=31.80104&lon=34.89808&zoomLevel=17&segments=307706
+חירבת צורה https://www.waze.com/editor?env=il&lat=31.64785&lon=34.91731&zoomLevel=17&segments=333639
+דרך חסומה https://www.waze.com/editor?env=il&lat=31.70319&lon=34.91669&zoomLevel=17&segments=315356
+לוזית - מצפה משואה-כחול https://www.waze.com/editor?env=il&lat=31.67026&lon=34.90995&zoomLevel=17&segments=1003655
+לוזית -רמת אבישר https://www.waze.com/editor?env=il&lat=31.66376&lon=34.91085&zoomLevel=17&segments=349189,349092,349183
+שריגים -מצפה משואה https://www.waze.com/editor?env=il&lat=31.67354&lon=34.92594&zoomLevel=17&segments=770434,770433,977370,266313,977369
+לבית הקברות https://www.waze.com/editor?env=il&lat=31.83184&lon=34.95263&zoomLevel=17&segments=462606
+בקוע - 3 מזרח https://www.waze.com/editor?env=il&lat=31.82438&lon=34.93148&zoomLevel=17&segments=112695
+כפר מנחם https://www.waze.com/editor?env=il&lat=31.73376&lon=34.83203&zoomLevel=17&segments=1568059,1568058,300938
+תחנת כיבוי והצלה האלה https://www.waze.com/editor?env=il&lat=31.68485&lon=34.94745&zoomLevel=17&segments=308412
+דרך המצפה https://www.waze.com/editor?env=il&lat=31.68045&lon=34.82634&zoomLevel=17&segments=875302
+פז צומת האלה https://www.waze.com/editor?env=il&lat=31.68592&lon=34.94719&zoomLevel=17&segments=937012,937011
+כנסיית סנט אנה https://www.waze.com/editor?env=il&lat=31.59058&lon=34.90259&zoomLevel=17&segments=193496
+מערה צידונית https://www.waze.com/editor?env=il&lat=31.59009&lon=34.90335&zoomLevel=17&segments=184198,310599,193497,317439
+בית האלה, כניסה ראשית https://www.waze.com/editor?env=il&lat=31.68545&lon=34.94728&zoomLevel=17&segments=308213
+גישה לתחנת מקורות כפר אוריה 4 https://www.waze.com/editor?env=il&lat=31.81639&lon=34.91809&zoomLevel=17&segments=1039241
+סובב יער חרובית https://www.waze.com/editor?env=il&lat=31.72688&lon=34.86783&zoomLevel=17&segments=310528,546049,294029,239653,310504,300942,310532,310531,310575,300941
+לברכות המים https://www.waze.com/editor?env=il&lat=31.61899&lon=34.89670&zoomLevel=17&segments=685439,267385,267386,267387
+גן לאומי תל צפית https://www.waze.com/editor?env=il&lat=31.69968&lon=34.85443&zoomLevel=17&segments=345279,345280,319178,1066694,1066695,1162465,1162464,1333077
+יער ארגנטינה https://www.waze.com/editor?env=il&lat=31.79285&lon=35.01265&zoomLevel=17&segments=1263412,264129,264150
+שביל הבארות ובורות המים https://www.waze.com/editor?env=il&lat=31.68756&lon=34.92947&zoomLevel=17&segments=1286459,1284805,1284879
+רמת אבישור https://www.waze.com/editor?env=il&lat=31.65095&lon=34.91937&zoomLevel=17&segments=939250,939251
+כביש 5 https://www.waze.com/editor?env=il&lat=31.69152&lon=34.97719&zoomLevel=17&segments=1648650,1718011,1718012,1649457,1649456,1649453,1645561,1645557
+דור אלון יסודות https://www.waze.com/editor?env=il&lat=31.81064&lon=34.85988&zoomLevel=17&segments=936803
+שכ%27 רמת בית שמש https://www.waze.com/editor?env=il&lat=31.68407&lon=34.97646&zoomLevel=17&segments=1718008
+מסילת ציון https://www.waze.com/editor?env=il&lat=31.79915&lon=35.01415&zoomLevel=17&segments=1858885
+אשתאול https://www.waze.com/editor?env=il&lat=31.77821&lon=35.01140&zoomLevel=17&segments=1685961
+-------------------------------------------
+avimor304
+בוסתן הגולן https://www.waze.com/editor?env=il&lat=33.11746&lon=35.80376&zoomLevel=17&segments=1275295,1275294,212765,1213990,1205549
+תל קדש https://www.waze.com/editor?env=il&lat=33.11312&lon=35.53086&zoomLevel=17&segments=59853
+כביש המערכת https://www.waze.com/editor?env=il&lat=33.11208&lon=35.51307&zoomLevel=17&segments=1134153,1134154
+דרך עפר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=868926,485758,1177551,338760,516519,396540,865607,865606,553475,866076,858920,394179,676374,,530095,878306,557847,208838,567301,1163444,1187513,1533182,1533181
+כניסה לשמורת החולה https://www.waze.com/editor?env=il&lat=33.07215&lon=35.57634&zoomLevel=17&segments=295057
+צומת מחניים https://www.waze.com/editor?env=il&lat=32.99035&lon=35.56405&zoomLevel=17&segments=119035
+דרך נוף הרי נפתלי https://www.waze.com/editor?env=il&lat=33.20102&lon=35.56202&zoomLevel=17&segments=1504047
+רכבל https://www.waze.com/editor?env=il&lat=33.21211&lon=35.47893&zoomLevel=17&segments=1670591,134950
+רכבל עליון https://www.waze.com/editor?env=il&lat=33.30579&lon=35.78428&zoomLevel=17&segments=135060
+ירידה לירדן https://www.waze.com/editor?env=il&lat=32.95219&lon=35.62018&zoomLevel=17&segments=1566737,1322300
+דרך ציר הנפט https://www.waze.com/editor?env=il&lat=33.19269&lon=35.68956&zoomLevel=17&segments=923709,696183,1229698,1229697,1279646,1275233
+לעין עלמין בריכת הקצינים https://www.waze.com/editor?env=il&lat=32.99391&lon=35.64035&zoomLevel=17&segments=145658
+חוצה גולן https://www.waze.com/editor?env=il&lat=32.72662&lon=35.65131&zoomLevel=17&segments=721881,1217495
+מעלה עורבים https://www.waze.com/editor?env=il&lat=33.14609&lon=35.67615&zoomLevel=17&segments=1053876,1660457
+דרך יער https://www.waze.com/editor?env=il&lat=32.00536&lon=35.05552&zoomLevel=17&segments=1052184,1052185,1031601,1031600,171979,1174925
+דרך עפר ללא שם https://www.waze.com/editor?env=il&lat=31.78364&lon=35.13186&zoomLevel=17&segments=584100,584102,205279,321290,320439,563242,567302,293140,233811
+מגרש חניה https://www.waze.com/editor?env=il&lat=33.23385&lon=35.58200&zoomLevel=17&segments=366996
+גישה למרגליות https://www.waze.com/editor?env=il&lat=33.22048&lon=35.54003&zoomLevel=17&segments=180902
+דרך חקלאית סלולה https://www.waze.com/editor?env=il&lat=32.21892&lon=35.25186&zoomLevel=17&segments=1262639,519064,203603
+דרך חקלאית https://www.waze.com/editor?env=il&lat=32.60265&lon=35.44559&zoomLevel=17&segments=292159,838769,1164602,594829,1760792,1760788,1191986,1191985,145448,1392997,1162487,1194446,1105143,1306862,1306861,961820,961821,824654,125357,1076770,218945,270221,814813,1533189,1533187,162354
+כביש משובש https://www.waze.com/editor?env=il&lat=31.88892&lon=35.05258&zoomLevel=17&segments=651552,205486,333191,365602,229171
+חוות דגי הדן https://www.waze.com/editor?env=il&lat=33.24428&lon=35.64784&zoomLevel=17&segments=1216588
+כביש גישה לפלג טל נחל דן https://www.waze.com/editor?env=il&lat=33.23316&lon=35.62765&zoomLevel=17&segments=418551
+מכללת תל חי https://www.waze.com/editor?env=il&lat=33.23117&lon=35.58058&zoomLevel=17&segments=1462088
+מוזיאון הצילום https://www.waze.com/editor?env=il&lat=33.23415&lon=35.58212&zoomLevel=17&segments=506139,318838
+לדישון https://www.waze.com/editor?env=il&lat=33.09319&lon=35.52397&zoomLevel=17&segments=930667
+עמק הבכא https://www.waze.com/editor?env=il&lat=33.19447&lon=35.79202&zoomLevel=17&segments=1217644
+עפר https://www.waze.com/editor?env=il&lat=31.85911&lon=34.94105&zoomLevel=17&segments=422974,422975,422972,422973,422970,422971,422979,422977,354172,300975,347260,347272,347274,235399,796686,310543,261653,1356570,1356571,217962,218028,299542,85995,312784,312790,224009
+ציר הנפט https://www.waze.com/editor?env=il&lat=32.44089&lon=35.61471&zoomLevel=17&segments=1668825,1313228,1189144,1189149,1229708,1398338,201323,872370,1313221,1314816,1222160,1222161,1254478,1254477,1189142,1189145,201234,1398337
+מערכת-קמפ https://www.waze.com/editor?env=il&lat=33.28578&lon=35.57698&zoomLevel=17&segments=1316911,229001
+דרך מטעים https://www.waze.com/editor?env=il&lat=33.24528&lon=35.60295&zoomLevel=17&segments=477854,229149
+דרך מצאים לאורך תעלה מיזרחית https://www.waze.com/editor?env=il&lat=33.04108&lon=35.62869&zoomLevel=17&segments=1517927
+יער מבוא חמה https://www.waze.com/editor?env=il&lat=32.70330&lon=35.64364&zoomLevel=17&segments=230934
+שביל הגולן https://www.waze.com/editor?env=il&lat=33.04214&lon=35.72276&zoomLevel=17&segments=1635545,1635552,1635553,1630744,1630741,1630742,1630743,1217510,1217511,1217509,1217512
+נחל פארעם https://www.waze.com/editor?env=il&lat=32.98176&lon=35.52086&zoomLevel=17&segments=234795
+יער עמוקה https://www.waze.com/editor?env=il&lat=32.99696&lon=35.50343&zoomLevel=17&segments=287931
+חרבת כנף https://www.waze.com/editor?env=il&lat=32.87157&lon=35.68642&zoomLevel=17&segments=236159
+דרך נוף עמק החולה https://www.waze.com/editor?env=il&lat=33.13961&lon=35.62858&zoomLevel=17&segments=1326897
+חוות ניסיונות מ.א. גליל עליון https://www.waze.com/editor?env=il&lat=33.15006&lon=35.62164&zoomLevel=17&segments=1054374,1054375
+דרך נופית https://www.waze.com/editor?env=il&lat=31.80941&lon=35.03087&zoomLevel=17&segments=651550,298336,420972,104341,265666,1289648,349201,349200,242596
+דרך הירדן ההררי https://www.waze.com/editor?env=il&lat=32.99066&lon=35.62401&zoomLevel=17&segments=1032206,1771273,1771272,1771271,233793,583745,1154799,1154798
+רפטינג נהר הירדן https://www.waze.com/editor?env=il&lat=33.02597&lon=35.62695&zoomLevel=17&segments=1219171
+גדר המערכת https://www.waze.com/editor?env=il&lat=32.76703&lon=35.77368&zoomLevel=17&segments=1842373,1207100,1842374,1202580,1433285,1433284,1433286,1218342,1433283,229322
+ברכת חפיר https://www.waze.com/editor?env=il&lat=33.26990&lon=35.72680&zoomLevel=17&segments=297303
+לחורבת צורמן https://www.waze.com/editor?env=il&lat=33.09690&lon=35.83776&zoomLevel=17&segments=300644
+נוף סוסיתא https://www.waze.com/editor?env=il&lat=32.77376&lon=35.66691&zoomLevel=17&segments=1646561,1646560
+יער ביריה https://www.waze.com/editor?env=il&lat=32.99937&lon=35.49230&zoomLevel=17&segments=322770,322514
+עין עקוב - שביל הגולן https://www.waze.com/editor?env=il&lat=32.70162&lon=35.64714&zoomLevel=17&segments=200683,931940
+עין עקוב -שביל הגולן https://www.waze.com/editor?env=il&lat=32.70355&lon=35.64525&zoomLevel=17&segments=931943
+יער מבוא חמה - שביל הגולן https://www.waze.com/editor?env=il&lat=32.70948&lon=35.64652&zoomLevel=17&segments=1215914,1215915
+ציר מערכת גבול - שביל הגולן https://www.waze.com/editor?env=il&lat=32.73700&lon=35.68600&zoomLevel=17&segments=1286793,1217919,1286792
+חוות טורבינות הרוח - שביל הגולן https://www.waze.com/editor?env=il&lat=33.07956&lon=35.83158&zoomLevel=17&segments=1203493
+חניון עין עיט https://www.waze.com/editor?env=il&lat=32.95602&lon=35.75369&zoomLevel=17&segments=1156483,1156484
+מהירדן ההררי לטובא זנגריה https://www.waze.com/editor?env=il&lat=32.98399&lon=35.60866&zoomLevel=17&segments=1730299,1730300
+חניה קמפוס מזרחי https://www.waze.com/editor?env=il&lat=33.23116&lon=35.58080&zoomLevel=17&segments=1462086,1462085,1462090,1462089
+שביל ישראל - לכפר יובל https://www.waze.com/editor?env=il&lat=33.23722&lon=35.60275&zoomLevel=17&segments=371500
+שביל הפלמ"ח https://www.waze.com/editor?env=il&lat=33.11277&lon=35.56083&zoomLevel=17&segments=161129
+טחונת א דרבשיה https://www.waze.com/editor?env=il&lat=33.09191&lon=35.64493&zoomLevel=17&segments=386686
+קרן נפתלי https://www.waze.com/editor?env=il&lat=33.09204&lon=35.55959&zoomLevel=17&segments=506129,387183,1227371,914121,914120,914119,1531595,1531594
+דרך נוף הירדן ההררי https://www.waze.com/editor?env=il&lat=32.94883&lon=35.61696&zoomLevel=17&segments=233871
+למטעי דפנה https://www.waze.com/editor?env=il&lat=33.23618&lon=35.63017&zoomLevel=17&segments=130695
+הר אליעזר https://www.waze.com/editor?env=il&lat=33.04843&lon=35.54109&zoomLevel=17&segments=1186434
+לחרמונית %28משובש%29 https://www.waze.com/editor?env=il&lat=33.17916&lon=35.79359&zoomLevel=17&segments=1313396
+לתל א-ריחניה https://www.waze.com/editor?env=il&lat=33.10085&lon=35.82504&zoomLevel=17&segments=464419
+מקורות - עין עינן https://www.waze.com/editor?env=il&lat=33.08183&lon=35.57384&zoomLevel=17&segments=470564,1187510
+שביל הליכה https://www.waze.com/editor?env=il&lat=32.31834&lon=35.06687&zoomLevel=17&segments=1439555,587591,305537
+כניסה לבסיס מצפה עדי https://www.waze.com/editor?env=il&lat=33.22333&lon=35.54738&zoomLevel=17&segments=754120,754119
+מצודת ישע / כ"ח https://www.waze.com/editor?env=il&lat=33.11426&lon=35.55556&zoomLevel=17&segments=1360260,1360259
+שער https://www.waze.com/editor?env=il&lat=32.83529&lon=35.33268&zoomLevel=17&segments=1511954,1511997,1511979,1000059,732287,686446,1851753,1760791,1217823,1030289,1811872
+חניון האלה https://www.waze.com/editor?env=il&lat=33.11183&lon=35.54708&zoomLevel=17&segments=668296,1395087
+דרך מצעים לאורך תעלה מיזרחית https://www.waze.com/editor?env=il&lat=33.08453&lon=35.62361&zoomLevel=17&segments=175502
+מצפה רן - שביל החידות https://www.waze.com/editor?env=il&lat=33.10421&lon=35.56377&zoomLevel=17&segments=781012
+חניה מערת עלמה https://www.waze.com/editor?env=il&lat=33.03808&lon=35.50499&zoomLevel=17&segments=1647397,1647396
+תחילת מסלול נחל ג%27ילבון https://www.waze.com/editor?env=il&lat=33.04374&lon=35.67108&zoomLevel=17&segments=305427
+שביל רגלי - תל אנפה https://www.waze.com/editor?env=il&lat=33.17715&lon=35.64492&zoomLevel=17&segments=1547286,847213,846712,846710
+חוות המטעים https://www.waze.com/editor?env=il&lat=33.15000&lon=35.62187&zoomLevel=17&segments=860955
+נוטרה https://www.waze.com/editor?env=il&lat=33.09849&lon=35.63618&zoomLevel=17&segments=862778
+דרך סגורה - רשות הטבע והגנים https://www.waze.com/editor?env=il&lat=33.24889&lon=35.64801&zoomLevel=17&segments=506120
+נקודת תצפית - לירן סעדיה https://www.waze.com/editor?env=il&lat=33.21534&lon=35.56178&zoomLevel=17&segments=234889
+טיילת גן סער https://www.waze.com/editor?env=il&lat=33.24618&lon=35.76777&zoomLevel=17&segments=925712
+שער צבאי נעול https://www.waze.com/editor?env=il&lat=33.26480&lon=35.74046&zoomLevel=17&segments=926360
+סונול משמר הירדן https://www.waze.com/editor?env=il&lat=33.00060&lon=35.59829&zoomLevel=17&segments=934902,934901
+דלק מחניים https://www.waze.com/editor?env=il&lat=32.99041&lon=35.56252&zoomLevel=17&segments=917465
+9888 בית הלל https://www.waze.com/editor?env=il&lat=33.19414&lon=35.60516&zoomLevel=17&segments=215984,215992
+בריק https://www.waze.com/editor?env=il&lat=33.02488&lon=35.63335&zoomLevel=17&segments=960299
+דרך הפרדס https://www.waze.com/editor?env=il&lat=33.18515&lon=35.62625&zoomLevel=17&segments=996303,996311,996304
+עין עלמין 4x4 https://www.waze.com/editor?env=il&lat=32.99375&lon=35.63978&zoomLevel=17&segments=225928
+נבי אל יעפורי https://www.waze.com/editor?env=il&lat=33.24112&lon=35.76839&zoomLevel=17&segments=927990
+שער אחורי יונתן https://www.waze.com/editor?env=il&lat=32.93880&lon=35.79823&zoomLevel=17&segments=1002307
+ציר העמודים https://www.waze.com/editor?env=il&lat=32.94245&lon=35.77449&zoomLevel=17&segments=201280
+כביש גישה %28בין השדות%29 https://www.waze.com/editor?env=il&lat=33.08520&lon=35.58264&zoomLevel=17&segments=978266
+א-גודילה https://www.waze.com/editor?env=il&lat=32.95523&lon=35.75807&zoomLevel=17&segments=1452537
+עין עיט https://www.waze.com/editor?env=il&lat=32.95514&lon=35.75478&zoomLevel=17&segments=205012
+נטור https://www.waze.com/editor?env=il&lat=32.85308&lon=35.75697&zoomLevel=17&segments=203605
+נחל דן - פלג דפנה https://www.waze.com/editor?env=il&lat=33.22221&lon=35.63904&zoomLevel=17&segments=1184209
+מושב נוב https://www.waze.com/editor?env=il&lat=32.82752&lon=35.78700&zoomLevel=17&segments=176792
+מצפה חוסיין https://www.waze.com/editor?env=il&lat=33.17090&lon=35.55003&zoomLevel=17&segments=1206568,1206569
+מצפור עופות המים https://www.waze.com/editor?env=il&lat=33.09718&lon=35.61153&zoomLevel=17&segments=1198666
+עמק הבכא - שביל הגולן %28משובש%29 https://www.waze.com/editor?env=il&lat=33.18567&lon=35.79735&zoomLevel=17&segments=323069
+מעלה גולני https://www.waze.com/editor?env=il&lat=33.27795&lon=35.76259&zoomLevel=17&segments=1217170,1217172
+999 לע%27ג%27ר https://www.waze.com/editor?env=il&lat=33.25611&lon=35.66552&zoomLevel=17&segments=1265244
+לע%27ג%27ר https://www.waze.com/editor?env=il&lat=33.26912&lon=35.64452&zoomLevel=17&segments=1491875,1363930,1363931
+האלון https://www.waze.com/editor?env=il&lat=32.89045&lon=35.68417&zoomLevel=17&segments=1196402,1196401,1196394,1196393
+חניה בריכת רם https://www.waze.com/editor?env=il&lat=33.23798&lon=35.76581&zoomLevel=17&segments=1460837
+גוש א%27 https://www.waze.com/editor?env=il&lat=33.27378&lon=35.56519&zoomLevel=17&segments=1084127
+תל חצור https://www.waze.com/editor?env=il&lat=33.01807&lon=35.57001&zoomLevel=17&segments=1494242
+להבות הבשן https://www.waze.com/editor?env=il&lat=33.13963&lon=35.64434&zoomLevel=17&segments=1533957,1533956
+אפיק https://www.waze.com/editor?env=il&lat=32.78104&lon=35.70947&zoomLevel=17&segments=1534288,1534287
+נאות גולן https://www.waze.com/editor?env=il&lat=32.78872&lon=35.69625&zoomLevel=17&segments=1534370,1534369
+קלע https://www.waze.com/editor?env=il&lat=33.12665&lon=35.68282&zoomLevel=17&segments=1541099
+שעל https://www.waze.com/editor?env=il&lat=33.11738&lon=35.72799&zoomLevel=17&segments=1546398,1546397
+כביש גישה בי"ס שדה חרמון https://www.waze.com/editor?env=il&lat=33.23826&lon=35.67292&zoomLevel=17&segments=374695
+חניון שמורת גמלא https://www.waze.com/editor?env=il&lat=32.90566&lon=35.74819&zoomLevel=17&segments=1660076
+-------------------------------------------
+P5YDUCK
+השדות https://www.waze.com/editor?env=il&lat=31.50398&lon=34.56623&zoomLevel=17&segments=909809,909810,1382695,1382696
+דרך המשתלות https://www.waze.com/editor?env=il&lat=32.30255&lon=34.99073&zoomLevel=17&segments=973052
+דלק השרון https://www.waze.com/editor?env=il&lat=32.30225&lon=34.98210&zoomLevel=17&segments=932478,1082923,1082927
+-------------------------------------------
+reuvenirony
+תחנת דלק אלון https://www.waze.com/editor?env=il&lat=31.87692&lon=34.76246&zoomLevel=17&segments=217084
+דרך חקלאית https://www.waze.com/editor?env=il&lat=32.60265&lon=35.44559&zoomLevel=17&segments=292159,838769,1164602,594829,1760792,1760788,1191986,1191985,145448,1392997,1162487,1194446,1105143,1306862,1306861,961820,961821,824654,125357,1076770,218945,270221,814813,1533189,1533187,162354
+דרך עפר חקלאית https://www.waze.com/editor?env=il&lat=31.32735&lon=34.53341&zoomLevel=17&segments=337952,423354,897269,897270,396561,1221276,859689,859688,516680,396251,397723,397731,518938,518947,395079,395087,516689,862594,510619,855759,855766,404499,855636,516702,518914,397775,394116,855311,519428,855306,516525,858911,858914,856910,394157,518933,518931,518936,856942,999203,855704,519057,850836,855701,854929,331174,1529841,1529840,518906,518905,404565,402398,397785,855649,470365,145447,1190789
+פרדס https://www.waze.com/editor?env=il&lat=31.87435&lon=34.76089&zoomLevel=17&segments=927566,1710154,789068
+תחנת דלק סונול סתריה https://www.waze.com/editor?env=il&lat=31.89628&lon=34.84095&zoomLevel=17&segments=747134,747133
+-------------------------------------------
+ravid007
+הירדן https://www.waze.com/editor?env=il&lat=31.98778&lon=34.90886&zoomLevel=17&segments=878008,878007
+משאבת מקורות https://www.waze.com/editor?env=il&lat=31.99273&lon=34.91073&zoomLevel=17&segments=156420
+חנייה לטווח ארוך https://www.waze.com/editor?env=il&lat=31.98788&lon=34.89229&zoomLevel=17&segments=1319148,1319147
+הכרם https://www.waze.com/editor?env=il&lat=31.99524&lon=34.86939&zoomLevel=17&segments=1284310,1284312
+תע"א מזרח https://www.waze.com/editor?env=il&lat=32.00493&lon=34.90767&zoomLevel=17&segments=1538055,1189239,1614461,1614462,1614467,1614468
+שביל בזק https://www.waze.com/editor?env=il&lat=32.00927&lon=34.86757&zoomLevel=17&segments=1000876,1523222,1523217
+עגור https://www.waze.com/editor?env=il&lat=31.98741&lon=34.89648&zoomLevel=17&segments=886047
+תע"א מערב https://www.waze.com/editor?env=il&lat=32.00494&lon=34.90475&zoomLevel=17&segments=1189236,1189237,218991,1324982
+שד%27 העליה https://www.waze.com/editor?env=il&lat=31.98858&lon=34.89758&zoomLevel=17&segments=123368
+-------------------------------------------
+ab-editor
+דרך עפר https://www.waze.com/editor?env=il&lat=NaN&lon=NaN&zoomLevel=17&segments=868926,485758,1177551,338760,516519,396540,865607,865606,553475,866076,858920,394179,676374,,530095,878306,557847,208838,567301,1163444,1187513,1533182,1533181
+446 / 465 https://www.waze.com/editor?env=il&lat=32.02758&lon=35.03657&zoomLevel=17&segments=926244,926243,1751318,1751317,1503633
+לעלי זהב https://www.waze.com/editor?env=il&lat=32.06998&lon=35.06668&zoomLevel=17&segments=1094113,1094114
+דרך בטחון https://www.waze.com/editor?env=il&lat=32.31253&lon=35.34503&zoomLevel=17&segments=1034217,488405
+דרך ביטחון https://www.waze.com/editor?env=il&lat=31.97300&lon=35.11170&zoomLevel=17&segments=1365460,1365456,458025,1171853
+כביש פטרול https://www.waze.com/editor?env=il&lat=32.00322&lon=35.12142&zoomLevel=17&segments=1235472,985657,866958,1034444,1034443
+מגד 5 https://www.waze.com/editor?env=il&lat=32.04137&lon=35.00204&zoomLevel=17&segments=1228714,1228715
+Dair Nitham https://www.waze.com/editor?env=il&lat=32.00163&lon=35.11277&zoomLevel=17&segments=1232818,1232819
+מעיין מאיר https://www.waze.com/editor?env=il&lat=32.00972&lon=35.12214&zoomLevel=17&segments=1360319
+دير غسانة https://www.waze.com/editor?env=il&lat=32.04618&lon=35.09869&zoomLevel=17&segments=1439378,1439368,1439565,1439564,1439605,1439606,1439591,1439590,1439584,1439597,1439598,1439641,1439640
+-------------------------------------------
+sh-oded
+בקו"ם https://www.waze.com/editor?env=il&lat=32.04954&lon=34.85539&zoomLevel=17&segments=89911
+תחנת דלק "פז" https://www.waze.com/editor?env=il&lat=32.08158&lon=34.84533&zoomLevel=17&segments=1454108
+שביל הליכה https://www.waze.com/editor?env=il&lat=32.31834&lon=35.06687&zoomLevel=17&segments=1439555,587591,305537
+מתחם מוטורי אקסטרים https://www.waze.com/editor?env=il&lat=32.03692&lon=34.87373&zoomLevel=17&segments=858150
+לוחמי האש https://www.waze.com/editor?env=il&lat=32.03778&lon=34.86619&zoomLevel=17&segments=1597790,1597791,1597769
+-------------------------------------------
+danielweishut
+גדר ההפרדה https://www.waze.com/editor?env=il&lat=31.82276&lon=35.21090&zoomLevel=17&segments=96559,165942
+חורשת בית היערן https://www.waze.com/editor?env=il&lat=31.78224&lon=35.28429&zoomLevel=17&segments=132643,132651,132653,1592952,1592953,1592944,1592945,1592946
+משטרת מחוז שי https://www.waze.com/editor?env=il&lat=31.79723&lon=35.29017&zoomLevel=17&segments=691735
+ציר בית אל פסגות https://www.waze.com/editor?env=il&lat=31.90852&lon=35.23578&zoomLevel=17&segments=1738440,1738441,1042606,1268983,1268984
+גדר הביטחון https://www.waze.com/editor?env=il&lat=31.90717&lon=35.27376&zoomLevel=17&segments=1035795,1520067,1523515,1363204,1521957,1507249,1521956,1520062,1520066,343025
+כבש מילוט https://www.waze.com/editor?env=il&lat=31.78574&lon=35.27176&zoomLevel=17&segments=1383849
+حارة أبو سنينة https://www.waze.com/editor?env=il&lat=31.76203&lon=35.28006&zoomLevel=17&segments=1399388
+طريق وادي النار https://www.waze.com/editor?env=il&lat=31.73933&lon=35.28475&zoomLevel=17&segments=814660,1532230,1532229,1406128,845490,1515018
+طريق السواحرة الشرقية https://www.waze.com/editor?env=il&lat=31.74526&lon=35.27257&zoomLevel=17&segments=1444406,1444404,1444422,1444423,1095322,1642988,1095321
+شارع البابا https://www.waze.com/editor?env=il&lat=31.77261&lon=35.27323&zoomLevel=17&segments=1552089,1552078
+شارع مجد ادريس https://www.waze.com/editor?env=il&lat=31.75701&lon=35.27835&zoomLevel=17&segments=1399406
+-------------------------------------------
+habbas89
+גדר ההפרדה https://www.waze.com/editor?env=il&lat=31.82276&lon=35.21090&zoomLevel=17&segments=96559,165942
+أبو ظبي https://www.waze.com/editor?env=il&lat=31.93518&lon=35.16842&zoomLevel=17&segments=1438785,1438786,1240572,1506129,1582948,1582949
+ادوارد سعيد https://www.waze.com/editor?env=il&lat=31.93593&lon=35.16645&zoomLevel=17&segments=1438788,1578386,1859088,1859089
+كوبا https://www.waze.com/editor?env=il&lat=31.93503&lon=35.16797&zoomLevel=17&segments=1020865,1020864
+سالي زهران https://www.waze.com/editor?env=il&lat=31.93698&lon=35.16858&zoomLevel=17&segments=1438804,1438803,1019190
+الاكوادور https://www.waze.com/editor?env=il&lat=31.93828&lon=35.16743&zoomLevel=17&segments=1582937,1582938
+البيرو https://www.waze.com/editor?env=il&lat=31.93521&lon=35.16480&zoomLevel=17&segments=1438797,1438798,1438792
+الأرجنتين https://www.waze.com/editor?env=il&lat=31.93572&lon=35.16572&zoomLevel=17&segments=1475029
+كولومبيا https://www.waze.com/editor?env=il&lat=31.93563&lon=35.16528&zoomLevel=17&segments=1475028
+عمر القاسم https://www.waze.com/editor?env=il&lat=31.93530&lon=35.16784&zoomLevel=17&segments=1438805,1020861
+أحمد اليماني https://www.waze.com/editor?env=il&lat=31.93673&lon=35.16810&zoomLevel=17&segments=1438802
+-------------------------------------------
+eyal-k
+חוות התבלינים בגלבוע https://www.waze.com/editor?env=il&lat=32.53508&lon=35.35837&zoomLevel=17&segments=115516
+שביל נוף שלוחת צבאים, רמות יששכר https://www.waze.com/editor?env=il&lat=32.55554&lon=35.47795&zoomLevel=17&segments=1078339,1078341,1078342,288620,199931,199928,125400
+בריכת יוחי https://www.waze.com/editor?env=il&lat=32.55634&lon=35.45038&zoomLevel=17&segments=125392,1100409,1100408,125395
+מסלול נחל יששכר https://www.waze.com/editor?env=il&lat=32.53095&lon=35.50996&zoomLevel=17&segments=145379,299854,145366,145369
+חקלאית https://www.waze.com/editor?env=il&lat=32.26681&lon=35.17866&zoomLevel=17&segments=1516769,176714,176712,590529,640908,1262663,1262664,1638323
+צפרות ונוף תל סהרון https://www.waze.com/editor?env=il&lat=32.45059&lon=35.52121&zoomLevel=17&segments=826911,386329,1168048
+אזור תעשיה צבאים https://www.waze.com/editor?env=il&lat=32.52533&lon=35.48568&zoomLevel=17&segments=125377
+חניון האירוסים https://www.waze.com/editor?env=il&lat=32.50447&lon=35.41260&zoomLevel=17&segments=269946
+הר גיבורים https://www.waze.com/editor?env=il&lat=32.52705&lon=35.36538&zoomLevel=17&segments=186702
+עין חוגה https://www.waze.com/editor?env=il&lat=32.50967&lon=35.52764&zoomLevel=17&segments=244304,818815,818816,225197,1152487
+למעיין חרוד https://www.waze.com/editor?env=il&lat=32.55066&lon=35.35884&zoomLevel=17&segments=208984
+למחצבת גדעונה https://www.waze.com/editor?env=il&lat=32.54775&lon=35.36245&zoomLevel=17&segments=1386866
+מחצבת גדעונה https://www.waze.com/editor?env=il&lat=32.54456&lon=35.36414&zoomLevel=17&segments=1312902,1312903,1147840
+כניסה לתחנת סונול https://www.waze.com/editor?env=il&lat=32.55117&lon=35.39319&zoomLevel=17&segments=259644,238220
+חניון קנטרה https://www.waze.com/editor?env=il&lat=32.50880&lon=35.47554&zoomLevel=17&segments=902435,902434,190347,270232
+פארק בית שאן נחל חרוד https://www.waze.com/editor?env=il&lat=32.50666&lon=35.48425&zoomLevel=17&segments=902405
+דרך נוף נחל חרוד https://www.waze.com/editor?env=il&lat=32.52962&lon=35.43646&zoomLevel=17&segments=1247607,1247606,1247609,1247608,1119115,1119116,954370,902407,847301,847302
+תל זוהרה https://www.waze.com/editor?env=il&lat=32.51313&lon=35.45685&zoomLevel=17&segments=192374,270222
+לנחל חרוד https://www.waze.com/editor?env=il&lat=32.52713&lon=35.41524&zoomLevel=17&segments=1763711,1763712
+כביש תיפעולי https://www.waze.com/editor?env=il&lat=32.55004&lon=35.39425&zoomLevel=17&segments=181818
+ברכות דגים https://www.waze.com/editor?env=il&lat=32.51684&lon=35.46209&zoomLevel=17&segments=145490
+"כביש הביטחון" https://www.waze.com/editor?env=il&lat=32.59505&lon=35.45204&zoomLevel=17&segments=1802961,288622,291368,301613,202337,205733,300610,600590,199642,199922,199925,600591,265347,199665
+דרך חקלאית https://www.waze.com/editor?env=il&lat=32.60265&lon=35.44559&zoomLevel=17&segments=292159,838769,1164602,594829,1760792,1760788,1191986,1191985,145448,1392997,1162487,1194446,1105143,1306862,1306861,961820,961821,824654,125357,1076770,218945,270221,814813,1533189,1533187,162354
+נוף נחל חרוד https://www.waze.com/editor?env=il&lat=32.52052&lon=35.44780&zoomLevel=17&segments=973323,1137989,1137990,813104,813105,1262674,1262673,145487,199976,193979,1685081,1685077,1685078,192367,190345,270223,270225,270226,192464,192465
+תחנת הסעת תלמידים https://www.waze.com/editor?env=il&lat=32.56094&lon=35.39553&zoomLevel=17&segments=200528
+לחניה ותחנת הסעה https://www.waze.com/editor?env=il&lat=32.56082&lon=35.39527&zoomLevel=17&segments=265312,1052895,1052896
+מצפור https://www.waze.com/editor?env=il&lat=32.15604&lon=35.21198&zoomLevel=17&segments=218759,208123
+כניסה סגורה https://www.waze.com/editor?env=il&lat=32.49474&lon=35.52928&zoomLevel=17&segments=1524189
+לגאון הירדן https://www.waze.com/editor?env=il&lat=32.48128&lon=35.55728&zoomLevel=17&segments=211236
+חניון קניון הבזלת https://www.waze.com/editor?env=il&lat=32.50744&lon=35.52055&zoomLevel=17&segments=902359,902358
+תיפעולי עין חוגה https://www.waze.com/editor?env=il&lat=32.51449&lon=35.53631&zoomLevel=17&segments=211223
+דרך נוף https://www.waze.com/editor?env=il&lat=31.94656&lon=35.12765&zoomLevel=17&segments=1803828,1803829,1210836,1212283,1841820,1841821,781505,263788,1268491,118540,145467
+דרך נוף וצפרות https://www.waze.com/editor?env=il&lat=32.46320&lon=35.55779&zoomLevel=17&segments=819469,819470
+ציר המערכת https://www.waze.com/editor?env=il&lat=32.47670&lon=35.56557&zoomLevel=17&segments=822668,822670,822669
+קישור ממעוז חיים https://www.waze.com/editor?env=il&lat=32.48927&lon=35.56562&zoomLevel=17&segments=218704,1052566,1052567,819706
+רכבת העמק תחנת כי"ח https://www.waze.com/editor?env=il&lat=32.55722&lon=35.36232&zoomLevel=17&segments=291865
+דרך נוף מרגלות הגלבוע https://www.waze.com/editor?env=il&lat=32.54691&lon=35.37008&zoomLevel=17&segments=1247792,1320161,1320162
+עפר https://www.waze.com/editor?env=il&lat=31.85911&lon=34.94105&zoomLevel=17&segments=422974,422975,422972,422973,422970,422971,422979,422977,354172,300975,347260,347272,347274,235399,796686,310543,261653,1356570,1356571,217962,218028,299542,85995,312784,312790,224009
+דרך נוף השיטה המלבינה https://www.waze.com/editor?env=il&lat=32.48770&lon=35.52201&zoomLevel=17&segments=1354028,1354029,1354049
+דרך לגלבוע https://www.waze.com/editor?env=il&lat=32.51365&lon=35.42957&zoomLevel=17&segments=253627
+דרך נוף בגלבוע https://www.waze.com/editor?env=il&lat=32.52433&lon=35.39244&zoomLevel=17&segments=367561,264053
+דרך עפר חקלאית https://www.waze.com/editor?env=il&lat=31.32735&lon=34.53341&zoomLevel=17&segments=337952,423354,897269,897270,396561,1221276,859689,859688,516680,396251,397723,397731,518938,518947,395079,395087,516689,862594,510619,855759,855766,404499,855636,516702,518914,397775,394116,855311,519428,855306,516525,858911,858914,856910,394157,518933,518931,518936,856942,999203,855704,519057,850836,855701,854929,331174,1529841,1529840,518906,518905,404565,402398,397785,855649,470365,145447,1190789
+אתר פסולת תל יוסף https://www.waze.com/editor?env=il&lat=32.55616&lon=35.40733&zoomLevel=17&segments=1102531,1102532,292077
+דרך 4X4 https://www.waze.com/editor?env=il&lat=32.49499&lon=35.36409&zoomLevel=17&segments=310287,1032901,270215,367564
+הפטרולים בגלבוע https://www.waze.com/editor?env=il&lat=32.51050&lon=35.38118&zoomLevel=17&segments=312817,736802
+מלכישוע %28כביש גישה%29 https://www.waze.com/editor?env=il&lat=32.44533&lon=35.41765&zoomLevel=17&segments=1145646
+ממרא שאול https://www.waze.com/editor?env=il&lat=32.53587&lon=35.37477&zoomLevel=17&segments=1203383
+לתל זאבים https://www.waze.com/editor?env=il&lat=32.45177&lon=35.04572&zoomLevel=17&segments=464426
+להר מלכישוע https://www.waze.com/editor?env=il&lat=32.43701&lon=35.41308&zoomLevel=17&segments=663946,466734
+בית הספר המשותף לעמק חרוד https://www.waze.com/editor?env=il&lat=32.55759&lon=35.39589&zoomLevel=17&segments=1163282
+שער https://www.waze.com/editor?env=il&lat=32.83529&lon=35.33268&zoomLevel=17&segments=1511954,1511997,1511979,1000059,732287,686446,1851753,1760791,1217823,1030289,1811872
+חניון הר ברקן https://www.waze.com/editor?env=il&lat=32.51129&lon=35.40855&zoomLevel=17&segments=705689
+חצרות יסף https://www.waze.com/editor?env=il&lat=32.95985&lon=35.09339&zoomLevel=17&segments=483578
+טיילת חוף הים https://www.waze.com/editor?env=il&lat=33.03965&lon=35.09890&zoomLevel=17&segments=1803706,1803705,1463997,1463995
+מצפור ויניה https://www.waze.com/editor?env=il&lat=32.52272&lon=35.38821&zoomLevel=17&segments=736813
+חניון שער הזהב https://www.waze.com/editor?env=il&lat=32.51382&lon=35.39760&zoomLevel=17&segments=736869
+לעין סמל חניון העמק הנעלם https://www.waze.com/editor?env=il&lat=32.52153&lon=35.39218&zoomLevel=17&segments=736872
+אביר יעקב https://www.waze.com/editor?env=il&lat=33.01042&lon=35.10528&zoomLevel=17&segments=61345
+פנצ%27ריה https://www.waze.com/editor?env=il&lat=32.55112&lon=35.39295&zoomLevel=17&segments=238215
+דלק שדה נחום https://www.waze.com/editor?env=il&lat=32.52118&lon=35.48467&zoomLevel=17&segments=271603,902430,125373,220073
+סונול גן השלושה https://www.waze.com/editor?env=il&lat=32.51159&lon=35.44216&zoomLevel=17&segments=902441,902442
+דרך בטחון-גדר הפרדה https://www.waze.com/editor?env=il&lat=32.44243&lon=35.40777&zoomLevel=17&segments=466735
+כביש גישה לחפציבה https://www.waze.com/editor?env=il&lat=32.51947&lon=35.42887&zoomLevel=17&segments=107130
+דרך הנחל https://www.waze.com/editor?env=il&lat=32.95838&lon=35.08439&zoomLevel=17&segments=1214705,1149383
+כביש עפר מטעי כברי https://www.waze.com/editor?env=il&lat=33.02843&lon=35.13672&zoomLevel=17&segments=1269309
+כביש גישה לאתר פסולת https://www.waze.com/editor?env=il&lat=32.98745&lon=35.11507&zoomLevel=17&segments=1664536,1664539,1664538,1664535
+חניה לחאמד סנטר https://www.waze.com/editor?env=il&lat=32.98739&lon=35.09588&zoomLevel=17&segments=1381748,1381745
+716,קריית שמונה,טמרה https://www.waze.com/editor?env=il&lat=32.55488&lon=35.38288&zoomLevel=17&segments=1642844
+-------------------------------------------
+crayzee
+השוק הסיטונאי צריפין https://www.waze.com/editor?env=il&lat=31.95913&lon=34.84940&zoomLevel=17&segments=1650813,1650812,1650815,1650814,762872,1710206
+משרד החקלאות שהם https://www.waze.com/editor?env=il&lat=31.99611&lon=34.81983&zoomLevel=17&segments=510642
+צריפין - שער יפו https://www.waze.com/editor?env=il&lat=31.96871&lon=34.84230&zoomLevel=17&segments=1028167,987535,1030861
+מכון וולקני מחקר ופיתוח https://www.waze.com/editor?env=il&lat=31.99308&lon=34.81392&zoomLevel=17&segments=708760
+20 איילון צפון https://www.waze.com/editor?env=il&lat=32.09658&lon=34.79894&zoomLevel=17&segments=1307475,22754,252138,116975,55283,44478,1215560,1220728,1766942,1766941,1253037,1280848,1252673,1292603,319643,242085,1307476,244491,1172122,118933,20673,881020,56554,92623,92646,15010,1220727,21002,1766938,1766939,1482945
+20 איילון דרום https://www.waze.com/editor?env=il&lat=32.09812&lon=34.79938&zoomLevel=17&segments=102773,135584,836374,456698,1324105,1324106,96696,1324102,1324103,1480375,1480381,1480379,1474607,250463,246600,123265,500583,96702,1719221,57594,21271,31198,39676,16672,45573,18428,1505702
+כביש גישה לכרם https://www.waze.com/editor?env=il&lat=31.99154&lon=34.82235&zoomLevel=17&segments=1436612,1436617,1436618,1189836
+ציר גישה למזבלה https://www.waze.com/editor?env=il&lat=31.99371&lon=34.82436&zoomLevel=17&segments=1189833
+קשת https://www.waze.com/editor?env=il&lat=31.99549&lon=34.82105&zoomLevel=17&segments=949708
+גן הקריה https://www.waze.com/editor?env=il&lat=31.99476&lon=34.81739&zoomLevel=17&segments=1190125
+ציר החממות https://www.waze.com/editor?env=il&lat=31.98898&lon=34.81877&zoomLevel=17&segments=1190104
+ציר ראשון-דיר https://www.waze.com/editor?env=il&lat=31.98693&lon=34.81942&zoomLevel=17&segments=1189874
+ציר שטח, מנהל המחקר https://www.waze.com/editor?env=il&lat=31.98386&lon=34.82750&zoomLevel=17&segments=1189858
+משרד החקלאות- מחוז השפלה וההר https://www.waze.com/editor?env=il&lat=31.99396&lon=34.81614&zoomLevel=17&segments=1009867
+מש"א 7300 https://www.waze.com/editor?env=il&lat=31.96717&lon=34.83537&zoomLevel=17&segments=1173388
+-------------------------------------------
+mmsshh1992
+מכון טיהור שפכים https://www.waze.com/editor?env=il&lat=31.96520&lon=34.97066&zoomLevel=17&segments=1170624,294667
+נחל מודיעין https://www.waze.com/editor?env=il&lat=31.92490&lon=35.02546&zoomLevel=17&segments=1331782
+-------------------------------------------
+hen20001
+יוחאי בן נון https://www.waze.com/editor?env=il&lat=32.78490&lon=34.95616&zoomLevel=17&segments=107731
+שביל עפר https://www.waze.com/editor?env=il&lat=32.75940&lon=34.95446&zoomLevel=17&segments=153765
+רציף אהרון רוזנפלד https://www.waze.com/editor?env=il&lat=32.83542&lon=34.98018&zoomLevel=17&segments=270174
+חלוצי התעשיה %28מעבר תחתי%29 https://www.waze.com/editor?env=il&lat=32.81680&lon=35.05778&zoomLevel=17&segments=1658697
+ל 4 טירת הכרמל, נוה שאנן https://www.waze.com/editor?env=il&lat=32.79066&lon=34.95754&zoomLevel=17&segments=342682
+__AA3 https://www.waze.com/editor?env=il&lat=32.88853&lon=35.05842&zoomLevel=17&segments=1574412,1574413,1539008
+__AA11 https://www.waze.com/editor?env=il&lat=32.88638&lon=35.05831&zoomLevel=17&segments=1574414
+__AA31 https://www.waze.com/editor?env=il&lat=32.88708&lon=35.05848&zoomLevel=17&segments=1540561,1540560,1540549,1540548,1540558,1540555,1540552
+__2150 https://www.waze.com/editor?env=il&lat=32.88772&lon=35.05904&zoomLevel=17&segments=1540544
+__2200 https://www.waze.com/editor?env=il&lat=32.88831&lon=35.05903&zoomLevel=17&segments=1540547
+__2210 https://www.waze.com/editor?env=il&lat=32.88740&lon=35.05902&zoomLevel=17&segments=1540550
+__2255 https://www.waze.com/editor?env=il&lat=32.88698&lon=35.05897&zoomLevel=17&segments=1540553
+סמראט מבנים https://www.waze.com/editor?env=il&lat=32.78483&lon=35.07443&zoomLevel=17&segments=1859860
+-------------------------------------------
+jkl5
+זיאדנה https://www.waze.com/editor?env=il&lat=31.41389&lon=34.77488&zoomLevel=17&segments=1848559,1341164,1848692,1848691,1854374,1854375,1854371
+תל ערד https://www.waze.com/editor?env=il&lat=31.27566&lon=35.12724&zoomLevel=17&segments=994770,994769
+אירוסים https://www.waze.com/editor?env=il&lat=31.27139&lon=35.12565&zoomLevel=17&segments=194966
+ת"פ 3 https://www.waze.com/editor?env=il&lat=31.28027&lon=34.47595&zoomLevel=17&segments=397795,855627,855650
+סכיני דימונה - הסכין הצפונית https://www.waze.com/editor?env=il&lat=31.15189&lon=35.16738&zoomLevel=17&segments=544640,544642,960248
+מעלה כמריר https://www.waze.com/editor?env=il&lat=31.16107&lon=35.16853&zoomLevel=17&segments=544667,544668,544669,544670,1125116
+מנחת ערד https://www.waze.com/editor?env=il&lat=31.23097&lon=35.19461&zoomLevel=17&segments=231469,1032383,229217,193010
+הסכין הצפונית https://www.waze.com/editor?env=il&lat=31.15124&lon=35.14843&zoomLevel=17&segments=960241
+הסכין הצפונית ביותר https://www.waze.com/editor?env=il&lat=31.15807&lon=35.14422&zoomLevel=17&segments=960229
+Groon Ala%27shrh https://www.waze.com/editor?env=il&lat=31.24157&lon=35.02280&zoomLevel=17&segments=1092009
+Drb Alooz https://www.waze.com/editor?env=il&lat=31.23514&lon=35.01618&zoomLevel=17&segments=1089143
+Ala%27grh https://www.waze.com/editor?env=il&lat=31.23601&lon=35.01087&zoomLevel=17&segments=1092428,1093105,1093106
+Alkrkar https://www.waze.com/editor?env=il&lat=31.23708&lon=35.01396&zoomLevel=17&segments=1092004,1092005,1092006,1091918
+Am Rsoom https://www.waze.com/editor?env=il&lat=31.24316&lon=35.01103&zoomLevel=17&segments=1172371
+Aldmms https://www.waze.com/editor?env=il&lat=31.23997&lon=35.01028&zoomLevel=17&segments=1090906
+Albaat & Tl Almallh https://www.waze.com/editor?env=il&lat=31.24145&lon=35.02596&zoomLevel=17&segments=1092003,1092011,1090884,1090885
+Alhmaadh https://www.waze.com/editor?env=il&lat=31.24435&lon=35.01504&zoomLevel=17&segments=1089141
+Alfra%27h https://www.waze.com/editor?env=il&lat=31.24134&lon=35.01074&zoomLevel=17&segments=1093103
+Wadi Ala%27shrh https://www.waze.com/editor?env=il&lat=31.23909&lon=35.02707&zoomLevel=17&segments=1089208
+Sha%27b Alkheel https://www.waze.com/editor?env=il&lat=31.24404&lon=35.01306&zoomLevel=17&segments=1092923,1090907
+Almsjeed https://www.waze.com/editor?env=il&lat=31.24015&lon=35.01846&zoomLevel=17&segments=1088161
+שבט אלסראיעה https://www.waze.com/editor?env=il&lat=31.20989&lon=35.09229&zoomLevel=17&segments=901500
+Alktair https://www.waze.com/editor?env=il&lat=31.23274&lon=35.00770&zoomLevel=17&segments=1112648,1112654,1112655
+Albyathh https://www.waze.com/editor?env=il&lat=31.22914&lon=35.00563&zoomLevel=17&segments=1112646,1112650,1112651
+פזורת זיאדנה https://www.waze.com/editor?env=il&lat=31.36033&lon=34.73884&zoomLevel=17&segments=953243
+אל-סרה צפון https://www.waze.com/editor?env=il&lat=31.24370&lon=35.03087&zoomLevel=17&segments=1170393
+אל-סרה דרום https://www.waze.com/editor?env=il&lat=31.24112&lon=35.03257&zoomLevel=17&segments=596107
+אבו סבילה ابو سبيلة https://www.waze.com/editor?env=il&lat=31.19904&lon=34.92093&zoomLevel=17&segments=1392907
+ابو سبيله https://www.waze.com/editor?env=il&lat=31.19887&lon=34.92087&zoomLevel=17&segments=1392908
+אבו קוידר ابو قويدر https://www.waze.com/editor?env=il&lat=31.19971&lon=34.91953&zoomLevel=17&segments=1303827
+-------------------------------------------
+ordal1
+שביל https://www.waze.com/editor?env=il&lat=32.30526&lon=34.87512&zoomLevel=17&segments=182820,405761,346765,180020
+מצפור נביה מרעי https://www.waze.com/editor?env=il&lat=31.51259&lon=34.55364&zoomLevel=17&segments=1268787,1268788,844978
+מכללת ספיר - שער בית ספר https://www.waze.com/editor?env=il&lat=31.50591&lon=34.59295&zoomLevel=17&segments=252684
+333 בהקמה https://www.waze.com/editor?env=il&lat=31.54409&lon=34.59621&zoomLevel=17&segments=1795130,1795133,1795122,1795127,1795115,1795118,1795138,1795136,1795123,1795126,1795132,1795139
+-------------------------------------------
+Stomtape
+כמאנה מערב - כניסה https://www.waze.com/editor?env=il&lat=32.91111&lon=35.33723&zoomLevel=17&segments=241530
+כביש עפר https://www.waze.com/editor?env=il&lat=31.81033&lon=34.95496&zoomLevel=17&segments=689096,1368969,380519,380521,380520,109392
+פנימי https://www.waze.com/editor?env=il&lat=31.84292&lon=34.68411&zoomLevel=17&segments=567294
+שמורת טבע שיטה מלבינה https://www.waze.com/editor?env=il&lat=31.83177&lon=34.69587&zoomLevel=17&segments=452497
+התאנה https://www.waze.com/editor?env=il&lat=31.81631&lon=34.67076&zoomLevel=17&segments=1217710,1217709,1844708,1844709,1168243,1168244,870384,870386,126213
+תחמ"ש יבנה https://www.waze.com/editor?env=il&lat=31.83240&lon=34.69451&zoomLevel=17&segments=1055557,1055558
+חוות לבנת מטעים https://www.waze.com/editor?env=il&lat=31.80564&lon=34.68933&zoomLevel=17&segments=784965
+הגפן - פארק המאה https://www.waze.com/editor?env=il&lat=31.81950&lon=34.67152&zoomLevel=17&segments=1702956,1702959,1702958,1049119
+כביש שירות מחניית רכבת https://www.waze.com/editor?env=il&lat=31.78006&lon=34.66877&zoomLevel=17&segments=1175555,1175556,1096858
+חניון הרמוניה https://www.waze.com/editor?env=il&lat=32.92261&lon=35.30346&zoomLevel=17&segments=1154245,1154244,1154246
+לקריית מנרב https://www.waze.com/editor?env=il&lat=31.81956&lon=34.66648&zoomLevel=17&segments=510735
+נווה הרצוג https://www.waze.com/editor?env=il&lat=31.82322&lon=34.68787&zoomLevel=17&segments=1126852
+נמל אשדוד https://www.waze.com/editor?env=il&lat=31.82838&lon=34.66290&zoomLevel=17&segments=1320513
+אתר עבודה https://www.waze.com/editor?env=il&lat=32.91947&lon=35.28004&zoomLevel=17&segments=1746129
+-------------------------------------------
+hmarian
+הדרך הלבנה https://www.waze.com/editor?env=il&lat=32.23962&lon=34.93597&zoomLevel=17&segments=1077219,1022881,189739
+דרך המחצבה https://www.waze.com/editor?env=il&lat=32.53128&lon=34.94497&zoomLevel=17&segments=925582
+אמפי שוני, מוזיאון האצל https://www.waze.com/editor?env=il&lat=32.53391&lon=34.94761&zoomLevel=17&segments=528682
+-------------------------------------------
+sorin100
+דרך עפר חקלאית https://www.waze.com/editor?env=il&lat=31.32735&lon=34.53341&zoomLevel=17&segments=337952,423354,897269,897270,396561,1221276,859689,859688,516680,396251,397723,397731,518938,518947,395079,395087,516689,862594,510619,855759,855766,404499,855636,516702,518914,397775,394116,855311,519428,855306,516525,858911,858914,856910,394157,518933,518931,518936,856942,999203,855704,519057,850836,855701,854929,331174,1529841,1529840,518906,518905,404565,402398,397785,855649,470365,145447,1190789
+שביל הליכה https://www.waze.com/editor?env=il&lat=32.31834&lon=35.06687&zoomLevel=17&segments=1439555,587591,305537
+-------------------------------------------
+ibkh3
+60 %28כביש המנהרות%29 https://www.waze.com/editor?env=il&lat=31.71818&lon=35.18251&zoomLevel=17&segments=1335988,1263093,849733,849731,915954,1265409,1265408,837774,837775,915961,915960,1690184,1690183,1442471,1571622,1571621,1109074,1109080,1265011,915955
+60 %28כביש המנהרות%29 - בעבודה https://www.waze.com/editor?env=il&lat=31.72090&lon=35.18387&zoomLevel=17&segments=1650795,1650809,1650810,1880053,1880054,1650796
+דרך בטחון לגדר ההפרדה https://www.waze.com/editor?env=il&lat=31.71510&lon=35.22730&zoomLevel=17&segments=1052310
+النعمان https://www.waze.com/editor?env=il&lat=31.71562&lon=35.24343&zoomLevel=17&segments=1798773,1798806,1798805
+-------------------------------------------
+mury
+שביל המוביל https://www.waze.com/editor?env=il&lat=32.29763&lon=34.96773&zoomLevel=17&segments=360685,1323365,1323372,1323370,1323371,1776375,1776374,539949,220768,1021582,1671433,1671434,1371971,1148875,1148874
+-------------------------------------------
+gad_m
+גשר המכביה - פארק הירקון https://www.waze.com/editor?env=il&lat=32.10195&lon=34.82321&zoomLevel=17&segments=984683
+גשר לאופניים https://www.waze.com/editor?env=il&lat=32.10656&lon=34.84701&zoomLevel=17&segments=1864360
+20 איילון צפון https://www.waze.com/editor?env=il&lat=32.09658&lon=34.79894&zoomLevel=17&segments=1307475,22754,252138,116975,55283,44478,1215560,1220728,1766942,1766941,1253037,1280848,1252673,1292603,319643,242085,1307476,244491,1172122,118933,20673,881020,56554,92623,92646,15010,1220727,21002,1766938,1766939,1482945
+20 איילון דרום https://www.waze.com/editor?env=il&lat=32.09812&lon=34.79938&zoomLevel=17&segments=102773,135584,836374,456698,1324105,1324106,96696,1324102,1324103,1480375,1480381,1480379,1474607,250463,246600,123265,500583,96702,1719221,57594,21271,31198,39676,16672,45573,18428,1505702
+נחל שפירים https://www.waze.com/editor?env=il&lat=32.02466&lon=34.82380&zoomLevel=17&segments=1466390,1466400,970040
+הנתיב המהיר https://www.waze.com/editor?env=il&lat=32.00168&lon=34.85295&zoomLevel=17&segments=1311921,1113346,1844841,1844838,1311925,1844842
+זאב ז%27בוטינסקי https://www.waze.com/editor?env=il&lat=32.08333&lon=34.80304&zoomLevel=17&segments=251927
+-------------------------------------------
+Michael_K007
+353 %28גת / גלאון%29 https://www.waze.com/editor?env=il&lat=31.65096&lon=34.76512&zoomLevel=17&segments=1068197
+דרך האבות https://www.waze.com/editor?env=il&lat=31.66087&lon=35.05262&zoomLevel=17&segments=866719,732579
+זבדיאל אלומה קוממיות רווחה https://www.waze.com/editor?env=il&lat=31.65194&lon=34.76414&zoomLevel=17&segments=1068203,1068204
+נחלה - כרמי ברקן https://www.waze.com/editor?env=il&lat=31.67234&lon=34.80618&zoomLevel=17&segments=364708,1033834,1033833,875321,1075712,1162679,1162678,248362
+-------------------------------------------
+Bassel3i
+תחנת דלק טן עיילבון https://www.waze.com/editor?env=il&lat=32.83079&lon=35.40765&zoomLevel=17&segments=915653,915654
+דיזול עיילבון https://www.waze.com/editor?env=il&lat=32.83300&lon=35.39623&zoomLevel=17&segments=1868924,1868923
+-------------------------------------------
+shmupi
+20 איילון צפון https://www.waze.com/editor?env=il&lat=32.09658&lon=34.79894&zoomLevel=17&segments=1307475,22754,252138,116975,55283,44478,1215560,1220728,1766942,1766941,1253037,1280848,1252673,1292603,319643,242085,1307476,244491,1172122,118933,20673,881020,56554,92623,92646,15010,1220727,21002,1766938,1766939,1482945
+20 איילון דרום https://www.waze.com/editor?env=il&lat=32.09812&lon=34.79938&zoomLevel=17&segments=102773,135584,836374,456698,1324105,1324106,96696,1324102,1324103,1480375,1480381,1480379,1474607,250463,246600,123265,500583,96702,1719221,57594,21271,31198,39676,16672,45573,18428,1505702
+-------------------------------------------
+Zoma_Master
+ביר נבאלה https://www.waze.com/editor?env=il&lat=31.84653&lon=35.21331&zoomLevel=17&segments=1696716,748101
+-------------------------------------------
+freedivers
+דרך נפט https://www.waze.com/editor?env=il&lat=29.66731&lon=34.97423&zoomLevel=17&segments=822127,994978,821905,821906,686492,821061,816575,860150,1060572,677846,1809688,1809687
+נחל שלמה https://www.waze.com/editor?env=il&lat=29.55831&lon=34.89755&zoomLevel=17&segments=473774,875331,875330
+דרך החרדונים https://www.waze.com/editor?env=il&lat=29.57596&lon=34.96846&zoomLevel=17&segments=1464203,1464202,1464200,1393133,1393131
+-------------------------------------------
+Rus_Knights
+ממשית, חניון לילה https://www.waze.com/editor?env=il&lat=31.02739&lon=35.06512&zoomLevel=17&segments=870362
+חלמוניות ירוחם https://www.waze.com/editor?env=il&lat=30.97554&lon=34.89662&zoomLevel=17&segments=998911
+מעלה הגדוד https://www.waze.com/editor?env=il&lat=31.04775&lon=35.08957&zoomLevel=17&segments=1112061
+-------------------------------------------
+AaronShulman
+בנימין מינץ https://www.waze.com/editor?env=il&lat=31.82083&lon=35.19337&zoomLevel=17&segments=1332359
+50 שד%27 בגין צפון https://www.waze.com/editor?env=il&lat=31.77090&lon=35.19728&zoomLevel=17&segments=1085469,1033483,1033491,1430916,1173831,1051735,1052168,1052169,988404,1120957,1120965,1120964,1321624,162181,1120975,1120974,253484,152022,163346,224820
+50 שד%27 בגין דרום https://www.waze.com/editor?env=il&lat=31.76747&lon=35.19646&zoomLevel=17&segments=1085470,1441858,1335984,1172612,1033480,1033499,1052175,1525185,1525184,988406,1120960,1120963,1120962,1321625,1616545,1092425,1120973,1482321,1616544
+שד%27 בגין דרום https://www.waze.com/editor?env=il&lat=31.80168&lon=35.20493&zoomLevel=17&segments=844342
+-------------------------------------------
+r0den
+גדר הביטחון https://www.waze.com/editor?env=il&lat=31.90717&lon=35.27376&zoomLevel=17&segments=1035795,1520067,1523515,1363204,1521957,1507249,1521956,1520062,1520066,343025
+-------------------------------------------
+Rill
+חניון העירייה https://www.waze.com/editor?env=il&lat=32.08724&lon=34.88752&zoomLevel=17&segments=243797
+גשר להולכי רגל https://www.waze.com/editor?env=il&lat=32.06875&lon=34.89492&zoomLevel=17&segments=190794
+כניסה לפארק תעשייה עופר https://www.waze.com/editor?env=il&lat=32.10035&lon=34.84969&zoomLevel=17&segments=269431,491044
+-------------------------------------------
+israel_j05017rh
+נחל שמריה https://www.waze.com/editor?env=il&lat=31.33899&lon=34.64200&zoomLevel=17&segments=1021719
+2411 בהקמה https://www.waze.com/editor?env=il&lat=31.30935&lon=34.68301&zoomLevel=17&segments=1620377,1620375,1620408,1620410,1620411,1620407
+עדי נגב https://www.waze.com/editor?env=il&lat=31.31554&lon=34.59595&zoomLevel=17&segments=797211
+-------------------------------------------
+bmasarwa
+דרך המשתלות https://www.waze.com/editor?env=il&lat=32.30255&lon=34.99073&zoomLevel=17&segments=973052
+דלק השרון https://www.waze.com/editor?env=il&lat=32.30225&lon=34.98210&zoomLevel=17&segments=932478,1082923,1082927
+-------------------------------------------
+eliramoshe
+חיים בר לב https://www.waze.com/editor?env=il&lat=31.63119&lon=34.55965&zoomLevel=17&segments=1068213
+-------------------------------------------
