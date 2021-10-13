@@ -41,6 +41,18 @@
         "location": "כביש 70,781",
         "area": "צפון"
     },
+    "iroads_אהלים": {
+        "lat": "31.191824",
+        "lon": "34.805531",
+        "cameraName": "אהלים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/OHALIM/OHALIM.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/OHALIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806840.228133935.617383",
+        "direction": "דרום",
+        "location": "כביש 40,406",
+        "area": "דרום"
+    },
     "iroads_אולגה": {
         "lat": "32.446787",
         "lon": "34.893304",
@@ -698,6 +710,18 @@
         "direction": "צפון מערב",
         "location": "כביש 35,232",
         "area": "דרום"
+    },
+    "iroads_גדרה": {
+        "lat": "31.804264",
+        "lon": "34.765035",
+        "cameraName": "גדרה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GEDERA/GEDERA.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GEDERA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806846.227871852.625885",
+        "direction": "דרום מערב",
+        "location": "כביש 40,7",
+        "area": "מרכז"
     },
     "iroads_גהה": {
         "lat": "32.091179",
@@ -1440,6 +1464,18 @@
         "location": "כביש 40,461",
         "area": "מרכז"
     },
+    "iroads_טשרניחובסקי כפר סבא": {
+        "lat": "32.175974",
+        "lon": "34.890836",
+        "cameraName": "טשרניחובסקי כפר סבא",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/TCHERNIKHOVSKY/TCHERNICHOVSKI.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/TCHERNIKHOVSKY.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872386.228658322.625901",
+        "direction": "צפון מערב",
+        "location": "כביש 402,554",
+        "area": "מרכז"
+    },
     "iroads_יאסיף": {
         "lat": "32.912800",
         "lon": "35.156509",
@@ -2079,6 +2115,18 @@
         "direction": "מערב",
         "location": "כביש 22,79",
         "area": "צפון"
+    },
+    "iroads_מחנה עופר": {
+        "lat": "31.871085",
+        "lon": "35.177774",
+        "cameraName": "מחנה עופר",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MAHANEOFER/MAHANEOFER.png",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAHANEOFER.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23068991.230558835.617440",
+        "direction": "דרום",
+        "location": "כביש 45,436,443",
+        "area": "יוש"
     },
     "iroads_מחנה עמוס": {
         "lat": "32.598786",
@@ -3974,22 +4022,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_אהלים": {
-        "lat": "31.191824",
-        "lon": "34.805531",
-        "direction": "דרום",
-        "cameraName": "אהלים",
-        "type": "missing_camera",
-        "commentID": "22806840.228133935.617383"
-    },
-    "iroads_גדרה": {
-        "lat": "31.804264",
-        "lon": "34.765035",
-        "direction": "דרום מערב",
-        "cameraName": "גדרה",
-        "type": "missing_camera",
-        "commentID": "22806846.227871852.625885"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4022,14 +4054,6 @@
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
     },
-    "iroads_טשרניחובסקי כפר סבא": {
-        "lat": "32.175974",
-        "lon": "34.890836",
-        "direction": "צפון מערב",
-        "cameraName": "טשרניחובסקי כפר סבא",
-        "type": "missing_camera",
-        "commentID": "22872386.228658322.625901"
-    },
     "iroads_קיסריה": {
         "lat": "32.460766",
         "lon": "34.895634",
@@ -4053,14 +4077,6 @@
         "cameraName": "עמק התימנים",
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
-    },
-    "iroads_מחנה עופר": {
-        "lat": "31.871085",
-        "lon": "35.177774",
-        "direction": "דרום",
-        "cameraName": "מחנה עופר",
-        "type": "missing_camera",
-        "commentID": "23068991.230558835.617440"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
