@@ -1,0 +1,17 @@
+{
+  "entryExitPoints": [
+    {
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          34.778358,
+          32.08617090000001
+        ]
+      },
+      "entry": true,
+      "exit": false,
+      "primary": true,
+      "name": ""
+    }
+  ]
+}
