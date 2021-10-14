@@ -1,0 +1,26 @@
+{
+  "_objectType": "venue",
+  "action": "ADD",
+  "attributes": {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        {{lon}},
+        {{lat}}
+      ]
+    },
+    "categories": [
+      "{{category}}"
+    ],
+    "residential": false,
+    "name": "{{name}}",
+    "description": "{{description}}",
+    "url": "{{url}}",
+    "phone": "{{phone}}",
+    "approved": true,
+    "permissions": 2147483647,
+    "streetID": {{streetID}},
+    "houseNumber": "{{houseNumber}}",
+    "id": -100
+  }
+}
