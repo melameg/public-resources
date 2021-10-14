@@ -4,8 +4,8 @@
       "point": {
         "type": "Point",
         "coordinates": [
-          34.778358,
-          32.08617090000001
+          {{lon}},
+          {{lat}}
         ]
       },
       "entry": true,
