@@ -2108,6 +2108,20 @@
         "location": "כביש 411",
         "area": "מרכז"
     },
+    "iroads_מזרעה דרום": {
+        "lat": "32.979881",
+        "lon": "35.106404",
+        "cameraName": "מזרעה דרום",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MAZRAASOUTH/MAZRAASOUTH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAZRAASOUTH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003466.230100194.1136276",
+        "direction": "דרום מזרח",
+        "location": "כביש 4",
+        "area": "צפון"
+    },
     "iroads_מחלף חן קרית ביאליק": {
         "lat": "32.860063",
         "lon": "35.104370",
