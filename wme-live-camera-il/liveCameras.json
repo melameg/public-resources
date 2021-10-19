@@ -237,6 +237,20 @@
         "location": "כביש 55,9307",
         "area": "יוש"
     },
+    "iroads_אם המושבות": {
+        "lat": "32.100018",
+        "lon": "34.847142",
+        "cameraName": "אם המושבות",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/EMHAMOSHAVOT/EMHMOSHAVOT.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/EMHAMOSHAVOT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806849.228396170.619883",
+        "direction": "דרום",
+        "location": "כביש 4",
+        "area": "מרכז"
+    },
     "iroads_אמונים": {
         "lat": "31.752675",
         "lon": "34.662016",
@@ -558,6 +572,20 @@
         "direction": "דרום",
         "location": "כביש 4,553",
         "area": "מרכז"
+    },
+    "iroads_בנימינה": {
+        "lat": "32.517855",
+        "lon": "34.929747",
+        "cameraName": "בנימינה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BINYAMINA/BINYAMINA.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BINYAMINA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872389.228920500.617397",
+        "direction": "דרום",
+        "location": "כביש 4,653",
+        "area": "צפון"
     },
     "iroads_בפטיסטים": {
         "lat": "32.112923",
@@ -3269,6 +3297,20 @@
         "location": "כביש 3,6",
         "area": "דרום"
     },
+    "iroads_שורש": {
+        "lat": "31.800191",
+        "lon": "35.076304",
+        "cameraName": "שורש",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHORES/shoresh.png",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SHORES.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003454.229903468.625937",
+        "direction": "דרום מערב",
+        "location": "כביש 1,3955",
+        "area": "מרכז"
+    },
     "iroads_שילת": {
         "lat": "31.911478",
         "lon": "35.017221",
@@ -4002,14 +4044,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_שורש": {
-        "lat": "31.800191",
-        "lon": "35.076304",
-        "direction": "דרום מערב",
-        "cameraName": "שורש",
-        "type": "missing_camera",
-        "commentID": "23003454.229903468.625937"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4034,14 +4068,6 @@
         "type": "missing_camera",
         "commentID": "22872384.228789375.619877"
     },
-    "iroads_אם המושבות": {
-        "lat": "32.100018",
-        "lon": "34.847142",
-        "direction": "דרום",
-        "cameraName": "אם המושבות",
-        "type": "missing_camera",
-        "commentID": "22806849.228396170.619883"
-    },
     "iroads_סירקין": {
         "lat": "32.082417",
         "lon": "34.902264",
@@ -4057,14 +4083,6 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
-    },
-    "iroads_בנימינה": {
-        "lat": "32.517855",
-        "lon": "34.929747",
-        "direction": "דרום",
-        "cameraName": "בנימינה",
-        "type": "missing_camera",
-        "commentID": "22872389.228920500.617397"
     },
     "iroads_גילה מנהרה קצרה": {
         "lat": "31.724642",
