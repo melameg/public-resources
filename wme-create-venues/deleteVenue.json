@@ -1,0 +1,14 @@
+{
+  "actions": {
+    "_subActions": [
+      {
+        "_objectType": "venue",
+        "action": "DELETE",
+        "attributes": {
+          "id": "{{id}}"
+        }
+      }
+    ],
+    "name": "t"
+  }
+}
