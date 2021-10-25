@@ -13,20 +13,6 @@
         "location": "כביש 443",
         "area": "מרכז"
     },
-    "iroads_אבו גוש": {
-        "lat": "31.801840",
-        "lon": "35.108282",
-        "cameraName": "אבו גוש",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/ABUGOSH/abugosh.png",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ABUGOSH.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003454.230100076.933590",
-        "direction": "דרום מזרח",
-        "location": "כביש 425,3975",
-        "area": "מרכז"
-    },
     "iroads_אבליים": {
         "lat": "32.822675",
         "lon": "35.151654",
@@ -4099,6 +4085,14 @@
         "cameraName": "עמק התימנים",
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
+    },
+    "iroads_אבו גוש": {
+        "lat": "31.801840",
+        "lon": "35.108282",
+        "direction": "דרום מזרח",
+        "cameraName": "אבו גוש",
+        "type": "missing_camera",
+        "commentID": "23003454.230100076.933590"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
