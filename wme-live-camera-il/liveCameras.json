@@ -32,8 +32,8 @@
         "lon": "35.151654",
         "cameraName": "אבליים",
         "image": "https://iroads.bvtech.co.il:444/upfiles/EVLAIM/evlaim.png",
-        "height": 576,
-        "width": 1024,
+        "height": 600,
+        "width": 1067,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/EVLAIM.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23069000.230362322.597300",
@@ -152,20 +152,6 @@
         "direction": "דרום מזרח",
         "location": "כביש 70,85",
         "area": "צפון"
-    },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "cameraName": "אחיסמך",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872383.228658297.617384",
-        "direction": "צפון מערב",
-        "location": "כביש 40",
-        "area": "מרכז"
     },
     "iroads_אל מכר": {
         "lat": "32.915991",
@@ -3274,8 +3260,8 @@
         "lon": "34.889677",
         "cameraName": "רעננה צפון",
         "image": "https://iroads.bvtech.co.il:444/upfiles/RAANANANORTH/raanananorth.png",
-        "height": 576,
-        "width": 1024,
+        "height": 1080,
+        "width": 1920,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/RAANANANORTH.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872386.228658323.780205",
@@ -3890,8 +3876,8 @@
         "lon": "34.759239",
         "cameraName": "יפו ד%27",
         "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/13_-_יפו_ד_2020-05-19_11-05-18.847.png",
-        "height": 576,
-        "width": 720,
+        "height": 720,
+        "width": 1280,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yafo_D.stream/playlist.m3u8",
         "type": "ayalonhw",
         "commentID": "22806848.227806340.964196",
@@ -4053,6 +4039,14 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
+    },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "direction": "צפון מערב",
+        "cameraName": "אחיסמך",
+        "type": "missing_camera",
+        "commentID": "22872383.228658297.617384"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
