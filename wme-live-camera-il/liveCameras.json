@@ -153,6 +153,20 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "cameraName": "אחיסמך",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872383.228658297.617384",
+        "direction": "צפון מערב",
+        "location": "כביש 40",
+        "area": "מרכז"
+    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -3484,8 +3498,8 @@
         "lon": "34.913286",
         "cameraName": "תל מונד",
         "image": "https://iroads.bvtech.co.il:444/upfiles/TELMOND/TELMOND.PNG",
-        "height": 720,
-        "width": 1280,
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/TELMOND.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872387.228789402.783992",
@@ -4039,14 +4053,6 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
-    },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "direction": "צפון מערב",
-        "cameraName": "אחיסמך",
-        "type": "missing_camera",
-        "commentID": "22872383.228658297.617384"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
