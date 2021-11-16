@@ -909,6 +909,20 @@
         "location": "כביש 1,4",
         "area": "מרכז"
     },
+    "iroads_גניגר": {
+        "lat": "32.661037",
+        "lon": "35.258312",
+        "cameraName": "גניגר",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GINEGAR/GINEGAR.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/GINEGAR.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23134535.231083202.1146776",
+        "direction": "מערב",
+        "location": "כביש 73",
+        "area": "צפון"
+    },
     "iroads_ג%27סר": {
         "lat": "32.530104",
         "lon": "34.915628",
@@ -1243,6 +1257,20 @@
         "direction": "צפון מזרח",
         "location": "כביש 70,780",
         "area": "צפון"
+    },
+    "iroads_זיקים": {
+        "lat": "31.601775",
+        "lon": "34.571355",
+        "cameraName": "זיקים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ZIKIM/ZIKIM.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ZIKIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22675772.226561112.1147276",
+        "direction": "צפון",
+        "location": "כביש 4,3411",
+        "area": "דרום"
     },
     "iroads_זכרון יעקב כביש 2": {
         "lat": "32.588365",
@@ -1789,6 +1817,34 @@
         "direction": "דרום מערב",
         "location": "כביש 3",
         "area": "דרום"
+    },
+    "iroads_כפר טרומן": {
+        "lat": "31.984584",
+        "lon": "34.916851",
+        "cameraName": "כפר טרומן",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KFARTRUMAN/KFARTRUMAN.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KFARTRUMAN.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872384.228854910.1147277",
+        "direction": "מערב",
+        "location": "כביש 453",
+        "area": "מרכז"
+    },
+    "iroads_כפר יונה מערב": {
+        "lat": "32.321521",
+        "lon": "34.924019",
+        "cameraName": "כפר יונה מערב",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KFARYONAWEST/KFARYONAWEST.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/KFARYONAWEST.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872387.228854944.1146687",
+        "direction": "דרום מזרח",
+        "location": "כביש 57",
+        "area": "מרכז"
     },
     "iroads_כפר נחום": {
         "lat": "32.876429",
@@ -2514,6 +2570,19 @@
         "location": "כביש 89",
         "area": "צפון"
     },
+    "iroads_נחל צלמון": {
+        "lat": "32.862841",
+        "lon": "35.455331",
+        "cameraName": "נחל צלמון",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHALZALMON/NAHALZALMON.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHALZALMON.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23265609.232393942.1147278",
+        "direction": "צפון",
+        "location": "כביש 65,807"
+    },
     "iroads_נחל שלווה": {
         "lat": "31.545532",
         "lon": "34.798882",
@@ -2541,6 +2610,20 @@
         "direction": "צפון מערב",
         "location": "כביש 40,3553",
         "area": "דרום"
+    },
+    "iroads_נחלים דרום": {
+        "lat": "32.056192",
+        "lon": "34.904077",
+        "cameraName": "נחלים דרום",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHALIMSOUTH/NAHALIMSOUTH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHALIMSOUTH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872385.228723846.1146686",
+        "direction": "דרום מערב",
+        "location": "כביש 40",
+        "area": "מרכז"
     },
     "iroads_נחשון": {
         "lat": "31.815648",
