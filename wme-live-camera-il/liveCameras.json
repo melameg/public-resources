@@ -167,20 +167,6 @@
         "location": "כביש 40",
         "area": "מרכז"
     },
-    "iroads_אל מכר": {
-        "lat": "32.915991",
-        "lon": "35.124480",
-        "cameraName": "אל מכר",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MACKER/MACKER.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MACKER.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003465.230165724.780299",
-        "direction": "מזרח",
-        "location": "כביש 85",
-        "area": "צפון"
-    },
     "iroads_אלון": {
         "lat": "32.448806",
         "lon": "34.961009",
@@ -1683,8 +1669,8 @@
         "lon": "34.903359",
         "cameraName": "ירקון",
         "image": "https://iroads.bvtech.co.il:444/upfiles/YARKON/YARKON_2.PNG",
-        "height": 480,
-        "width": 853,
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/YARKON.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872385.228723852.625905",
@@ -3360,7 +3346,7 @@
         "cameraName": "רעננה מרכז",
         "image": "https://iroads.bvtech.co.il:444/upfiles/RAANANACENTER/raananacenter.png",
         "height": 576,
-        "width": 768,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/RAANANACENTER.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872386.228658322.619952",
@@ -3381,6 +3367,18 @@
         "direction": "דרום",
         "location": "כביש 4",
         "area": "מרכז"
+    },
+    "iroads_שורק": {
+        "lat": "31.792449",
+        "lon": "34.827597",
+        "cameraName": "שורק",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SOREK/SOREQ.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SOREK.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806846.228265067.780320",
+        "direction": "דרום מערב",
+        "location": "כביש 3,6",
+        "area": "דרום"
     },
     "iroads_שורש": {
         "lat": "31.800191",
@@ -4145,14 +4143,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_שורק": {
-        "lat": "31.792449",
-        "lon": "34.827597",
-        "direction": "דרום מערב",
-        "cameraName": "שורק",
-        "type": "missing_camera",
-        "commentID": "22806846.228265067.780320"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4216,5 +4206,13 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
+    },
+    "iroads_אל מכר": {
+        "lat": "32.915991",
+        "lon": "35.124480",
+        "direction": "מזרח",
+        "cameraName": "אל מכר",
+        "type": "missing_camera",
+        "commentID": "23003465.230165724.780299"
     }
 }
