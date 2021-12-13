@@ -167,6 +167,20 @@
         "location": "כביש 40",
         "area": "מרכז"
     },
+    "iroads_אל מכר": {
+        "lat": "32.915991",
+        "lon": "35.124480",
+        "cameraName": "אל מכר",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MACKER/MACKER.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MACKER.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003465.230165724.780299",
+        "direction": "מזרח",
+        "location": "כביש 85",
+        "area": "צפון"
+    },
     "iroads_אלון": {
         "lat": "32.448806",
         "lon": "34.961009",
@@ -886,8 +900,8 @@
         "lon": "34.821943",
         "cameraName": "גנות",
         "image": "https://iroads.bvtech.co.il:444/upfiles/GANOT/ganot.png",
-        "height": 576,
-        "width": 1024,
+        "height": 768,
+        "width": 1365,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22806848.228199554.619896",
@@ -3373,6 +3387,8 @@
         "lon": "34.827597",
         "cameraName": "שורק",
         "image": "https://iroads.bvtech.co.il:444/upfiles/SOREK/SOREQ.PNG",
+        "height": 480,
+        "width": 853,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SOREK.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22806846.228265067.780320",
@@ -4206,13 +4222,5 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
-    },
-    "iroads_אל מכר": {
-        "lat": "32.915991",
-        "lon": "35.124480",
-        "direction": "מזרח",
-        "cameraName": "אל מכר",
-        "type": "missing_camera",
-        "commentID": "23003465.230165724.780299"
     }
 }
