@@ -2140,6 +2140,20 @@
         "location": "כביש 446",
         "area": "יוש"
     },
+    "iroads_מועצה אזורית מנשה": {
+        "lat": "32.467208",
+        "lon": "35.019387",
+        "cameraName": "מועצה אזורית מנשה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MOATZAEZORITMENASHE/MOATZAEZORITMENASHE.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/MOATZAEZORITMENASHE.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937925.229510319.1164573",
+        "direction": "דרום",
+        "location": "כביש 574",
+        "area": "צפון"
+    },
     "iroads_מורן": {
         "lat": "32.927864",
         "lon": "35.393381",
@@ -2696,6 +2710,19 @@
         "direction": "דרום מערב",
         "location": "כביש 4",
         "area": "דרום"
+    },
+    "iroads_ניר בנים": {
+        "lat": "31.677947",
+        "lon": "34.765641",
+        "cameraName": "ניר בנים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NIRBANIM/NIRBANIM.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NIRBANIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806845.227871840.1164673",
+        "direction": "צפון מערב",
+        "location": "כביש 40"
     },
     "iroads_ניר גלים": {
         "lat": "31.829026",
