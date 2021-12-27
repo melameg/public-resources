@@ -284,8 +284,8 @@
         "lon": "34.699987",
         "cameraName": "אשל הנשיא",
         "image": "https://iroads.bvtech.co.il:444/upfiles/ESHELHANASI/ESHELHANASI.PNG",
-        "height": 576,
-        "width": 1024,
+        "height": 480,
+        "width": 853,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ESHELHANASI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22741305.227413053.617446",
@@ -768,20 +768,6 @@
         "direction": "צפון מזרח",
         "location": "כביש 40,406",
         "area": "דרום"
-    },
-    "iroads_גילה מנהרה ארוכה": {
-        "lat": "31.712820",
-        "lon": "35.172751",
-        "cameraName": "גילה מנהרה ארוכה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GILOLONG/GILOLONG_2.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068989.230493283.617401",
-        "direction": "דרום מערב",
-        "location": "כביש 3755,60",
-        "area": "יוש"
     },
     "iroads_גילת": {
         "lat": "31.336962",
@@ -3674,20 +3660,6 @@
         "location": "כביש 31,80",
         "area": "דרום"
     },
-    "iroads_תנובות": {
-        "lat": "32.314232",
-        "lon": "34.964046",
-        "cameraName": "תנובות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/TNUVOT/TNUVOT.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/TNUVOT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22937923.229117087.1064476",
-        "direction": "דרום מזרח",
-        "location": "כביש 57",
-        "area": "מרכז"
-    },
     "iroads_תעבורה": {
         "lat": "31.928282",
         "lon": "34.878418",
@@ -4218,6 +4190,14 @@
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
     },
+    "iroads_תנובות": {
+        "lat": "32.314232",
+        "lon": "34.964046",
+        "direction": "דרום מזרח",
+        "cameraName": "תנובות",
+        "type": "missing_camera",
+        "commentID": "22937923.229117087.1064476"
+    },
     "iroads_קיסריה": {
         "lat": "32.460766",
         "lon": "34.895634",
@@ -4225,6 +4205,14 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
+    },
+    "iroads_גילה מנהרה ארוכה": {
+        "lat": "31.712820",
+        "lon": "35.172751",
+        "direction": "דרום מערב",
+        "cameraName": "גילה מנהרה ארוכה",
+        "type": "missing_camera",
+        "commentID": "23068989.230493283.617401"
     },
     "iroads_גילה מנהרה קצרה": {
         "lat": "31.724642",
