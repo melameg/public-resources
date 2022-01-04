@@ -55,20 +55,6 @@
         "location": "כביש 40,406",
         "area": "דרום"
     },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "cameraName": "אולגה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/OLGA/olga.png",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/OLGA.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872388.228658349.597301",
-        "direction": "דרום",
-        "location": "כביש 2",
-        "area": "צפון"
-    },
     "iroads_אום אל פאחם": {
         "lat": "32.533310",
         "lon": "35.147501",
@@ -1119,20 +1105,6 @@
         "location": "כביש 4",
         "area": "מרכז"
     },
-    "iroads_הקרח": {
-        "lat": "31.938168",
-        "lon": "34.866162",
-        "cameraName": "הקרח",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HAKERACH/HAKERAH.PNG",
-        "height": 480,
-        "width": 853,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HAKERACH.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872383.228527226.617411",
-        "direction": "צפון מערב",
-        "location": "כביש 44",
-        "area": "מרכז"
-    },
     "iroads_הר טוב א%27": {
         "lat": "31.767305",
         "lon": "34.997917",
@@ -1221,8 +1193,8 @@
         "lon": "35.108867",
         "cameraName": "התישבי",
         "image": "https://iroads.bvtech.co.il:444/upfiles/HATISHBI/hatishbi.png",
-        "height": 576,
-        "width": 768,
+        "height": 720,
+        "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HATISHBI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23003463.230100163.619904",
@@ -2613,20 +2585,6 @@
         "location": "כביש 6,40",
         "area": "דרום"
     },
-    "iroads_נחלה": {
-        "lat": "31.666012",
-        "lon": "34.771301",
-        "cameraName": "נחלה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHALA/NAHALA.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHALA.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806845.227871839.783986",
-        "direction": "צפון מערב",
-        "location": "כביש 40,3553",
-        "area": "דרום"
-    },
     "iroads_נחלים דרום": {
         "lat": "32.056192",
         "lon": "34.904077",
@@ -3660,6 +3618,20 @@
         "location": "כביש 31,80",
         "area": "דרום"
     },
+    "iroads_תנובות": {
+        "lat": "32.314232",
+        "lon": "34.964046",
+        "cameraName": "תנובות",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/TNUVOT/TNUVOT.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/TNUVOT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937923.229117087.1064476",
+        "direction": "דרום מזרח",
+        "location": "כביש 57",
+        "area": "מרכז"
+    },
     "iroads_תעבורה": {
         "lat": "31.928282",
         "lon": "34.878418",
@@ -4158,6 +4130,14 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
+    "iroads_נחלה": {
+        "lat": "31.666012",
+        "lon": "34.771301",
+        "direction": "צפון מערב",
+        "cameraName": "נחלה",
+        "type": "missing_camera",
+        "commentID": "22806845.227871839.783986"
+    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4165,6 +4145,14 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
+    },
+    "iroads_הקרח": {
+        "lat": "31.938168",
+        "lon": "34.866162",
+        "direction": "צפון מערב",
+        "cameraName": "הקרח",
+        "type": "missing_camera",
+        "commentID": "22872383.228527226.617411"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
@@ -4190,14 +4178,6 @@
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
     },
-    "iroads_תנובות": {
-        "lat": "32.314232",
-        "lon": "34.964046",
-        "direction": "דרום מזרח",
-        "cameraName": "תנובות",
-        "type": "missing_camera",
-        "commentID": "22937923.229117087.1064476"
-    },
     "iroads_קיסריה": {
         "lat": "32.460766",
         "lon": "34.895634",
@@ -4205,6 +4185,14 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "22872388.228658349.597301"
     },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
