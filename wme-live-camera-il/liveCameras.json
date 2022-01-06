@@ -139,20 +139,6 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "cameraName": "אחיסמך",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872383.228658297.617384",
-        "direction": "צפון מערב",
-        "location": "כביש 40",
-        "area": "מרכז"
-    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -270,8 +256,8 @@
         "lon": "34.699987",
         "cameraName": "אשל הנשיא",
         "image": "https://iroads.bvtech.co.il:444/upfiles/ESHELHANASI/ESHELHANASI.PNG",
-        "height": 480,
-        "width": 853,
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ESHELHANASI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22741305.227413053.617446",
@@ -1103,6 +1089,20 @@
         "commentID": "22872388.228789412.619901",
         "direction": "צפון",
         "location": "כביש 4",
+        "area": "מרכז"
+    },
+    "iroads_הקרח": {
+        "lat": "31.938168",
+        "lon": "34.866162",
+        "cameraName": "הקרח",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HAKERACH/HAKERAH.PNG",
+        "height": 480,
+        "width": 853,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HAKERACH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872383.228527226.617411",
+        "direction": "צפון מערב",
+        "location": "כביש 44",
         "area": "מרכז"
     },
     "iroads_הר טוב א%27": {
@@ -2583,6 +2583,20 @@
         "commentID": "22806844.228068435.780208",
         "direction": "צפון",
         "location": "כביש 6,40",
+        "area": "דרום"
+    },
+    "iroads_נחלה": {
+        "lat": "31.666012",
+        "lon": "34.771301",
+        "cameraName": "נחלה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHALA/NAHALA.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHALA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806845.227871839.783986",
+        "direction": "צפון מערב",
+        "location": "כביש 40,3553",
         "area": "דרום"
     },
     "iroads_נחלים דרום": {
@@ -4130,14 +4144,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_נחלה": {
-        "lat": "31.666012",
-        "lon": "34.771301",
-        "direction": "צפון מערב",
-        "cameraName": "נחלה",
-        "type": "missing_camera",
-        "commentID": "22806845.227871839.783986"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4146,13 +4152,13 @@
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
     },
-    "iroads_הקרח": {
-        "lat": "31.938168",
-        "lon": "34.866162",
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
         "direction": "צפון מערב",
-        "cameraName": "הקרח",
+        "cameraName": "אחיסמך",
         "type": "missing_camera",
-        "commentID": "22872383.228527226.617411"
+        "commentID": "22872383.228658297.617384"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
