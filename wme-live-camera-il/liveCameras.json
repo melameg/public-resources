@@ -139,6 +139,18 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "cameraName": "אחיסמך",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872383.228658297.617384",
+        "direction": "צפון מערב",
+        "location": "כביש 40",
+        "area": "מרכז"
+    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -4151,14 +4163,6 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
-    },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "direction": "צפון מערב",
-        "cameraName": "אחיסמך",
-        "type": "missing_camera",
-        "commentID": "22872383.228658297.617384"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
