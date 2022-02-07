@@ -139,6 +139,20 @@
         "location": "כביש 70,85",
         "area": "צפון"
     },
+    "iroads_אחיסמך": {
+        "lat": "31.932515",
+        "lon": "34.891543",
+        "cameraName": "אחיסמך",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/AHISEMECH/AHISEMECH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AHISEMECH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872383.228658297.617384",
+        "direction": "צפון מערב",
+        "location": "כביש 40",
+        "area": "מרכז"
+    },
     "iroads_אל מכר": {
         "lat": "32.915991",
         "lon": "35.124480",
@@ -227,7 +241,7 @@
         "lat": "31.752675",
         "lon": "34.662016",
         "cameraName": "אמונים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/EMUNIM/EMUNIM.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/EMUNIM/EMUNIM_2.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/EMUNIM.stream/playlist.m3u8",
@@ -1318,7 +1332,7 @@
         "lat": "32.148254",
         "lon": "34.947086",
         "cameraName": "חורשים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HORASHIM/HORASHIM.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HORASHIM/HORASHIM_2.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/HORASHIM.stream/playlist.m3u8",
@@ -1762,20 +1776,6 @@
         "location": "כביש 90,8677",
         "area": "צפון"
     },
-    "iroads_כפר הרואה": {
-        "lat": "32.393693",
-        "lon": "34.903037",
-        "cameraName": "כפר הרואה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/KFARHROE/KFARHAROE.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KFARHROE.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872388.228723879.617424",
-        "direction": "צפון מזרח",
-        "location": "כביש 4,581",
-        "area": "מרכז"
-    },
     "iroads_כפר ורבורג": {
         "lat": "31.714322",
         "lon": "34.736480",
@@ -2112,23 +2112,11 @@
         "location": "כביש 574",
         "area": "צפון"
     },
-    "iroads_מורן": {
-        "lat": "32.927864",
-        "lon": "35.393381",
-        "cameraName": "מורן",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MORAN/MORAN.PNG",
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/MORAN.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23200073.231935197.619935",
-        "direction": "מערב",
-        "location": "כביש 85",
-        "area": "צפון"
-    },
     "iroads_מורשה": {
         "lat": "32.125168",
         "lon": "34.857614",
         "cameraName": "מורשה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MORASHA/MORASHA.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MORASHA/MORASHA_2.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MORASHA.stream/playlist.m3u8",
@@ -2825,7 +2813,7 @@
         "lat": "31.889511",
         "lon": "34.836593",
         "cameraName": "עוקף רחובות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/OKEFREHOVOT/OKEFREHOVOT_2.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/OKEFREHOVOT/OKEFREHOVOT_3.PNG",
         "height": 600,
         "width": 1067,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/OKEFREHOVOT.stream/playlist.m3u8",
@@ -3336,8 +3324,7 @@
         "type": "iroads",
         "commentID": "23068990.230624367.783991",
         "direction": "דרום",
-        "location": "כביש 436,4195,9347",
-        "area": "יוש"
+        "location": "כביש 436"
     },
     "iroads_רעננה מרכז": {
         "lat": "32.176993",
@@ -3688,16 +3675,16 @@
         "location": "כביש 5",
         "area": "מרכז"
     },
-    "ayalonhw_גלילות": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "cameraName": "גלילות",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/43_-_גלילות_מזרח_2020-05-19_11-12-29.441.png",
+    "ayalonhw_ההלכה": {
+        "lat": "32.089975",
+        "lon": "34.799959",
+        "cameraName": "ההלכה",
+        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2022/01/ההלכה-37-1-e1643283207972.png",
         "height": 576,
         "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-East.stream/playlist.m3u8",
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaHalacha.stream/playlist.m3u8",
         "type": "ayalonhw",
-        "commentID": "22806849.228134030.964177",
+        "commentID": "22806849.228068489.964092",
         "direction": "דרום",
         "area": "תל אביב"
     },
@@ -3713,19 +3700,6 @@
         "commentID": "22806849.228068494.964278",
         "direction": "צפון",
         "area": "תל אביב"
-    },
-    "ayalonhw_שבעת הכוכבים": {
-        "lat": "32.152307",
-        "lon": "34.813606",
-        "cameraName": "שבעת הכוכבים",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/46_-_גלילות-הרצליה_16600_NB_2020-05-19_11-12-42.613.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Glilot-Hertzelia.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806850.228134031.964277",
-        "direction": "דרום",
-        "area": "הרצליה"
     },
     "ayalonhw_רוקח – קק%20ל": {
         "lat": "32.112066",
@@ -3751,45 +3725,6 @@
         "type": "ayalonhw",
         "commentID": "22806849.228134028.964075",
         "direction": "צפון מערב %28לא קבוע%29",
-        "area": "תל אביב"
-    },
-    "ayalonhw_קק%20ל – גלילות": {
-        "lat": "32.129377",
-        "lon": "34.810653",
-        "cameraName": "קק%20ל – גלילות",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/42_-_קקל_גלילות_2020-05-19_11-12-24.780-1.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kakal-Glilot.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228134029.964279",
-        "direction": "דרום %28לא קבוע%29",
-        "area": "תל אביב"
-    },
-    "ayalonhw_ארלוזורוב": {
-        "lat": "32.080446",
-        "lon": "34.798040",
-        "cameraName": "ארלוזורוב",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/34_-_ארלוזורוב_2020-05-19_11-11-56.652.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Arlozorov.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228068488.964200",
-        "direction": "דרום מערב",
-        "area": "תל אביב"
-    },
-    "ayalonhw_ההלכה": {
-        "lat": "32.089975",
-        "lon": "34.799959",
-        "cameraName": "ההלכה",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/36_-_ההלכה_2020-05-19_11-12-01.961.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaHalacha.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228068489.964092",
-        "direction": "דרום",
         "area": "תל אביב"
     },
     "ayalonhw_רוקח": {
@@ -3844,80 +3779,6 @@
         "direction": "צפון",
         "area": "תל אביב"
     },
-    "ayalonhw_קיבוץ גלויות": {
-        "lat": "32.050997",
-        "lon": "34.785062",
-        "cameraName": "קיבוץ גלויות",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/25_-_קיבוץ_גלויות_2020-05-19_11-08-37.534.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Kibutz_Galuiot.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228002949.964088",
-        "direction": "דרום מזרח",
-        "area": "תל אביב"
-    },
-    "ayalonhw_לה גווארדיה": {
-        "lat": "32.059145",
-        "lon": "34.785726",
-        "cameraName": "לה גווארדיה",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/26_-_לה_גוורדיה_2020-05-19_11-10-09.120.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/La_Guardia.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228002950.964089",
-        "direction": "צפון מזרח",
-        "area": "תל אביב"
-    },
-    "ayalonhw_יצחק שדה": {
-        "lat": "32.064842",
-        "lon": "34.790847",
-        "cameraName": "יצחק שדה",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/30_-_יצחק_שדה_2020-05-19_11-10-17.007.png",
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Itzak_Sade.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228002950.964199",
-        "direction": "דרום מערב",
-        "area": "תל אביב"
-    },
-    "ayalonhw_חולון צפון": {
-        "lat": "32.038607",
-        "lon": "34.779213",
-        "cameraName": "חולון צפון",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/05/21_-_חולון_צפון_2020-05-19_11-06-46.908.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holon-North.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.227937412.964301",
-        "direction": "צפון מזרח",
-        "area": "חולון"
-    },
-    "ayalonhw_הולץ": {
-        "lat": "32.043275",
-        "lon": "34.783341",
-        "cameraName": "הולץ",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/22_-_הולץ_2020-05-19_11-06-53.500.png",
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holtz.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.227937412.964302",
-        "direction": "צפון",
-        "area": "חולון"
-    },
-    "ayalonhw_דרך מס%27 1": {
-        "lat": "32.040753",
-        "lon": "34.789907",
-        "cameraName": "דרך מס%27 1",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/23_-_כביש_1_2020-05-19_11-06-59.024.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Road_1.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.228002948.964087",
-        "direction": "צפון מערב %28לא קבוע%29",
-        "area": "תל אביב"
-    },
     "ayalonhw_מנהרת בית הבילויים": {
         "lat": "32.038453",
         "lon": "34.765875",
@@ -3955,19 +3816,6 @@
         "type": "ayalonhw",
         "commentID": "22806848.227937412.964198",
         "direction": "דרום מזרח",
-        "area": "חולון"
-    },
-    "ayalonhw_דב הוז": {
-        "lat": "32.023185",
-        "lon": "34.760623",
-        "cameraName": "דב הוז",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/10_-_דב_הוז_2020-05-19_11-03-51.757.png",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Dov_oz.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.227806338.964086",
-        "direction": "צפון",
         "area": "חולון"
     },
     "ayalonhw_וולפסון": {
@@ -4009,17 +3857,6 @@
         "direction": "צפון מזרח",
         "area": "בת ים"
     },
-    "ayalonhw_גשר התנאים": {
-        "lat": "32.009016",
-        "lon": "34.762024",
-        "cameraName": "גשר התנאים",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/05/גשר-התנאים.jpg",
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Hatanaim.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.227806337.964085",
-        "direction": "צפון %28לא קבוע%29",
-        "area": "חולון"
-    },
     "ayalonhw_יוספטל – דב הוז": {
         "lat": "32.019520",
         "lon": "34.762154",
@@ -4032,19 +3869,6 @@
         "commentID": "22806848.227806338.964195",
         "direction": "צפון מערב %28לא קבוע%29",
         "area": "חולון"
-    },
-    "ayalonhw_חולות": {
-        "lat": "31.954252",
-        "lon": "34.758500",
-        "cameraName": "חולות",
-        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/01_-_חולות_2020-05-19_11-02-45.517-1.png",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Holot.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806848.227806331.964189",
-        "direction": "דרום-מערב",
-        "area": "ראשון לציון"
     },
     "ayalonhw_מבוא איילון": {
         "lat": "31.969408",
@@ -4152,13 +3976,29 @@
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
     },
-    "iroads_אחיסמך": {
-        "lat": "31.932515",
-        "lon": "34.891543",
-        "direction": "צפון מערב",
-        "cameraName": "אחיסמך",
+    "ayalonhw_גשר התנאים - איילון": {
+        "lat": "32.009016",
+        "lon": "34.762024",
+        "direction": "צפון %28לא קבוע%29",
+        "cameraName": "גשר התנאים - איילון",
         "type": "missing_camera",
-        "commentID": "22872383.228658297.617384"
+        "commentID": "22806848.227806337.964085"
+    },
+    "ayalonhw_חולות - איילון": {
+        "lat": "31.954252",
+        "lon": "34.758500",
+        "direction": "דרום-מערב",
+        "cameraName": "חולות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806848.227806331.964189"
+    },
+    "ayalonhw_חולון צפון - איילון": {
+        "lat": "32.038607",
+        "lon": "34.779213",
+        "direction": "צפון מזרח",
+        "cameraName": "חולון צפון - איילון",
+        "type": "missing_camera",
+        "commentID": "22806848.227937412.964301"
     },
     "iroads_נתב%20ג": {
         "lat": "31.985946",
@@ -4176,6 +4016,46 @@
         "type": "missing_camera",
         "commentID": "22872384.228789375.619877"
     },
+    "ayalonhw_דב הוז - איילון": {
+        "lat": "32.023185",
+        "lon": "34.760623",
+        "direction": "צפון",
+        "cameraName": "דב הוז - איילון",
+        "type": "missing_camera",
+        "commentID": "22806848.227806338.964086"
+    },
+    "ayalonhw_קק%20ל – גלילות - איילון": {
+        "lat": "32.129377",
+        "lon": "34.810653",
+        "direction": "דרום %28לא קבוע%29",
+        "cameraName": "קק%20ל – גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134029.964279"
+    },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
+    "ayalonhw_שבעת הכוכבים - איילון": {
+        "lat": "32.152307",
+        "lon": "34.813606",
+        "direction": "דרום",
+        "cameraName": "שבעת הכוכבים - איילון",
+        "type": "missing_camera",
+        "commentID": "22806850.228134031.964277"
+    },
+    "ayalonhw_קיבוץ גלויות - איילון": {
+        "lat": "32.050997",
+        "lon": "34.785062",
+        "direction": "דרום מזרח",
+        "cameraName": "קיבוץ גלויות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228002949.964088"
+    },
     "iroads_סירקין": {
         "lat": "32.082417",
         "lon": "34.902264",
@@ -4184,6 +4064,46 @@
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
     },
+    "ayalonhw_הולץ - איילון": {
+        "lat": "32.043275",
+        "lon": "34.783341",
+        "direction": "צפון",
+        "cameraName": "הולץ - איילון",
+        "type": "missing_camera",
+        "commentID": "22806848.227937412.964302"
+    },
+    "ayalonhw_יצחק שדה - איילון": {
+        "lat": "32.064842",
+        "lon": "34.790847",
+        "direction": "דרום מערב",
+        "cameraName": "יצחק שדה - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228002950.964199"
+    },
+    "ayalonhw_ארלוזורוב - איילון": {
+        "lat": "32.080446",
+        "lon": "34.798040",
+        "direction": "דרום מערב",
+        "cameraName": "ארלוזורוב - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228068488.964200"
+    },
+    "ayalonhw_דרך מס%27 1 - איילון": {
+        "lat": "32.040753",
+        "lon": "34.789907",
+        "direction": "צפון מערב %28לא קבוע%29",
+        "cameraName": "דרך מס%27 1 - איילון",
+        "type": "missing_camera",
+        "commentID": "22806848.228002948.964087"
+    },
+    "ayalonhw_לה גווארדיה - איילון": {
+        "lat": "32.059145",
+        "lon": "34.785726",
+        "direction": "צפון מזרח",
+        "cameraName": "לה גווארדיה - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228002950.964089"
+    },
     "iroads_קיסריה": {
         "lat": "32.460766",
         "lon": "34.895634",
@@ -4191,6 +4111,14 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
+    },
+    "iroads_כפר הרואה": {
+        "lat": "32.393693",
+        "lon": "34.903037",
+        "direction": "צפון מזרח",
+        "cameraName": "כפר הרואה",
+        "type": "missing_camera",
+        "commentID": "22872388.228723879.617424"
     },
     "iroads_אולגה": {
         "lat": "32.446787",
@@ -4231,5 +4159,13 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
+    },
+    "iroads_מורן": {
+        "lat": "32.927864",
+        "lon": "35.393381",
+        "direction": "מערב",
+        "cameraName": "מורן",
+        "type": "missing_camera",
+        "commentID": "23200073.231935197.619935"
     }
 }
