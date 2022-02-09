@@ -923,6 +923,20 @@
         "location": "כביש 2,5611",
         "area": "מרכז"
     },
+    "iroads_גשר צאלים": {
+        "lat": "31.215992",
+        "lon": "34.535485",
+        "cameraName": "גשר צאלים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GESHERTZEELIM/GESHERTZEELIM.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/GESHERTZEELIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22610232.226364466.1175489",
+        "direction": "מזרח",
+        "location": "כביש 222,234",
+        "area": "דרום"
+    },
     "iroads_דבירה כביש 6": {
         "lat": "31.423352",
         "lon": "34.785193",
@@ -3687,6 +3701,58 @@
         "commentID": "22806849.228068489.964092",
         "direction": "דרום",
         "area": "תל אביב"
+    },
+    "ayalonhw_גשר מוזס": {
+        "lat": "32.074548",
+        "lon": "34.793614",
+        "cameraName": "גשר מוזס",
+        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2022/01/גשר-מוזס-92-1-e1643283275898.png",
+        "height": 576,
+        "width": 720,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Moses-Bridge.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806849.228002951.1175490",
+        "direction": "דרום מערב",
+        "area": "תל אביב"
+    },
+    "ayalonhw_מחלף וולפסון": {
+        "lat": "32.037305",
+        "lon": "34.760420",
+        "cameraName": "מחלף וולפסון",
+        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2022/01/וולפסון-14-1-e1643283366948.png",
+        "height": 576,
+        "width": 704,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Interchange.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806848.227806340.1176783",
+        "direction": "צפון מזרח",
+        "area": "חולון"
+    },
+    "ayalonhw_רבין": {
+        "lat": "31.979516",
+        "lon": "34.755742",
+        "cameraName": "רבין",
+        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2022/01/רבין-רשלצ-4-1-e1643283476998.png",
+        "height": 576,
+        "width": 720,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rabin.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806848.227806334.1176784",
+        "direction": "דרום",
+        "area": "ראשון לציון"
+    },
+    "ayalonhw_יוספטל": {
+        "lat": "32.015011",
+        "lon": "34.761621",
+        "cameraName": "יוספטל",
+        "image": "https://www.ayalonhw.co.il/wp-content/uploads/2022/01/יוספטל-8-1-e1643283525153.png",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yosseftal.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806848.227806338.1175491",
+        "direction": "צפון",
+        "area": "חולון"
     },
     "ayalonhw_גלילות מערב": {
         "lat": "32.140372",
