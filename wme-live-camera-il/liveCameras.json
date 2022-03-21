@@ -1790,6 +1790,20 @@
         "location": "כביש 90,8677",
         "area": "צפון"
     },
+    "iroads_כפר הרואה": {
+        "lat": "32.393693",
+        "lon": "34.903037",
+        "cameraName": "כפר הרואה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KFARHROE/KFARHAROE.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KFARHROE.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872388.228723879.617424",
+        "direction": "צפון מזרח",
+        "location": "כביש 4,581",
+        "area": "מרכז"
+    },
     "iroads_כפר ורבורג": {
         "lat": "31.714322",
         "lon": "34.736480",
@@ -3609,7 +3623,7 @@
         "lat": "32.654397",
         "lon": "35.292408",
         "cameraName": "תל עדשים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/TELADASHIM/TELADASHIM.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/TELADASHIM/TELADASHIM_2.PNG",
         "height": 576,
         "width": 768,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/TELADASHIM.stream/playlist.m3u8",
@@ -4177,14 +4191,6 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
-    },
-    "iroads_כפר הרואה": {
-        "lat": "32.393693",
-        "lon": "34.903037",
-        "direction": "צפון מזרח",
-        "cameraName": "כפר הרואה",
-        "type": "missing_camera",
-        "commentID": "22872388.228723879.617424"
     },
     "iroads_אולגה": {
         "lat": "32.446787",
