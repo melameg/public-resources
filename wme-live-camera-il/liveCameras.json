@@ -97,6 +97,20 @@
         "location": "כביש 2,6511",
         "area": "צפון"
     },
+    "iroads_אור עקיבא כביש 4": {
+        "lat": "32.501368",
+        "lon": "34.928672",
+        "cameraName": "אור עקיבא כביש 4",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ORAKIVAKVISH4/ORAKIVAKVISH4.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ORAKIVAKVISH4.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872389.228920498.619874",
+        "direction": "דרום מערב",
+        "location": "כביש 4,6511",
+        "area": "צפון"
+    },
     "iroads_אזר": {
         "lat": "32.064792",
         "lon": "34.843594",
@@ -179,6 +193,20 @@
         "commentID": "22806849.228265094.619875",
         "direction": "דרום",
         "location": "כביש 4",
+        "area": "מרכז"
+    },
+    "iroads_אלישמע": {
+        "lat": "32.164901",
+        "lon": "34.926884",
+        "cameraName": "אלישמע",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ELISHEMA/ELISHEMA.PNG",
+        "height": 768,
+        "width": 1365,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ELISHEMA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872386.228920464.597302",
+        "direction": "דרום מערב",
+        "location": "כביש 40,531",
         "area": "מרכז"
     },
     "iroads_אלפי מנשה": {
@@ -1230,6 +1258,20 @@
         "location": "כביש 4,3411",
         "area": "דרום"
     },
+    "iroads_זכרון יעקב כביש 2": {
+        "lat": "32.588365",
+        "lon": "34.927325",
+        "cameraName": "זכרון יעקב כביש 2",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ZIHRONYAAKOVKVISH2/ZIHRONYAAKOVKVISH2.PNG",
+        "height": 1080,
+        "width": 1920,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ZIHRONYAAKOVKVISH2.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872390.228920507.780304",
+        "direction": "דרום מערב",
+        "location": "כביש 2,70",
+        "area": "צפון"
+    },
     "iroads_זכרון יעקב כביש 4": {
         "lat": "32.571950",
         "lon": "34.937645",
@@ -1859,6 +1901,20 @@
         "direction": "צפון",
         "location": "כביש 2",
         "area": "מרכז"
+    },
+    "iroads_כפר תבור": {
+        "lat": "32.671538",
+        "lon": "35.404714",
+        "cameraName": "כפר תבור",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KFARTAVOR/KFARTAVOR.PNG",
+        "height": 1024,
+        "width": 1820,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KFARTAVOR.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23200071.232000707.617426",
+        "direction": "צפון מזרח",
+        "location": "כביש 65,767",
+        "area": "צפון"
     },
     "iroads_כרי נעמן דרום": {
         "lat": "32.873505",
@@ -4064,14 +4120,6 @@
         "type": "missing_camera",
         "commentID": "22806849.228134030.964177"
     },
-    "iroads_אלישמע": {
-        "lat": "32.164901",
-        "lon": "34.926884",
-        "direction": "דרום מערב",
-        "cameraName": "אלישמע",
-        "type": "missing_camera",
-        "commentID": "22872386.228920464.597302"
-    },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
         "lon": "34.813606",
@@ -4152,22 +4200,6 @@
         "type": "missing_camera",
         "commentID": "22872388.228658349.597301"
     },
-    "iroads_זכרון יעקב כביש 2": {
-        "lat": "32.588365",
-        "lon": "34.927325",
-        "direction": "דרום מערב",
-        "cameraName": "זכרון יעקב כביש 2",
-        "type": "missing_camera",
-        "commentID": "22872390.228920507.780304"
-    },
-    "iroads_אור עקיבא כביש 4": {
-        "lat": "32.501368",
-        "lon": "34.928672",
-        "direction": "דרום מערב",
-        "cameraName": "אור עקיבא כביש 4",
-        "type": "missing_camera",
-        "commentID": "22872389.228920498.619874"
-    },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
         "lon": "35.172751",
@@ -4191,14 +4223,6 @@
         "cameraName": "עמק התימנים",
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
-    },
-    "iroads_כפר תבור": {
-        "lat": "32.671538",
-        "lon": "35.404714",
-        "direction": "צפון מזרח",
-        "cameraName": "כפר תבור",
-        "type": "missing_camera",
-        "commentID": "23200071.232000707.617426"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
