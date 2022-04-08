@@ -601,6 +601,20 @@
         "location": "כביש 4",
         "area": "מרכז"
     },
+    "iroads_בצת": {
+        "lat": "33.074604",
+        "lon": "35.115345",
+        "cameraName": "בצת",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BETZET/BETZET.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BETZET.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003467.230165739.1193004",
+        "direction": "צפון מזרח",
+        "location": "כביש 4,899",
+        "area": "צפון"
+    },
     "iroads_בר אילן": {
         "lat": "32.065233",
         "lon": "34.838785",
@@ -1621,6 +1635,20 @@
         "direction": "דרום",
         "location": "כביש 60,675",
         "area": "צפון"
+    },
+    "iroads_יסודות": {
+        "lat": "31.810064",
+        "lon": "34.859600",
+        "cameraName": "יסודות",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/YESODOT/YESODOT.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YESODOT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872382.228461677.1193005",
+        "direction": "מערב",
+        "location": "כביש 3",
+        "area": "מרכז"
     },
     "iroads_יער חדרה": {
         "lat": "32.409943",
@@ -3269,6 +3297,20 @@
         "commentID": "22872385.228985996.780204",
         "direction": "צפון מערב",
         "location": "כביש 444",
+        "area": "מרכז"
+    },
+    "iroads_ראש העין שלמה המלך": {
+        "lat": "32.094665",
+        "lon": "34.937868",
+        "cameraName": "ראש העין שלמה המלך",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ROSHHAAYINSHLOMOHAMELECH/ROSHHAAYINSHLOMOHAMELECH.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ROSHHAAYINSHLOMOHAMELECH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872385.228985993.1192804",
+        "direction": "צפון מערב",
+        "location": "כביש 444,483",
         "area": "מרכז"
     },
     "iroads_ראשון לציון": {
