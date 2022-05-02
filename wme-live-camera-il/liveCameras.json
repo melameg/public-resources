@@ -1440,20 +1440,6 @@
         "location": "כביש 40,3933",
         "area": "מרכז"
     },
-    "iroads_חפר": {
-        "lat": "32.373364",
-        "lon": "34.909152",
-        "cameraName": "חפר",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HEFER/HEFER_2.PNG",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HEFER.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872388.228789413.625897",
-        "direction": "צפון מערב",
-        "location": "כביש 4,5720",
-        "area": "מרכז"
-    },
     "iroads_חצב": {
         "lat": "31.781777",
         "lon": "34.776492",
@@ -2738,7 +2724,8 @@
         "type": "iroads",
         "commentID": "22806845.227871840.1164673",
         "direction": "צפון מערב",
-        "location": "כביש 40"
+        "location": "כביש 40",
+        "area": "דרום"
     },
     "iroads_ניר גלים": {
         "lat": "31.829026",
@@ -4247,6 +4234,14 @@
         "cameraName": "קיסריה",
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
+    },
+    "iroads_חפר": {
+        "lat": "32.373364",
+        "lon": "34.909152",
+        "direction": "צפון מערב",
+        "cameraName": "חפר",
+        "type": "missing_camera",
+        "commentID": "22872388.228789413.625897"
     },
     "iroads_אולגה": {
         "lat": "32.446787",
