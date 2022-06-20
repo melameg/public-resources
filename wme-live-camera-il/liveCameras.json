@@ -1739,6 +1739,8 @@
         "lon": "35.142466",
         "cameraName": "כברי",
         "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI_2.PNG",
+        "height": 288,
+        "width": 512,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "23003466.230296806.619922",
