@@ -213,7 +213,7 @@
         "lat": "32.176865",
         "lon": "34.980658",
         "cameraName": "אלפי מנשה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/ALFEIMENASHE/ALFEIMENASHE.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ALFEIMENASHE/ALFEIMENASHE_2.PNG",
         "height": 576,
         "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ALFEIMENASHE.stream/playlist.m3u8",
@@ -3551,20 +3551,6 @@
         "location": "כביש 38,415",
         "area": "מרכז"
     },
-    "iroads_שער הנגב": {
-        "lat": "31.507333",
-        "lon": "34.587428",
-        "cameraName": "שער הנגב",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/SHAARHANEGEV/SHAARHANEGEV.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHAARHANEGEV.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22675771.226692175.619955",
-        "direction": "צפון מערב",
-        "location": "כביש 34,232",
-        "area": "דרום"
-    },
     "iroads_שעריה": {
         "lat": "32.068044",
         "lon": "34.903725",
@@ -4105,6 +4091,14 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
+    "iroads_שער הנגב": {
+        "lat": "31.507333",
+        "lon": "34.587428",
+        "direction": "צפון מערב",
+        "cameraName": "שער הנגב",
+        "type": "missing_camera",
+        "commentID": "22675771.226692175.619955"
+    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4160,6 +4154,22 @@
         "cameraName": "דב הוז - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227806338.964086"
+    },
+    "iroads_קיסריה": {
+        "lat": "32.460766",
+        "lon": "34.895634",
+        "direction": "לא ידוע",
+        "cameraName": "קיסריה",
+        "type": "missing_camera",
+        "commentID": "22872389.228723886.619950"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "22872388.228658349.597301"
     },
     "ayalonhw_קק%20ל – גלילות - איילון": {
         "lat": "32.129377",
@@ -4240,22 +4250,6 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
-    },
-    "iroads_קיסריה": {
-        "lat": "32.460766",
-        "lon": "34.895634",
-        "direction": "לא ידוע",
-        "cameraName": "קיסריה",
-        "type": "missing_camera",
-        "commentID": "22872389.228723886.619950"
-    },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "direction": "דרום",
-        "cameraName": "אולגה",
-        "type": "missing_camera",
-        "commentID": "22872388.228658349.597301"
     },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
