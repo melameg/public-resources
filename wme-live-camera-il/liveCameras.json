@@ -1706,20 +1706,6 @@
         "location": "כביש 5,40",
         "area": "מרכז"
     },
-    "iroads_ישי": {
-        "lat": "32.708179",
-        "lon": "35.157026",
-        "cameraName": "ישי",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/YISHAI/YISHAI.PNG",
-        "height": 1080,
-        "width": 1920,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YISHAI.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068999.230427847.783982",
-        "direction": "דרום מזרח",
-        "location": "כביש 75,77",
-        "area": "צפון"
-    },
     "iroads_כביש 1 קמ 36": {
         "lat": "31.825971",
         "lon": "34.997170",
@@ -1962,7 +1948,7 @@
         "lat": "32.873505",
         "lon": "35.098509",
         "cameraName": "כרי נעמן דרום",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/KAREYNAAMANSOUTH/NAAMAN_SOUTH.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KAREYNAAMANSOUTH/KAREYNAAMANSOUTH_2.PNG",
         "height": 576,
         "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KAREYNAAMANSOUTH.stream/playlist.m3u8",
@@ -2683,20 +2669,6 @@
         "commentID": "22872382.228854894.780313",
         "direction": "דרום מערב",
         "location": "כביש 3,44",
-        "area": "מרכז"
-    },
-    "iroads_נחשונים": {
-        "lat": "32.069179",
-        "lon": "34.943764",
-        "cameraName": "נחשונים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHSHONIM/nahshonim.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NAHSHONIM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872385.228985991.1057982",
-        "direction": "מזרח",
-        "location": "כביש 444,471",
         "area": "מרכז"
     },
     "iroads_ניצני עוז": {
@@ -3551,6 +3523,20 @@
         "location": "כביש 38,415",
         "area": "מרכז"
     },
+    "iroads_שער הנגב": {
+        "lat": "31.507333",
+        "lon": "34.587428",
+        "cameraName": "שער הנגב",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHAARHANEGEV/SHAARHANEGEV.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHAARHANEGEV.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22675771.226692175.619955",
+        "direction": "צפון מערב",
+        "location": "כביש 34,232",
+        "area": "דרום"
+    },
     "iroads_שעריה": {
         "lat": "32.068044",
         "lon": "34.903725",
@@ -4091,14 +4077,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_שער הנגב": {
-        "lat": "31.507333",
-        "lon": "34.587428",
-        "direction": "צפון מערב",
-        "cameraName": "שער הנגב",
-        "type": "missing_camera",
-        "commentID": "22675771.226692175.619955"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4155,22 +4133,6 @@
         "type": "missing_camera",
         "commentID": "22806848.227806338.964086"
     },
-    "iroads_קיסריה": {
-        "lat": "32.460766",
-        "lon": "34.895634",
-        "direction": "לא ידוע",
-        "cameraName": "קיסריה",
-        "type": "missing_camera",
-        "commentID": "22872389.228723886.619950"
-    },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "direction": "דרום",
-        "cameraName": "אולגה",
-        "type": "missing_camera",
-        "commentID": "22872388.228658349.597301"
-    },
     "ayalonhw_קק%20ל – גלילות - איילון": {
         "lat": "32.129377",
         "lon": "34.810653",
@@ -4219,6 +4181,14 @@
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
     },
+    "iroads_נחשונים": {
+        "lat": "32.069179",
+        "lon": "34.943764",
+        "direction": "מזרח",
+        "cameraName": "נחשונים",
+        "type": "missing_camera",
+        "commentID": "22872385.228985991.1057982"
+    },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
         "lon": "34.790847",
@@ -4251,6 +4221,22 @@
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
     },
+    "iroads_קיסריה": {
+        "lat": "32.460766",
+        "lon": "34.895634",
+        "direction": "לא ידוע",
+        "cameraName": "קיסריה",
+        "type": "missing_camera",
+        "commentID": "22872389.228723886.619950"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "22872388.228658349.597301"
+    },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
         "lon": "35.172751",
@@ -4274,6 +4260,14 @@
         "cameraName": "עמק התימנים",
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
+    },
+    "iroads_ישי": {
+        "lat": "32.708179",
+        "lon": "35.157026",
+        "direction": "דרום מזרח",
+        "cameraName": "ישי",
+        "type": "missing_camera",
+        "commentID": "23068999.230427847.783982"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
