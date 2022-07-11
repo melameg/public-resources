@@ -1706,6 +1706,18 @@
         "location": "כביש 5,40",
         "area": "מרכז"
     },
+    "iroads_ישי": {
+        "lat": "32.708179",
+        "lon": "35.157026",
+        "cameraName": "ישי",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/YISHAI/YISHAI.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YISHAI.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23068999.230427847.783982",
+        "direction": "דרום מזרח",
+        "location": "כביש 75,77",
+        "area": "צפון"
+    },
     "iroads_כביש 1 קמ 36": {
         "lat": "31.825971",
         "lon": "34.997170",
@@ -2669,6 +2681,18 @@
         "commentID": "22872382.228854894.780313",
         "direction": "דרום מערב",
         "location": "כביש 3,44",
+        "area": "מרכז"
+    },
+    "iroads_נחשונים": {
+        "lat": "32.069179",
+        "lon": "34.943764",
+        "cameraName": "נחשונים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHSHONIM/nahshonim.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NAHSHONIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872385.228985991.1057982",
+        "direction": "מזרח",
+        "location": "כביש 444,471",
         "area": "מרכז"
     },
     "iroads_ניצני עוז": {
@@ -4181,14 +4205,6 @@
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
     },
-    "iroads_נחשונים": {
-        "lat": "32.069179",
-        "lon": "34.943764",
-        "direction": "מזרח",
-        "cameraName": "נחשונים",
-        "type": "missing_camera",
-        "commentID": "22872385.228985991.1057982"
-    },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
         "lon": "34.790847",
@@ -4260,14 +4276,6 @@
         "cameraName": "עמק התימנים",
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
-    },
-    "iroads_ישי": {
-        "lat": "32.708179",
-        "lon": "35.157026",
-        "direction": "דרום מזרח",
-        "cameraName": "ישי",
-        "type": "missing_camera",
-        "commentID": "23068999.230427847.783982"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
