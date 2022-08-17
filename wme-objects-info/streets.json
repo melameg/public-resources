@@ -1,0 +1,32 @@
+{
+    "4810": {
+        "cityID": 562,
+        "name": "המאבק",
+        "englishName": "HaMaavak"
+    },
+    "8226": {
+        "cityID": 562,
+        "name": "אדמית",
+        "englishName": "Adamit"
+    },
+    "17375": {
+        "cityID": 562,
+        "name": "ההסתדרות",
+        "englishName": "HaHistadrut"
+    },
+    "36949": {
+        "cityID": 562,
+        "name": "עמישב",
+        "englishName": "Amishav"
+    },
+    "57650": {
+        "cityID": 1527,
+        "name": "דרך השלום",
+        "englishName": "HaShalom Road"
+    },
+    "58256": {
+        "cityID": 1527,
+        "name": "עמישב",
+        "englishName": "Amishav"
+    }
+}
