@@ -1,0 +1,29 @@
+{
+    "562": {
+        "countryID": 106,
+        "name": "גבעתיים",
+        "englishName": "Givataaim",
+        "coordinates": {
+            "lon": "34.809861",
+            "lat": "32.070215"
+        }
+    },
+    "1419": {
+        "countryID": 106,
+        "name": "רמת גן",
+        "englishName": "Ramat Gan",
+        "coordinates": {
+            "lon": "34.825248",
+            "lat": "32.069285"
+        }
+    },
+    "1527": {
+        "countryID": 106,
+        "name": "תל אביב - יפו",
+        "englishName": "Tel Aviv",
+        "coordinates": {
+            "lon": "34.787847",
+            "lat": "32.069607"
+        }
+    }
+}
