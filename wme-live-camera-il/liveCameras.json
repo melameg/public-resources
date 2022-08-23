@@ -643,6 +643,18 @@
         "location": "כביש 40,411,4123",
         "area": "מרכז"
     },
+    "iroads_ברקאי": {
+        "lat": "32.470998",
+        "lon": "35.019612",
+        "cameraName": "ברקאי",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BARKAI/BARKAI.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BARKAI.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937925.229510319.1245083",
+        "direction": "צפון מזרח",
+        "location": "כביש 574",
+        "area": "צפון"
+    },
     "iroads_גבולות": {
         "lat": "31.269749",
         "lon": "34.432177",
