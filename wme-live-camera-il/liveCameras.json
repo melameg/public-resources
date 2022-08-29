@@ -153,6 +153,20 @@
         "location": "כביש 40",
         "area": "מרכז"
     },
+    "iroads_אל מכר": {
+        "lat": "32.915991",
+        "lon": "35.124480",
+        "cameraName": "אל מכר",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MACKER/MACKER.PNG",
+        "height": 600,
+        "width": 1067,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MACKER.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003465.230165724.780299",
+        "direction": "מזרח",
+        "location": "כביש 85",
+        "area": "צפון"
+    },
     "iroads_אלון": {
         "lat": "32.448806",
         "lon": "34.961009",
@@ -648,6 +662,8 @@
         "lon": "35.019612",
         "cameraName": "ברקאי",
         "image": "https://iroads.bvtech.co.il:444/upfiles/BARKAI/BARKAI.PNG",
+        "height": 1080,
+        "width": 1920,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BARKAI.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22937925.229510319.1245083",
@@ -2948,20 +2964,6 @@
         "location": "כביש 4,85",
         "area": "צפון"
     },
-    "iroads_עמיעד": {
-        "lat": "32.914129",
-        "lon": "35.543542",
-        "cameraName": "עמיעד",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/AMIAD/AMIAD.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AMIAD.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23265609.232918235.619948",
-        "direction": "דרום מערב",
-        "location": "כביש 85,90",
-        "area": "צפון"
-    },
     "iroads_ערערה": {
         "lat": "32.503214",
         "lon": "35.086672",
@@ -4279,6 +4281,14 @@
         "type": "missing_camera",
         "commentID": "23068990.230427753.783989"
     },
+    "iroads_עמיעד": {
+        "lat": "32.914129",
+        "lon": "35.543542",
+        "direction": "דרום מערב",
+        "cameraName": "עמיעד",
+        "type": "missing_camera",
+        "commentID": "23265609.232918235.619948"
+    },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
         "lon": "35.091509",
@@ -4286,14 +4296,6 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
-    },
-    "iroads_אל מכר": {
-        "lat": "32.915991",
-        "lon": "35.124480",
-        "direction": "מזרח",
-        "cameraName": "אל מכר",
-        "type": "missing_camera",
-        "commentID": "23003465.230165724.780299"
     },
     "iroads_מורן": {
         "lat": "32.927864",
