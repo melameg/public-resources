@@ -4089,22 +4089,6 @@
         "commentID": "23462219.234491121.597306",
         "cameraUrl": "https://www.weather2day.co.il/merom-golan-live"
     },
-    "url_עליון": {
-        "lat": "33.305810",
-        "lon": "35.784023",
-        "cameraName": "עליון",
-        "type": "url",
-        "commentID": "23462221.234491139.619878",
-        "cameraUrl": "https://skihermon.co.il/live/"
-    },
-    "url_תחתון": {
-        "lat": "33.308377",
-        "lon": "35.772519",
-        "cameraName": "תחתון",
-        "type": "url",
-        "commentID": "23462221.234425603.597305",
-        "cameraUrl": "https://skihermon.co.il/live/"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
