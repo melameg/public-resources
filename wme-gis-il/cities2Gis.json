@@ -4863,7 +4863,9 @@
       "displayName": "Kadoorie"
     },
     "421": {
-      "gis": "https://gis.br7.org.il/apps/br7/",
+      "name": "br7",
+      "prefix": "br7",
+      "gis": "gis.__prefix__.org.il",
       "displayName": "Be'er Sheva"
     },
     "489": {
@@ -5634,6 +5636,10 @@
     "gis__prefix__.taldor.co.il": {
       "url": "https://gis__prefix__.taldor.co.il/",
       "functionName": "gisTaldorPrefix"
+    },
+    "gis.__prefix__.org.il": {
+      "url": "https://gis.__prefix__.org.il/",
+      "functionName": "gisOrgIlPrefix"
     },
     "orhitec.erpgis.co.il": {
       "url": "https://orhitec.erpgis.co.il/",
