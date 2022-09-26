@@ -1748,20 +1748,6 @@
         "location": "כביש 1,3",
         "area": "מרכז"
     },
-    "iroads_כברי": {
-        "lat": "33.016669",
-        "lon": "35.142466",
-        "cameraName": "כברי",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI_2.PNG",
-        "height": 288,
-        "width": 512,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003466.230296806.619922",
-        "direction": "דרום מזרח",
-        "location": "כביש 70,89",
-        "area": "צפון"
-    },
     "iroads_כוכב יאיר": {
         "lat": "32.220304",
         "lon": "34.980638",
@@ -2685,6 +2671,18 @@
         "location": "כביש 40",
         "area": "מרכז"
     },
+    "iroads_נחשון": {
+        "lat": "31.815648",
+        "lon": "34.917371",
+        "cameraName": "נחשון",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHSHON/NAHSON.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHSHON.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872382.228854894.780313",
+        "direction": "דרום מערב",
+        "location": "כביש 3,44",
+        "area": "מרכז"
+    },
     "iroads_נחשונים": {
         "lat": "32.069179",
         "lon": "34.943764",
@@ -3242,6 +3240,18 @@
         "commentID": "22806844.227740760.780200",
         "direction": "דרום",
         "location": "כביש 40,3444",
+        "area": "דרום"
+    },
+    "iroads_קרית גת כביש 6": {
+        "lat": "31.599531",
+        "lon": "34.813408",
+        "cameraName": "קרית גת כביש 6",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KIRYATGATROAD6/KIRYATGATROAD6_2.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/KIRYATGATROAD6.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806844.228133976.780201",
+        "direction": "צפון",
+        "location": "כביש 6,35",
         "area": "דרום"
     },
     "iroads_קרית טבעון": {
@@ -4091,22 +4101,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_קרית גת כביש 6": {
-        "lat": "31.599531",
-        "lon": "34.813408",
-        "direction": "צפון",
-        "cameraName": "קרית גת כביש 6",
-        "type": "missing_camera",
-        "commentID": "22806844.228133976.780201"
-    },
-    "iroads_נחשון": {
-        "lat": "31.815648",
-        "lon": "34.917371",
-        "direction": "דרום מערב",
-        "cameraName": "נחשון",
-        "type": "missing_camera",
-        "commentID": "22872382.228854894.780313"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4171,14 +4165,6 @@
         "type": "missing_camera",
         "commentID": "22806849.228134029.964279"
     },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
         "lon": "34.813606",
@@ -4194,14 +4180,6 @@
         "cameraName": "קיבוץ גלויות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
     },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
@@ -4243,6 +4221,22 @@
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
     },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
+    },
     "iroads_קיסריה": {
         "lat": "32.460766",
         "lon": "34.895634",
@@ -4258,6 +4252,14 @@
         "cameraName": "אולגה",
         "type": "missing_camera",
         "commentID": "22872388.228658349.597301"
+    },
+    "iroads_עמק התימנים": {
+        "lat": "31.770246",
+        "lon": "35.158911",
+        "direction": "לא ידוע",
+        "cameraName": "עמק התימנים",
+        "type": "missing_camera",
+        "commentID": "23068990.230427753.783989"
     },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
@@ -4275,14 +4277,6 @@
         "type": "missing_camera",
         "commentID": "23068989.230624356.617402"
     },
-    "iroads_עמק התימנים": {
-        "lat": "31.770246",
-        "lon": "35.158911",
-        "direction": "לא ידוע",
-        "cameraName": "עמק התימנים",
-        "type": "missing_camera",
-        "commentID": "23068990.230427753.783989"
-    },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
         "lon": "35.091509",
@@ -4290,6 +4284,14 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
+    },
+    "iroads_כברי": {
+        "lat": "33.016669",
+        "lon": "35.142466",
+        "direction": "דרום מזרח",
+        "cameraName": "כברי",
+        "type": "missing_camera",
+        "commentID": "23003466.230296806.619922"
     },
     "iroads_מורן": {
         "lat": "32.927864",
