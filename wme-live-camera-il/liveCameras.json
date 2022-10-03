@@ -895,20 +895,6 @@
         "location": "כביש 4,42",
         "area": "מרכז"
     },
-    "iroads_גנות": {
-        "lat": "32.018721",
-        "lon": "34.821943",
-        "cameraName": "גנות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GANOT/ganot.png",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228199554.619896",
-        "direction": "צפון",
-        "location": "כביש 1,4",
-        "area": "מרכז"
-    },
     "iroads_גניגר": {
         "lat": "32.661037",
         "lon": "35.258312",
@@ -1747,6 +1733,20 @@
         "direction": "מזרח",
         "location": "כביש 1,3",
         "area": "מרכז"
+    },
+    "iroads_כברי": {
+        "lat": "33.016669",
+        "lon": "35.142466",
+        "cameraName": "כברי",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KABRI/KABRI_2.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/KABRI.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23003466.230296806.619922",
+        "direction": "דרום מזרח",
+        "location": "כביש 70,89",
+        "area": "צפון"
     },
     "iroads_כוכב יאיר": {
         "lat": "32.220304",
@@ -3607,20 +3607,6 @@
         "location": "כביש 2",
         "area": "מרכז"
     },
-    "iroads_שפירים": {
-        "lat": "32.007783",
-        "lon": "34.836801",
-        "cameraName": "שפירים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/SHAPIRIM/SHAPIRIM.PNG",
-        "height": 1080,
-        "width": 1920,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SHAPIRIM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228330625.617467",
-        "direction": "צפון",
-        "location": "כביש 1,412",
-        "area": "מרכז"
-    },
     "iroads_שרה": {
         "lat": "31.225145",
         "lon": "34.828306",
@@ -4105,6 +4091,14 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
+    "iroads_גנות": {
+        "lat": "32.018721",
+        "lon": "34.821943",
+        "direction": "צפון",
+        "cameraName": "גנות",
+        "type": "missing_camera",
+        "commentID": "22806848.228199554.619896"
+    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4112,6 +4106,14 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
+    },
+    "iroads_שפירים": {
+        "lat": "32.007783",
+        "lon": "34.836801",
+        "direction": "צפון",
+        "cameraName": "שפירים",
+        "type": "missing_camera",
+        "commentID": "22806848.228330625.617467"
     },
     "ayalonhw_גשר התנאים - איילון": {
         "lat": "32.009016",
@@ -4288,14 +4290,6 @@
         "cameraName": "קרית אתא צפון",
         "type": "missing_camera",
         "commentID": "23003464.229969106.783995"
-    },
-    "iroads_כברי": {
-        "lat": "33.016669",
-        "lon": "35.142466",
-        "direction": "דרום מזרח",
-        "cameraName": "כברי",
-        "type": "missing_camera",
-        "commentID": "23003466.230296806.619922"
     },
     "iroads_מורן": {
         "lat": "32.927864",
