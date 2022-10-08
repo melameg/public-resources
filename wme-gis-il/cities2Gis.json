@@ -5546,6 +5546,36 @@
       "displayName": "Ramat Gan",
       "gis": "v5.gis-net.co.il"
     },
+    "501": {
+      "name": "Bbk",
+      "displayName": "Ba'Ana",
+      "gis": "v5.gis-net.co.il"
+    },
+    "627": {
+      "name": "Bbk",
+      "displayName": "Dir El-Assad",
+      "gis": "v5.gis-net.co.il"
+    },
+    "1657": {
+      "name": "Bbk",
+      "displayName": "Majd Al-Kurum",
+      "gis": "v5.gis-net.co.il"
+    },
+    "1135": {
+      "name": "Bbk",
+      "displayName": "Nahf",
+      "gis": "v5.gis-net.co.il"
+    },
+    "1384": {
+      "name": "Bbk",
+      "displayName": "Rama",
+      "gis": "v5.gis-net.co.il"
+    },
+    "1185": {
+      "name": "Bbk",
+      "displayName": "Sajur",
+      "gis": "v5.gis-net.co.il"
+    },
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
