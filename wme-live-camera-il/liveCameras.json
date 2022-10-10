@@ -111,20 +111,6 @@
         "location": "כביש 4,6511",
         "area": "צפון"
     },
-    "iroads_אזר": {
-        "lat": "32.064792",
-        "lon": "34.843594",
-        "cameraName": "אזר",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/AZAR/AZAR.PNG",
-        "height": 1536,
-        "width": 2048,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/AZAR.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806849.228330630.1130676",
-        "direction": "צפון מזרח",
-        "location": "כביש 471,4612",
-        "area": "מרכז"
-    },
     "iroads_אחיהוד": {
         "lat": "32.912212",
         "lon": "35.166337",
@@ -893,6 +879,20 @@
         "commentID": "22806848.228002940.625890",
         "direction": "צפון מזרח",
         "location": "כביש 4,42",
+        "area": "מרכז"
+    },
+    "iroads_גנות": {
+        "lat": "32.018721",
+        "lon": "34.821943",
+        "cameraName": "גנות",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GANOT/ganot.png",
+        "height": 768,
+        "width": 1365,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806848.228199554.619896",
+        "direction": "צפון",
+        "location": "כביש 1,4",
         "area": "מרכז"
     },
     "iroads_גניגר": {
@@ -3607,6 +3607,20 @@
         "location": "כביש 2",
         "area": "מרכז"
     },
+    "iroads_שפירים": {
+        "lat": "32.007783",
+        "lon": "34.836801",
+        "cameraName": "שפירים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHAPIRIM/SHAPIRIM.PNG",
+        "height": 1080,
+        "width": 1920,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SHAPIRIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806848.228330625.617467",
+        "direction": "צפון",
+        "location": "כביש 1,412",
+        "area": "מרכז"
+    },
     "iroads_שרה": {
         "lat": "31.225145",
         "lon": "34.828306",
@@ -4091,14 +4105,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_גנות": {
-        "lat": "32.018721",
-        "lon": "34.821943",
-        "direction": "צפון",
-        "cameraName": "גנות",
-        "type": "missing_camera",
-        "commentID": "22806848.228199554.619896"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4106,14 +4112,6 @@
         "cameraName": "סביון",
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
-    },
-    "iroads_שפירים": {
-        "lat": "32.007783",
-        "lon": "34.836801",
-        "direction": "צפון",
-        "cameraName": "שפירים",
-        "type": "missing_camera",
-        "commentID": "22806848.228330625.617467"
     },
     "ayalonhw_גשר התנאים - איילון": {
         "lat": "32.009016",
@@ -4170,6 +4168,14 @@
         "cameraName": "קק%20ל – גלילות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228134029.964279"
+    },
+    "iroads_אזר": {
+        "lat": "32.064792",
+        "lon": "34.843594",
+        "direction": "צפון מזרח",
+        "cameraName": "אזר",
+        "type": "missing_camera",
+        "commentID": "22806849.228330630.1130676"
     },
     "ayalonhw_גלילות - איילון": {
         "lat": "32.138920",
