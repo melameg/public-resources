@@ -3341,6 +3341,20 @@
         "location": "כביש 443,446",
         "area": "מרכז"
     },
+    "iroads_שילת מזרח": {
+        "lat": "31.909818",
+        "lon": "35.017314",
+        "cameraName": "שילת מזרח",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHILATEAST/SHILATEAST.PNG",
+        "height": 1080,
+        "width": 1920,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHILATEAST.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937919.229510263.1249213",
+        "direction": "צפון מערב",
+        "location": "כביש 443",
+        "area": "מרכז"
+    },
     "iroads_שמרת": {
         "lat": "32.952772",
         "lon": "35.090498",
