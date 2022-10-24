@@ -167,20 +167,6 @@
         "location": "כביש 85",
         "area": "צפון"
     },
-    "iroads_אלון": {
-        "lat": "32.448806",
-        "lon": "34.961009",
-        "cameraName": "אלון",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/ALON/ALON.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ALON.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22937924.229117101.617386",
-        "direction": "צפון מזרח",
-        "location": "כביש 65,650",
-        "area": "צפון"
-    },
     "iroads_אלוף שדה": {
         "lat": "32.057950",
         "lon": "34.834923",
@@ -1524,6 +1510,20 @@
         "location": "כביש 70,75,752",
         "area": "צפון"
     },
+    "iroads_יגל": {
+        "lat": "31.992771",
+        "lon": "34.868953",
+        "cameraName": "יגל",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/YAGEL/YAGEL.png",
+        "height": 1080,
+        "width": 1920,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YAGEL.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872384.228527231.617470",
+        "direction": "מערב",
+        "location": "כביש 1",
+        "area": "מרכז"
+    },
     "iroads_יד מרדכי": {
         "lat": "31.588635",
         "lon": "34.563777",
@@ -2796,20 +2796,6 @@
         "location": "כביש 45,50",
         "area": "יוש"
     },
-    "iroads_עין המפרץ": {
-        "lat": "32.904067",
-        "lon": "35.089915",
-        "cameraName": "עין המפרץ",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/EINHAMIFRTZ/EINHMIFRTZ.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/EINHAMIFRTZ.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003465.229969114.619946",
-        "direction": "צפון",
-        "location": "כביש 4,8510",
-        "area": "צפון"
-    },
     "iroads_עכו מזרח": {
         "lat": "32.920284",
         "lon": "35.097218",
@@ -3368,20 +3354,6 @@
         "direction": "דרום",
         "location": "כביש 4,8510",
         "area": "צפון"
-    },
-    "iroads_שמשון": {
-        "lat": "31.775314",
-        "lon": "35.005594",
-        "cameraName": "שמשון",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/SHIMSHON/SHIMSHON.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHIMSHON.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22937918.229444714.625938",
-        "direction": "צפון מזרח",
-        "location": "כביש 38,44",
-        "area": "מרכז"
     },
     "iroads_שעלבים": {
         "lat": "31.875322",
@@ -3995,6 +3967,14 @@
         "type": "missing_camera",
         "commentID": "22806843.227937360.617435"
     },
+    "iroads_שמשון": {
+        "lat": "31.775314",
+        "lon": "35.005594",
+        "direction": "צפון מזרח",
+        "cameraName": "שמשון",
+        "type": "missing_camera",
+        "commentID": "22937918.229444714.625938"
+    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4018,14 +3998,6 @@
         "cameraName": "חולות - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227806331.964189"
-    },
-    "iroads_יגל": {
-        "lat": "31.992771",
-        "lon": "34.868953",
-        "direction": "מערב",
-        "cameraName": "יגל",
-        "type": "missing_camera",
-        "commentID": "22872384.228527231.617470"
     },
     "ayalonhw_חולון צפון - איילון": {
         "lat": "32.038607",
@@ -4195,6 +4167,14 @@
         "type": "missing_camera",
         "commentID": "22872387.228396187.1130375"
     },
+    "iroads_אלון": {
+        "lat": "32.448806",
+        "lon": "34.961009",
+        "direction": "צפון מזרח",
+        "cameraName": "אלון",
+        "type": "missing_camera",
+        "commentID": "22937924.229117101.617386"
+    },
     "iroads_אולגה": {
         "lat": "32.446787",
         "lon": "34.893304",
@@ -4210,6 +4190,14 @@
         "cameraName": "עירון",
         "type": "missing_camera",
         "commentID": "22937925.229575856.617451"
+    },
+    "iroads_עין המפרץ": {
+        "lat": "32.904067",
+        "lon": "35.089915",
+        "direction": "צפון",
+        "cameraName": "עין המפרץ",
+        "type": "missing_camera",
+        "commentID": "23003465.229969114.619946"
     },
     "iroads_עמק התימנים": {
         "lat": "31.770246",
