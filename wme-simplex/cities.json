@@ -1,6 +1,6 @@
 {
     "286": {
-        "cityName": "",
+        "cityName": "Abu Ghosh",
         "appName": "abughosh",
         "height": 700
     },
@@ -8,6 +8,11 @@
         "cityName": "Even Shmuel",
         "appName": "shafir",
         "height": 0
+    },
+    "325": {
+        "cityName": "Ofakim",
+        "appName": "ofakim",
+        "height": 400
     },
     "328": {
         "cityName": "Or Yehuda",
@@ -20,12 +25,12 @@
         "height": 0
     },
     "337": {
-        "cityName": "",
+        "cityName": "Azor",
         "appName": "azor",
         "height": 0
     },
     "352": {
-        "cityName": "",
+        "cityName": "Eilat",
         "appName": "eilat",
         "height": 0
     },
@@ -34,18 +39,23 @@
         "appName": "shafir",
         "height": 0
     },
+    "356": {
+        "cityName": "Iksal",
+        "appName": "iksal",
+        "height": 300
+    },
     "360": {
         "cityName": "Aluma",
         "appName": "shafir",
         "height": 0
     },
     "405": {
-        "cityName": "",
+        "cityName": "Ashdod",
         "appName": "ashdod",
         "height": 0
     },
     "412": {
-        "cityName": "",
+        "cityName": "Ashkelon",
         "appName": "ashkelon",
         "height": 0
     },
@@ -54,15 +64,30 @@
         "appName": "beeryaakov",
         "height": 0
     },
+    "421": {
+        "cityName": "Be'er Sheva",
+        "appName": "beersheva",
+        "height": 500
+    },
+    "432": {
+        "cityName": "Bir al-Maksur",
+        "appName": "biralmaksur",
+        "height": 600
+    },
     "489": {
-        "cityName": "",
+        "cityName": "Bnei Brak",
         "appName": "bbrak",
         "height": 0
     },
     "522": {
-        "cityName": "",
+        "cityName": "Bat Yam",
         "appName": "batyam",
         "height": 0
+    },
+    "526": {
+        "cityName": "Julis",
+        "appName": "julis",
+        "height": 150
     },
     "527": {
         "cityName": "Jaljulia",
@@ -70,7 +95,7 @@
         "height": 0
     },
     "558": {
-        "cityName": "",
+        "cityName": "Giv'at Shmuel",
         "appName": "givat-shmuel",
         "height": 0
     },
@@ -81,8 +106,8 @@
     },
     "604": {
         "cityName": "Ganei Tikva",
-        "appName": "GTikva",
-        "height": 0
+        "appName": "gtikva",
+        "height": 200
     },
     "630": {
         "cityName": "Dimona",
@@ -95,7 +120,7 @@
         "height": 0
     },
     "662": {
-        "cityName": "",
+        "cityName": "Herzliya",
         "appName": "herzl",
         "height": 0
     },
@@ -110,12 +135,12 @@
         "height": 0
     },
     "690": {
-        "cityName": "",
+        "cityName": "Holon",
         "appName": "holon",
         "height": 0
     },
     "705": {
-        "cityName": "",
+        "cityName": "Haifa",
         "appName": "haifa",
         "height": 0
     },
@@ -134,6 +159,11 @@
         "appName": "yehud-mon",
         "height": 0
     },
+    "786": {
+        "cityName": "Yafia",
+        "appName": "yafia",
+        "height": 350
+    },
     "795": {
         "cityName": "Yokneam Illit",
         "appName": "yok",
@@ -142,7 +172,7 @@
     "800": {
         "cityName": "Jerusalem",
         "appName": "jrs",
-        "height": 1000
+        "height": 700
     },
     "891": {
         "cityName": "Kfar Saba",
@@ -160,7 +190,7 @@
         "height": 0
     },
     "930": {
-        "cityName": "",
+        "cityName": "Lod",
         "appName": "lod",
         "height": 0
     },
@@ -175,9 +205,14 @@
         "height": 200
     },
     "970": {
-        "cityName": "",
+        "cityName": "Modi'in Ilit",
         "appName": "modiinillit",
         "height": 0
+    },
+    "1019": {
+        "cityName": "Metsada",
+        "appName": "masada",
+        "height": 200
     },
     "1064": {
         "cityName": "merkaz shapira",
@@ -209,6 +244,11 @@
         "appName": "nzrt",
         "height": 0
     },
+    "1183": {
+        "cityName": "Netivot",
+        "appName": "netivot",
+        "height": 200
+    },
     "1184": {
         "cityName": "Netanya",
         "appName": "net",
@@ -229,6 +269,11 @@
         "appName": "eli",
         "height": 700
     },
+    "1285": {
+        "cityName": "Arad",
+        "appName": "arad",
+        "height": 600
+    },
     "1311": {
         "cityName": "Pardes Hana-Karkur",
         "appName": "phk",
@@ -237,7 +282,7 @@
     "1316": {
         "cityName": "Petah Tikva",
         "appName": "petahtikva",
-        "height": 0
+        "height": 30
     },
     "1355": {
         "cityName": "Komemiyut",
@@ -265,17 +310,17 @@
         "height": 0
     },
     "1373": {
-        "cityName": "",
+        "cityName": "Kiryat Ye'arim",
         "appName": "kiryatyearim",
         "height": 700
     },
     "1379": {
-        "cityName": "",
+        "cityName": "Kiryat Ekron",
         "appName": "kiryatekron",
         "height": 0
     },
     "1382": {
-        "cityName": "",
+        "cityName": "Karnei Shomron",
         "appName": "karneishomron",
         "height": 0
     },
@@ -300,7 +345,7 @@
         "height": 0
     },
     "1417": {
-        "cityName": "",
+        "cityName": "Ramla",
         "appName": "ramle",
         "height": 0
     },
@@ -309,8 +354,18 @@
         "appName": "rg",
         "height": 0
     },
+    "1425": {
+        "cityName": "Ramat Yishai",
+        "appName": "ramatyishai",
+        "height": 150
+    },
+    "1434": {
+        "cityName": "Ra'anana",
+        "appName": "raanana",
+        "height": 50
+    },
     "1470": {
-        "cityName": "",
+        "cityName": "Sderot",
         "appName": "sderot",
         "height": 0
     },
@@ -325,17 +380,17 @@
         "height": 0
     },
     "1527": {
-        "cityName": "",
-        "appName": "tlv",
-        "height": 0
+        "cityName": "Tel Aviv-Yafo",
+        "appName": "TLV",
+        "height": 600
     },
     "1533": {
-        "cityName": "",
+        "cityName": "Tel as-Sabi",
         "appName": "telsheva",
         "height": 0
     },
     "2122": {
-        "cityName": "",
+        "cityName": "Harish",
         "appName": "harish",
         "height": 0
     }
