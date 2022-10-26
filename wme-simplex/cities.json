@@ -1,342 +1,342 @@
 {
-  "329": {
-    "cityName": "Or Akiva",
-    "appName": "orakiva",
-    "height": 0
-  },
-  "1370": {
-    "cityName": "kiryat gat",
-    "appName": "kiryatgat",
-    "height": 0
-  },
-  "1311": {
-    "cityName": "Pardes Hana-Karkur",
-    "appName": "phk",
-    "height": 0
-  },
-  "337": {
-    "cityName": "",
-    "appName": "azor",
-    "height": 0
-  },
-  "522": {
-    "cityName": "",
-    "appName": "batyam",
-    "height": 0
-  },
-  "352": {
-    "cityName": "",
-    "appName": "eilat",
-    "height": 0
-  },
-  "405": {
-    "cityName": "",
-    "appName": "ashdod",
-    "height": 0
-  },
-  "412": {
-    "cityName": "",
-    "appName": "ashkelon",
-    "height": 0
-  },
-  "489": {
-    "cityName": "",
-    "appName": "bbrak",
-    "height": 0
-  },
-  "558": {
-    "cityName": "",
-    "appName": "givat-shmuel",
-    "height": 0
-  },
-  "562": {
-    "cityName": "Givataaim",
-    "appName": "gv",
-    "height": 0
-  },
-  "643": {
-    "cityName": "Hod Hasharon",
-    "appName": "hodhash",
-    "height": 0
-  },
-  "662": {
-    "cityName": "",
-    "appName": "herzl",
-    "height": 0
-  },
-  "705": {
-    "cityName": "",
-    "appName": "haifa",
-    "height": 0
-  },
-  "734": {
-    "cityName": "Tiberias",
-    "appName": "tvr",
-    "height": 0
-  },
-  "765": {
-    "cityName": "Yehud",
-    "appName": "yehud-mon",
-    "height": 0
-  },
-  "795": {
-    "cityName": "Yokneam Illit",
-    "appName": "yok",
-    "height": 0
-  },
-  "800": {
-    "cityName": "Jerusalem",
-    "appName": "jrs",
-    "height": 1000
-  },
-  "891": {
-    "cityName": "Kfar Saba",
-    "appName": "kfs",
-    "height": 0
-  },
-  "930": {
-    "cityName": "",
-    "appName": "lod",
-    "height": 0
-  },
-  "970": {
-    "cityName": "",
-    "appName": "modiinillit",
-    "height": 0
-  },
-  "1176": {
-    "cityName": "Nazerath",
-    "appName": "naz",
-    "height": 0
-  },
-  "1177": {
-    "cityName": "Nazerat Illit",
-    "appName": "nzrt",
-    "height": 0
-  },
-  "1184": {
-    "cityName": "Netanya",
-    "appName": "net",
-    "height": 0
-  },
-  "1358": {
-    "cityName": "Caesarea",
-    "appName": "caes",
-    "height": 0
-  },
-  "1366": {
-    "cityName": "Kiryat-Ono",
-    "appName": "kono",
-    "height": 0
-  },
-  "1382": {
-    "cityName": "",
-    "appName": "karneishomron",
-    "height": 0
-  },
-  "1417": {
-    "cityName": "",
-    "appName": "ramle",
-    "height": 0
-  },
-  "1419": {
-    "cityName": "Ramat Gan",
-    "appName": "rg",
-    "height": 0
-  },
-  "1470": {
-    "cityName": "",
-    "appName": "sderot",
-    "height": 0
-  },
-  "1527": {
-    "cityName": "",
-    "appName": "tlv",
-    "height": 0
-  },
-  "1533": {
-    "cityName": "",
-    "appName": "telsheva",
-    "height": 0
-  },
-  "2122": {
-    "cityName": "",
-    "appName": "harish",
-    "height": 0
-  },
-  "1373": {
-    "cityName": "",
-    "appName": "kiryatyearim",
-    "height": 700
-  },
-  "286": {
-    "cityName": "",
-    "appName": "abughosh",
-    "height": 700
-  },
-  "690": {
-    "cityName": "",
-    "appName": "holon",
-    "height": 0
-  },
-  "1379": {
-    "cityName": "",
-    "appName": "kiryatekron",
-    "height": 0
-  },
-  "604": {
-    "cityName": "Ganei Tikva",
-    "appName": "GTikva",
-    "height": 0
-  },
-  "1368": {
-    "cityName": "Kiryat Ata",
-    "appName": "kata",
-    "height": 0
-  },
-  "1405": {
-    "cityName": "Rehovot",
-    "appName": "rehovot",
-    "height": 0
-  },
-  "1390": {
-    "cityName": "Rishon Lezion",
-    "appName": "rishonlezion",
-    "height": 0
-  },
-  "1169": {
-    "cityName": "Nes Ziona",
-    "appName": "nesziona",
-    "height": 0
-  },
-  "420": {
-    "cityName": "Be'Er Yaakov",
-    "appName": "beeryaakov",
-    "height": 0
-  },
-  "739": {
-    "cityName": "tira",
-    "appName": "tira",
-    "height": 0
-  },
-  "969": {
-    "cityName": "Modi'in-Maccabim-Reut",
-    "appName": "modiin",
-    "height": 200
-  },
-  "907": {
-    "cityName": "Kfar Shmaryahu",
-    "appName": "KfarShmaryahu",
-    "height": 0
-  },
-  "527": {
-    "cityName": "Jaljulia",
-    "appName": "jaljulia",
-    "height": 0
-  },
-  "898": {
-    "cityName": "Kafr Qasim",
-    "appName": "kfarkassem",
-    "height": 0
-  },
-  "1397": {
-    "cityName": "Rahat",
-    "appName": "rahat",
-    "height": 0
-  },
-  "328": {
-    "cityName": "Or Yehuda",
-    "appName": "oryehuda",
-    "height": 0
-  },
-  "1071": {
-    "cityName": "Masu%27Ot Yitzhak",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1510": {
-    "cityName": "Shafir",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1256": {
-    "cityName": "Ein Tzurim",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1064": {
-    "cityName": "merkaz shapira",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1398": {
-    "cityName": "Revaha",
-    "appName": "shafir",
-    "height": 0
-  },
-  "360": {
-    "cityName": "Aluma",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1355": {
-    "cityName": "Komemiyut",
-    "appName": "shafir",
-    "height": 0
-  },
-  "667": {
-    "cityName": "Zavdiel",
-    "appName": "shafir",
-    "height": 0
-  },
-  "678": {
-    "cityName": "Zrahia",
-    "appName": "shafir",
-    "height": 0
-  },
-  "354": {
-    "cityName": "Eitan",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1211": {
-    "cityName": "Uza",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1492": {
-    "cityName": "Shalva",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1114": {
-    "cityName": "Noam",
-    "appName": "shafir",
-    "height": 0
-  },
-  "957": {
-    "cityName": "Migdal Haemek",
-    "appName": "migdal-haemek",
-    "height": 200
-  },
-  "1266": {
-    "cityName": "Eli",
-    "appName": "eli",
-    "height": 700
-  },
-  "308": {
-    "cityName": "Even Shmuel",
-    "appName": "shafir",
-    "height": 0
-  },
-  "1316": {
-    "cityName": "Petah Tikva",
-    "appName": "petahtikva",
-    "height": 0
-  },
-  "630": {
-    "cityName": "Dimona",
-    "appName": "dimona",
-    "height": 0
-  }
+    "286": {
+        "cityName": "",
+        "appName": "abughosh",
+        "height": 700
+    },
+    "308": {
+        "cityName": "Even Shmuel",
+        "appName": "shafir",
+        "height": 0
+    },
+    "328": {
+        "cityName": "Or Yehuda",
+        "appName": "oryehuda",
+        "height": 0
+    },
+    "329": {
+        "cityName": "Or Akiva",
+        "appName": "orakiva",
+        "height": 0
+    },
+    "337": {
+        "cityName": "",
+        "appName": "azor",
+        "height": 0
+    },
+    "352": {
+        "cityName": "",
+        "appName": "eilat",
+        "height": 0
+    },
+    "354": {
+        "cityName": "Eitan",
+        "appName": "shafir",
+        "height": 0
+    },
+    "360": {
+        "cityName": "Aluma",
+        "appName": "shafir",
+        "height": 0
+    },
+    "405": {
+        "cityName": "",
+        "appName": "ashdod",
+        "height": 0
+    },
+    "412": {
+        "cityName": "",
+        "appName": "ashkelon",
+        "height": 0
+    },
+    "420": {
+        "cityName": "Be'Er Yaakov",
+        "appName": "beeryaakov",
+        "height": 0
+    },
+    "489": {
+        "cityName": "",
+        "appName": "bbrak",
+        "height": 0
+    },
+    "522": {
+        "cityName": "",
+        "appName": "batyam",
+        "height": 0
+    },
+    "527": {
+        "cityName": "Jaljulia",
+        "appName": "jaljulia",
+        "height": 0
+    },
+    "558": {
+        "cityName": "",
+        "appName": "givat-shmuel",
+        "height": 0
+    },
+    "562": {
+        "cityName": "Givataaim",
+        "appName": "gv",
+        "height": 0
+    },
+    "604": {
+        "cityName": "Ganei Tikva",
+        "appName": "GTikva",
+        "height": 0
+    },
+    "630": {
+        "cityName": "Dimona",
+        "appName": "dimona",
+        "height": 0
+    },
+    "643": {
+        "cityName": "Hod Hasharon",
+        "appName": "hodhash",
+        "height": 0
+    },
+    "662": {
+        "cityName": "",
+        "appName": "herzl",
+        "height": 0
+    },
+    "667": {
+        "cityName": "Zavdiel",
+        "appName": "shafir",
+        "height": 0
+    },
+    "678": {
+        "cityName": "Zrahia",
+        "appName": "shafir",
+        "height": 0
+    },
+    "690": {
+        "cityName": "",
+        "appName": "holon",
+        "height": 0
+    },
+    "705": {
+        "cityName": "",
+        "appName": "haifa",
+        "height": 0
+    },
+    "734": {
+        "cityName": "Tiberias",
+        "appName": "tvr",
+        "height": 0
+    },
+    "739": {
+        "cityName": "tira",
+        "appName": "tira",
+        "height": 0
+    },
+    "765": {
+        "cityName": "Yehud",
+        "appName": "yehud-mon",
+        "height": 0
+    },
+    "795": {
+        "cityName": "Yokneam Illit",
+        "appName": "yok",
+        "height": 0
+    },
+    "800": {
+        "cityName": "Jerusalem",
+        "appName": "jrs",
+        "height": 1000
+    },
+    "891": {
+        "cityName": "Kfar Saba",
+        "appName": "kfs",
+        "height": 0
+    },
+    "898": {
+        "cityName": "Kafr Qasim",
+        "appName": "kfarkassem",
+        "height": 0
+    },
+    "907": {
+        "cityName": "Kfar Shmaryahu",
+        "appName": "KfarShmaryahu",
+        "height": 0
+    },
+    "930": {
+        "cityName": "",
+        "appName": "lod",
+        "height": 0
+    },
+    "957": {
+        "cityName": "Migdal Haemek",
+        "appName": "migdal-haemek",
+        "height": 200
+    },
+    "969": {
+        "cityName": "Modi'in-Maccabim-Reut",
+        "appName": "modiin",
+        "height": 200
+    },
+    "970": {
+        "cityName": "",
+        "appName": "modiinillit",
+        "height": 0
+    },
+    "1064": {
+        "cityName": "merkaz shapira",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1071": {
+        "cityName": "Masu%27Ot Yitzhak",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1114": {
+        "cityName": "Noam",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1169": {
+        "cityName": "Nes Ziona",
+        "appName": "nesziona",
+        "height": 0
+    },
+    "1176": {
+        "cityName": "Nazerath",
+        "appName": "naz",
+        "height": 0
+    },
+    "1177": {
+        "cityName": "Nazerat Illit",
+        "appName": "nzrt",
+        "height": 0
+    },
+    "1184": {
+        "cityName": "Netanya",
+        "appName": "net",
+        "height": 0
+    },
+    "1211": {
+        "cityName": "Uza",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1256": {
+        "cityName": "Ein Tzurim",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1266": {
+        "cityName": "Eli",
+        "appName": "eli",
+        "height": 700
+    },
+    "1311": {
+        "cityName": "Pardes Hana-Karkur",
+        "appName": "phk",
+        "height": 0
+    },
+    "1316": {
+        "cityName": "Petah Tikva",
+        "appName": "petahtikva",
+        "height": 0
+    },
+    "1355": {
+        "cityName": "Komemiyut",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1358": {
+        "cityName": "Caesarea",
+        "appName": "caes",
+        "height": 0
+    },
+    "1366": {
+        "cityName": "Kiryat-Ono",
+        "appName": "kono",
+        "height": 0
+    },
+    "1368": {
+        "cityName": "Kiryat Ata",
+        "appName": "kata",
+        "height": 0
+    },
+    "1370": {
+        "cityName": "kiryat gat",
+        "appName": "kiryatgat",
+        "height": 0
+    },
+    "1373": {
+        "cityName": "",
+        "appName": "kiryatyearim",
+        "height": 700
+    },
+    "1379": {
+        "cityName": "",
+        "appName": "kiryatekron",
+        "height": 0
+    },
+    "1382": {
+        "cityName": "",
+        "appName": "karneishomron",
+        "height": 0
+    },
+    "1390": {
+        "cityName": "Rishon Lezion",
+        "appName": "rishonlezion",
+        "height": 0
+    },
+    "1397": {
+        "cityName": "Rahat",
+        "appName": "rahat",
+        "height": 0
+    },
+    "1398": {
+        "cityName": "Revaha",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1405": {
+        "cityName": "Rehovot",
+        "appName": "rehovot",
+        "height": 0
+    },
+    "1417": {
+        "cityName": "",
+        "appName": "ramle",
+        "height": 0
+    },
+    "1419": {
+        "cityName": "Ramat Gan",
+        "appName": "rg",
+        "height": 0
+    },
+    "1470": {
+        "cityName": "",
+        "appName": "sderot",
+        "height": 0
+    },
+    "1492": {
+        "cityName": "Shalva",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1510": {
+        "cityName": "Shafir",
+        "appName": "shafir",
+        "height": 0
+    },
+    "1527": {
+        "cityName": "",
+        "appName": "tlv",
+        "height": 0
+    },
+    "1533": {
+        "cityName": "",
+        "appName": "telsheva",
+        "height": 0
+    },
+    "2122": {
+        "cityName": "",
+        "appName": "harish",
+        "height": 0
+    }
 }
