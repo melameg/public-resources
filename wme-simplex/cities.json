@@ -333,5 +333,10 @@
     "cityName": "Petah Tikva",
     "appName": "petahtikva",
     "height": 0
+  },
+  "630": {
+    "cityName": "Dimona",
+    "appName": "dimona",
+    "height": 0
   }
 }
