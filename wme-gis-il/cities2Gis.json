@@ -3336,7 +3336,8 @@
       "queryParams": "minisite=public"
     },
     "907": {
-      "name": "Kfar Shmaryahu",
+      "displayName": "Kfar Shmaryahu",
+      "name": "Hertzeliya",
       "gis": "v5.gis-net.co.il",
       "queryParams": "minisite=public"
     },
