@@ -675,7 +675,9 @@
         "lat": "31.269749",
         "lon": "34.432177",
         "cameraName": "גבולות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GVULUT/GVULOT.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GVULUT/GVULOT_2.PNG",
+        "height": 720,
+        "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GVULUT.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22544697.225643575.617399",
@@ -893,20 +895,6 @@
         "location": "כביש 4,42",
         "area": "מרכז"
     },
-    "iroads_גנות": {
-        "lat": "32.018721",
-        "lon": "34.821943",
-        "cameraName": "גנות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GANOT/ganot.png",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228199554.619896",
-        "direction": "צפון",
-        "location": "כביש 1,4",
-        "area": "מרכז"
-    },
     "iroads_גניגר": {
         "lat": "32.661037",
         "lon": "35.258312",
@@ -996,6 +984,8 @@
         "lon": "34.882159",
         "cameraName": "דגניה כביש 57",
         "image": "https://iroads.bvtech.co.il:444/upfiles/DGANYAROAD57/DGANIAROAD57.PNG",
+        "height": 576,
+        "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/DGANYAROAD57.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22872387.228592800.625893",
@@ -1571,20 +1561,6 @@
         "direction": "דרום מערב",
         "location": "כביש 38,3855",
         "area": "מרכז"
-    },
-    "iroads_יגור": {
-        "lat": "32.753982",
-        "lon": "35.071381",
-        "cameraName": "יגור",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/YAGUR/YAGUR.png",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YAGUR.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003464.229838027.617418",
-        "direction": "דרום מזרח",
-        "location": "כביש 70,75,752",
-        "area": "צפון"
     },
     "iroads_יגל": {
         "lat": "31.992771",
@@ -2225,7 +2201,7 @@
         "type": "iroads",
         "commentID": "23003466.230100194.1136276",
         "direction": "דרום מזרח",
-        "location": "כביש 4",
+        "location": "כביש 8611",
         "area": "צפון"
     },
     "iroads_מחלף חן קרית ביאליק": {
@@ -2484,7 +2460,9 @@
         "lat": "31.951971",
         "lon": "34.955994",
         "cameraName": "מצפה מודיעין",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MITZPEMODIIN/MIZPEMODIIN.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MITZPEMODIIN/MITZPEMODIIN.PNG",
+        "height": 720,
+        "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MITZPEMODIIN.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22937920.229117051.619937",
@@ -3513,7 +3491,9 @@
         "lat": "31.775314",
         "lon": "35.005594",
         "cameraName": "שמשון",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/SHIMSHON/SHIMSHON.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHIMSHON/SHIMSHON_2.PNG",
+        "height": 432,
+        "width": 768,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHIMSHON.stream/playlist.m3u8",
         "type": "iroads",
         "commentID": "22937918.229444714.625938",
@@ -4117,6 +4097,14 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
+    "iroads_גנות": {
+        "lat": "32.018721",
+        "lon": "34.821943",
+        "direction": "צפון",
+        "cameraName": "גנות",
+        "type": "missing_camera",
+        "commentID": "22806848.228199554.619896"
+    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4268,6 +4256,14 @@
         "cameraName": "אולגה",
         "type": "missing_camera",
         "commentID": "22872388.228658349.597301"
+    },
+    "iroads_יגור": {
+        "lat": "32.753982",
+        "lon": "35.071381",
+        "direction": "דרום מזרח",
+        "cameraName": "יגור",
+        "type": "missing_camera",
+        "commentID": "23003464.229838027.617418"
     },
     "iroads_עמק התימנים": {
         "lat": "31.770246",
