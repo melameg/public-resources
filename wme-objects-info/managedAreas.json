@@ -385,44 +385,6 @@
         "rank": null,
         "userName": "freedivers"
     },
-    "839": {
-        "id": 839,
-        "userID": 54024884,
-        "name": "בית אריה ועופרים",
-        "createdOn": 1396854187800,
-        "startTime": null,
-        "endTime": null,
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-                [
-                    [
-                        35.14982,
-                        32.08912
-                    ],
-                    [
-                        35.15136,
-                        31.97154
-                    ],
-                    [
-                        34.97541,
-                        31.98202
-                    ],
-                    [
-                        35.01416,
-                        32.08447
-                    ],
-                    [
-                        35.14982,
-                        32.08912
-                    ]
-                ]
-            ]
-        },
-        "permissions": 0,
-        "rank": null,
-        "userName": "ab-editor"
-    },
     "844": {
         "id": 844,
         "userID": 54000084,
