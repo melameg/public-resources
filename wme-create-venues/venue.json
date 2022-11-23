@@ -5,8 +5,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "{{lon}}",
-        ",{{lat}}"
+        {{lon}},
+        {{lat}}
       ]
     },
     "categories": [
@@ -19,7 +19,7 @@
     "phone": "{{phone}}",
     "approved": true,
     "permissions": 2147483647,
-    "streetID": "{{streetID}}",
+    "streetID": {{streetID}},
     "houseNumber": "{{houseNumber}}",
     "id": -100
   }
