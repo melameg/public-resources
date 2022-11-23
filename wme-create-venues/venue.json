@@ -12,6 +12,9 @@
     "categories": [
       "{{category}}"
     ],
+    "aliases": [
+      "{{aliases}}"
+    ],
     "residential": false,
     "name": "{{name}}",
     "description": "{{description}}",
