@@ -2040,20 +2040,6 @@
         "location": "כביש 31,40,310",
         "area": "דרום"
     },
-    "iroads_לוד": {
-        "lat": "31.978704",
-        "lon": "34.904737",
-        "cameraName": "לוד",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/LOD/lod.png",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/LOD.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872384.228723838.617433",
-        "direction": "צפון",
-        "location": "כביש 1,40",
-        "area": "מרכז"
-    },
     "iroads_לטרון": {
         "lat": "31.838127",
         "lon": "34.986975",
@@ -2109,6 +2095,20 @@
         "direction": "מערב",
         "location": "כביש 444",
         "area": "מרכז"
+    },
+    "iroads_מגידו": {
+        "lat": "32.572495",
+        "lon": "35.192036",
+        "cameraName": "מגידו",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MEGIDO/MEGIDO_2.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MEGIDO.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23068998.230624441.617438",
+        "direction": "צפון מערב",
+        "location": "כביש 65,66",
+        "area": "צפון"
     },
     "iroads_מודיעין עילית": {
         "lat": "31.936138",
@@ -2291,20 +2291,6 @@
         "direction": "מערב",
         "location": "כביש 1,437",
         "area": "יוש"
-    },
-    "iroads_מיתר": {
-        "lat": "31.307214",
-        "lon": "34.902415",
-        "cameraName": "מיתר",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/METAR/METAR.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/METAR.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872377.228723771.625936",
-        "direction": "צפון מערב",
-        "location": "כביש 60",
-        "area": "דרום"
     },
     "iroads_מכבים רעות": {
         "lat": "31.903270",
@@ -2501,6 +2487,20 @@
         "direction": "צפון מערב",
         "location": "כביש 444,453",
         "area": "מרכז"
+    },
+    "iroads_נהלל": {
+        "lat": "32.700100",
+        "lon": "35.207881",
+        "cameraName": "נהלל",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NAHALAL/NAHALAL_2.PNG",
+        "height": 768,
+        "width": 1365,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NAHALAL.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23068999.230755526.780198",
+        "direction": "צפון מערב",
+        "location": "כביש 73,75,7626",
+        "area": "צפון"
     },
     "iroads_נווה אילן": {
         "lat": "31.800350",
@@ -3435,20 +3435,6 @@
         "location": "כביש 443,446",
         "area": "מרכז"
     },
-    "iroads_שילת מזרח": {
-        "lat": "31.909818",
-        "lon": "35.017314",
-        "cameraName": "שילת מזרח",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/SHILATEAST/SHILATEAST.PNG",
-        "height": 1080,
-        "width": 1920,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/SHILATEAST.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22937919.229510263.1249213",
-        "direction": "צפון מערב",
-        "location": "כביש 443",
-        "area": "מרכז"
-    },
     "iroads_שמרת": {
         "lat": "32.952772",
         "lon": "35.090498",
@@ -3713,6 +3699,20 @@
         "direction": "דרום",
         "location": "כביש 89,854",
         "area": "צפון"
+    },
+    "iroads_תקווה": {
+        "lat": "32.120767",
+        "lon": "34.885712",
+        "cameraName": "תקווה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/TIKVA/TIKVA.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/TIKVA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872385.228658316.780207",
+        "direction": "דרום מערב",
+        "location": "כביש 5",
+        "area": "מרכז"
     },
     "ayalonhw_ההלכה": {
         "lat": "32.089975",
@@ -4059,6 +4059,14 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
+    "iroads_מיתר": {
+        "lat": "31.307214",
+        "lon": "34.902415",
+        "direction": "צפון מערב",
+        "cameraName": "מיתר",
+        "type": "missing_camera",
+        "commentID": "22872377.228723771.625936"
+    },
     "iroads_מאחז כביש 6": {
         "lat": "31.515012",
         "lon": "34.782084",
@@ -4075,6 +4083,14 @@
         "type": "missing_camera",
         "commentID": "22872384.228527235.625930"
     },
+    "iroads_שילת מזרח": {
+        "lat": "31.909818",
+        "lon": "35.017314",
+        "direction": "צפון מערב",
+        "cameraName": "שילת מזרח",
+        "type": "missing_camera",
+        "commentID": "22937919.229510263.1249213"
+    },
     "ayalonhw_גשר התנאים - איילון": {
         "lat": "32.009016",
         "lon": "34.762024",
@@ -4090,6 +4106,14 @@
         "cameraName": "חולות - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227806331.964189"
+    },
+    "iroads_לוד": {
+        "lat": "31.978704",
+        "lon": "34.904737",
+        "direction": "צפון",
+        "cameraName": "לוד",
+        "type": "missing_camera",
+        "commentID": "22872384.228723838.617433"
     },
     "ayalonhw_חולון צפון - איילון": {
         "lat": "32.038607",
@@ -4138,14 +4162,6 @@
         "cameraName": "גלילות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228134030.964177"
-    },
-    "iroads_תקווה": {
-        "lat": "32.120767",
-        "lon": "34.885712",
-        "direction": "דרום מערב",
-        "cameraName": "תקווה",
-        "type": "missing_camera",
-        "commentID": "22872385.228658316.780207"
     },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
@@ -4274,22 +4290,6 @@
         "cameraName": "הסרגל",
         "type": "missing_camera",
         "commentID": "23068998.230952123.619900"
-    },
-    "iroads_מגידו": {
-        "lat": "32.572495",
-        "lon": "35.192036",
-        "direction": "צפון מערב",
-        "cameraName": "מגידו",
-        "type": "missing_camera",
-        "commentID": "23068998.230624441.617438"
-    },
-    "iroads_נהלל": {
-        "lat": "32.700100",
-        "lon": "35.207881",
-        "direction": "צפון מערב",
-        "cameraName": "נהלל",
-        "type": "missing_camera",
-        "commentID": "23068999.230755526.780198"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
