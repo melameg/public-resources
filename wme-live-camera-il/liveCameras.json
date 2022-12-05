@@ -447,20 +447,6 @@
         "location": "כביש 553",
         "area": "מרכז"
     },
-    "iroads_בית ינאי": {
-        "lat": "32.386744",
-        "lon": "34.867424",
-        "cameraName": "בית ינאי",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/BEITYANAY/BEITYANAY.PNG",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BEITYANAY.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872388.228527271.780190",
-        "direction": "דרום",
-        "location": "כביש 2,5720",
-        "area": "מרכז"
-    },
     "iroads_בית ליד": {
         "lat": "32.323661",
         "lon": "34.904105",
@@ -895,20 +881,6 @@
         "location": "כביש 4,42",
         "area": "מרכז"
     },
-    "iroads_גנות": {
-        "lat": "32.018721",
-        "lon": "34.821943",
-        "cameraName": "גנות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GANOT/ganot.png",
-        "height": 1024,
-        "width": 1820,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GANOT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228199554.619896",
-        "direction": "צפון",
-        "location": "כביש 1,4",
-        "area": "מרכז"
-    },
     "iroads_גניגר": {
         "lat": "32.661037",
         "lon": "35.258312",
@@ -936,20 +908,6 @@
         "direction": "דרום",
         "location": "כביש 2,6531",
         "area": "צפון"
-    },
-    "iroads_גשר השלום": {
-        "lat": "32.291632",
-        "lon": "34.860975",
-        "cameraName": "גשר השלום",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GESHERHASHALOM/GESHERHASHALOM_2.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GESHERHASHALOM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872387.228461725.625892",
-        "direction": "דרום",
-        "location": "כביש 2,5611",
-        "area": "מרכז"
     },
     "iroads_גשר צאלים": {
         "lat": "31.215992",
@@ -1020,20 +978,6 @@
         "direction": "צפון מערב.",
         "location": "כביש 25",
         "area": "דרום"
-    },
-    "iroads_הדסים": {
-        "lat": "32.283532",
-        "lon": "34.896992",
-        "cameraName": "הדסים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HADASIM/HADASIM_2.PNG",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HADASIM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872387.228723868.625894",
-        "direction": "דרום מערב",
-        "location": "כביש 4",
-        "area": "מרכז"
     },
     "iroads_הדרים": {
         "lat": "32.235864",
@@ -1117,6 +1061,34 @@
         "location": "כביש 2,541",
         "area": "מרכז"
     },
+    "iroads_הסרגל": {
+        "lat": "32.590837",
+        "lon": "35.239504",
+        "cameraName": "הסרגל",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HASARGEL/HASARGEL.PNG",
+        "height": 768,
+        "width": 1365,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HASARGEL.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23068998.230952123.619900",
+        "direction": "צפון מזרח",
+        "location": "כביש 65,675",
+        "area": "צפון"
+    },
+    "iroads_העוגן": {
+        "lat": "32.356438",
+        "lon": "34.908219",
+        "cameraName": "העוגן",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HAOGEN/haogen.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HAOGEN.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872388.228789412.619901",
+        "direction": "צפון",
+        "location": "כביש 4",
+        "area": "מרכז"
+    },
     "iroads_הקרח": {
         "lat": "31.938168",
         "lon": "34.866162",
@@ -1184,20 +1156,6 @@
         "commentID": "22872386.228396178.619902",
         "direction": "מערב",
         "location": "כביש 531",
-        "area": "מרכז"
-    },
-    "iroads_השבעה": {
-        "lat": "32.009160",
-        "lon": "34.813980",
-        "cameraName": "השבעה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HASHIVA/HASHIVA_2.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HASHIVA.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228134017.619903",
-        "direction": "צפון",
-        "location": "כביש 4,44",
         "area": "מרכז"
     },
     "iroads_השומרים": {
@@ -1676,34 +1634,6 @@
         "location": "כביש 70",
         "area": "צפון"
     },
-    "iroads_ירקון": {
-        "lat": "32.121466",
-        "lon": "34.903359",
-        "cameraName": "ירקון",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/YARKON/YARKON_2.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/YARKON.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872385.228723852.625905",
-        "direction": "צפון",
-        "location": "כביש 5,40",
-        "area": "מרכז"
-    },
-    "iroads_ישי": {
-        "lat": "32.708179",
-        "lon": "35.157026",
-        "cameraName": "ישי",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/YISHAI/YISHAI.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/YISHAI.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068999.230427847.783982",
-        "direction": "דרום מזרח",
-        "location": "כביש 75,77",
-        "area": "צפון"
-    },
     "iroads_כביש 1 קמ 36": {
         "lat": "31.825971",
         "lon": "34.997170",
@@ -2040,6 +1970,20 @@
         "location": "כביש 31,40,310",
         "area": "דרום"
     },
+    "iroads_לוד": {
+        "lat": "31.978704",
+        "lon": "34.904737",
+        "cameraName": "לוד",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/LOD/lod.png",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/LOD.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872384.228723838.617433",
+        "direction": "צפון",
+        "location": "כביש 1,40",
+        "area": "מרכז"
+    },
     "iroads_לטרון": {
         "lat": "31.838127",
         "lon": "34.986975",
@@ -2067,6 +2011,18 @@
         "direction": "דרום מזרח",
         "location": "כביש 446",
         "area": "מרכז"
+    },
+    "iroads_מאחז כביש 6": {
+        "lat": "31.515012",
+        "lon": "34.782084",
+        "cameraName": "מאחז כביש 6",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MAAHAZKVISH6/MAAHAZ.PNG",
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/MAAHAZKVISH6.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806843.227937360.617435",
+        "direction": "דרום",
+        "location": "כביש 6,40",
+        "area": "דרום"
     },
     "iroads_מבוא מודיעים": {
         "lat": "31.937272",
@@ -2292,19 +2248,19 @@
         "location": "כביש 1,437",
         "area": "יוש"
     },
-    "iroads_מכבים רעות": {
-        "lat": "31.903270",
-        "lon": "35.025856",
-        "cameraName": "מכבים רעות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MACABIMREUT/macabimreut.png",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MACABIMREUT.stream/playlist.m3u8",
+    "iroads_מיתר": {
+        "lat": "31.307214",
+        "lon": "34.902415",
+        "cameraName": "מיתר",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/METAR/METAR.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/METAR.stream/playlist.m3u8",
         "type": "iroads",
-        "commentID": "22937919.229575798.619936",
-        "direction": "דרום מזרח",
-        "location": "כביש 443",
-        "area": "מרכז"
+        "commentID": "22872377.228723771.625936",
+        "direction": "צפון מערב",
+        "location": "כביש 60",
+        "area": "דרום"
     },
     "iroads_מל%20ל": {
         "lat": "32.172824",
@@ -2806,20 +2762,6 @@
         "location": "כביש 4",
         "area": "דרום"
     },
-    "iroads_עדנים": {
-        "lat": "32.129253",
-        "lon": "34.902949",
-        "cameraName": "עדנים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/ADANIM/ADANIM.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ADANIM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22872385.228723853.617448",
-        "direction": "מערב",
-        "location": "כביש 40,402",
-        "area": "מרכז"
-    },
     "iroads_עומר": {
         "lat": "31.265693",
         "lon": "34.838718",
@@ -3002,6 +2944,18 @@
         "location": "כביש 85",
         "area": "צפון"
     },
+    "iroads_פולג": {
+        "lat": "32.273376",
+        "lon": "34.854837",
+        "cameraName": "פולג",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/POLEG/POLEG_NEW.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/POLEG.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872387.228396187.1130375",
+        "direction": "דרום מערב",
+        "location": "כביש 2,553",
+        "area": "מרכז"
+    },
     "iroads_פוראדיס": {
         "lat": "32.591907",
         "lon": "34.947080",
@@ -3099,20 +3053,6 @@
         "direction": "דרום מזרח",
         "location": "כביש 90,92,98",
         "area": "צפון"
-    },
-    "iroads_צריפין": {
-        "lat": "31.970161",
-        "lon": "34.843191",
-        "cameraName": "צריפין",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/TZRIFIN/tzrifin.PNG",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/TZRIFIN.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "22806848.228330621.617458",
-        "direction": "דרום מזרח",
-        "location": "כביש 44",
-        "area": "מרכז"
     },
     "iroads_קדרים": {
         "lat": "32.908872",
@@ -3630,20 +3570,6 @@
         "location": "כביש 40,4103",
         "area": "מרכז"
     },
-    "iroads_תל עדשים": {
-        "lat": "32.654397",
-        "lon": "35.292408",
-        "cameraName": "תל עדשים",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/TELADASHIM/TELADASHIM_2.PNG",
-        "height": 576,
-        "width": 768,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/TELADASHIM.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23134535.231279809.783993",
-        "direction": "צפון",
-        "location": "כביש 60",
-        "area": "צפון"
-    },
     "iroads_תל ערד": {
         "lat": "31.253928",
         "lon": "35.124031",
@@ -4059,21 +3985,13 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_מיתר": {
-        "lat": "31.307214",
-        "lon": "34.902415",
-        "direction": "צפון מערב",
-        "cameraName": "מיתר",
+    "iroads_גנות": {
+        "lat": "32.018721",
+        "lon": "34.821943",
+        "direction": "צפון",
+        "cameraName": "גנות",
         "type": "missing_camera",
-        "commentID": "22872377.228723771.625936"
-    },
-    "iroads_מאחז כביש 6": {
-        "lat": "31.515012",
-        "lon": "34.782084",
-        "direction": "דרום",
-        "cameraName": "מאחז כביש 6",
-        "type": "missing_camera",
-        "commentID": "22806843.227937360.617435"
+        "commentID": "22806848.228199554.619896"
     },
     "iroads_סביון": {
         "lat": "32.032903",
@@ -4107,14 +4025,6 @@
         "type": "missing_camera",
         "commentID": "22806848.227806331.964189"
     },
-    "iroads_לוד": {
-        "lat": "31.978704",
-        "lon": "34.904737",
-        "direction": "צפון",
-        "cameraName": "לוד",
-        "type": "missing_camera",
-        "commentID": "22872384.228723838.617433"
-    },
     "ayalonhw_חולון צפון - איילון": {
         "lat": "32.038607",
         "lon": "34.779213",
@@ -4130,6 +4040,30 @@
         "cameraName": "נתב%20ג",
         "type": "missing_camera",
         "commentID": "22872384.228658303.641480"
+    },
+    "iroads_השבעה": {
+        "lat": "32.009160",
+        "lon": "34.813980",
+        "direction": "צפון",
+        "cameraName": "השבעה",
+        "type": "missing_camera",
+        "commentID": "22806848.228134017.619903"
+    },
+    "iroads_מכבים רעות": {
+        "lat": "31.903270",
+        "lon": "35.025856",
+        "direction": "דרום מזרח",
+        "cameraName": "מכבים רעות",
+        "type": "missing_camera",
+        "commentID": "22937919.229575798.619936"
+    },
+    "iroads_צריפין": {
+        "lat": "31.970161",
+        "lon": "34.843191",
+        "direction": "דרום מזרח",
+        "cameraName": "צריפין",
+        "type": "missing_camera",
+        "commentID": "22806848.228330621.617458"
     },
     "iroads_אל-על": {
         "lat": "31.989628",
@@ -4187,6 +4121,14 @@
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
     },
+    "iroads_ירקון": {
+        "lat": "32.121466",
+        "lon": "34.903359",
+        "direction": "צפון",
+        "cameraName": "ירקון",
+        "type": "missing_camera",
+        "commentID": "22872385.228723852.625905"
+    },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
         "lon": "34.783341",
@@ -4194,6 +4136,14 @@
         "cameraName": "הולץ - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
+    },
+    "iroads_עדנים": {
+        "lat": "32.129253",
+        "lon": "34.902949",
+        "direction": "מערב",
+        "cameraName": "עדנים",
+        "type": "missing_camera",
+        "commentID": "22872385.228723853.617448"
     },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
@@ -4235,21 +4185,29 @@
         "type": "missing_camera",
         "commentID": "22872389.228723886.619950"
     },
-    "iroads_העוגן": {
-        "lat": "32.356438",
-        "lon": "34.908219",
-        "direction": "צפון",
-        "cameraName": "העוגן",
+    "iroads_בית ינאי": {
+        "lat": "32.386744",
+        "lon": "34.867424",
+        "direction": "דרום",
+        "cameraName": "בית ינאי",
         "type": "missing_camera",
-        "commentID": "22872388.228789412.619901"
+        "commentID": "22872388.228527271.780190"
     },
-    "iroads_פולג": {
-        "lat": "32.273376",
-        "lon": "34.854837",
-        "direction": "דרום מערב",
-        "cameraName": "פולג",
+    "iroads_גשר השלום": {
+        "lat": "32.291632",
+        "lon": "34.860975",
+        "direction": "דרום",
+        "cameraName": "גשר השלום",
         "type": "missing_camera",
-        "commentID": "22872387.228396187.1130375"
+        "commentID": "22872387.228461725.625892"
+    },
+    "iroads_הדסים": {
+        "lat": "32.283532",
+        "lon": "34.896992",
+        "direction": "דרום מערב",
+        "cameraName": "הדסים",
+        "type": "missing_camera",
+        "commentID": "22872387.228723868.625894"
     },
     "iroads_אולגה": {
         "lat": "32.446787",
@@ -4283,13 +4241,21 @@
         "type": "missing_camera",
         "commentID": "23068989.230624356.617402"
     },
-    "iroads_הסרגל": {
-        "lat": "32.590837",
-        "lon": "35.239504",
-        "direction": "צפון מזרח",
-        "cameraName": "הסרגל",
+    "iroads_תל עדשים": {
+        "lat": "32.654397",
+        "lon": "35.292408",
+        "direction": "צפון",
+        "cameraName": "תל עדשים",
         "type": "missing_camera",
-        "commentID": "23068998.230952123.619900"
+        "commentID": "23134535.231279809.783993"
+    },
+    "iroads_ישי": {
+        "lat": "32.708179",
+        "lon": "35.157026",
+        "direction": "דרום מזרח",
+        "cameraName": "ישי",
+        "type": "missing_camera",
+        "commentID": "23068999.230427847.783982"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
