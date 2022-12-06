@@ -2472,6 +2472,20 @@
         "location": "כביש 425,4115",
         "area": "מרכז"
     },
+    "iroads_נווה ימין": {
+        "lat": "32.171689",
+        "lon": "34.957596",
+        "cameraName": "נווה ימין",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NEVEYAMIN/NEVEYAMIN.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NEVEYAMIN.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937922.229117073.1274577",
+        "direction": "צפון",
+        "location": "כביש 444,5443",
+        "area": "מרכז"
+    },
     "iroads_נוף הגליל קרית הממשלה": {
         "lat": "32.701494",
         "lon": "35.311140",
