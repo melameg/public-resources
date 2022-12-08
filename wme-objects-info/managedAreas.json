@@ -667,44 +667,6 @@
         "rank": null,
         "userName": "jkl5"
     },
-    "1130": {
-        "id": 1130,
-        "userID": 343193444,
-        "name": "rahat",
-        "createdOn": 1513770909896,
-        "startTime": null,
-        "endTime": null,
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-                [
-                    [
-                        34.69602,
-                        31.42538
-                    ],
-                    [
-                        34.83232,
-                        31.42743
-                    ],
-                    [
-                        34.83644,
-                        31.35753
-                    ],
-                    [
-                        34.70357,
-                        31.35504
-                    ],
-                    [
-                        34.69602,
-                        31.42538
-                    ]
-                ]
-            ]
-        },
-        "permissions": 0,
-        "rank": null,
-        "userName": "jkl5"
-    },
     "1131": {
         "id": 1131,
         "userID": 54142912,
