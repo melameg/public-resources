@@ -3322,8 +3322,8 @@
         "location": "כביש 436"
     },
     "iroads_רמת בית שמש": {
-        "lat": "31.722004",
-        "lon": "34.965008",
+        "lat": "31.721828",
+        "lon": "34.965016",
         "cameraName": "רמת בית שמש",
         "image": "https://iroads.bvtech.co.il:444/upfiles/RAMATBEITSHEMESH/RAMATBEITSHEMESH.PNG",
         "height": 720,
@@ -4119,6 +4119,14 @@
         "type": "missing_camera",
         "commentID": "22806849.228134029.964279"
     },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
         "lon": "34.813606",
@@ -4135,6 +4143,22 @@
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
     },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
+    },
+    "iroads_ירקון": {
+        "lat": "32.121466",
+        "lon": "34.903359",
+        "direction": "צפון",
+        "cameraName": "ירקון",
+        "type": "missing_camera",
+        "commentID": "22872385.228723852.625905"
+    },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
         "lon": "34.783341",
@@ -4142,6 +4166,14 @@
         "cameraName": "הולץ - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
+    },
+    "iroads_עדנים": {
+        "lat": "32.129253",
+        "lon": "34.902949",
+        "direction": "מערב",
+        "cameraName": "עדנים",
+        "type": "missing_camera",
+        "commentID": "22872385.228723853.617448"
     },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
@@ -4182,38 +4214,6 @@
         "cameraName": "חורשים",
         "type": "missing_camera",
         "commentID": "22872385.229051535.617414"
-    },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
-    },
-    "iroads_ירקון": {
-        "lat": "32.121466",
-        "lon": "34.903359",
-        "direction": "צפון",
-        "cameraName": "ירקון",
-        "type": "missing_camera",
-        "commentID": "22872385.228723852.625905"
-    },
-    "iroads_עדנים": {
-        "lat": "32.129253",
-        "lon": "34.902949",
-        "direction": "מערב",
-        "cameraName": "עדנים",
-        "type": "missing_camera",
-        "commentID": "22872385.228723853.617448"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
