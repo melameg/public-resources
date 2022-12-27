@@ -1844,6 +1844,20 @@
         "location": "כביש 73,7255",
         "area": "צפון"
     },
+    "iroads_כפר גבירול": {
+        "lat": "31.889050",
+        "lon": "34.776039",
+        "cameraName": "כפר גבירול",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GVIROL/GVIROL.PNG",
+        "height": 576,
+        "width": 1024,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GVIROL.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806847.227937397.1279478",
+        "direction": "דרום מזרח",
+        "location": "כביש 410,411,4122",
+        "area": "מרכז"
+    },
     "iroads_כפר הנשיא": {
         "lat": "32.968820",
         "lon": "35.551958",
