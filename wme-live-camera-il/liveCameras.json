@@ -4359,14 +4359,6 @@
         "type": "missing_camera",
         "commentID": "22872388.228658349.597301"
     },
-    "iroads_עמק התימנים": {
-        "lat": "31.770246",
-        "lon": "35.158911",
-        "direction": "לא ידוע",
-        "cameraName": "עמק התימנים",
-        "type": "missing_camera",
-        "commentID": "23068990.230427753.783989"
-    },
     "iroads_גילה מנהרה ארוכה": {
         "lat": "31.712820",
         "lon": "35.172751",
@@ -4382,6 +4374,14 @@
         "cameraName": "גילה מנהרה קצרה",
         "type": "missing_camera",
         "commentID": "23068989.230624356.617402"
+    },
+    "iroads_עמק התימנים": {
+        "lat": "31.770246",
+        "lon": "35.158911",
+        "direction": "לא ידוע",
+        "cameraName": "עמק התימנים",
+        "type": "missing_camera",
+        "commentID": "23068990.230427753.783989"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
