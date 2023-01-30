@@ -2278,20 +2278,6 @@
         "location": "כביש 4",
         "area": "צפון"
     },
-    "iroads_מחלף חן קרית ביאליק": {
-        "lat": "32.860063",
-        "lon": "35.104370",
-        "cameraName": "מחלף חן קרית ביאליק",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HENBIALIK22/HENBIALIK22.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/HENBIALIK22.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003465.230034646.1062874",
-        "direction": "מערב",
-        "location": "כביש 22,79",
-        "area": "צפון"
-    },
     "iroads_מחנה עופר": {
         "lat": "31.871085",
         "lon": "35.177774",
@@ -4382,6 +4368,14 @@
         "cameraName": "גילה מנהרה קצרה",
         "type": "missing_camera",
         "commentID": "23068989.230624356.617402"
+    },
+    "iroads_מחלף חן קרית ביאליק": {
+        "lat": "32.860063",
+        "lon": "35.104370",
+        "direction": "מערב",
+        "cameraName": "מחלף חן קרית ביאליק",
+        "type": "missing_camera",
+        "commentID": "23003465.230034646.1062874"
     },
     "iroads_קרית אתא צפון": {
         "lat": "32.815234",
