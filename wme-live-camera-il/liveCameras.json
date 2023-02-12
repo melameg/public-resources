@@ -4271,6 +4271,14 @@
         "type": "missing_camera",
         "commentID": "22806849.228134029.964279"
     },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
         "lon": "34.813606",
@@ -4286,6 +4294,14 @@
         "cameraName": "קיבוץ גלויות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
     },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
@@ -4326,22 +4342,6 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
-    },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
