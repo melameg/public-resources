@@ -419,20 +419,6 @@
         "location": "כביש 1,90",
         "area": "יוש"
     },
-    "iroads_בית חורון": {
-        "lat": "31.872859",
-        "lon": "35.132803",
-        "cameraName": "בית חורון",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/BEITHORON/beithoron.png",
-        "height": 576,
-        "width": 1024,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BEITHORON.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23003455.230231155.625876",
-        "direction": "דרום מזרח",
-        "location": "כביש 443",
-        "area": "יוש"
-    },
     "iroads_בית חנן": {
         "lat": "31.936624",
         "lon": "34.778883",
@@ -698,20 +684,6 @@
         "direction": "דרום מערב",
         "location": "כביש 222,232",
         "area": "דרום"
-    },
-    "iroads_גבעת זאב": {
-        "lat": "31.863190",
-        "lon": "35.172926",
-        "cameraName": "גבעת זאב",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/GIVATZEEV/GIVATZEEV.PNG",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/GIVATZEEV.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068991.230493298.933595",
-        "direction": "דרום",
-        "location": "כביש 436",
-        "area": "יוש"
     },
     "iroads_גבעת שמואל": {
         "lat": "32.076335",
@@ -2265,20 +2237,6 @@
         "location": "כביש 22,79",
         "area": "צפון"
     },
-    "iroads_מחנה עופר": {
-        "lat": "31.871085",
-        "lon": "35.177774",
-        "cameraName": "מחנה עופר",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MAHANEOFER/MAHANEOFER.png",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAHANEOFER.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068991.230558835.617440",
-        "direction": "דרום",
-        "location": "כביש 45,436,443",
-        "area": "יוש"
-    },
     "iroads_מחנה עמוס": {
         "lat": "32.598786",
         "lon": "35.260298",
@@ -2935,20 +2893,6 @@
         "location": "כביש 40",
         "area": "מרכז"
     },
-    "iroads_עטרות": {
-        "lat": "31.857576",
-        "lon": "35.209052",
-        "cameraName": "עטרות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/ATAROT/atarot.png",
-        "height": 768,
-        "width": 1365,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/ATAROT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068991.230755442.617450",
-        "direction": "מערב",
-        "location": "כביש 45,50",
-        "area": "יוש"
-    },
     "iroads_עין המפרץ": {
         "lat": "32.904067",
         "lon": "35.089915",
@@ -3424,19 +3368,6 @@
         "direction": "דרום",
         "location": "כביש 40,4623",
         "area": "מרכז"
-    },
-    "iroads_רמות": {
-        "lat": "31.830002",
-        "lon": "35.187654",
-        "cameraName": "רמות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/RAMOT/RAMOT_2.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/RAMOT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "23068990.230624367.783991",
-        "direction": "דרום",
-        "location": "כביש 436"
     },
     "iroads_רמת בית שמש": {
         "lat": "31.721828",
