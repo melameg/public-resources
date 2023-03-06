@@ -647,7 +647,7 @@
         "lat": "31.665924",
         "lon": "34.606873",
         "cameraName": "ברכיה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/BRACHYA/BRACHYA.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BRACHYA/BRACHYA_2.PNG",
         "height": 576,
         "width": 1024,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BRACHYA.stream/playlist.m3u8",
@@ -1137,7 +1137,7 @@
         "lat": "32.356438",
         "lon": "34.908219",
         "cameraName": "העוגן",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/HAOGEN/haogen.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HAOGEN/HAOGEN_2.PNG",
         "height": 576,
         "width": 1024,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/HAOGEN.stream/playlist.m3u8",
@@ -2200,7 +2200,7 @@
         "lat": "32.125168",
         "lon": "34.857614",
         "cameraName": "מורשה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/MORASHA/MORASHA_2.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/MORASHA/MORASHA_3.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MORASHA.stream/playlist.m3u8",
@@ -3205,7 +3205,7 @@
         "lat": "31.652511",
         "lon": "34.764374",
         "cameraName": "קוממיות",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/KOMEMIUT/KOMEMIUT.PNG",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/KOMEMIUT/KOMEMYUT.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/KOMEMIUT.stream/playlist.m3u8",
@@ -4226,6 +4226,14 @@
         "type": "missing_camera",
         "commentID": "22806850.228199570.619924"
     },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
     "iroads_הסירה": {
         "lat": "32.160967",
         "lon": "34.811365",
@@ -4249,6 +4257,14 @@
         "cameraName": "קיבוץ גלויות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
     },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
@@ -4289,22 +4305,6 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
-    },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
