@@ -6,5 +6,69 @@
     "streetName": "עלי הכהן",
     "fwd": false,
     "rev": true
+  },
+  {
+    "permalink": "&lon=34.82362&lat=32.09014&segments=122386",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "עלי הכהן",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82412&lat=32.09025&segments=64742",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "עלי הכהן",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82356&lat=32.08675&segments=58326",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "טבריה",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82732&lat=32.08202&segments=116780",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "הרב אהרונסון",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82725&lat=32.08255&segments=65973",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "הרב אהרונסון",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82951&lat=32.07732&segments=1675955",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "א.ד. גורדון",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.82975&lat=32.07559&segments=101960",
+    "likeCity": "TelAviv",
+    "cityName": "רמת גן",
+    "streetName": "אליהו גולומב",
+    "fwd": false,
+    "rev": true
+  },
+  {
+    "permalink": "&lon=34.83090&lat=32.07582&segments=1675956",
+    "likeCity": "TelAviv",
+    "cityName": "רמת גן",
+    "streetName": "אליהו גולומב",
+    "fwd": false,
+    "rev": true
   }
-]  
+]
