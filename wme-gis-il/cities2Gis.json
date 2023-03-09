@@ -290,7 +290,9 @@
       "displayName": "Tzukim"
     },
     "1311": {
-      "gis": "https://mg1.gis-net.co.il/PardesHanaKarkurGis/#/",
+      "name": "PardesHanaKarkurGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Pardes Hanna-Karkur"
     },
     "1371": {
@@ -5676,6 +5678,10 @@
     "gis.__prefix__.org.il": {
       "url": "https://gis.__prefix__.org.il/",
       "functionName": "gisOrgIlPrefix"
+    },
+    "__prefix__.gis-net.co.il": {
+      "url": "https://__prefix__.gis-net.co.il/",
+      "functionName": "gisCoIlPrefix"
     },
     "orhitec.erpgis.co.il": {
       "url": "https://orhitec.erpgis.co.il/",
