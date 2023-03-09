@@ -1710,182 +1710,182 @@
     },
     "347": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Eyal"
     },
     "375": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Elishama"
     },
     "546": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis5.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Givat HaShlosha"
     },
     "548": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis5.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Givat Hen"
     },
     "591": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis5.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Gan Haim"
     },
     "603": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Ganei Am"
     },
     "613": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Gat Rimon"
     },
     "682": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Hagor"
     },
     "700": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Horshim"
     },
     "801": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Yarhiv"
     },
     "803": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Yarkona"
     },
     "882": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Kfar Malal"
     },
     "893": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Kfar Sirkin"
     },
     "965": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Magshimim"
     },
     "1047": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Kfar Ma'as"
     },
     "1082": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Matan"
     },
     "1109": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Neve Yamin"
     },
     "1110": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Neve Yarak"
     },
     "1138": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Nahshonim"
     },
     "1150": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Nir Eliyahu"
     },
     "1165": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Nirit"
     },
     "1210": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Adanim"
     },
     "1262": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Einat"
     },
     "1325": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Tzofit"
     },
     "1599": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Tzur Yitzhak"
     },
     "1331": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Tzur Natan"
     },
     "1413": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Ramot HaShavim"
     },
     "1421": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Ramat HaKovesh"
     },
     "1452": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Sde Warburg"
     },
     "1453": {
       "name": "DhasharonGis",
-      "suffix": "#",
-      "gis": "gis05.taldor.co.il",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Sdei Hemed"
     },
     "687": {
