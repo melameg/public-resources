@@ -713,6 +713,20 @@
         "location": "כביש 436",
         "area": "יוש"
     },
+    "iroads_גבעת חן כביש 4": {
+        "lat": "32.165421",
+        "lon": "34.879611",
+        "cameraName": "גבעת חן כביש 4",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GIVATHENROAD4/GIVATHENROAD4.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GIVATHENROAD4.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22872386.228592785.1294797",
+        "direction": "דרום מערב",
+        "location": "כביש 4",
+        "area": "מרכז"
+    },
     "iroads_גבעת שמואל": {
         "lat": "32.076335",
         "lon": "34.844299",
@@ -4257,14 +4271,6 @@
         "cameraName": "הולץ - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
-    },
-    "iroads_גבעת חן": {
-        "lat": "32.165421",
-        "lon": "34.879611",
-        "direction": "דרום מערב",
-        "cameraName": "גבעת חן",
-        "type": "missing_camera",
-        "commentID": "22872386.228592785.1294797"
     },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
