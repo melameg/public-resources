@@ -2225,16 +2225,28 @@
         "area": "מרכז"
     },
     "iroads_מזכרת בתיה": {
-        "lat": "31.850792",
-        "lon": "34.832969",
+        "lat": "32.084313",
+        "lon": "34.950142",
         "cameraName": "מזכרת בתיה",
         "image": "https://iroads.bvtech.co.il:444/upfiles/MAZKRETBATYA/MAZKERETBATYA.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAZKRETBATYA.stream/playlist.m3u8",
         "type": "iroads",
-        "commentID": "22806847.228265073.1130180",
+        "commentID": "22937921.229051528.1303581",
         "direction": "דרום מזרח",
+        "location": "כביש 411",
+        "area": "מרכז"
+    },
+    "iroads_מזכרת בתיה מזרח": {
+        "lat": "31.840436",
+        "lon": "34.847086",
+        "cameraName": "מזכרת בתיה מזרח",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/preroll.jpg",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAZKERETBATYAEAST.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806846.228396144.1303781",
+        "direction": "מזרח",
         "location": "כביש 411",
         "area": "מרכז"
     },
