@@ -2225,15 +2225,15 @@
         "area": "מרכז"
     },
     "iroads_מזכרת בתיה": {
-        "lat": "32.084313",
-        "lon": "34.950142",
+        "lat": "31.850792",
+        "lon": "34.832969",
         "cameraName": "מזכרת בתיה",
         "image": "https://iroads.bvtech.co.il:444/upfiles/MAZKRETBATYA/MAZKERETBATYA.PNG",
         "height": 720,
         "width": 1280,
         "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/MAZKRETBATYA.stream/playlist.m3u8",
         "type": "iroads",
-        "commentID": "22937921.229051528.1303581",
+        "commentID": "22806847.228265073.1130180",
         "direction": "דרום מזרח",
         "location": "כביש 411",
         "area": "מרכז"
@@ -3338,6 +3338,18 @@
         "direction": "דרום מערב",
         "location": "כביש 3,40",
         "area": "דרום"
+    },
+    "iroads_ראש העין דרום": {
+        "lat": "32.084313",
+        "lon": "34.950142",
+        "cameraName": "ראש העין דרום",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/ROSHHAAINSOUTH/ROSHHAYINSOUTH.PNG",
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/ROSHHAAINSOUTH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937921.229051528.1303581",
+        "direction": "דרום מזרח",
+        "location": "כביש 444",
+        "area": "מרכז"
     },
     "iroads_ראש העין מזרח": {
         "lat": "32.110895",
