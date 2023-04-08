@@ -2610,6 +2610,24 @@
     "streetName": "ללא רחוב"
   },
   {
+    "permalink": "&lon=34.66375&lat=31.79436&segments=1844369",
+    "likeCity": "TelAviv",
+    "cityName": "אשדוד",
+    "streetName": "רבי שמעון בן שטח"
+  },
+  {
+    "permalink": "&lon=34.66492&lat=31.79311&segments=1844372",
+    "likeCity": "TelAviv",
+    "cityName": "אשדוד",
+    "streetName": "רבי שמעון בן שטח"
+  },
+  {
+    "permalink": "&lon=34.66695&lat=31.79281&segments=1844378",
+    "likeCity": "TelAviv",
+    "cityName": "אשדוד",
+    "streetName": "רבי שמעון בן שטח"
+  },
+  {
     "permalink": "&lon=34.66400&lat=31.78777&segments=1609087",
     "likeCity": "TelAviv",
     "cityName": "אשדוד",
