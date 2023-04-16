@@ -990,7 +990,7 @@
     "streetName": "שח&#34;ל"
   },
   {
-    "permalink": "&lon=35.21345&lat=31.79944&segments=844353",
+    "permalink": "&lon=35.21345&lat=31.79944&segments=2098777",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "שפע חיים"
@@ -1020,7 +1020,13 @@
     "streetName": "שפע חיים"
   },
   {
-    "permalink": "&lon=35.21317&lat=31.79873&segments=416678",
+    "permalink": "&lon=35.21317&lat=31.79873&segments=2098795",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "שפע חיים"
+  },
+  {
+    "permalink": "&lon=35.21317&lat=31.79873&segments=2098780",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "שפע חיים"
