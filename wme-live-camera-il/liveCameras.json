@@ -4130,6 +4130,30 @@
         "direction": "צפון %28לא קבוע%29",
         "area": "ראשון לציון"
     },
+    "url_צומת הרצל זבוטינסקי": {
+        "lat": "31.959013",
+        "lon": "34.802205",
+        "cameraName": "צומת הרצל זבוטינסקי",
+        "type": "url",
+        "commentID": "22806848.228068476.1315886",
+        "cameraUrl": "https://stream.cawamo.com/rl/#"
+    },
+    "url_ציר זבוטינסקי צפון": {
+        "lat": "31.972888",
+        "lon": "34.797670",
+        "cameraName": "ציר זבוטינסקי צפון",
+        "type": "url",
+        "commentID": "22806848.228068477.1315782",
+        "cameraUrl": "https://stream.cawamo.com/rl/#"
+    },
+    "url_ציר מכבים צפון": {
+        "lat": "31.980496",
+        "lon": "34.809124",
+        "cameraName": "ציר מכבים צפון",
+        "type": "url",
+        "commentID": "22806848.228134014.1315781",
+        "cameraUrl": "https://stream.cawamo.com/rl/#"
+    },
     "url_מצלמת חוף תל אביב": {
         "lat": "32.086806",
         "lon": "34.769131",
