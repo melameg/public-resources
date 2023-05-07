@@ -3975,8 +3975,8 @@
         "area": "תל אביב"
     },
     "ayalonhw_השלום": {
-        "lat": "32.073030",
-        "lon": "34.793880",
+        "lat": "32.073088",
+        "lon": "34.793767",
         "cameraName": "השלום",
         "image": "https://www.ayalonhw.co.il/wp-content/uploads/2020/04/32_-_השלום_2020-05-19_11-11-44.662.png",
         "height": 576,
@@ -4306,14 +4306,6 @@
         "type": "missing_camera",
         "commentID": "22806850.228199570.619924"
     },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
     "iroads_הסירה": {
         "lat": "32.160967",
         "lon": "34.811365",
@@ -4337,14 +4329,6 @@
         "cameraName": "קיבוץ גלויות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
     },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
@@ -4385,6 +4369,22 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
+    },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
