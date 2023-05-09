@@ -1454,6 +1454,20 @@
         "location": "כביש 531",
         "area": "מרכז"
     },
+    "iroads_חנניה": {
+        "lat": "32.927664",
+        "lon": "35.404346",
+        "cameraName": "חנניה",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/HANANIA/HANANIA.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/HANANIA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "23200073.232000733.1321783",
+        "direction": "מזרח",
+        "location": "כביש 85,866",
+        "area": "צפון"
+    },
     "iroads_חפץ חיים": {
         "lat": "31.796430",
         "lon": "34.765491",
