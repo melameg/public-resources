@@ -1832,6 +1832,20 @@
         "location": "כביש 395,3965",
         "area": "מרכז"
     },
+    "iroads_כלניות": {
+        "lat": "32.444229",
+        "lon": "35.021641",
+        "cameraName": "כלניות",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/CALANIOT/CALANIOT.PNG",
+        "height": 720,
+        "width": 1280,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/CALANIOT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22937924.229510316.1322182",
+        "direction": "דרום-מזרח",
+        "location": "כביש 574,581",
+        "area": "צפון"
+    },
     "iroads_כניסה לגן הדרום": {
         "lat": "31.817807",
         "lon": "34.701979",
