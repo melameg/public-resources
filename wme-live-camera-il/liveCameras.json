@@ -769,6 +769,20 @@
         "location": "כביש 40,7",
         "area": "מרכז"
     },
+    "iroads_גדרה הבילויים": {
+        "lat": "31.814173",
+        "lon": "34.770407",
+        "cameraName": "גדרה הבילויים",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/GEDERAHABILUIM/GEDERAHABILUIM.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/GEDERAHABILUIM.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806846.227871853.1327379",
+        "direction": "דרום מערב",
+        "location": "כביש 40,4107",
+        "area": "מרכז"
+    },
     "iroads_גהה": {
         "lat": "32.091179",
         "lon": "34.845564",
@@ -4334,6 +4348,14 @@
         "type": "missing_camera",
         "commentID": "22806850.228199570.619924"
     },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
     "iroads_הסירה": {
         "lat": "32.160967",
         "lon": "34.811365",
@@ -4357,6 +4379,14 @@
         "cameraName": "קיבוץ גלויות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
     },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
@@ -4397,22 +4427,6 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
-    },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
