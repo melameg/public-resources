@@ -3903,7 +3903,7 @@
         "lat": "32.037305",
         "lon": "34.760420",
         "cameraName": "וולפסון",
-        "image": "https://www.ayalonhw.co.il//media/mqkgb2g3/30147661_icons_l.jpg",
+        "image": "https://www.ayalonhw.co.il//media/wpjb5t03/מחלף-וולפסון.jpg",
         "height": 576,
         "width": 720,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Interchange.stream/playlist.m3u8",
@@ -3912,11 +3912,22 @@
         "direction": "צפון מזרח",
         "area": "איילון"
     },
+    "ayalonhw_מוזס דרום": {
+        "lat": "32.074548",
+        "lon": "34.793614",
+        "cameraName": "מוזס דרום",
+        "image": "https://www.ayalonhw.co.il//media/skxdtigp/גשר-מוזס.jpg",
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Moses-Bridge.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806849.228002951.1175490",
+        "direction": "דרום מערב",
+        "area": "איילון"
+    },
     "ayalonhw_ההלכה": {
         "lat": "32.089975",
         "lon": "34.799959",
         "cameraName": "ההלכה",
-        "image": "https://www.ayalonhw.co.il//media/zkgdstss/30147661_icons_l.jpg",
+        "image": "https://www.ayalonhw.co.il//media/nfxbjqch/ההלכה.jpg",
         "height": 576,
         "width": 720,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/HaHalacha.stream/playlist.m3u8",
@@ -4388,14 +4399,6 @@
         "cameraName": "גלילות - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228134030.964177"
-    },
-    "ayalonhw_מוזס דרום - איילון": {
-        "lat": "32.074548",
-        "lon": "34.793614",
-        "direction": "דרום מערב",
-        "cameraName": "מוזס דרום - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228002951.1175490"
     },
     "iroads_סירקין": {
         "lat": "32.082417",
