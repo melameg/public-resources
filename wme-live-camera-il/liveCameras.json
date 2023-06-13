@@ -3900,29 +3900,16 @@
         "area": "מרכז"
     },
     "ayalonhw_וולפסון": {
-        "lat": "32.028992",
-        "lon": "34.760246",
+        "lat": "32.037305",
+        "lon": "34.760420",
         "cameraName": "וולפסון",
         "image": "https://www.ayalonhw.co.il//media/mqkgb2g3/30147661_icons_l.jpg",
         "height": 576,
         "width": 720,
         "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Interchange.stream/playlist.m3u8",
         "type": "ayalonhw",
-        "commentID": "22806848.227806339.964299",
-        "direction": "צפון %28לא קבוע%29",
-        "area": "איילון"
-    },
-    "ayalonhw_גשר מוזס": {
-        "lat": "32.074548",
-        "lon": "34.793614",
-        "cameraName": "גשר מוזס",
-        "image": "https://www.ayalonhw.co.il//media/sdmfs5pl/30147661_icons_l.jpg",
-        "height": 576,
-        "width": 720,
-        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Moses-Bridge.stream/playlist.m3u8",
-        "type": "ayalonhw",
-        "commentID": "22806849.228002951.1175490",
-        "direction": "דרום מערב",
+        "commentID": "22806848.227806340.1176783",
+        "direction": "צפון מזרח",
         "area": "איילון"
     },
     "ayalonhw_ההלכה": {
@@ -4016,6 +4003,19 @@
         "direction": "צפון",
         "area": "איילון"
     },
+    "ayalonhw_מוזס צפון": {
+        "lat": "32.078540",
+        "lon": "34.796409",
+        "cameraName": "מוזס צפון",
+        "image": "https://www.ayalonhw.co.il//media/zxcoa1dy/גשר-מוזס.jpg",
+        "height": 576,
+        "width": 720,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Mozes_Gantry.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806849.228068488.964303",
+        "direction": "צפון מזרח",
+        "area": "איילון"
+    },
     "ayalonhw_השלום": {
         "lat": "32.073088",
         "lon": "34.793767",
@@ -4093,6 +4093,19 @@
         "commentID": "22806848.227806340.964196",
         "direction": "צפון מזרח %28לא קבוע%29",
         "area": "איילון"
+    },
+    "ayalonhw_וולפסון - דב הוז": {
+        "lat": "32.028992",
+        "lon": "34.760246",
+        "cameraName": "וולפסון - דב הוז",
+        "image": "https://www.ayalonhw.co.il//media/4mmpuvhq/וולפסון-דוב-הוז.jpg",
+        "height": 576,
+        "width": 720,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Wolfson-Dov_Hoz.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806848.227806339.964299",
+        "direction": "צפון %28לא קבוע%29",
+        "area": " איילון"
     },
     "ayalonhw_משה דיין": {
         "lat": "31.987451",
@@ -4272,14 +4285,6 @@
         "type": "missing_camera",
         "commentID": "22872384.228658303.641480"
     },
-    "ayalonhw_מחלף וולפסון - איילון": {
-        "lat": "32.037305",
-        "lon": "34.760420",
-        "direction": "צפון מזרח",
-        "cameraName": "מחלף וולפסון - איילון",
-        "type": "missing_camera",
-        "commentID": "22806848.227806340.1176783"
-    },
     "iroads_אל-על": {
         "lat": "31.989628",
         "lon": "34.906941",
@@ -4312,14 +4317,6 @@
         "type": "missing_camera",
         "commentID": "22806850.228199570.619924"
     },
-    "ayalonhw_גלילות - איילון": {
-        "lat": "32.138920",
-        "lon": "34.809095",
-        "direction": "דרום",
-        "cameraName": "גלילות - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134030.964177"
-    },
     "iroads_הסירה": {
         "lat": "32.160967",
         "lon": "34.811365",
@@ -4327,14 +4324,6 @@
         "cameraName": "הסירה",
         "type": "missing_camera",
         "commentID": "22806850.228134032.617410"
-    },
-    "ayalonhw_מוזס - איילון": {
-        "lat": "32.078540",
-        "lon": "34.796409",
-        "direction": "צפון מזרח",
-        "cameraName": "מוזס - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228068488.964303"
     },
     "ayalonhw_שבעת הכוכבים - איילון": {
         "lat": "32.152307",
@@ -4352,14 +4341,6 @@
         "type": "missing_camera",
         "commentID": "22806849.228002949.964088"
     },
-    "iroads_סירקין": {
-        "lat": "32.082417",
-        "lon": "34.902264",
-        "direction": "לא ידוע",
-        "cameraName": "סירקין",
-        "type": "missing_camera",
-        "commentID": "22872385.228723848.619944"
-    },
     "ayalonhw_הולץ - איילון": {
         "lat": "32.043275",
         "lon": "34.783341",
@@ -4367,14 +4348,6 @@
         "cameraName": "הולץ - איילון",
         "type": "missing_camera",
         "commentID": "22806848.227937412.964302"
-    },
-    "ayalonhw_רוקח – קק%20ל - איילון": {
-        "lat": "32.112066",
-        "lon": "34.810621",
-        "direction": "דרום מערב %28לא קבוע%29",
-        "cameraName": "רוקח – קק%20ל - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134027.964076"
     },
     "ayalonhw_יצחק שדה - איילון": {
         "lat": "32.064842",
@@ -4407,6 +4380,38 @@
         "cameraName": "לה גווארדיה - איילון",
         "type": "missing_camera",
         "commentID": "22806849.228002950.964089"
+    },
+    "ayalonhw_גלילות - איילון": {
+        "lat": "32.138920",
+        "lon": "34.809095",
+        "direction": "דרום",
+        "cameraName": "גלילות - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134030.964177"
+    },
+    "ayalonhw_מוזס דרום - איילון": {
+        "lat": "32.074548",
+        "lon": "34.793614",
+        "direction": "דרום מערב",
+        "cameraName": "מוזס דרום - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228002951.1175490"
+    },
+    "iroads_סירקין": {
+        "lat": "32.082417",
+        "lon": "34.902264",
+        "direction": "לא ידוע",
+        "cameraName": "סירקין",
+        "type": "missing_camera",
+        "commentID": "22872385.228723848.619944"
+    },
+    "ayalonhw_רוקח – קק%20ל - איילון": {
+        "lat": "32.112066",
+        "lon": "34.810621",
+        "direction": "דרום מערב %28לא קבוע%29",
+        "cameraName": "רוקח – קק%20ל - איילון",
+        "type": "missing_camera",
+        "commentID": "22806849.228134027.964076"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
