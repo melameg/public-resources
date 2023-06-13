@@ -4001,6 +4001,19 @@
         "direction": "צפון מערב %28לא קבוע%29",
         "area": "איילון"
     },
+    "ayalonhw_רוקח - קק%20ל": {
+        "lat": "32.112066",
+        "lon": "34.810621",
+        "cameraName": "רוקח - קק%20ל",
+        "image": "https://www.ayalonhw.co.il//media/di2lo1iw/רוקח-קקל.jpg",
+        "height": 576,
+        "width": 704,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Rokach-Kakal.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806849.228134027.964076",
+        "direction": "דרום מערב %28לא קבוע%29",
+        "area": "איילון"
+    },
     "ayalonhw_ארלוזורוב לדרום": {
         "lat": "32.082367",
         "lon": "34.797675",
@@ -4144,6 +4157,19 @@
         "direction": "צפון",
         "area": "איילון"
     },
+    "ayalonhw_יוספטל - דב הוז": {
+        "lat": "32.019520",
+        "lon": "34.762154",
+        "cameraName": "יוספטל - דב הוז",
+        "image": "https://www.ayalonhw.co.il//media/yi1dbte5/יוספטל-דב-הוז.jpg",
+        "height": 576,
+        "width": 720,
+        "cameraFile": "https://5e0da72d486c5.streamlock.net:8443/ayalon/Yoseftal-dov_oz.stream/playlist.m3u8",
+        "type": "ayalonhw",
+        "commentID": "22806848.227806338.964195",
+        "direction": "צפון מערב %28לא קבוע%29",
+        "area": "איילון"
+    },
     "url_צומת הרצל זבוטינסקי": {
         "lat": "31.959013",
         "lon": "34.802205",
@@ -4240,13 +4266,29 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "ayalonhw_יוספטל – דב הוז - איילון": {
-        "lat": "32.019520",
-        "lon": "34.762154",
-        "direction": "צפון מערב %28לא קבוע%29",
-        "cameraName": "יוספטל – דב הוז - איילון",
+    "iroads_קיסריה": {
+        "lat": "32.460766",
+        "lon": "34.895634",
+        "direction": "לא ידוע",
+        "cameraName": "קיסריה",
         "type": "missing_camera",
-        "commentID": "22806848.227806338.964195"
+        "commentID": "22872389.228723886.619950"
+    },
+    "iroads_פולג": {
+        "lat": "32.273376",
+        "lon": "34.854837",
+        "direction": "דרום מערב",
+        "cameraName": "פולג",
+        "type": "missing_camera",
+        "commentID": "22872387.228396187.1130375"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "22872388.228658349.597301"
     },
     "iroads_סביון": {
         "lat": "32.032903",
@@ -4407,38 +4449,6 @@
         "cameraName": "סירקין",
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
-    },
-    "ayalonhw_רוקח – קק%20ל - איילון": {
-        "lat": "32.112066",
-        "lon": "34.810621",
-        "direction": "דרום מערב %28לא קבוע%29",
-        "cameraName": "רוקח – קק%20ל - איילון",
-        "type": "missing_camera",
-        "commentID": "22806849.228134027.964076"
-    },
-    "iroads_קיסריה": {
-        "lat": "32.460766",
-        "lon": "34.895634",
-        "direction": "לא ידוע",
-        "cameraName": "קיסריה",
-        "type": "missing_camera",
-        "commentID": "22872389.228723886.619950"
-    },
-    "iroads_פולג": {
-        "lat": "32.273376",
-        "lon": "34.854837",
-        "direction": "דרום מערב",
-        "cameraName": "פולג",
-        "type": "missing_camera",
-        "commentID": "22872387.228396187.1130375"
-    },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "direction": "דרום",
-        "cameraName": "אולגה",
-        "type": "missing_camera",
-        "commentID": "22872388.228658349.597301"
     },
     "iroads_עתלית כביש 2": {
         "lat": "32.711338",
