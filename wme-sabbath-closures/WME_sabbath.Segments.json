@@ -600,7 +600,13 @@
     "streetName": "עין שמש"
   },
   {
-    "permalink": "&lon=34.86729&lat=32.06240&segments=1146536",
+    "permalink": "&lon=34.86729&lat=32.06240&segments=2125685",
+    "likeCity": "TelAviv",
+    "cityName": "גני תקווה",
+    "streetName": "דרך המשי"
+  },
+  {
+    "permalink": "&lon=34.86729&lat=32.06240&segments=2125686",
     "likeCity": "TelAviv",
     "cityName": "גני תקווה",
     "streetName": "דרך המשי"
