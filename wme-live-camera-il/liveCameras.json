@@ -3620,6 +3620,20 @@
         "location": "כביש 443,446",
         "area": "מרכז"
     },
+    "iroads_שמואל שפירא באר יעקב": {
+        "lat": "31.944166",
+        "lon": "34.828506",
+        "cameraName": "שמואל שפירא באר יעקב",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/SHMUELSHAPIRA/SHMUELSHAPIRA.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/SHMUELSHAPIRA.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "22806847.228265082.1337779",
+        "direction": "צפון מזרח",
+        "location": "כביש 4313",
+        "area": "מרכז"
+    },
     "iroads_שמרת": {
         "lat": "32.952772",
         "lon": "35.090498",
@@ -4266,30 +4280,6 @@
         "commentID": "23462221.234425603.597305",
         "cameraUrl": "https://skihermon.co.il/live/"
     },
-    "iroads_קיסריה": {
-        "lat": "32.460766",
-        "lon": "34.895634",
-        "direction": "לא ידוע",
-        "cameraName": "קיסריה",
-        "type": "missing_camera",
-        "commentID": "22872389.228723886.619950"
-    },
-    "iroads_פולג": {
-        "lat": "32.273376",
-        "lon": "34.854837",
-        "direction": "דרום מערב",
-        "cameraName": "פולג",
-        "type": "missing_camera",
-        "commentID": "22872387.228396187.1130375"
-    },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "direction": "דרום",
-        "cameraName": "אולגה",
-        "type": "missing_camera",
-        "commentID": "22872388.228658349.597301"
-    },
     "iroads_סביון": {
         "lat": "32.032903",
         "lon": "34.866029",
@@ -4449,6 +4439,30 @@
         "cameraName": "סירקין",
         "type": "missing_camera",
         "commentID": "22872385.228723848.619944"
+    },
+    "iroads_קיסריה": {
+        "lat": "32.460766",
+        "lon": "34.895634",
+        "direction": "לא ידוע",
+        "cameraName": "קיסריה",
+        "type": "missing_camera",
+        "commentID": "22872389.228723886.619950"
+    },
+    "iroads_פולג": {
+        "lat": "32.273376",
+        "lon": "34.854837",
+        "direction": "דרום מערב",
+        "cameraName": "פולג",
+        "type": "missing_camera",
+        "commentID": "22872387.228396187.1130375"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "22872388.228658349.597301"
     },
     "iroads_עתלית כביש 2": {
         "lat": "32.711338",
