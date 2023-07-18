@@ -2950,5 +2950,17 @@
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "ללא רחוב"
+  },
+  {
+    "permalink": "&lon=34.98923&lat=32.13539&segments=2138293",
+    "likeCity": "TelAviv",
+    "cityName": "אורנית",
+    "streetName": "הזית"
+  },
+  {
+    "permalink": "&lon=34.98963&lat=32.13613&segments=2138291",
+    "likeCity": "TelAviv",
+    "cityName": "אורנית",
+    "streetName": "הזית"
   }
 ]
