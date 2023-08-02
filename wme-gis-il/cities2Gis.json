@@ -133,7 +133,8 @@
       "displayName": "Ramat Hasharon"
     },
     "1184": {
-      "gis": "http://gis.netanyagis.co.il/Gis/#/",
+      "name": "netanya",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Netanya"
     },
     "434": {
