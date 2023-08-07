@@ -1720,6 +1720,20 @@
         "location": "כביש 4,9",
         "area": "צפון"
     },
+    "iroads_יפעת": {
+        "lat": "32.675924",
+        "lon": "35.220094",
+        "cameraName": "יפעת",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/YIFAT/YIFAT.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/YIFAT.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "178972",
+        "direction": "דרום מזרח",
+        "location": "כביש 73",
+        "area": "צפון"
+    },
     "iroads_יפתחאל": {
         "lat": "32.768982",
         "lon": "35.220826",
@@ -1732,18 +1746,6 @@
         "commentID": "73523",
         "direction": "מערב",
         "location": "כביש 79,784",
-        "area": "צפון"
-    },
-    "iroads_יפעת": {
-        "lat": "32.675924",
-        "lon": "35.220094",
-        "cameraName": "יפעת",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/YIFAT/YIFAT.PNG",
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/YIFAT.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "178972",
-        "direction": "דרום מזרח",
-        "location": "כביש 73",
         "area": "צפון"
     },
     "iroads_יקנעם עילית": {
