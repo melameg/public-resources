@@ -17,6 +17,15 @@
             "lat": "31.806651"
         }
     },
+    "287": {
+        "countryID": 106,
+        "name": "אבו סנאן",
+        "englishName": "Abu Sinan",
+        "coordinates": {
+            "lon": "35.168372",
+            "lat": "32.961888"
+        }
+    },
     "295": {
         "countryID": 106,
         "name": "אבטין",
@@ -134,6 +143,24 @@
             "lat": "32.286591"
         }
     },
+    "313": {
+        "countryID": 106,
+        "name": "אדירים",
+        "englishName": "Adirim",
+        "coordinates": {
+            "lon": "35.272401",
+            "lat": "32.549105"
+        }
+    },
+    "314": {
+        "countryID": 106,
+        "name": "אדמית",
+        "englishName": "Admit",
+        "coordinates": {
+            "lon": "35.208065",
+            "lat": "33.079554"
+        }
+    },
     "315": {
         "countryID": 106,
         "name": "אדרת",
@@ -206,6 +233,15 @@
             "lat": "31.306032"
         }
     },
+    "327": {
+        "countryID": 106,
+        "name": "אור הנר",
+        "englishName": "or haner",
+        "coordinates": {
+            "lon": "34.600112",
+            "lat": "31.557330"
+        }
+    },
     "328": {
         "countryID": 106,
         "name": "אור יהודה",
@@ -251,6 +287,15 @@
             "lat": "32.130579"
         }
     },
+    "336": {
+        "countryID": 106,
+        "name": "אושה",
+        "englishName": "Usha",
+        "coordinates": {
+            "lon": "35.116010",
+            "lat": "32.795822"
+        }
+    },
     "337": {
         "countryID": 106,
         "name": "אזור",
@@ -260,6 +305,15 @@
             "lat": "32.024609"
         }
     },
+    "339": {
+        "countryID": 106,
+        "name": "אחוזם",
+        "englishName": "Ahuzam",
+        "coordinates": {
+            "lon": "34.770704",
+            "lat": "31.553257"
+        }
+    },
     "340": {
         "countryID": 106,
         "name": "אחוזת ברק",
@@ -267,6 +321,15 @@
         "coordinates": {
             "lon": "35.337507",
             "lat": "32.643770"
+        }
+    },
+    "341": {
+        "countryID": 106,
+        "name": "אחיהוד",
+        "englishName": "Ahihud",
+        "coordinates": {
+            "lon": "35.174726",
+            "lat": "32.907405"
         }
     },
     "342": {
@@ -350,6 +413,15 @@
             "lat": "31.651658"
         }
     },
+    "361": {
+        "countryID": 106,
+        "name": "אלומות",
+        "englishName": "Alumot",
+        "coordinates": {
+            "lon": "35.546103",
+            "lat": "32.709328"
+        }
+    },
     "362": {
         "countryID": 106,
         "name": "אלון הגליל",
@@ -357,6 +429,15 @@
         "coordinates": {
             "lon": "35.218608",
             "lat": "32.756725"
+        }
+    },
+    "363": {
+        "countryID": 106,
+        "name": "אלון מורה",
+        "englishName": "Elon Moreh",
+        "coordinates": {
+            "lon": "35.332101",
+            "lat": "32.233501"
         }
     },
     "364": {
@@ -429,6 +510,15 @@
         "coordinates": {
             "lon": "34.928151",
             "lat": "32.151298"
+        }
+    },
+    "376": {
+        "countryID": 106,
+        "name": "אלמגור",
+        "englishName": "Almagor",
+        "coordinates": {
+            "lon": "35.602672",
+            "lat": "32.913765"
         }
     },
     "377": {
@@ -512,6 +602,15 @@
             "lat": "32.824301"
         }
     },
+    "393": {
+        "countryID": 106,
+        "name": "אפיק",
+        "englishName": "Afik",
+        "coordinates": {
+            "lon": "35.701625",
+            "lat": "32.777966"
+        }
+    },
     "396": {
         "countryID": 106,
         "name": "אפק",
@@ -528,6 +627,15 @@
         "coordinates": {
             "lon": "35.159553",
             "lat": "31.666578"
+        }
+    },
+    "398": {
+        "countryID": 106,
+        "name": "ארבל",
+        "englishName": "Arbel",
+        "coordinates": {
+            "lon": "35.484316",
+            "lat": "32.811525"
         }
     },
     "399": {
@@ -584,6 +692,24 @@
             "lat": "31.793010"
         }
     },
+    "406": {
+        "countryID": 106,
+        "name": "אשדות יעקב %28איחוד%29",
+        "englishName": "Ashdot Yaakov %28Union%29",
+        "coordinates": {
+            "lon": "35.580113",
+            "lat": "32.656844"
+        }
+    },
+    "407": {
+        "countryID": 106,
+        "name": "אשדות יעקב %28מאוחד%29",
+        "englishName": "Ashdot Yaakov %28United%29",
+        "coordinates": {
+            "lon": "35.584433",
+            "lat": "32.663002"
+        }
+    },
     "408": {
         "countryID": 106,
         "name": "אשחר",
@@ -591,6 +717,15 @@
         "coordinates": {
             "lon": "35.300403",
             "lat": "32.884890"
+        }
+    },
+    "409": {
+        "countryID": 106,
+        "name": "אשכולות",
+        "englishName": "Eshkolot",
+        "coordinates": {
+            "lon": "34.903422",
+            "lat": "31.391558"
         }
     },
     "412": {
@@ -609,6 +744,15 @@
         "coordinates": {
             "lon": "35.010111",
             "lat": "31.781302"
+        }
+    },
+    "417": {
+        "countryID": 106,
+        "name": "באר אורה",
+        "englishName": "Beer Ora",
+        "coordinates": {
+            "lon": "34.986722",
+            "lat": "29.710903"
         }
     },
     "418": {
@@ -683,6 +827,15 @@
             "lat": "32.952241"
         }
     },
+    "426": {
+        "countryID": 106,
+        "name": "בועיינה-נוג%27ידאת",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.367301",
+            "lat": "32.806830"
+        }
+    },
     "428": {
         "countryID": 106,
         "name": "בורגתה",
@@ -690,6 +843,15 @@
         "coordinates": {
             "lon": "34.963844",
             "lat": "32.325568"
+        }
+    },
+    "429": {
+        "countryID": 106,
+        "name": "בחן",
+        "englishName": "Bahan",
+        "coordinates": {
+            "lon": "35.019409",
+            "lat": "32.351663"
         }
     },
     "430": {
@@ -737,6 +899,15 @@
             "lat": "31.940130"
         }
     },
+    "436": {
+        "countryID": 106,
+        "name": "בית אלעזרי",
+        "englishName": "Beit Elazary",
+        "coordinates": {
+            "lon": "34.803104",
+            "lat": "31.844648"
+        }
+    },
     "437": {
         "countryID": 106,
         "name": "בית אלפא",
@@ -764,6 +935,15 @@
             "lat": "32.965111"
         }
     },
+    "441": {
+        "countryID": 106,
+        "name": "בית גוברין",
+        "englishName": "beit guvrin",
+        "coordinates": {
+            "lon": "34.895660",
+            "lat": "31.613018"
+        }
+    },
     "442": {
         "countryID": 106,
         "name": "בית גמליאל",
@@ -780,6 +960,33 @@
         "coordinates": {
             "lon": "34.829658",
             "lat": "32.001323"
+        }
+    },
+    "445": {
+        "countryID": 106,
+        "name": "בית הלוי",
+        "englishName": "Beit Halevi",
+        "coordinates": {
+            "lon": "34.931813",
+            "lat": "32.353246"
+        }
+    },
+    "446": {
+        "countryID": 106,
+        "name": "בית הלל",
+        "englishName": "Beit Hillel",
+        "coordinates": {
+            "lon": "35.606688",
+            "lat": "33.208581"
+        }
+    },
+    "447": {
+        "countryID": 106,
+        "name": "בית העמק",
+        "englishName": "Beit Ha%27Emek",
+        "coordinates": {
+            "lon": "35.144187",
+            "lat": "32.972518"
         }
     },
     "449": {
@@ -825,6 +1032,15 @@
         "coordinates": {
             "lon": "34.771178",
             "lat": "31.933300"
+        }
+    },
+    "456": {
+        "countryID": 106,
+        "name": "בית חנניה",
+        "englishName": "beit hanania",
+        "coordinates": {
+            "lon": "34.926454",
+            "lat": "32.529090"
         }
     },
     "457": {
@@ -890,6 +1106,15 @@
             "lat": "31.921752"
         }
     },
+    "471": {
+        "countryID": 106,
+        "name": "בית עריף",
+        "englishName": "Beit Arif",
+        "coordinates": {
+            "lon": "34.934500",
+            "lat": "31.996136"
+        }
+    },
     "473": {
         "countryID": 106,
         "name": "בית קמה",
@@ -935,6 +1160,24 @@
             "lat": "31.719706"
         }
     },
+    "479": {
+        "countryID": 106,
+        "name": "בית שערים",
+        "englishName": "Beit She%27Arim",
+        "coordinates": {
+            "lon": "35.179580",
+            "lat": "32.698005"
+        }
+    },
+    "480": {
+        "countryID": 106,
+        "name": "בית שקמה",
+        "englishName": "Beit Shikma",
+        "coordinates": {
+            "lon": "34.610360",
+            "lat": "31.638936"
+        }
+    },
     "481": {
         "countryID": 106,
         "name": "ביתן אהרן",
@@ -942,6 +1185,15 @@
         "coordinates": {
             "lon": "34.869656",
             "lat": "32.361629"
+        }
+    },
+    "482": {
+        "countryID": 106,
+        "name": "ביתר עילית",
+        "englishName": "Beitar Illit",
+        "coordinates": {
+            "lon": "35.115171",
+            "lat": "31.701324"
         }
     },
     "483": {
@@ -1043,6 +1295,15 @@
             "lat": "32.025218"
         }
     },
+    "494": {
+        "countryID": 106,
+        "name": "בני עי\"ש",
+        "englishName": "bnei ayish",
+        "coordinates": {
+            "lon": "34.759345",
+            "lat": "31.789204"
+        }
+    },
     "495": {
         "countryID": 106,
         "name": "בני ציון",
@@ -1059,6 +1320,15 @@
         "coordinates": {
             "lon": "34.790912",
             "lat": "31.772762"
+        }
+    },
+    "497": {
+        "countryID": 106,
+        "name": "בניה",
+        "englishName": "Banya",
+        "coordinates": {
+            "lon": "34.755283",
+            "lat": "31.845830"
         }
     },
     "498": {
@@ -1160,6 +1430,15 @@
             "lat": "32.192405"
         }
     },
+    "514": {
+        "countryID": 106,
+        "name": "ברעם",
+        "englishName": "Bar%27Am",
+        "coordinates": {
+            "lon": "35.435034",
+            "lat": "33.058863"
+        }
+    },
     "515": {
         "countryID": 106,
         "name": "ברק",
@@ -1167,6 +1446,15 @@
         "coordinates": {
             "lon": "35.265268",
             "lat": "32.543287"
+        }
+    },
+    "516": {
+        "countryID": 106,
+        "name": "ברקאי",
+        "englishName": "Barkai",
+        "coordinates": {
+            "lon": "35.027373",
+            "lat": "32.474595"
         }
     },
     "517": {
@@ -1196,6 +1484,15 @@
             "lat": "31.645687"
         }
     },
+    "520": {
+        "countryID": 106,
+        "name": "בת חפר",
+        "englishName": "Bat Hefer",
+        "coordinates": {
+            "lon": "35.012864",
+            "lat": "32.333634"
+        }
+    },
     "522": {
         "countryID": 106,
         "name": "בת ים",
@@ -1212,6 +1509,15 @@
         "coordinates": {
             "lon": "35.099231",
             "lat": "31.659066"
+        }
+    },
+    "524": {
+        "countryID": 106,
+        "name": "בת שלמה",
+        "englishName": "Bat Shlomo",
+        "coordinates": {
+            "lon": "35.003447",
+            "lat": "32.599190"
         }
     },
     "525": {
@@ -1239,6 +1545,15 @@
         "coordinates": {
             "lon": "34.955925",
             "lat": "32.152702"
+        }
+    },
+    "529": {
+        "countryID": 106,
+        "name": "ג%27סר א-זרקא",
+        "englishName": null,
+        "coordinates": {
+            "lon": "34.912035",
+            "lat": "32.536358"
         }
     },
     "530": {
@@ -1331,6 +1646,15 @@
             "lat": "32.774397"
         }
     },
+    "544": {
+        "countryID": 106,
+        "name": "גבעת אלה",
+        "englishName": "Givat Elah",
+        "coordinates": {
+            "lon": "35.245368",
+            "lat": "32.722198"
+        }
+    },
     "545": {
         "countryID": 106,
         "name": "גבעת ברנר",
@@ -1338,6 +1662,15 @@
         "coordinates": {
             "lon": "34.801188",
             "lat": "31.866647"
+        }
+    },
+    "546": {
+        "countryID": 106,
+        "name": "גבעת השלושה",
+        "englishName": "Givat Hasholosha",
+        "coordinates": {
+            "lon": "34.920743",
+            "lat": "32.097035"
         }
     },
     "547": {
@@ -1356,6 +1689,15 @@
         "coordinates": {
             "lon": "34.875088",
             "lat": "32.167345"
+        }
+    },
+    "549": {
+        "countryID": 106,
+        "name": "גבעת חיים %28איחוד%29",
+        "englishName": "Givat Haim %28Union%29",
+        "coordinates": {
+            "lon": "34.934011",
+            "lat": "32.398862"
         }
     },
     "551": {
@@ -1439,6 +1781,15 @@
             "lat": "32.070215"
         }
     },
+    "563": {
+        "countryID": 106,
+        "name": "גברעם",
+        "englishName": "Gvar%27Am",
+        "coordinates": {
+            "lon": "34.610107",
+            "lat": "31.591560"
+        }
+    },
     "564": {
         "countryID": 106,
         "name": "גבת",
@@ -1464,6 +1815,15 @@
         "coordinates": {
             "lon": "35.243840",
             "lat": "32.558420"
+        }
+    },
+    "567": {
+        "countryID": 106,
+        "name": "גדעונה",
+        "englishName": "gidona",
+        "coordinates": {
+            "lon": "35.359105",
+            "lat": "32.549060"
         }
     },
     "568": {
@@ -1502,6 +1862,24 @@
             "lat": "33.059974"
         }
     },
+    "572": {
+        "countryID": 106,
+        "name": "גזית",
+        "englishName": "Gazit",
+        "coordinates": {
+            "lon": "35.447741",
+            "lat": "32.637632"
+        }
+    },
+    "575": {
+        "countryID": 106,
+        "name": "גיאה",
+        "englishName": "Ge%27A",
+        "coordinates": {
+            "lon": "34.602319",
+            "lat": "31.628435"
+        }
+    },
     "576": {
         "countryID": 106,
         "name": "גיבתון",
@@ -1509,6 +1887,24 @@
         "coordinates": {
             "lon": "34.800670",
             "lat": "31.888711"
+        }
+    },
+    "577": {
+        "countryID": 106,
+        "name": "גיזו",
+        "englishName": "Gizo",
+        "coordinates": {
+            "lon": "34.939821",
+            "lat": "31.805174"
+        }
+    },
+    "578": {
+        "countryID": 106,
+        "name": "גילון",
+        "englishName": "Gilon",
+        "coordinates": {
+            "lon": "35.234575",
+            "lat": "32.903683"
         }
     },
     "579": {
@@ -1529,6 +1925,24 @@
             "lat": "31.964272"
         }
     },
+    "584": {
+        "countryID": 106,
+        "name": "גיתית",
+        "englishName": "Gitit",
+        "coordinates": {
+            "lon": "35.395285",
+            "lat": "32.101646"
+        }
+    },
+    "585": {
+        "countryID": 106,
+        "name": "גלאון",
+        "englishName": "galon",
+        "coordinates": {
+            "lon": "34.846932",
+            "lat": "31.632820"
+        }
+    },
     "586": {
         "countryID": 106,
         "name": "גלגל",
@@ -1536,6 +1950,15 @@
         "coordinates": {
             "lon": "35.446054",
             "lat": "31.998946"
+        }
+    },
+    "587": {
+        "countryID": 106,
+        "name": "גליל ים",
+        "englishName": "Glil Yam",
+        "coordinates": {
+            "lon": "34.831874",
+            "lat": "32.157643"
         }
     },
     "588": {
@@ -1563,6 +1986,15 @@
         "coordinates": {
             "lon": "34.997954",
             "lat": "32.462959"
+        }
+    },
+    "592": {
+        "countryID": 106,
+        "name": "גן יאשיה",
+        "englishName": "Gan Yoshiya",
+        "coordinates": {
+            "lon": "34.995645",
+            "lat": "32.350123"
         }
     },
     "593": {
@@ -1601,6 +2033,15 @@
             "lat": "31.876785"
         }
     },
+    "597": {
+        "countryID": 106,
+        "name": "גן שמואל",
+        "englishName": "Gan Shmuel",
+        "coordinates": {
+            "lon": "34.951468",
+            "lat": "32.450648"
+        }
+    },
     "598": {
         "countryID": 106,
         "name": "גנות",
@@ -1608,6 +2049,15 @@
         "coordinates": {
             "lon": "34.827220",
             "lat": "32.018184"
+        }
+    },
+    "599": {
+        "countryID": 106,
+        "name": "גנות הדר",
+        "englishName": "Ganot Hadar",
+        "coordinates": {
+            "lon": "34.900413",
+            "lat": "32.320444"
         }
     },
     "602": {
@@ -1655,6 +2105,15 @@
             "lat": "33.006284"
         }
     },
+    "609": {
+        "countryID": 106,
+        "name": "גרופית",
+        "englishName": "Grofit",
+        "coordinates": {
+            "lon": "35.064320",
+            "lat": "29.940587"
+        }
+    },
     "610": {
         "countryID": 106,
         "name": "גשור",
@@ -1700,6 +2159,15 @@
             "lat": "32.694227"
         }
     },
+    "616": {
+        "countryID": 106,
+        "name": "דבורה",
+        "englishName": "Dvora",
+        "coordinates": {
+            "lon": "35.264411",
+            "lat": "32.552643"
+        }
+    },
     "617": {
         "countryID": 106,
         "name": "דבוריה",
@@ -1716,6 +2184,15 @@
         "coordinates": {
             "lon": "34.822365",
             "lat": "31.413649"
+        }
+    },
+    "620": {
+        "countryID": 106,
+        "name": "דגניה א%27",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.575591",
+            "lat": "32.707251"
         }
     },
     "621": {
@@ -1763,6 +2240,15 @@
             "lat": "31.506056"
         }
     },
+    "626": {
+        "countryID": 106,
+        "name": "דחי",
+        "englishName": "Dehi",
+        "coordinates": {
+            "lon": "35.343573",
+            "lat": "32.621330"
+        }
+    },
     "627": {
         "countryID": 106,
         "name": "דייר אל-אסד",
@@ -1770,6 +2256,15 @@
         "coordinates": {
             "lon": "35.267303",
             "lat": "32.935745"
+        }
+    },
+    "628": {
+        "countryID": 106,
+        "name": "דייר חנא",
+        "englishName": "Dir Jana",
+        "coordinates": {
+            "lon": "35.368489",
+            "lat": "32.862063"
         }
     },
     "630": {
@@ -1806,6 +2301,15 @@
         "coordinates": {
             "lon": "35.482497",
             "lat": "33.017758"
+        }
+    },
+    "634": {
+        "countryID": 106,
+        "name": "דמיידה",
+        "englishName": "Dmeida",
+        "coordinates": {
+            "lon": "35.227720",
+            "lat": "32.816047"
         }
     },
     "639": {
@@ -1862,6 +2366,42 @@
             "lat": "32.644988"
         }
     },
+    "650": {
+        "countryID": 106,
+        "name": "הזורעים",
+        "englishName": "Hazor%27Im",
+        "coordinates": {
+            "lon": "35.502581",
+            "lat": "32.747763"
+        }
+    },
+    "651": {
+        "countryID": 106,
+        "name": "החותרים",
+        "englishName": "Hahotrim",
+        "coordinates": {
+            "lon": "34.956848",
+            "lat": "32.752773"
+        }
+    },
+    "652": {
+        "countryID": 106,
+        "name": "היוגב",
+        "englishName": "Hayogev",
+        "coordinates": {
+            "lon": "35.208198",
+            "lat": "32.612731"
+        }
+    },
+    "653": {
+        "countryID": 106,
+        "name": "הילה",
+        "englishName": "Hila",
+        "coordinates": {
+            "lon": "35.242994",
+            "lat": "33.035751"
+        }
+    },
     "654": {
         "countryID": 106,
         "name": "המעפיל",
@@ -1916,6 +2456,15 @@
             "lat": "32.168304"
         }
     },
+    "663": {
+        "countryID": 106,
+        "name": "הררית",
+        "englishName": "Hararit",
+        "coordinates": {
+            "lon": "35.363965",
+            "lat": "32.845103"
+        }
+    },
     "664": {
         "countryID": 106,
         "name": "ורד יריחו",
@@ -1923,6 +2472,15 @@
         "coordinates": {
             "lon": "35.432061",
             "lat": "31.826171"
+        }
+    },
+    "665": {
+        "countryID": 106,
+        "name": "ורדון",
+        "englishName": "Vardon",
+        "coordinates": {
+            "lon": "34.781816",
+            "lat": "31.664182"
         }
     },
     "667": {
@@ -1979,6 +2537,15 @@
             "lat": "32.363291"
         }
     },
+    "674": {
+        "countryID": 106,
+        "name": "זמרת",
+        "englishName": "Zimrat",
+        "coordinates": {
+            "lon": "34.554475",
+            "lat": "31.446179"
+        }
+    },
     "676": {
         "countryID": 106,
         "name": "זרועה",
@@ -1986,6 +2553,15 @@
         "coordinates": {
             "lon": "34.624495",
             "lat": "31.459269"
+        }
+    },
+    "677": {
+        "countryID": 106,
+        "name": "זרזיר",
+        "englishName": "Zarzir",
+        "coordinates": {
+            "lon": "35.220214",
+            "lat": "32.727322"
         }
     },
     "678": {
@@ -2013,6 +2589,24 @@
         "coordinates": {
             "lon": "35.263936",
             "lat": "32.547315"
+        }
+    },
+    "682": {
+        "countryID": 106,
+        "name": "חגור",
+        "englishName": "Hagor",
+        "coordinates": {
+            "lon": "34.947981",
+            "lat": "32.139003"
+        }
+    },
+    "685": {
+        "countryID": 106,
+        "name": "חד-נס",
+        "englishName": "Had-Nes",
+        "coordinates": {
+            "lon": "35.639034",
+            "lat": "32.928485"
         }
     },
     "686": {
@@ -2060,6 +2654,15 @@
             "lat": "33.050916"
         }
     },
+    "694": {
+        "countryID": 106,
+        "name": "חוסן",
+        "englishName": "Hosen",
+        "coordinates": {
+            "lon": "35.295759",
+            "lat": "32.997846"
+        }
+    },
     "696": {
         "countryID": 106,
         "name": "חופית",
@@ -2094,6 +2697,15 @@
         "coordinates": {
             "lon": "35.347902",
             "lat": "33.017452"
+        }
+    },
+    "700": {
+        "countryID": 106,
+        "name": "חורשים",
+        "englishName": "Horshim",
+        "coordinates": {
+            "lon": "34.970490",
+            "lat": "32.138032"
         }
     },
     "701": {
@@ -2168,6 +2780,15 @@
             "lat": "32.519471"
         }
     },
+    "713": {
+        "countryID": 106,
+        "name": "חניאל",
+        "englishName": "Hani%27El",
+        "coordinates": {
+            "lon": "34.948249",
+            "lat": "32.333276"
+        }
+    },
     "714": {
         "countryID": 106,
         "name": "חניתה",
@@ -2213,6 +2834,15 @@
             "lat": "31.782358"
         }
     },
+    "720": {
+        "countryID": 106,
+        "name": "חצבה",
+        "englishName": "Hetzba",
+        "coordinates": {
+            "lon": "35.279376",
+            "lat": "30.767620"
+        }
+    },
     "722": {
         "countryID": 106,
         "name": "חצור הגלילית",
@@ -2220,6 +2850,24 @@
         "coordinates": {
             "lon": "35.545179",
             "lat": "32.982245"
+        }
+    },
+    "727": {
+        "countryID": 106,
+        "name": "חצרים",
+        "englishName": "hatzerim",
+        "coordinates": {
+            "lon": "34.713664",
+            "lat": "31.239058"
+        }
+    },
+    "729": {
+        "countryID": 106,
+        "name": "חרוצים",
+        "englishName": "Harutzim",
+        "coordinates": {
+            "lon": "34.864670",
+            "lat": "32.226800"
         }
     },
     "730": {
@@ -2366,6 +3014,24 @@
             "lat": "32.853985"
         }
     },
+    "748": {
+        "countryID": 106,
+        "name": "טמרה %28יזרעאל%29",
+        "englishName": "Tamra %28Izrael%29",
+        "coordinates": {
+            "lon": "35.402728",
+            "lat": "32.634394"
+        }
+    },
+    "750": {
+        "countryID": 106,
+        "name": "טפחות",
+        "englishName": "Tfahot",
+        "coordinates": {
+            "lon": "35.420810",
+            "lat": "32.869444"
+        }
+    },
     "751": {
         "countryID": 106,
         "name": "יאנוח-ג%27ת",
@@ -2402,6 +3068,15 @@
             "lat": "32.743583"
         }
     },
+    "757": {
+        "countryID": 106,
+        "name": "יד בנימין",
+        "englishName": "Yad Binyamin",
+        "coordinates": {
+            "lon": "34.822721",
+            "lat": "31.797369"
+        }
+    },
     "758": {
         "countryID": 106,
         "name": "יד השמונה",
@@ -2411,6 +3086,33 @@
             "lat": "31.808637"
         }
     },
+    "759": {
+        "countryID": 106,
+        "name": "יד חנה",
+        "englishName": "Yad Hana",
+        "coordinates": {
+            "lon": "35.005848",
+            "lat": "32.326602"
+        }
+    },
+    "760": {
+        "countryID": 106,
+        "name": "יד מרדכי",
+        "englishName": "Yad Mordechai",
+        "coordinates": {
+            "lon": "34.557300",
+            "lat": "31.587919"
+        }
+    },
+    "764": {
+        "countryID": 106,
+        "name": "כפר ידידיה",
+        "englishName": "Kfar Yedidia",
+        "coordinates": {
+            "lon": "34.898448",
+            "lat": "32.346240"
+        }
+    },
     "765": {
         "countryID": 106,
         "name": "יהוד-מונוסון",
@@ -2418,6 +3120,15 @@
         "coordinates": {
             "lon": "34.889389",
             "lat": "32.032131"
+        }
+    },
+    "766": {
+        "countryID": 106,
+        "name": "יהל",
+        "englishName": "Yahel",
+        "coordinates": {
+            "lon": "35.128266",
+            "lat": "30.083761"
         }
     },
     "772": {
@@ -2436,6 +3147,15 @@
         "coordinates": {
             "lon": "35.219804",
             "lat": "32.996605"
+        }
+    },
+    "774": {
+        "countryID": 106,
+        "name": "יטבתה",
+        "englishName": "Yotvata",
+        "coordinates": {
+            "lon": "35.063936",
+            "lat": "29.894448"
         }
     },
     "776": {
@@ -2463,6 +3183,15 @@
         "coordinates": {
             "lon": "34.863316",
             "lat": "31.815311"
+        }
+    },
+    "781": {
+        "countryID": 106,
+        "name": "יסעור",
+        "englishName": "Yas%27Ur",
+        "coordinates": {
+            "lon": "35.166245",
+            "lat": "32.900457"
         }
     },
     "785": {
@@ -2499,6 +3228,15 @@
         "coordinates": {
             "lon": "35.223881",
             "lat": "32.676174"
+        }
+    },
+    "789": {
+        "countryID": 106,
+        "name": "יפתח",
+        "englishName": "Yiftach",
+        "coordinates": {
+            "lon": "35.552193",
+            "lat": "33.128609"
         }
     },
     "790": {
@@ -2618,6 +3356,42 @@
             "lat": "32.144796"
         }
     },
+    "805": {
+        "countryID": 106,
+        "name": "ישעי",
+        "englishName": "Yish%27I",
+        "coordinates": {
+            "lon": "34.965321",
+            "lat": "31.749722"
+        }
+    },
+    "806": {
+        "countryID": 106,
+        "name": "ישרש",
+        "englishName": "Yashresh",
+        "coordinates": {
+            "lon": "34.849922",
+            "lat": "31.915989"
+        }
+    },
+    "808": {
+        "countryID": 106,
+        "name": "כאבול",
+        "englishName": "Kabul",
+        "coordinates": {
+            "lon": "35.207808",
+            "lat": "32.869100"
+        }
+    },
+    "810": {
+        "countryID": 106,
+        "name": "כברי",
+        "englishName": "Kabri",
+        "coordinates": {
+            "lon": "35.149405",
+            "lat": "33.020857"
+        }
+    },
     "811": {
         "countryID": 106,
         "name": "כדורי",
@@ -2672,6 +3446,15 @@
             "lat": "32.979706"
         }
     },
+    "823": {
+        "countryID": 106,
+        "name": "כלנית",
+        "englishName": "Kalanit",
+        "coordinates": {
+            "lon": "35.450980",
+            "lat": "32.873165"
+        }
+    },
     "824": {
         "countryID": 106,
         "name": "כמאנה",
@@ -2681,6 +3464,15 @@
             "lat": "32.909665"
         }
     },
+    "826": {
+        "countryID": 106,
+        "name": "כמון",
+        "englishName": "Kamon",
+        "coordinates": {
+            "lon": "35.360014",
+            "lat": "32.910864"
+        }
+    },
     "827": {
         "countryID": 106,
         "name": "כנות",
@@ -2688,6 +3480,15 @@
         "coordinates": {
             "lon": "34.758988",
             "lat": "31.801787"
+        }
+    },
+    "830": {
+        "countryID": 106,
+        "name": "כנרת %28קבוצה%29",
+        "englishName": "Kinneret %28Group%29",
+        "coordinates": {
+            "lon": "35.564942",
+            "lat": "32.712229"
         }
     },
     "831": {
@@ -2726,6 +3527,33 @@
             "lat": "31.829443"
         }
     },
+    "836": {
+        "countryID": 106,
+        "name": "כפר אדומים",
+        "englishName": "Kfar Adumim",
+        "coordinates": {
+            "lon": "35.336629",
+            "lat": "31.825405"
+        }
+    },
+    "837": {
+        "countryID": 106,
+        "name": "כפר אוריה",
+        "englishName": "Kfar Uria",
+        "coordinates": {
+            "lon": "34.948893",
+            "lat": "31.792481"
+        }
+    },
+    "840": {
+        "countryID": 106,
+        "name": "כפר ביאליק",
+        "englishName": "Kfar Bialik",
+        "coordinates": {
+            "lon": "35.086501",
+            "lat": "32.821415"
+        }
+    },
     "841": {
         "countryID": 106,
         "name": "כפר ביל\"ו",
@@ -2751,6 +3579,15 @@
         "coordinates": {
             "lon": "34.947677",
             "lat": "31.860694"
+        }
+    },
+    "844": {
+        "countryID": 106,
+        "name": "כפר ברא",
+        "englishName": "Kfar Bara",
+        "coordinates": {
+            "lon": "34.969381",
+            "lat": "32.131100"
         }
     },
     "845": {
@@ -2789,6 +3626,15 @@
             "lat": "32.506062"
         }
     },
+    "850": {
+        "countryID": 106,
+        "name": "כפר דניאל",
+        "englishName": "Kfar Daniel",
+        "coordinates": {
+            "lon": "34.932132",
+            "lat": "31.933895"
+        }
+    },
     "851": {
         "countryID": 106,
         "name": "כפר האורנים",
@@ -2805,6 +3651,15 @@
         "coordinates": {
             "lon": "35.272373",
             "lat": "32.701240"
+        }
+    },
+    "854": {
+        "countryID": 106,
+        "name": "כפר הנגיד",
+        "englishName": "Kefar Hanagid",
+        "coordinates": {
+            "lon": "34.748221",
+            "lat": "31.887199"
         }
     },
     "856": {
@@ -2843,6 +3698,15 @@
             "lat": "32.381557"
         }
     },
+    "861": {
+        "countryID": 106,
+        "name": "כפר ורבורג",
+        "englishName": "Kfar Varburgh",
+        "coordinates": {
+            "lon": "34.724512",
+            "lat": "31.718989"
+        }
+    },
     "862": {
         "countryID": 106,
         "name": "כפר ורדים",
@@ -2850,6 +3714,15 @@
         "coordinates": {
             "lon": "35.269143",
             "lat": "32.996272"
+        }
+    },
+    "863": {
+        "countryID": 106,
+        "name": "כפר זוהרים",
+        "englishName": "Kfar Zoharim",
+        "coordinates": {
+            "lon": "34.925576",
+            "lat": "31.620946"
         }
     },
     "865": {
@@ -2868,6 +3741,15 @@
         "coordinates": {
             "lon": "35.502236",
             "lat": "32.800943"
+        }
+    },
+    "867": {
+        "countryID": 106,
+        "name": "כפר חיים",
+        "englishName": "Kfar Haim",
+        "coordinates": {
+            "lon": "34.901498",
+            "lat": "32.353606"
         }
     },
     "868": {
@@ -2904,6 +3786,15 @@
         "coordinates": {
             "lon": "34.924541",
             "lat": "31.980457"
+        }
+    },
+    "873": {
+        "countryID": 106,
+        "name": "כפר יאסיף",
+        "englishName": "Kfar Yasif",
+        "coordinates": {
+            "lon": "35.164081",
+            "lat": "32.953578"
         }
     },
     "874": {
@@ -2951,6 +3842,15 @@
             "lat": "32.746303"
         }
     },
+    "880": {
+        "countryID": 106,
+        "name": "כפר מונש",
+        "englishName": "Kfar Monesh",
+        "coordinates": {
+            "lon": "34.914968",
+            "lat": "32.347792"
+        }
+    },
     "881": {
         "countryID": 106,
         "name": "כפר מימון",
@@ -2978,6 +3878,15 @@
             "lat": "32.810111"
         }
     },
+    "885": {
+        "countryID": 106,
+        "name": "כפר מסריק",
+        "englishName": "Kfar Masrik",
+        "coordinates": {
+            "lon": "35.099532",
+            "lat": "32.890974"
+        }
+    },
     "886": {
         "countryID": 106,
         "name": "כפר מצר",
@@ -2987,6 +3896,15 @@
             "lat": "32.645444"
         }
     },
+    "887": {
+        "countryID": 106,
+        "name": "כפר מרדכי",
+        "englishName": "Kfar Mordechai",
+        "coordinates": {
+            "lon": "34.749208",
+            "lat": "31.831946"
+        }
+    },
     "889": {
         "countryID": 106,
         "name": "כפר נטר",
@@ -2994,6 +3912,15 @@
         "coordinates": {
             "lon": "34.874850",
             "lat": "32.277267"
+        }
+    },
+    "890": {
+        "countryID": 106,
+        "name": "כפר סאלד",
+        "englishName": "Kfar Szold",
+        "coordinates": {
+            "lon": "35.657088",
+            "lat": "33.194324"
         }
     },
     "891": {
@@ -3030,6 +3957,15 @@
         "coordinates": {
             "lon": "34.971428",
             "lat": "32.114949"
+        }
+    },
+    "899": {
+        "countryID": 106,
+        "name": "כפר קיש",
+        "englishName": "Kfar Kisch",
+        "coordinates": {
+            "lon": "35.448656",
+            "lat": "32.667059"
         }
     },
     "900": {
@@ -3102,6 +4038,15 @@
         "coordinates": {
             "lon": "35.248347",
             "lat": "32.117666"
+        }
+    },
+    "911": {
+        "countryID": 106,
+        "name": "כרכום",
+        "englishName": "Karkom",
+        "coordinates": {
+            "lon": "35.607459",
+            "lat": "32.929204"
         }
     },
     "915": {
@@ -3239,6 +4184,15 @@
             "lat": "31.917251"
         }
     },
+    "939": {
+        "countryID": 106,
+        "name": "לפידות",
+        "englishName": "Lapidot",
+        "coordinates": {
+            "lon": "35.262489",
+            "lat": "32.958949"
+        }
+    },
     "940": {
         "countryID": 106,
         "name": "לקיה",
@@ -3255,6 +4209,15 @@
         "coordinates": {
             "lon": "34.971529",
             "lat": "32.590739"
+        }
+    },
+    "944": {
+        "countryID": 106,
+        "name": "מבוא דותן",
+        "englishName": "Mevo Dotan",
+        "coordinates": {
+            "lon": "35.176131",
+            "lat": "32.420010"
         }
     },
     "945": {
@@ -3293,6 +4256,15 @@
             "lat": "31.448760"
         }
     },
+    "951": {
+        "countryID": 106,
+        "name": "מבקיעים",
+        "englishName": "mavki%27im",
+        "coordinates": {
+            "lon": "34.579068",
+            "lat": "31.623953"
+        }
+    },
     "952": {
         "countryID": 106,
         "name": "מבשרת ציון",
@@ -3311,6 +4283,15 @@
             "lat": "32.885875"
         }
     },
+    "955": {
+        "countryID": 106,
+        "name": "מגדים",
+        "englishName": "Megadim",
+        "coordinates": {
+            "lon": "34.961826",
+            "lat": "32.726647"
+        }
+    },
     "957": {
         "countryID": 106,
         "name": "מגדל העמק",
@@ -3320,6 +4301,15 @@
             "lat": "32.679087"
         }
     },
+    "958": {
+        "countryID": 106,
+        "name": "מגדל עוז",
+        "englishName": "Migdal Oz",
+        "coordinates": {
+            "lon": "35.143405",
+            "lat": "31.640851"
+        }
+    },
     "959": {
         "countryID": 106,
         "name": "מגדל תפן",
@@ -3327,6 +4317,24 @@
         "coordinates": {
             "lon": "35.275361",
             "lat": "32.978644"
+        }
+    },
+    "960": {
+        "countryID": 106,
+        "name": "מגדלים",
+        "englishName": "Migdalim",
+        "coordinates": {
+            "lon": "35.342122",
+            "lat": "32.089243"
+        }
+    },
+    "961": {
+        "countryID": 106,
+        "name": "מגידו",
+        "englishName": "Megiddo",
+        "coordinates": {
+            "lon": "35.180042",
+            "lat": "32.580435"
         }
     },
     "962": {
@@ -3410,6 +4418,15 @@
             "lat": "32.586429"
         }
     },
+    "972": {
+        "countryID": 106,
+        "name": "מוצא עילית",
+        "englishName": "Motza Ilit",
+        "coordinates": {
+            "lon": "35.157163",
+            "lat": "31.793781"
+        }
+    },
     "973": {
         "countryID": 106,
         "name": "מוקייבלה",
@@ -3426,6 +4443,15 @@
         "coordinates": {
             "lon": "35.394891",
             "lat": "32.919855"
+        }
+    },
+    "975": {
+        "countryID": 106,
+        "name": "מורשת",
+        "englishName": "Moreshet",
+        "coordinates": {
+            "lon": "35.233521",
+            "lat": "32.826315"
         }
     },
     "976": {
@@ -3473,6 +4499,15 @@
             "lat": "32.364943"
         }
     },
+    "984": {
+        "countryID": 106,
+        "name": "מחנה יהודית",
+        "englishName": "Yehudit Camp",
+        "coordinates": {
+            "lon": "35.195534",
+            "lat": "32.670674"
+        }
+    },
     "991": {
         "countryID": 106,
         "name": "מחניים",
@@ -3482,6 +4517,15 @@
             "lat": "32.988816"
         }
     },
+    "992": {
+        "countryID": 106,
+        "name": "מחסיה",
+        "englishName": "Mahseya",
+        "coordinates": {
+            "lon": "35.006852",
+            "lat": "31.748260"
+        }
+    },
     "994": {
         "countryID": 106,
         "name": "מטע",
@@ -3489,6 +4533,15 @@
         "coordinates": {
             "lon": "35.062343",
             "lat": "31.720022"
+        }
+    },
+    "995": {
+        "countryID": 106,
+        "name": "מי עמי",
+        "englishName": "Mei Ami",
+        "coordinates": {
+            "lon": "35.149022",
+            "lat": "32.505097"
         }
     },
     "997": {
@@ -3527,6 +4580,15 @@
             "lat": "31.816857"
         }
     },
+    "1002": {
+        "countryID": 106,
+        "name": "מיתר",
+        "englishName": "Meitar",
+        "coordinates": {
+            "lon": "34.934052",
+            "lat": "31.328247"
+        }
+    },
     "1004": {
         "countryID": 106,
         "name": "מכורה",
@@ -3534,6 +4596,24 @@
         "coordinates": {
             "lon": "35.423451",
             "lat": "32.164597"
+        }
+    },
+    "1005": {
+        "countryID": 106,
+        "name": "מכחול",
+        "englishName": "Makhul",
+        "coordinates": {
+            "lon": "35.071207",
+            "lat": "31.293862"
+        }
+    },
+    "1006": {
+        "countryID": 106,
+        "name": "מכמורת",
+        "englishName": "Michmoret",
+        "coordinates": {
+            "lon": "34.870547",
+            "lat": "32.404749"
         }
     },
     "1007": {
@@ -3590,6 +4670,15 @@
             "lat": "33.037820"
         }
     },
+    "1015": {
+        "countryID": 106,
+        "name": "מנחמיה",
+        "englishName": "Menahemia",
+        "coordinates": {
+            "lon": "35.554190",
+            "lat": "32.663403"
+        }
+    },
     "1016": {
         "countryID": 106,
         "name": "מנרה",
@@ -3626,6 +4715,15 @@
             "lat": "32.496434"
         }
     },
+    "1021": {
+        "countryID": 106,
+        "name": "מסילת ציון",
+        "englishName": "Mesilat Zion",
+        "coordinates": {
+            "lon": "35.011729",
+            "lat": "31.803017"
+        }
+    },
     "1022": {
         "countryID": 106,
         "name": "מסלול",
@@ -3642,6 +4740,24 @@
         "coordinates": {
             "lon": "34.905596",
             "lat": "32.364606"
+        }
+    },
+    "1026": {
+        "countryID": 106,
+        "name": "מעגלים",
+        "englishName": "Ma%27Agalim",
+        "coordinates": {
+            "lon": "34.598569",
+            "lat": "31.397762"
+        }
+    },
+    "1027": {
+        "countryID": 106,
+        "name": "מעגן",
+        "englishName": "Ma%27Agan",
+        "coordinates": {
+            "lon": "35.601316",
+            "lat": "32.705972"
         }
     },
     "1028": {
@@ -3662,6 +4778,24 @@
             "lat": "32.493038"
         }
     },
+    "1030": {
+        "countryID": 106,
+        "name": "מעון",
+        "englishName": "Ma%27On",
+        "coordinates": {
+            "lon": "35.163034",
+            "lat": "31.413283"
+        }
+    },
+    "1031": {
+        "countryID": 106,
+        "name": "מעונה",
+        "englishName": "Me%27Ona",
+        "coordinates": {
+            "lon": "35.262026",
+            "lat": "33.016072"
+        }
+    },
     "1033": {
         "countryID": 106,
         "name": "מעין צבי",
@@ -3671,6 +4805,15 @@
             "lat": "32.570369"
         }
     },
+    "1034": {
+        "countryID": 106,
+        "name": "מעיליא",
+        "englishName": "Ma%27Iliya",
+        "coordinates": {
+            "lon": "35.257087",
+            "lat": "33.026358"
+        }
+    },
     "1035": {
         "countryID": 106,
         "name": "מעלה אדומים",
@@ -3678,6 +4821,24 @@
         "coordinates": {
             "lon": "35.308080",
             "lat": "31.779218"
+        }
+    },
+    "1037": {
+        "countryID": 106,
+        "name": "מעלה גלבוע",
+        "englishName": "Ma%27Ale Gilbo%27A",
+        "coordinates": {
+            "lon": "35.416626",
+            "lat": "32.478084"
+        }
+    },
+    "1038": {
+        "countryID": 106,
+        "name": "מעלה גמלא",
+        "englishName": "Ma%27Ale Gamla",
+        "coordinates": {
+            "lon": "35.684407",
+            "lat": "32.890216"
         }
     },
     "1040": {
@@ -3725,6 +4886,15 @@
             "lat": "32.165593"
         }
     },
+    "1045": {
+        "countryID": 106,
+        "name": "מעלות-תרשיחא",
+        "englishName": "Ma%27Alot-Tarshiha",
+        "coordinates": {
+            "lon": "35.279115",
+            "lat": "33.013645"
+        }
+    },
     "1046": {
         "countryID": 106,
         "name": "מענית",
@@ -3770,6 +4940,15 @@
             "lat": "33.063299"
         }
     },
+    "1051": {
+        "countryID": 106,
+        "name": "מצליח",
+        "englishName": "Matzliah",
+        "coordinates": {
+            "lon": "34.873422",
+            "lat": "31.905173"
+        }
+    },
     "1052": {
         "countryID": 106,
         "name": "מצפה",
@@ -3777,6 +4956,15 @@
         "coordinates": {
             "lon": "35.510196",
             "lat": "32.790231"
+        }
+    },
+    "1053": {
+        "countryID": 106,
+        "name": "מצפה אבי\"ב",
+        "englishName": "Mitzpe Aviv",
+        "coordinates": {
+            "lon": "35.202996",
+            "lat": "32.835852"
         }
     },
     "1054": {
@@ -3815,6 +5003,15 @@
             "lat": "32.441104"
         }
     },
+    "1059": {
+        "countryID": 106,
+        "name": "מקווה ישראל",
+        "englishName": "Mikve Israel",
+        "coordinates": {
+            "lon": "34.783180",
+            "lat": "32.030680"
+        }
+    },
     "1065": {
         "countryID": 106,
         "name": "משאבי שדה",
@@ -3831,6 +5028,15 @@
         "coordinates": {
             "lon": "34.739225",
             "lat": "31.819474"
+        }
+    },
+    "1069": {
+        "countryID": 106,
+        "name": "משהד",
+        "englishName": "Mashhad",
+        "coordinates": {
+            "lon": "35.324034",
+            "lat": "32.737717"
         }
     },
     "1070": {
@@ -3858,6 +5064,24 @@
         "coordinates": {
             "lon": "34.900660",
             "lat": "31.822453"
+        }
+    },
+    "1074": {
+        "countryID": 106,
+        "name": "משמר הירדן",
+        "englishName": "Mishmar Hayarden",
+        "coordinates": {
+            "lon": "35.598957",
+            "lat": "33.004896"
+        }
+    },
+    "1075": {
+        "countryID": 106,
+        "name": "משמר הנגב",
+        "englishName": "Mishmar Hanegev",
+        "coordinates": {
+            "lon": "34.717959",
+            "lat": "31.364133"
         }
     },
     "1076": {
@@ -3914,6 +5138,15 @@
             "lat": "32.158571"
         }
     },
+    "1085": {
+        "countryID": 106,
+        "name": "נאות גולן",
+        "englishName": "Ne%27Ot Golan",
+        "coordinates": {
+            "lon": "35.690064",
+            "lat": "32.784959"
+        }
+    },
     "1086": {
         "countryID": 106,
         "name": "נאות הכיכר",
@@ -3932,6 +5165,15 @@
             "lat": "33.159828"
         }
     },
+    "1088": {
+        "countryID": 106,
+        "name": "נאעורה",
+        "englishName": "Na%27Ora",
+        "coordinates": {
+            "lon": "35.391717",
+            "lat": "32.614220"
+        }
+    },
     "1089": {
         "countryID": 106,
         "name": "נבטים",
@@ -3939,6 +5181,15 @@
         "coordinates": {
             "lon": "34.881600",
             "lat": "31.223629"
+        }
+    },
+    "1090": {
+        "countryID": 106,
+        "name": "נגבה",
+        "englishName": "Negba",
+        "coordinates": {
+            "lon": "34.683313",
+            "lat": "31.661487"
         }
     },
     "1091": {
@@ -3977,6 +5228,15 @@
             "lat": "31.624768"
         }
     },
+    "1097": {
+        "countryID": 106,
+        "name": "נווה אור",
+        "englishName": "neve or",
+        "coordinates": {
+            "lon": "35.553772",
+            "lat": "32.588151"
+        }
+    },
     "1099": {
         "countryID": 106,
         "name": "נווה אילן",
@@ -4004,6 +5264,24 @@
             "lat": "31.152620"
         }
     },
+    "1106": {
+        "countryID": 106,
+        "name": "נווה זיו",
+        "englishName": "Neve Ziv",
+        "coordinates": {
+            "lon": "35.176321",
+            "lat": "33.027904"
+        }
+    },
+    "1107": {
+        "countryID": 106,
+        "name": "נווה חריף",
+        "englishName": "Neve Harif",
+        "coordinates": {
+            "lon": "35.036599",
+            "lat": "30.038613"
+        }
+    },
     "1108": {
         "countryID": 106,
         "name": "נווה ים",
@@ -4020,6 +5298,15 @@
         "coordinates": {
             "lon": "34.939986",
             "lat": "32.172203"
+        }
+    },
+    "1110": {
+        "countryID": 106,
+        "name": "נווה ירק",
+        "englishName": "Neve Yerek",
+        "coordinates": {
+            "lon": "34.924222",
+            "lat": "32.133156"
         }
     },
     "1111": {
@@ -4049,6 +5336,15 @@
             "lat": "31.567889"
         }
     },
+    "1115": {
+        "countryID": 106,
+        "name": "נוף איילון",
+        "englishName": "Nof Ayalon",
+        "coordinates": {
+            "lon": "34.989380",
+            "lat": "31.868703"
+        }
+    },
     "1116": {
         "countryID": 106,
         "name": "נופים",
@@ -4074,6 +5370,24 @@
         "coordinates": {
             "lon": "34.920363",
             "lat": "32.043618"
+        }
+    },
+    "1119": {
+        "countryID": 106,
+        "name": "נוקדים",
+        "englishName": "Nokdim",
+        "coordinates": {
+            "lon": "35.243065",
+            "lat": "31.654911"
+        }
+    },
+    "1120": {
+        "countryID": 106,
+        "name": "נורדיה",
+        "englishName": "Nordiya",
+        "coordinates": {
+            "lon": "34.896809",
+            "lat": "32.315849"
         }
     },
     "1121": {
@@ -4184,6 +5498,15 @@
             "lat": "31.831350"
         }
     },
+    "1143": {
+        "countryID": 106,
+        "name": "ניין",
+        "englishName": "Nein",
+        "coordinates": {
+            "lon": "35.348921",
+            "lat": "32.631705"
+        }
+    },
     "1144": {
         "countryID": 106,
         "name": "ניל\"י",
@@ -4218,6 +5541,15 @@
         "coordinates": {
             "lon": "34.949557",
             "lat": "32.196486"
+        }
+    },
+    "1151": {
+        "countryID": 106,
+        "name": "ניר בנים",
+        "englishName": "Nir Banim",
+        "coordinates": {
+            "lon": "34.755080",
+            "lat": "31.671889"
         }
     },
     "1152": {
@@ -4281,6 +5613,15 @@
         "coordinates": {
             "lon": "34.990051",
             "lat": "32.699407"
+        }
+    },
+    "1162": {
+        "countryID": 106,
+        "name": "ניר עקיבא",
+        "englishName": "Nir Akiva",
+        "coordinates": {
+            "lon": "34.646221",
+            "lat": "31.469144"
         }
     },
     "1163": {
@@ -4364,6 +5705,15 @@
             "lat": "31.988787"
         }
     },
+    "1180": {
+        "countryID": 106,
+        "name": "נתיב הל\"ה",
+        "englishName": "Netiv Hala",
+        "coordinates": {
+            "lon": "34.983609",
+            "lat": "31.688224"
+        }
+    },
     "1181": {
         "countryID": 106,
         "name": "נתיב העשרה",
@@ -4380,6 +5730,15 @@
         "coordinates": {
             "lon": "35.135579",
             "lat": "32.994078"
+        }
+    },
+    "1183": {
+        "countryID": 106,
+        "name": "נתיבות",
+        "englishName": "Netivot",
+        "coordinates": {
+            "lon": "34.582845",
+            "lat": "31.419695"
         }
     },
     "1184": {
@@ -4416,6 +5775,15 @@
         "coordinates": {
             "lon": "34.881122",
             "lat": "32.046555"
+        }
+    },
+    "1188": {
+        "countryID": 106,
+        "name": "סגולה",
+        "englishName": "Sgula",
+        "coordinates": {
+            "lon": "34.781701",
+            "lat": "31.669437"
         }
     },
     "1192": {
@@ -4463,6 +5831,15 @@
             "lat": "29.832438"
         }
     },
+    "1200": {
+        "countryID": 106,
+        "name": "סעד",
+        "englishName": "Sa%27Ad",
+        "coordinates": {
+            "lon": "34.534802",
+            "lat": "31.471203"
+        }
+    },
     "1202": {
         "countryID": 106,
         "name": "ספיר",
@@ -4508,6 +5885,51 @@
             "lat": "32.992710"
         }
     },
+    "1209": {
+        "countryID": 106,
+        "name": "עדי",
+        "englishName": "Adi",
+        "coordinates": {
+            "lon": "35.174032",
+            "lat": "32.782988"
+        }
+    },
+    "1210": {
+        "countryID": 106,
+        "name": "עדנים",
+        "englishName": "Adanim",
+        "coordinates": {
+            "lon": "34.907810",
+            "lat": "32.138982"
+        }
+    },
+    "1211": {
+        "countryID": 106,
+        "name": "עוזה",
+        "englishName": "Uza",
+        "coordinates": {
+            "lon": "34.764266",
+            "lat": "31.593509"
+        }
+    },
+    "1212": {
+        "countryID": 106,
+        "name": "עוזייר",
+        "englishName": "Uzier",
+        "coordinates": {
+            "lon": "35.326075",
+            "lat": "32.790952"
+        }
+    },
+    "1213": {
+        "countryID": 106,
+        "name": "עולש",
+        "englishName": "Olesh",
+        "coordinates": {
+            "lon": "34.985918",
+            "lat": "32.331916"
+        }
+    },
     "1214": {
         "countryID": 106,
         "name": "עומר",
@@ -4544,6 +5966,24 @@
             "lat": "31.748165"
         }
     },
+    "1225": {
+        "countryID": 106,
+        "name": "עטרת",
+        "englishName": "Ateret",
+        "coordinates": {
+            "lon": "35.176754",
+            "lat": "32.000321"
+        }
+    },
+    "1226": {
+        "countryID": 106,
+        "name": "עידן",
+        "englishName": "Idan",
+        "coordinates": {
+            "lon": "35.301368",
+            "lat": "30.805817"
+        }
+    },
     "1227": {
         "countryID": 106,
         "name": "עיילבון",
@@ -4560,6 +6000,24 @@
         "coordinates": {
             "lon": "35.262753",
             "lat": "32.719344"
+        }
+    },
+    "1230": {
+        "countryID": 106,
+        "name": "עין איילה",
+        "englishName": "Ein Ayala",
+        "coordinates": {
+            "lon": "34.950714",
+            "lat": "32.628962"
+        }
+    },
+    "1232": {
+        "countryID": 106,
+        "name": "עין גב",
+        "englishName": "Ein Gev",
+        "coordinates": {
+            "lon": "35.639871",
+            "lat": "32.783384"
         }
     },
     "1234": {
@@ -4589,6 +6047,33 @@
             "lat": "32.385495"
         }
     },
+    "1238": {
+        "countryID": 106,
+        "name": "עין המפרץ",
+        "englishName": "Ein Hamifratz",
+        "coordinates": {
+            "lon": "35.092809",
+            "lat": "32.901501"
+        }
+    },
+    "1239": {
+        "countryID": 106,
+        "name": "עין הנצי\"ב",
+        "englishName": "Ein Hanatziv",
+        "coordinates": {
+            "lon": "35.502008",
+            "lat": "32.470231"
+        }
+    },
+    "1241": {
+        "countryID": 106,
+        "name": "עין השופט",
+        "englishName": "Ein Hashofet",
+        "coordinates": {
+            "lon": "35.100879",
+            "lat": "32.595444"
+        }
+    },
     "1243": {
         "countryID": 106,
         "name": "עין ורד",
@@ -4596,6 +6081,15 @@
         "coordinates": {
             "lon": "34.931837",
             "lat": "32.265281"
+        }
+    },
+    "1245": {
+        "countryID": 106,
+        "name": "עין חוד",
+        "englishName": "Ein Hud",
+        "coordinates": {
+            "lon": "35.000031",
+            "lat": "32.691970"
         }
     },
     "1246": {
@@ -4659,6 +6153,15 @@
         "coordinates": {
             "lon": "35.352633",
             "lat": "32.722521"
+        }
+    },
+    "1254": {
+        "countryID": 106,
+        "name": "עין נקובא",
+        "englishName": "Ein Nekoba",
+        "coordinates": {
+            "lon": "35.120194",
+            "lat": "31.792742"
         }
     },
     "1255": {
@@ -4733,6 +6236,15 @@
             "lat": "32.071477"
         }
     },
+    "1267": {
+        "countryID": 106,
+        "name": "עלי זהב",
+        "englishName": "Alei Zahav",
+        "coordinates": {
+            "lon": "35.055854",
+            "lat": "32.069916"
+        }
+    },
     "1268": {
         "countryID": 106,
         "name": "עלמה",
@@ -4742,6 +6254,15 @@
             "lat": "33.052980"
         }
     },
+    "1270": {
+        "countryID": 106,
+        "name": "עמוקה",
+        "englishName": "amuka",
+        "coordinates": {
+            "lon": "35.523291",
+            "lat": "32.997105"
+        }
+    },
     "1271": {
         "countryID": 106,
         "name": "עמינדב",
@@ -4749,6 +6270,24 @@
         "coordinates": {
             "lon": "35.141863",
             "lat": "31.751312"
+        }
+    },
+    "1272": {
+        "countryID": 106,
+        "name": "עמיעד",
+        "englishName": "Ami%27Ad",
+        "coordinates": {
+            "lon": "35.541614",
+            "lat": "32.928101"
+        }
+    },
+    "1274": {
+        "countryID": 106,
+        "name": "עמיקם",
+        "englishName": "Amikam",
+        "coordinates": {
+            "lon": "35.021899",
+            "lat": "32.563694"
         }
     },
     "1276": {
@@ -4868,6 +6407,24 @@
             "lat": "31.439746"
         }
     },
+    "1293": {
+        "countryID": 106,
+        "name": "פדואל",
+        "englishName": "Peduel",
+        "coordinates": {
+            "lon": "35.053090",
+            "lat": "32.062082"
+        }
+    },
+    "1294": {
+        "countryID": 106,
+        "name": "פדויים",
+        "englishName": "Peduim",
+        "coordinates": {
+            "lon": "34.610843",
+            "lat": "31.328496"
+        }
+    },
     "1295": {
         "countryID": 106,
         "name": "פדיה",
@@ -4904,6 +6461,15 @@
             "lat": "32.597314"
         }
     },
+    "1300": {
+        "countryID": 106,
+        "name": "פורת",
+        "englishName": "Porat",
+        "coordinates": {
+            "lon": "34.949068",
+            "lat": "32.276021"
+        }
+    },
     "1301": {
         "countryID": 106,
         "name": "פטיש",
@@ -4920,6 +6486,24 @@
         "coordinates": {
             "lon": "35.234081",
             "lat": "32.933448"
+        }
+    },
+    "1303": {
+        "countryID": 106,
+        "name": "פלמחים",
+        "englishName": "Palmachim",
+        "coordinates": {
+            "lon": "34.707081",
+            "lat": "31.932910"
+        }
+    },
+    "1304": {
+        "countryID": 106,
+        "name": "פני חבר",
+        "englishName": "Pnei Hever",
+        "coordinates": {
+            "lon": "35.164773",
+            "lat": "31.485881"
         }
     },
     "1305": {
@@ -4994,6 +6578,15 @@
             "lat": "32.090142"
         }
     },
+    "1318": {
+        "countryID": 106,
+        "name": "צאלים",
+        "englishName": "Tze%27Elim",
+        "coordinates": {
+            "lon": "34.534108",
+            "lat": "31.204042"
+        }
+    },
     "1319": {
         "countryID": 106,
         "name": "צביה",
@@ -5030,6 +6623,15 @@
             "lat": "31.855657"
         }
     },
+    "1324": {
+        "countryID": 106,
+        "name": "צופים",
+        "englishName": "Tzofim",
+        "coordinates": {
+            "lon": "35.010646",
+            "lat": "32.198095"
+        }
+    },
     "1327": {
         "countryID": 106,
         "name": "צוקי ים",
@@ -5055,6 +6657,15 @@
         "coordinates": {
             "lon": "35.013118",
             "lat": "32.241365"
+        }
+    },
+    "1333": {
+        "countryID": 106,
+        "name": "צורית",
+        "englishName": "Tzurit",
+        "coordinates": {
+            "lon": "35.254120",
+            "lat": "32.902231"
         }
     },
     "1335": {
@@ -5127,6 +6738,15 @@
         "coordinates": {
             "lon": "35.160844",
             "lat": "32.219604"
+        }
+    },
+    "1348": {
+        "countryID": 106,
+        "name": "קדמה",
+        "englishName": "Kedma",
+        "coordinates": {
+            "lon": "34.776095",
+            "lat": "31.701417"
         }
     },
     "1349": {
@@ -5354,6 +6974,24 @@
             "lat": "32.938393"
         }
     },
+    "1385": {
+        "countryID": 106,
+        "name": "ראס אל-עין",
+        "englishName": "Ras El-Ein",
+        "coordinates": {
+            "lon": "35.372010",
+            "lat": "32.917154"
+        }
+    },
+    "1386": {
+        "countryID": 106,
+        "name": "ראס עלי",
+        "englishName": "Ras Ali",
+        "coordinates": {
+            "lon": "35.152100",
+            "lat": "32.769545"
+        }
+    },
     "1387": {
         "countryID": 106,
         "name": "ראש העין",
@@ -5399,6 +7037,15 @@
             "lat": "31.773758"
         }
     },
+    "1393": {
+        "countryID": 106,
+        "name": "רביבים",
+        "englishName": "Ravivim",
+        "coordinates": {
+            "lon": "34.722275",
+            "lat": "31.044171"
+        }
+    },
     "1394": {
         "countryID": 106,
         "name": "רביד",
@@ -5406,6 +7053,15 @@
         "coordinates": {
             "lon": "35.463019",
             "lat": "32.850325"
+        }
+    },
+    "1395": {
+        "countryID": 106,
+        "name": "רגבה",
+        "englishName": "Regba",
+        "coordinates": {
+            "lon": "35.095083",
+            "lat": "32.976223"
         }
     },
     "1397": {
@@ -5498,6 +7154,15 @@
             "lat": "32.468912"
         }
     },
+    "1408": {
+        "countryID": 106,
+        "name": "ריינה",
+        "englishName": "Reineh",
+        "coordinates": {
+            "lon": "35.315356",
+            "lat": "32.720434"
+        }
+    },
     "1409": {
         "countryID": 106,
         "name": "רכסים",
@@ -5523,6 +7188,15 @@
         "coordinates": {
             "lon": "35.340235",
             "lat": "31.934621"
+        }
+    },
+    "1412": {
+        "countryID": 106,
+        "name": "רמות",
+        "englishName": "Ramot",
+        "coordinates": {
+            "lon": "35.668410",
+            "lat": "32.849899"
         }
     },
     "1413": {
@@ -5615,6 +7289,15 @@
             "lat": "32.792914"
         }
     },
+    "1425": {
+        "countryID": 106,
+        "name": "רמת ישי",
+        "englishName": "Ramat Yishai",
+        "coordinates": {
+            "lon": "35.166278",
+            "lat": "32.703181"
+        }
+    },
     "1428": {
         "countryID": 106,
         "name": "רמת צבי",
@@ -5622,6 +7305,15 @@
         "coordinates": {
             "lon": "35.415011",
             "lat": "32.592411"
+        }
+    },
+    "1431": {
+        "countryID": 106,
+        "name": "רנן",
+        "englishName": "Ranen",
+        "coordinates": {
+            "lon": "34.600736",
+            "lat": "31.336786"
         }
     },
     "1432": {
@@ -5669,6 +7361,24 @@
             "lat": "32.481579"
         }
     },
+    "1438": {
+        "countryID": 106,
+        "name": "רתמים",
+        "englishName": "Retamim",
+        "coordinates": {
+            "lon": "34.690832",
+            "lat": "31.052492"
+        }
+    },
+    "1441": {
+        "countryID": 106,
+        "name": "שבי ציון",
+        "englishName": "Shavei Tziyon",
+        "coordinates": {
+            "lon": "35.083824",
+            "lat": "32.981884"
+        }
+    },
     "1443": {
         "countryID": 106,
         "name": "שבלי - אום אל-גנם",
@@ -5685,6 +7395,15 @@
         "coordinates": {
             "lon": "34.838612",
             "lat": "31.199164"
+        }
+    },
+    "1447": {
+        "countryID": 106,
+        "name": "שדה אילן",
+        "englishName": "Sde Ilan",
+        "coordinates": {
+            "lon": "35.423062",
+            "lat": "32.750111"
         }
     },
     "1448": {
@@ -5732,6 +7451,42 @@
             "lat": "32.158144"
         }
     },
+    "1455": {
+        "countryID": 106,
+        "name": "שדה יעקב",
+        "englishName": "Sde Ya%27Akov",
+        "coordinates": {
+            "lon": "35.141050",
+            "lat": "32.699472"
+        }
+    },
+    "1456": {
+        "countryID": 106,
+        "name": "שדה יצחק",
+        "englishName": "Sde Yitzhak",
+        "coordinates": {
+            "lon": "34.993480",
+            "lat": "32.405205"
+        }
+    },
+    "1457": {
+        "countryID": 106,
+        "name": "שדה משה",
+        "englishName": "Sde Moshe",
+        "coordinates": {
+            "lon": "34.801727",
+            "lat": "31.610877"
+        }
+    },
+    "1459": {
+        "countryID": 106,
+        "name": "שדה נחמיה",
+        "englishName": "Sde Nechamia",
+        "coordinates": {
+            "lon": "35.622050",
+            "lat": "33.185826"
+        }
+    },
     "1461": {
         "countryID": 106,
         "name": "שדה עוזיהו",
@@ -5757,6 +7512,15 @@
         "coordinates": {
             "lon": "34.891895",
             "lat": "32.492140"
+        }
+    },
+    "1464": {
+        "countryID": 106,
+        "name": "שדות מיכה",
+        "englishName": "Sdot Micha",
+        "coordinates": {
+            "lon": "34.920849",
+            "lat": "31.721397"
         }
     },
     "1466": {
@@ -5822,6 +7586,15 @@
             "lat": "31.415311"
         }
     },
+    "1474": {
+        "countryID": 106,
+        "name": "שוהם",
+        "englishName": "Shoham",
+        "coordinates": {
+            "lon": "34.946772",
+            "lat": "31.997787"
+        }
+    },
     "1475": {
         "countryID": 106,
         "name": "שומרה",
@@ -5849,6 +7622,15 @@
             "lat": "31.422546"
         }
     },
+    "1479": {
+        "countryID": 106,
+        "name": "שורשים",
+        "englishName": "Shorashim",
+        "coordinates": {
+            "lon": "35.257591",
+            "lat": "32.892776"
+        }
+    },
     "1480": {
         "countryID": 106,
         "name": "שושנת העמקים",
@@ -5865,6 +7647,42 @@
         "coordinates": {
             "lon": "34.725473",
             "lat": "31.617943"
+        }
+    },
+    "1483": {
+        "countryID": 106,
+        "name": "שחרות",
+        "englishName": "Shahrut",
+        "coordinates": {
+            "lon": "35.000489",
+            "lat": "29.903817"
+        }
+    },
+    "1484": {
+        "countryID": 106,
+        "name": "שיבולים",
+        "englishName": "Shibolim",
+        "coordinates": {
+            "lon": "34.607550",
+            "lat": "31.395294"
+        }
+    },
+    "1485": {
+        "countryID": 106,
+        "name": "נגוהות",
+        "englishName": "Negohot",
+        "coordinates": {
+            "lon": "34.983261",
+            "lat": "31.492956"
+        }
+    },
+    "1486": {
+        "countryID": 106,
+        "name": "שיטים",
+        "englishName": "Shitim",
+        "coordinates": {
+            "lon": "35.016188",
+            "lat": "30.175880"
         }
     },
     "1488": {
@@ -5921,6 +7739,24 @@
             "lat": "33.076784"
         }
     },
+    "1495": {
+        "countryID": 106,
+        "name": "שמיר",
+        "englishName": "shamir",
+        "coordinates": {
+            "lon": "35.660465",
+            "lat": "33.164437"
+        }
+    },
+    "1496": {
+        "countryID": 106,
+        "name": "שמעה",
+        "englishName": "Shim%27A",
+        "coordinates": {
+            "lon": "35.011737",
+            "lat": "31.387989"
+        }
+    },
     "1497": {
         "countryID": 106,
         "name": "שמרת",
@@ -5928,6 +7764,15 @@
         "coordinates": {
             "lon": "35.095719",
             "lat": "32.950714"
+        }
+    },
+    "1500": {
+        "countryID": 106,
+        "name": "שעב",
+        "englishName": "Shaab",
+        "coordinates": {
+            "lon": "35.237469",
+            "lat": "32.889490"
         }
     },
     "1501": {
@@ -6038,6 +7883,15 @@
             "lat": "32.664398"
         }
     },
+    "1517": {
+        "countryID": 106,
+        "name": "שרשרת",
+        "englishName": "Sharsheret",
+        "coordinates": {
+            "lon": "34.603497",
+            "lat": "31.404892"
+        }
+    },
     "1518": {
         "countryID": 106,
         "name": "שתולה",
@@ -6045,6 +7899,15 @@
         "coordinates": {
             "lon": "35.314223",
             "lat": "33.085124"
+        }
+    },
+    "1519": {
+        "countryID": 106,
+        "name": "שתולים",
+        "englishName": "Shtulim",
+        "coordinates": {
+            "lon": "34.683016",
+            "lat": "31.773767"
         }
     },
     "1520": {
@@ -6155,6 +8018,15 @@
             "lat": "32.706634"
         }
     },
+    "1533": {
+        "countryID": 106,
+        "name": "תל שבע",
+        "englishName": "Tel Sheva",
+        "coordinates": {
+            "lon": "34.860446",
+            "lat": "31.247487"
+        }
+    },
     "1534": {
         "countryID": 106,
         "name": "תל תאומים",
@@ -6171,6 +8043,15 @@
         "coordinates": {
             "lon": "35.030983",
             "lat": "31.562307"
+        }
+    },
+    "1537": {
+        "countryID": 106,
+        "name": "תלמי אלעזר",
+        "englishName": "Talmei Elazar",
+        "coordinates": {
+            "lon": "34.974700",
+            "lat": "32.445629"
         }
     },
     "1538": {
@@ -6198,6 +8079,15 @@
         "coordinates": {
             "lon": "34.963129",
             "lat": "32.310508"
+        }
+    },
+    "1545": {
+        "countryID": 106,
+        "name": "תעוז",
+        "englishName": "Taoz",
+        "coordinates": {
+            "lon": "34.974779",
+            "lat": "31.800622"
         }
     },
     "1546": {
@@ -6234,6 +8124,15 @@
         "coordinates": {
             "lon": "34.740254",
             "lat": "31.345169"
+        }
+    },
+    "1550": {
+        "countryID": 106,
+        "name": "תרום",
+        "englishName": "Tarom",
+        "coordinates": {
+            "lon": "34.981525",
+            "lat": "31.784090"
         }
     },
     "1563": {
@@ -6290,6 +8189,15 @@
             "lat": "32.144833"
         }
     },
+    "1576": {
+        "countryID": 106,
+        "name": "ברוכין",
+        "englishName": "Brukhin",
+        "coordinates": {
+            "lon": "35.092851",
+            "lat": "32.081967"
+        }
+    },
     "1577": {
         "countryID": 106,
         "name": "טל מנשה",
@@ -6306,6 +8214,15 @@
         "coordinates": {
             "lon": "35.255790",
             "lat": "32.101952"
+        }
+    },
+    "1579": {
+        "countryID": 106,
+        "name": "קרית תעופה",
+        "englishName": "kiryat sde hate%27ufa",
+        "coordinates": {
+            "lon": "34.912258",
+            "lat": "31.988554"
         }
     },
     "1583": {
@@ -6380,6 +8297,24 @@
             "lat": "31.083888"
         }
     },
+    "1602": {
+        "countryID": 106,
+        "name": "רותם",
+        "englishName": "Rotem",
+        "coordinates": {
+            "lon": "35.518433",
+            "lat": "32.335711"
+        }
+    },
+    "1621": {
+        "countryID": 106,
+        "name": "מפעלי גרנות",
+        "englishName": "Granot Plants",
+        "coordinates": {
+            "lon": "34.953150",
+            "lat": "32.444761"
+        }
+    },
     "1624": {
         "countryID": 106,
         "name": "אזור תעשייה מישור רותם",
@@ -6398,6 +8333,24 @@
             "lat": "31.763894"
         }
     },
+    "1639": {
+        "countryID": 106,
+        "name": "פארק תעשיות חבל מודיעין",
+        "englishName": "Hevel Modi%27In Industrial Park",
+        "coordinates": {
+            "lon": "34.960287",
+            "lat": "32.008321"
+        }
+    },
+    "1640": {
+        "countryID": 106,
+        "name": "פארק תעשיות עמק חפר",
+        "englishName": "Emek Hefer Industrial Park",
+        "coordinates": {
+            "lon": "34.895695",
+            "lat": "32.400847"
+        }
+    },
     "1641": {
         "countryID": 106,
         "name": "פארק תעשיות ראם",
@@ -6405,6 +8358,15 @@
         "coordinates": {
             "lon": "34.752930",
             "lat": "31.770335"
+        }
+    },
+    "1645": {
+        "countryID": 106,
+        "name": "צמח",
+        "englishName": "Zemah",
+        "coordinates": {
+            "lon": "35.585802",
+            "lat": "32.703095"
         }
     },
     "1649": {
@@ -6423,6 +8385,15 @@
         "coordinates": {
             "lon": "34.595741",
             "lat": "31.511632"
+        }
+    },
+    "1653": {
+        "countryID": 106,
+        "name": "תעשיון צריפין",
+        "englishName": "Ta%27Asion Tzrifin",
+        "coordinates": {
+            "lon": "34.850775",
+            "lat": "31.965083"
         }
     },
     "1657": {
@@ -6459,6 +8430,42 @@
         "coordinates": {
             "lon": "35.248533",
             "lat": "32.830781"
+        }
+    },
+    "1769": {
+        "countryID": 106,
+        "name": "שני",
+        "englishName": "Shani Livne",
+        "coordinates": {
+            "lon": "35.068802",
+            "lat": "31.357535"
+        }
+    },
+    "1774": {
+        "countryID": 106,
+        "name": "א.ת. אלון תבור",
+        "englishName": "Alon Tavor Industrial Zone",
+        "coordinates": {
+            "lon": "35.362479",
+            "lat": "32.636404"
+        }
+    },
+    "1802": {
+        "countryID": 106,
+        "name": "איזור תעשיה קדמת הגליל",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.466963",
+            "lat": "32.786689"
+        }
+    },
+    "1803": {
+        "countryID": 106,
+        "name": "מבואות יריחו",
+        "englishName": "Mevo%27Ot Yericho",
+        "coordinates": {
+            "lon": "35.416982",
+            "lat": "31.907920"
         }
     },
     "1808": {
@@ -6506,6 +8513,24 @@
             "lat": "31.530351"
         }
     },
+    "2101": {
+        "countryID": 106,
+        "name": "נערן",
+        "englishName": "Na%27Aran",
+        "coordinates": {
+            "lon": "35.455863",
+            "lat": "31.966901"
+        }
+    },
+    "2121": {
+        "countryID": 106,
+        "name": "מצפה אילן",
+        "englishName": "Mitzpe Ilan",
+        "coordinates": {
+            "lon": "35.068770",
+            "lat": "32.461460"
+        }
+    },
     "2122": {
         "countryID": 106,
         "name": "חריש",
@@ -6549,6 +8574,15 @@
         "coordinates": {
             "lon": "35.212628",
             "lat": "31.906643"
+        }
+    },
+    "2368": {
+        "countryID": 244,
+        "name": "Qalandiya Camp - مُخَيَّمْ قَلَنْدِيَا",
+        "englishName": "Qalandia",
+        "coordinates": {
+            "lon": "35.228801",
+            "lat": "31.868253"
         }
     },
     "2392": {
@@ -6740,6 +8774,15 @@
             "lat": "31.699911"
         }
     },
+    "2675": {
+        "countryID": 244,
+        "name": "Salfit - سلفيت",
+        "englishName": "salfit",
+        "coordinates": {
+            "lon": "35.181057",
+            "lat": "32.084921"
+        }
+    },
     "2678": {
         "countryID": 106,
         "name": "מעלה חבר",
@@ -6756,6 +8799,15 @@
         "coordinates": {
             "lon": "35.283460",
             "lat": "32.140115"
+        }
+    },
+    "2718": {
+        "countryID": 106,
+        "name": "עראמשה",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.226289",
+            "lat": "33.089902"
         }
     },
     "2764": {
@@ -6900,6 +8952,24 @@
         "coordinates": {
             "lon": "35.465754",
             "lat": "31.855978"
+        }
+    },
+    "2861": {
+        "countryID": 244,
+        "name": "Hizma - حزما",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.263056",
+            "lat": "31.833563"
+        }
+    },
+    "2865": {
+        "countryID": 244,
+        "name": "%27Atara - عطارة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.202274",
+            "lat": "31.999270"
         }
     },
     "2871": {
@@ -7064,6 +9134,24 @@
             "lat": "31.647919"
         }
     },
+    "2907": {
+        "countryID": 244,
+        "name": "Kafr ad-Dik - كفر الديك",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.081537",
+            "lat": "32.069493"
+        }
+    },
+    "2908": {
+        "countryID": 244,
+        "name": "Bruqin - إبروقين‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.100889",
+            "lat": "32.075895"
+        }
+    },
     "2909": {
         "countryID": 244,
         "name": "al-Khader - الخضر",
@@ -7071,6 +9159,15 @@
         "coordinates": {
             "lon": "35.163816",
             "lat": "31.697212"
+        }
+    },
+    "2910": {
+        "countryID": 244,
+        "name": "al-Dawha - الدوحة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.181003",
+            "lat": "31.699503"
         }
     },
     "2911": {
@@ -7118,6 +9215,15 @@
             "lat": "31.708259"
         }
     },
+    "2917": {
+        "countryID": 244,
+        "name": "Ash-Shawawra - الشواورة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.264682",
+            "lat": "31.689349"
+        }
+    },
     "2927": {
         "countryID": 244,
         "name": "Deir Sammit - دير سامت",
@@ -7125,6 +9231,15 @@
         "coordinates": {
             "lon": "34.973408",
             "lat": "31.519582"
+        }
+    },
+    "2929": {
+        "countryID": 244,
+        "name": "Beit Awwa - بيت عوّا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "34.953757",
+            "lat": "31.507512"
         }
     },
     "2930": {
@@ -7154,6 +9269,24 @@
             "lat": "32.260270"
         }
     },
+    "2937": {
+        "countryID": 244,
+        "name": "Zababdeh - الزبابدة‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.324680",
+            "lat": "32.384695"
+        }
+    },
+    "2941": {
+        "countryID": 244,
+        "name": "Anabta - عنبتا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.116646",
+            "lat": "32.308088"
+        }
+    },
     "2942": {
         "countryID": 244,
         "name": "Shuweika - شويكة",
@@ -7161,6 +9294,15 @@
         "coordinates": {
             "lon": "35.034077",
             "lat": "32.331276"
+        }
+    },
+    "2943": {
+        "countryID": 244,
+        "name": "Iktaba - إكتابا‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.050179",
+            "lat": "32.326204"
         }
     },
     "2945": {
@@ -7190,6 +9332,24 @@
             "lat": "32.031217"
         }
     },
+    "2956": {
+        "countryID": 244,
+        "name": "Deir Ballut - دير بلوط",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.024027",
+            "lat": "32.065300"
+        }
+    },
+    "2968": {
+        "countryID": 244,
+        "name": "Karma - كرمة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.026975",
+            "lat": "31.450859"
+        }
+    },
     "2988": {
         "countryID": 244,
         "name": "Beit Amin - بيت أمين",
@@ -7217,6 +9377,15 @@
             "lat": "32.096952"
         }
     },
+    "2995": {
+        "countryID": 244,
+        "name": "Rafat %28Salfit%29 – رافات محافظة سلفيت",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.045808",
+            "lat": "32.078064"
+        }
+    },
     "3012": {
         "countryID": 106,
         "name": "אזור תעשיה באר טוביה",
@@ -7224,6 +9393,24 @@
         "coordinates": {
             "lon": "34.750693",
             "lat": "31.727099"
+        }
+    },
+    "3014": {
+        "countryID": 244,
+        "name": "Khirbat Asala - خربة عسلة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.033217",
+            "lat": "32.171513"
+        }
+    },
+    "3015": {
+        "countryID": 244,
+        "name": "Nabi Ilyas - نبي الياس",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.020475",
+            "lat": "32.184835"
         }
     },
     "3025": {
@@ -7260,6 +9447,15 @@
         "coordinates": {
             "lon": "35.529748",
             "lat": "32.174336"
+        }
+    },
+    "3036": {
+        "countryID": 244,
+        "name": "Marj Al-Ghazal - مرج الغزال",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.527761",
+            "lat": "32.168433"
         }
     },
     "3046": {
@@ -7316,6 +9512,15 @@
             "lat": "31.558025"
         }
     },
+    "3139": {
+        "countryID": 106,
+        "name": "פארק תעשיות בר - לב",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.191674",
+            "lat": "32.907413"
+        }
+    },
     "3143": {
         "countryID": 106,
         "name": "שריגים %28לי-און%29",
@@ -7341,6 +9546,15 @@
         "coordinates": {
             "lon": "35.300095",
             "lat": "32.461993"
+        }
+    },
+    "3224": {
+        "countryID": 244,
+        "name": "Husan - حوسان‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.132928",
+            "lat": "31.708817"
         }
     },
     "3226": {
@@ -7395,6 +9609,15 @@
         "coordinates": {
             "lon": "35.062524",
             "lat": "31.478618"
+        }
+    },
+    "3233": {
+        "countryID": 244,
+        "name": "Sa%27ir - سعير",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.145952",
+            "lat": "31.587412"
         }
     },
     "3234": {
@@ -7460,6 +9683,42 @@
             "lat": "32.193094"
         }
     },
+    "3242": {
+        "countryID": 244,
+        "name": "Jalbun - جلبون",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.413824",
+            "lat": "32.459765"
+        }
+    },
+    "3243": {
+        "countryID": 244,
+        "name": "Beit Qad - بيت قاد",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.356611",
+            "lat": "32.469858"
+        }
+    },
+    "3244": {
+        "countryID": 244,
+        "name": "Deir Abu Da%27if - دير أبو ضعيف",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.361111",
+            "lat": "32.456343"
+        }
+    },
+    "3245": {
+        "countryID": 244,
+        "name": "Deir Ghazaleh - دير غزالة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.352079",
+            "lat": "32.495994"
+        }
+    },
     "3246": {
         "countryID": 244,
         "name": "Faqqua - فقوعة",
@@ -7485,6 +9744,15 @@
         "coordinates": {
             "lon": "35.190003",
             "lat": "32.252503"
+        }
+    },
+    "3250": {
+        "countryID": 244,
+        "name": "Beit Iba - بيت ايبا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.215747",
+            "lat": "32.236767"
         }
     },
     "3251": {
@@ -7550,6 +9818,24 @@
             "lat": "32.117457"
         }
     },
+    "3259": {
+        "countryID": 244,
+        "name": "Sir - صير",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.314157",
+            "lat": "32.362586"
+        }
+    },
+    "3261": {
+        "countryID": 244,
+        "name": "Qira - قيره‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.172295",
+            "lat": "32.122242"
+        }
+    },
     "3262": {
         "countryID": 244,
         "name": "Marda - مرده‎",
@@ -7602,6 +9888,15 @@
         "coordinates": {
             "lon": "35.371839",
             "lat": "32.323680"
+        }
+    },
+    "3270": {
+        "countryID": 244,
+        "name": "Beit Liqya - بيت لقيا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.067325",
+            "lat": "31.868369"
         }
     },
     "3271": {
@@ -7667,6 +9962,15 @@
             "lat": "31.967094"
         }
     },
+    "3284": {
+        "countryID": 244,
+        "name": "Asira ash-Shamaliya - عصيرة الشمالية",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.265784",
+            "lat": "32.252704"
+        }
+    },
     "3285": {
         "countryID": 244,
         "name": "Beit Ur al-Tahta - بيت عور التحتا",
@@ -7674,6 +9978,15 @@
         "coordinates": {
             "lon": "35.084550",
             "lat": "31.895405"
+        }
+    },
+    "3286": {
+        "countryID": 244,
+        "name": "Beit %27Anan - بيت عنان‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.111307",
+            "lat": "31.851060"
         }
     },
     "3288": {
@@ -7703,6 +10016,15 @@
             "lat": "32.293320"
         }
     },
+    "3294": {
+        "countryID": 244,
+        "name": "Beit Surik - بيت سوريك",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.148663",
+            "lat": "31.824095"
+        }
+    },
     "3295": {
         "countryID": 244,
         "name": "Sarta - سرطّه",
@@ -7719,6 +10041,24 @@
         "coordinates": {
             "lon": "35.140264",
             "lat": "31.721906"
+        }
+    },
+    "3298": {
+        "countryID": 244,
+        "name": "Deir Istiya - دير إستيا‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.139928",
+            "lat": "32.131847"
+        }
+    },
+    "3301": {
+        "countryID": 244,
+        "name": "Kafr Ra%27i - كفر راعي",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.153977",
+            "lat": "32.374055"
         }
     },
     "3302": {
@@ -7739,6 +10079,24 @@
             "lat": "32.027103"
         }
     },
+    "3304": {
+        "countryID": 244,
+        "name": "Jamma%27in - جمّاعين",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.201842",
+            "lat": "32.132755"
+        }
+    },
+    "3305": {
+        "countryID": 244,
+        "name": "Zeita Jamma%27in - زيتا جمّاعين",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.186647",
+            "lat": "32.137814"
+        }
+    },
     "3307": {
         "countryID": 244,
         "name": "Urif - عوريف",
@@ -7755,6 +10113,15 @@
         "coordinates": {
             "lon": "35.216066",
             "lat": "32.178743"
+        }
+    },
+    "3309": {
+        "countryID": 244,
+        "name": "Za%27atara - زعترة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.258133",
+            "lat": "31.669522"
         }
     },
     "3310": {
@@ -7809,6 +10176,15 @@
         "coordinates": {
             "lon": "35.345048",
             "lat": "32.420810"
+        }
+    },
+    "3317": {
+        "countryID": 244,
+        "name": "Al-Mutilla - خربة المطلة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.407136",
+            "lat": "32.420327"
         }
     },
     "3318": {
@@ -7881,6 +10257,15 @@
         "coordinates": {
             "lon": "35.269289",
             "lat": "31.911980"
+        }
+    },
+    "3326": {
+        "countryID": 244,
+        "name": "Mirka - مِركة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.239062",
+            "lat": "32.395861"
         }
     },
     "3327": {
@@ -8000,6 +10385,15 @@
             "lat": "31.674618"
         }
     },
+    "3341": {
+        "countryID": 244,
+        "name": "Misilyah - مسلية",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.289932",
+            "lat": "32.386949"
+        }
+    },
     "3344": {
         "countryID": 244,
         "name": "Al-Lubban ash-Sharqiya - اللبن الشرقية",
@@ -8045,6 +10439,15 @@
             "lat": "32.386705"
         }
     },
+    "3352": {
+        "countryID": 244,
+        "name": "Kafr Dan - كفر دان",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.255590",
+            "lat": "32.479018"
+        }
+    },
     "3353": {
         "countryID": 244,
         "name": "Al-Yamun - اليامون",
@@ -8061,6 +10464,15 @@
         "coordinates": {
             "lon": "35.364273",
             "lat": "32.511973"
+        }
+    },
+    "3356": {
+        "countryID": 244,
+        "name": "Farkha - فرخة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.154839",
+            "lat": "32.069142"
         }
     },
     "3357": {
@@ -8126,6 +10538,15 @@
             "lat": "32.221256"
         }
     },
+    "3367": {
+        "countryID": 244,
+        "name": "Baqa ash-Sharqiyya - باقة الشرقية",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.069619",
+            "lat": "32.410465"
+        }
+    },
     "3368": {
         "countryID": 244,
         "name": "Qaffin - قفّين‎",
@@ -8153,6 +10574,15 @@
             "lat": "32.289552"
         }
     },
+    "3371": {
+        "countryID": 244,
+        "name": "Yasid - ياصيد",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.278722",
+            "lat": "32.293733"
+        }
+    },
     "3372": {
         "countryID": 244,
         "name": "Seida - صيدا‎",
@@ -8169,6 +10599,15 @@
         "coordinates": {
             "lon": "34.912644",
             "lat": "31.376806"
+        }
+    },
+    "3374": {
+        "countryID": 244,
+        "name": "Kufeirit - كفيرت‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.203820",
+            "lat": "32.440714"
         }
     },
     "3377": {
@@ -8261,6 +10700,24 @@
             "lat": "31.839787"
         }
     },
+    "3390": {
+        "countryID": 244,
+        "name": "Nur Shams - مخيم نور شمس",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.058211",
+            "lat": "32.315922"
+        }
+    },
+    "3391": {
+        "countryID": 244,
+        "name": "Qusra - قصرة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.329829",
+            "lat": "32.084242"
+        }
+    },
     "3393": {
         "countryID": 244,
         "name": "Saffa - صفّا‎",
@@ -8268,6 +10725,15 @@
         "coordinates": {
             "lon": "35.060144",
             "lat": "31.906029"
+        }
+    },
+    "3394": {
+        "countryID": 244,
+        "name": "%27Anin - عنين",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.170477",
+            "lat": "32.502143"
         }
     },
     "3395": {
@@ -8315,6 +10781,15 @@
             "lat": "32.184314"
         }
     },
+    "3401": {
+        "countryID": 244,
+        "name": "Kafr Malik - كفر مالك",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.310565",
+            "lat": "31.988140"
+        }
+    },
     "3402": {
         "countryID": 244,
         "name": "Mukhmas - مُخماس",
@@ -8331,6 +10806,15 @@
         "coordinates": {
             "lon": "35.190005",
             "lat": "31.658988"
+        }
+    },
+    "3405": {
+        "countryID": 244,
+        "name": "As-Sawiya - الساويه‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.256864",
+            "lat": "32.085015"
         }
     },
     "3406": {
@@ -8369,6 +10853,15 @@
             "lat": "32.213074"
         }
     },
+    "3410": {
+        "countryID": 244,
+        "name": "Abu Dis - أبو ديس‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.261807",
+            "lat": "31.756476"
+        }
+    },
     "3411": {
         "countryID": 244,
         "name": "Ein Al Sultan - مخيم عين السلطان",
@@ -8376,6 +10869,15 @@
         "coordinates": {
             "lon": "35.446275",
             "lat": "31.877698"
+        }
+    },
+    "3412": {
+        "countryID": 244,
+        "name": "Biddya - بديا‎",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.078854",
+            "lat": "32.115648"
         }
     },
     "3413": {
@@ -8396,6 +10898,15 @@
             "lat": "31.907397"
         }
     },
+    "3415": {
+        "countryID": 244,
+        "name": "Tuqu%27 - تقوع",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.213268",
+            "lat": "31.643803"
+        }
+    },
     "3416": {
         "countryID": 244,
         "name": "Harmala - حَرْمَلَة",
@@ -8414,6 +10925,15 @@
             "lat": "32.047559"
         }
     },
+    "3418": {
+        "countryID": 244,
+        "name": "Rawabi - روابي",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.190117",
+            "lat": "32.012510"
+        }
+    },
     "3420": {
         "countryID": 244,
         "name": "Deir Nidham - دير نظام",
@@ -8421,6 +10941,15 @@
         "coordinates": {
             "lon": "35.114756",
             "lat": "32.003048"
+        }
+    },
+    "3421": {
+        "countryID": 244,
+        "name": "Wadi Fukin - وادي فوكين",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.103141",
+            "lat": "31.707384"
         }
     },
     "3422": {
@@ -8459,6 +10988,15 @@
             "lat": "31.974439"
         }
     },
+    "3426": {
+        "countryID": 244,
+        "name": "Jilijliya - جلجيليا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.221677",
+            "lat": "32.029366"
+        }
+    },
     "3428": {
         "countryID": 244,
         "name": "Bani Zeid al-Sharqiya - بني زيد الشرقية‎",
@@ -8486,6 +11024,15 @@
             "lat": "32.055420"
         }
     },
+    "3433": {
+        "countryID": 244,
+        "name": "Khirbet Qeis - خربة قيس",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.177259",
+            "lat": "32.062442"
+        }
+    },
     "3434": {
         "countryID": 244,
         "name": "Al Lubban al Gharbi - اللبن الغربي",
@@ -8493,6 +11040,15 @@
         "coordinates": {
             "lon": "35.039022",
             "lat": "32.034765"
+        }
+    },
+    "3435": {
+        "countryID": 244,
+        "name": "Mas-ha - مسحة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.051297",
+            "lat": "32.108801"
         }
     },
     "3436": {
@@ -8513,6 +11069,15 @@
             "lat": "32.159321"
         }
     },
+    "3438": {
+        "countryID": 244,
+        "name": "Jibya - جيبيا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.158340",
+            "lat": "31.999045"
+        }
+    },
     "3439": {
         "countryID": 244,
         "name": "Bayt Rima - بيت ريما",
@@ -8520,6 +11085,15 @@
         "coordinates": {
             "lon": "35.102935",
             "lat": "32.032580"
+        }
+    },
+    "3440": {
+        "countryID": 244,
+        "name": "Tilfit - تلفيت",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.295101",
+            "lat": "32.083781"
         }
     },
     "3441": {
@@ -8549,6 +11123,24 @@
             "lat": "31.975562"
         }
     },
+    "3445": {
+        "countryID": 244,
+        "name": "Baytillo - بيتللو",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.120398",
+            "lat": "31.972441"
+        }
+    },
+    "3446": {
+        "countryID": 244,
+        "name": "al-Karmil - خربة الكرمل",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.132507",
+            "lat": "31.424523"
+        }
+    },
     "3447": {
         "countryID": 244,
         "name": "Majdal Bani Fadil - مَجْدَلْ بَني فاضِل",
@@ -8565,6 +11157,15 @@
         "coordinates": {
             "lon": "35.242507",
             "lat": "32.200692"
+        }
+    },
+    "3449": {
+        "countryID": 244,
+        "name": "Tell - تل",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.213168",
+            "lat": "32.199265"
         }
     },
     "3451": {
@@ -8612,6 +11213,15 @@
             "lat": "31.731381"
         }
     },
+    "3462": {
+        "countryID": 244,
+        "name": "Beit %27Amra - بيت عمرة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.051868",
+            "lat": "31.449618"
+        }
+    },
     "3465": {
         "countryID": 244,
         "name": "Al-Eizariya - العيزرية",
@@ -8648,6 +11258,15 @@
             "lat": "31.788536"
         }
     },
+    "4010": {
+        "countryID": 244,
+        "name": "Beit Iksa - بيت إكسا",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.178540",
+            "lat": "31.816559"
+        }
+    },
     "4011": {
         "countryID": 244,
         "name": "Beit Hanina al Balad - بِيت حَنِينَا البَلَد",
@@ -8657,6 +11276,15 @@
             "lat": "31.830013"
         }
     },
+    "4012": {
+        "countryID": 244,
+        "name": "Beit Duqqu - بيت دقو",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.132587",
+            "lat": "31.858918"
+        }
+    },
     "4013": {
         "countryID": 244,
         "name": "Beit Ijza - بيت إجزا",
@@ -8664,6 +11292,15 @@
         "coordinates": {
             "lon": "35.151833",
             "lat": "31.846443"
+        }
+    },
+    "4084": {
+        "countryID": 244,
+        "name": "Bal%27a - بلعة",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.110067",
+            "lat": "32.338332"
         }
     },
     "4130": {
@@ -8709,6 +11346,15 @@
         "coordinates": {
             "lon": "35.250180",
             "lat": "31.712689"
+        }
+    },
+    "4343": {
+        "countryID": 106,
+        "name": "פארק תעשיות מבוא כרמל",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.072810",
+            "lat": "32.618029"
         }
     },
     "4367": {
@@ -8819,6 +11465,15 @@
             "lat": "32.464457"
         }
     },
+    "4457": {
+        "countryID": 244,
+        "name": "Kafr Qud - كفر قود",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.229730",
+            "lat": "32.456830"
+        }
+    },
     "4458": {
         "countryID": 244,
         "name": "Nazlat Ash-Sheikh Zeid - نزلة الشيخ زيد",
@@ -8828,6 +11483,15 @@
             "lat": "32.460461"
         }
     },
+    "4460": {
+        "countryID": 244,
+        "name": "An-Nassariya - النصارية",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.380803",
+            "lat": "32.243810"
+        }
+    },
     "4491": {
         "countryID": 106,
         "name": "שגיא 2000 %28מפעלי העמק%29",
@@ -8835,6 +11499,33 @@
         "coordinates": {
             "lon": "35.235606",
             "lat": "32.655663"
+        }
+    },
+    "4504": {
+        "countryID": 244,
+        "name": "Deir Jarir - دير جرير",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.292642",
+            "lat": "31.966044"
+        }
+    },
+    "4531": {
+        "countryID": 106,
+        "name": "רמת טראמפ",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.691158",
+            "lat": "33.132741"
+        }
+    },
+    "4532": {
+        "countryID": 106,
+        "name": "אספר",
+        "englishName": null,
+        "coordinates": {
+            "lon": "35.188309",
+            "lat": "31.586095"
         }
     }
 }
