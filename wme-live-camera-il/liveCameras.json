@@ -251,6 +251,20 @@
         "location": "כביש 4,3711",
         "area": "דרום"
     },
+    "iroads_אפרת צפון": {
+        "lat": "32.084052",
+        "lon": "34.952313",
+        "cameraName": "אפרת צפון",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/EFRATNORTH/EFRATNORTH.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/EFRATNORTH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "178995",
+        "direction": "מערב",
+        "location": "כביש 60,3157",
+        "area": "יוש"
+    },
     "iroads_אשדוד צפון": {
         "lat": "31.850716",
         "lon": "34.711099",
@@ -376,6 +390,32 @@
         "direction": "דרום מערב",
         "location": "כביש 40,412",
         "area": "מרכז"
+    },
+    "iroads_בילו כביש 411": {
+        "lat": "31.860480",
+        "lon": "34.815296",
+        "cameraName": "בילו כביש 411",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BILUROAD411/BILUROAD411.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BILUROAD411.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "178993",
+        "direction": "דרום",
+        "location": "כביש 411"
+    },
+    "iroads_בית אלעזרי": {
+        "lat": "31.855726",
+        "lon": "34.820144",
+        "cameraName": "בית אלעזרי",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/BEITELAZARY/BEITELAZARY.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/BEITELAZARY.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "178994",
+        "direction": "צפון מערב",
+        "location": "כביש 411,4126"
     },
     "iroads_בית דגן": {
         "lat": "32.000827",
