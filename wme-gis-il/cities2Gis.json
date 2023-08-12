@@ -5592,7 +5592,7 @@
       "functionName": "v5GisNet"
     },
     "gis.mavo.co.il": {
-      "url": "http://gis.mavo.co.il/v5/",
+      "url": "https://gis.mavo.co.il/v5/",
       "functionName": "v5GisNet"
     },
     "gis.intertown.co.il": {
@@ -5666,10 +5666,6 @@
     "metrogis.metropolinet.co.il": {
       "url": "https://metrogis.metropolinet.co.il/",
       "functionName": "metropolinet"
-    },
-    "sol-israel.co.il": {
-      "url": "http://www.sol-israel.co.il/sightvision/light.aspx",
-      "functionName": "solIsrael"
     }
   }
 }
