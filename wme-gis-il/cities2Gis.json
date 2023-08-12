@@ -4127,9 +4127,8 @@
       "displayName": "Rosh Haayin"
     },
     "891": {
-      "name": "KsGis",
-      "prefix": "ks",
-      "gis": "gis__prefix__.taldor.co.il",
+      "name": "kfar_saba",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Kefar Sava"
     },
     "300": {
