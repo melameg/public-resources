@@ -5522,8 +5522,9 @@
       "gis": "v3.gis-net.co.il"
     },
     "1405": {
-      "name": "gisnet/Rechovot",
-      "gis": "v3.gis-net.co.il"
+      "name": "Rechovot",
+      "displayName": "Rehovot",
+      "gis": "v5.gis-net.co.il"
     },
     "1419": {
       "name": "ramat_gan",
