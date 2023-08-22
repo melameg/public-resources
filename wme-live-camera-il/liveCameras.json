@@ -3604,6 +3604,20 @@
         "location": "כביש 3855",
         "area": "מרכז"
     },
+    "iroads_רעננה דרום": {
+        "lat": "32.172077",
+        "lon": "34.883059",
+        "cameraName": "רעננה דרום",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/RAANANASOUTH/RAANANASOUTH.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/RAANANASOUTH.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "179058",
+        "direction": "מזרח",
+        "location": "כביש 4,531",
+        "area": "מרכז"
+    },
     "iroads_רעננה מרכז": {
         "lat": "32.176993",
         "lon": "34.888470",
