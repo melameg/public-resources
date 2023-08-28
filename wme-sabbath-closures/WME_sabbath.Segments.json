@@ -2652,6 +2652,12 @@
     "streetName": "רשב&#34;י"
   },
   {
+    "permalink": "&lon=34.65967&lat=31.79039&segments=1708495",
+    "likeCity": "TelAviv",
+    "cityName": "אשדוד",
+    "streetName": "רשב&#34;י"
+  },
+  {
     "permalink": "&lon=34.66363&lat=31.79299&segments=1844370",
     "likeCity": "TelAviv",
     "cityName": "אשדוד",
@@ -2857,6 +2863,12 @@
   },
   {
     "permalink": "&lon=34.98637&lat=32.49181&segments=2088314",
+    "likeCity": "TelAviv",
+    "cityName": "משמרות",
+    "streetName": "ללא רחוב"
+  },
+  {
+    "permalink": "&lat=32.49278&lon=34.98586&segments=2088315",
     "likeCity": "TelAviv",
     "cityName": "משמרות",
     "streetName": "ללא רחוב"
