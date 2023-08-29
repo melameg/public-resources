@@ -252,16 +252,16 @@
         "area": "דרום"
     },
     "iroads_אפרת צפון": {
-        "lat": "32.084052",
-        "lon": "34.952313",
+        "lat": "31.685687",
+        "lon": "35.158932",
         "cameraName": "אפרת צפון",
         "image": "https://iroads.bvtech.co.il:444/upfiles/EFRATNORTH/EFRATNORTH.PNG",
         "height": 432,
         "width": 768,
         "cameraFile": "https://5e0d15ab12687.streamlock.net/live/EFRATNORTH.stream/playlist.m3u8",
         "type": "iroads",
-        "commentID": "178995",
-        "direction": "מערב",
+        "commentID": "179073",
+        "direction": "",
         "location": "כביש 60,3157",
         "area": "יוש"
     },
@@ -319,20 +319,6 @@
         "commentID": "61658",
         "direction": "דרום מערב",
         "location": "כביש 4",
-        "area": "דרום"
-    },
-    "iroads_באר אורה": {
-        "lat": "29.706613",
-        "lon": "34.997391",
-        "cameraName": "באר אורה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/BEERORA/BEERORA.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BEERORA.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "65087",
-        "direction": "צפון",
-        "location": "כביש 90,1095",
         "area": "דרום"
     },
     "iroads_באר גנים פרי אור": {
@@ -2891,6 +2877,20 @@
         "direction": "צפון מערב",
         "location": "כביש 57,5714",
         "area": "מרכז"
+    },
+    "iroads_ניצן": {
+        "lat": "31.748957",
+        "lon": "34.650214",
+        "cameraName": "ניצן",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NITZAN/NITZAN.PNG",
+        "height": 432,
+        "width": 768,
+        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/NITZAN.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "179074",
+        "direction": "",
+        "location": "כביש 3711,3713",
+        "area": "דרום"
     },
     "iroads_ניצנים": {
         "lat": "31.726675",
