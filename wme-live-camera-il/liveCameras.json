@@ -321,20 +321,6 @@
         "location": "כביש 4",
         "area": "דרום"
     },
-    "iroads_באר אורה": {
-        "lat": "29.706613",
-        "lon": "34.997391",
-        "cameraName": "באר אורה",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/BEERORA/BEERORA.PNG",
-        "height": 720,
-        "width": 1280,
-        "cameraFile": "https://5e0d15ab12687.streamlock.net/live/BEERORA.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "65087",
-        "direction": "צפון",
-        "location": "כביש 90,1095",
-        "area": "דרום"
-    },
     "iroads_באר גנים פרי אור": {
         "lat": "31.694774",
         "lon": "34.614845",
