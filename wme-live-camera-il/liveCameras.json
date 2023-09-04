@@ -2878,20 +2878,6 @@
         "location": "כביש 444,471",
         "area": "מרכז"
     },
-    "iroads_ניצני עוז": {
-        "lat": "32.311729",
-        "lon": "34.999320",
-        "cameraName": "ניצני עוז",
-        "image": "https://iroads.bvtech.co.il:444/upfiles/NITZANEYOZ/NITZANEI_OZ.PNG",
-        "height": 1080,
-        "width": 1920,
-        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NITZANEYOZ.stream/playlist.m3u8",
-        "type": "iroads",
-        "commentID": "131339",
-        "direction": "צפון מערב",
-        "location": "כביש 57,5714",
-        "area": "מרכז"
-    },
     "iroads_ניצן": {
         "lat": "31.748957",
         "lon": "34.650214",
@@ -2905,6 +2891,20 @@
         "direction": "",
         "location": "כביש 3711,3713",
         "area": "דרום"
+    },
+    "iroads_ניצני עוז": {
+        "lat": "32.311729",
+        "lon": "34.999320",
+        "cameraName": "ניצני עוז",
+        "image": "https://iroads.bvtech.co.il:444/upfiles/NITZANEYOZ/NITZANEI_OZ.PNG",
+        "height": 1080,
+        "width": 1920,
+        "cameraFile": "https://5d8c50e7b358f.streamlock.net/live/NITZANEYOZ.stream/playlist.m3u8",
+        "type": "iroads",
+        "commentID": "131339",
+        "direction": "צפון מערב",
+        "location": "כביש 57,5714",
+        "area": "מרכז"
     },
     "iroads_ניצנים": {
         "lat": "31.726675",
