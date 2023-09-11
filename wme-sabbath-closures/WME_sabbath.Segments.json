@@ -2700,6 +2700,18 @@
     "streetName": "רבי שמעון בן שטח"
   },
   {
+    "permalink": "&lon=34.63749&lat=31.73844&segments=2159458",
+    "likeCity": "TelAviv",
+    "cityName": "ניצן",
+    "streetName": "שדרות הקוצר"
+  },
+  {
+    "permalink": "&lon=34.63749&lat=31.73844&segments=2159633",
+    "likeCity": "TelAviv",
+    "cityName": "ניצן",
+    "streetName": "השיקמה"
+  },
+  {
     "permalink": "&lon=34.69699&lat=31.82185&segments=1601336",
     "likeCity": "TelAviv",
     "cityName": "בני דרום",
