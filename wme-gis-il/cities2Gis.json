@@ -1445,6 +1445,11 @@
       "gis": "gis05.taldor.co.il",
       "displayName": "Sha'ar HaAmakim"
     },
+    "545": {
+      "name": "srk",
+      "gis": "up.intertown.co.il",
+      "displayName": "Givat Brenner"
+    },
     "343": {
       "name": "hvm",
       "gis": "up.intertown.co.il",
