@@ -1866,10 +1866,9 @@
       "displayName": "Sdei Hemed"
     },
     "687": {
-      "name": "HaderaGis",
-      "gis": "gis05.taldor.co.il",
-      "displayName": "Hadera",
-      "suffix": "#"
+      "name": "hadera",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Hadera"
     },
     "593": {
       "name": "GanYavnGis",
