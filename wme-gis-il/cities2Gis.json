@@ -4124,9 +4124,8 @@
       "displayName": "Reineh"
     },
     "969": {
-      "name": "ModiinGis",
-      "prefix": "mod",
-      "gis": "gis__prefix__.taldor.co.il",
+      "name": "modiin",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Modiin"
     },
     "1387": {
