@@ -3926,8 +3926,8 @@
         "area": "צפון"
     },
     "iroads_תל ערד": {
-        "lat": "31.253928",
-        "lon": "35.124031",
+        "lat": "31.253830",
+        "lon": "35.123799",
         "cameraName": "תל ערד",
         "image": "https://iroads.bvtech.co.il:444/upfiles/TELARAD/TELARAD.PNG",
         "height": 720,
@@ -4522,14 +4522,6 @@
         "type": "missing_camera",
         "commentID": "165107"
     },
-    "iroads_אולגה": {
-        "lat": "32.446787",
-        "lon": "34.893304",
-        "direction": "דרום",
-        "cameraName": "אולגה",
-        "type": "missing_camera",
-        "commentID": "147716"
-    },
     "iroads_פולג": {
         "lat": "32.273376",
         "lon": "34.854837",
@@ -4537,6 +4529,14 @@
         "cameraName": "פולג",
         "type": "missing_camera",
         "commentID": "14431"
+    },
+    "iroads_אולגה": {
+        "lat": "32.446787",
+        "lon": "34.893304",
+        "direction": "דרום",
+        "cameraName": "אולגה",
+        "type": "missing_camera",
+        "commentID": "147716"
     },
     "iroads_קיסריה": {
         "lat": "32.460766",
