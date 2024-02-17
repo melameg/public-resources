@@ -5569,6 +5569,11 @@
       "displayName": "Sajur",
       "gis": "v5.gis-net.co.il"
     },
+    "1042": {
+      "name": "maale_iron",
+      "displayName": "Ma'Ale Iron",
+      "gis": "v5.gis-net.co.il"
+    },
     "705": {
       "name": "haifa_html5",
       "gis": "gis.haifa.muni.il"
