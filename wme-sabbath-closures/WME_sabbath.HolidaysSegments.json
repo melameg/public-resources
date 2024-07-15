@@ -16,7 +16,15 @@
     "end": "23:59"
   },
   {
-    "permalink": "&lon=35.26041&lat=31.79930&segments=1771295",
+    "permalink": "&lon=35.25987&lat=31.79913&segments=2249221",
+    "likeCity": "TelAviv",
+    "cityName": "ללא יישוב",
+    "streetName": "4370",
+    "start": "05:00",
+    "end": "23:59"
+  },
+  {
+    "permalink": "&lon=35.26060&lat=31.79988&segments=2249222",
     "likeCity": "TelAviv",
     "cityName": "ללא יישוב",
     "streetName": "4370",
