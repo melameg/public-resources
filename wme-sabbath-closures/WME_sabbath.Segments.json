@@ -2916,7 +2916,13 @@
     "streetName": "דרך הראשונים"
   },
   {
-    "permalink": "&lat=31.57353&lon=34.76193&segments=85893",
+    "permalink": "&lon=34.76134&lat=31.57314&segments=2253266",
+    "likeCity": "TelAviv",
+    "cityName": "אבן שמואל",
+    "streetName": "השקד"
+  },
+  {
+    "permalink": "&lat=31.57353&lon=34.76193&segments=99999",
     "likeCity": "TelAviv",
     "cityName": "אבן שמואל",
     "streetName": "השקד"
