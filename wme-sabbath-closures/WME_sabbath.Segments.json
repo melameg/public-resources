@@ -1236,10 +1236,16 @@
     "streetName": "דובר שלום"
   },
   {
-    "permalink": "&lon=35.20701&lat=31.79489&segments=114936",
+    "permalink": "&lon=35.20729&lat=31.79528&segments=2270047",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
-    "streetName": "פתח תקווה / אוהל יהושע"
+    "streetName": "אוהל יהושע"
+  },
+  {
+    "permalink": "&lon=35.20679&lat=31.79459&segments=2270048",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "אוהל יהושע"
   },
   {
     "permalink": "&lon=35.20446&lat=31.79379&segments=906065",
