@@ -264,7 +264,13 @@
     "streetName": "סוקולוב"
   },
   {
-    "permalink": "&lon=34.83841&lat=32.09193&segments=1069486",
+    "permalink": "&lon=34.83841&lat=32.09193&segments=2288489",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "הירדן"
+  },
+  {
+    "permalink": "&lon=34.83841&lat=32.09193&segments=2288490",
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
     "streetName": "הירדן"
