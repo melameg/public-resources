@@ -2916,7 +2916,13 @@
     "streetName": "התאנה"
   },
   {
-    "permalink": "&lat=31.44611&lon=34.55457&segments=210184",
+    "permalink": "&lon=34.55449&lat=31.44615&segments=2323185",
+    "likeCity": "TelAviv",
+    "cityName": "זמרת",
+    "streetName": "ללא רחוב"
+  },
+  {
+    "permalink": "&lon=34.55594&lat=31.44571&segments=2323184",
     "likeCity": "TelAviv",
     "cityName": "זמרת",
     "streetName": "ללא רחוב"
