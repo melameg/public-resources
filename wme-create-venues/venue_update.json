@@ -1,0 +1,25 @@
+{
+  "_objectType": "venue",
+  "action": "UPDATE",
+  "attributes": {
+    "id": {{id}},
+    "streetID": {{streetID}},
+    "categories": [
+      "{{category}}"
+    ],
+    "aliases": [
+      "{{aliases}}"
+    ],
+    "residential": false,
+    "name": "{{name}}",
+    "description": "{{description}}",
+    "url": "{{url}}",
+    "phone": "{{phone}}",
+    "approved": true,
+    "permissions": 2147483647,
+    "streetID": {{streetID}},
+    "lockRank": {{lockRank}},
+    "houseNumber": "{{houseNumber}}",
+    "id": -100
+  }
+}
