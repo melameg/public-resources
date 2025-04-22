@@ -19,7 +19,6 @@
     "permissions": 2147483647,
     "streetID": {{streetID}},
     "lockRank": {{lockRank}},
-    "houseNumber": "{{houseNumber}}",
-    "id": -100
+    "houseNumber": "{{houseNumber}}"
   }
 }
