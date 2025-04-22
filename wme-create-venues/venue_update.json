@@ -2,7 +2,7 @@
   "_objectType": "venue",
   "action": "UPDATE",
   "attributes": {
-    "id": {{id}},
+    "id": "{{id}}",
     "streetID": {{streetID}},
     "categories": [
       "{{category}}"
