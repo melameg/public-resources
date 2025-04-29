@@ -314,8 +314,11 @@
       "displayName": "Mevaseret Zion"
     },
     "1373": {
-      "name": "HarelNew",
-      "gis": "gis02.taldor.co.il",
+      "suffix": "102100",
+      "isEPSG": "true",
+      "prefix": "https://yearim.maps.",
+      "name": "15f3726d027c4829ad50e94a9edd37d7",
+      "gis": "www.arcgis.com/instant",
       "displayName": "Kiryat YeArim"
     },
     "286": {
@@ -5591,6 +5594,10 @@
     },
     "www.arcgis.com": {
       "url": "arcgis.com/apps/webappviewer/index.html?id=",
+      "functionName": "arcgis"
+    },
+    "www.arcgis.com/instant": {
+      "url": "maps.arcgis.com/apps/instant/basic/index.html?appid=",
       "functionName": "arcgis"
     },
     "v3.gis-net.co.il": {
