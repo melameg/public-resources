@@ -5598,7 +5598,7 @@
     },
     "www.arcgis.com/instant": {
       "url": "maps.arcgis.com/apps/instant/basic/index.html?appid=",
-      "functionName": "arcgis"
+      "functionName": "arcgisInstant"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
