@@ -3042,6 +3042,24 @@
     "streetName": "הרב רוזנטל"
   },
   {
+    "permalink": "&lat=31.78120&lon=35.17898&segments=1809960",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "הרב חזקיהו רבין"
+  },
+  {
+    "permalink": "&lat=31.78226&lon=35.17400&segments=277126",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "הרב שאולזון"
+  },
+  {
+    "permalink": "&lat=31.78866&lon=35.17743&segments=1274511",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "הקבלן"
+  },
+  {
     "permalink": "&lon=34.98923&lat=32.13539&segments=2138293",
     "likeCity": "TelAviv",
     "cityName": "אורנית",
