@@ -5503,8 +5503,9 @@
       "gis": "v3.gis-net.co.il"
     },
     "1214": {
-      "name": "gisnet/omer",
-      "gis": "v3.gis-net.co.il"
+      "name": "omer",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Omer"
     },
     "1405": {
       "name": "Rechovot",
