@@ -1776,12 +1776,6 @@
     "streetName": "שמואל הנביא"
   },
   {
-    "permalink": "&lon=35.18299&lat=31.76745&segments=285421",
-    "likeCity": "TelAviv",
-    "cityName": "ירושלים",
-    "streetName": "תורה ועבודה"
-  },
-  {
     "permalink": "&lat=31.83648&lon=35.23780&segments=1522140",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
@@ -1794,7 +1788,25 @@
     "streetName": "הרב אברהם רביץ"
   },
   {
-    "permalink": "&lon=35.18230&lat=31.76697&segments=1167783",
+    "permalink": "&lon=35.18316&lat=31.76749&segments=2354054",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "תורה ועבודה"
+  },
+  {
+    "permalink": "&lon=35.18316&lat=31.76749&segments=2354055",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "תורה ועבודה"
+  },
+  {
+    "permalink": "&lon=35.18316&lat=31.76749&segments=2354052",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "תורה ועבודה"
+  },
+  {
+    "permalink": "&lon=35.18198&lat=31.76692&segments=2354053",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "תורה ועבודה"
