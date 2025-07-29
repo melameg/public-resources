@@ -1296,19 +1296,7 @@
     "streetName": "בר אילן"
   },
   {
-    "permalink": "&lon=35.21714&lat=31.79420&segments=2357137",
-    "likeCity": "TelAviv",
-    "cityName": "ירושלים",
-    "streetName": "בר אילן"
-  },
-  {
     "permalink": "&lon=35.21671&lat=31.79407&segments=2357136",
-    "likeCity": "TelAviv",
-    "cityName": "ירושלים",
-    "streetName": "בר אילן"
-  },
-  {
-    "permalink": "&lat=31.79429&lon=35.21702&segments=2357134",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "בר אילן"
@@ -1321,12 +1309,6 @@
   },
   {
     "permalink": "&lon=35.21669&lat=31.79409&segments=828998",
-    "likeCity": "TelAviv",
-    "cityName": "ירושלים",
-    "streetName": "בר אילן"
-  },
-  {
-    "permalink": "&lon=35.21612&lat=31.79398&segments=828996",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "בר אילן"
@@ -1357,12 +1339,6 @@
   },
   {
     "permalink": "&lon=35.21620&lat=31.79387&segments=828994",
-    "likeCity": "TelAviv",
-    "cityName": "ירושלים",
-    "streetName": "בר אילן"
-  },
-  {
-    "permalink": "&lon=35.21573&lat=31.79374&segments=96123",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "בר אילן"
