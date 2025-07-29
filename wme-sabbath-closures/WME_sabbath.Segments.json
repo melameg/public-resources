@@ -1890,7 +1890,13 @@
     "streetName": "חיים הלר"
   },
   {
-    "permalink": "&lon=35.17391&lat=31.78673&segments=86962",
+    "permalink": "&lon=35.17446&lat=31.78573&segments=2363499",
+    "likeCity": "TelAviv",
+    "cityName": "ירושלים",
+    "streetName": "מנחם מנדל מישקלוב"
+  },
+  {
+    "permalink": "&lon=35.17391&lat=31.78673&segments=2363500",
     "likeCity": "TelAviv",
     "cityName": "ירושלים",
     "streetName": "מנחם מנדל מישקלוב"
