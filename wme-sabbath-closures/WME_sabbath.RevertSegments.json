@@ -70,5 +70,13 @@
     "streetName": "אליהו גולומב",
     "fwd": false,
     "rev": true
+  },
+  {
+    "permalink": "&lon=34.95249&lat=32.57374&segments=1542147",
+    "likeCity": "TelAviv",
+    "cityName": "זכרון יעקב",
+    "streetName": "ללא",
+    "fwd": false,
+    "rev": true
   }
 ]
