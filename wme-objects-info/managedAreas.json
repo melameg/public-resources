@@ -5095,44 +5095,6 @@
         "rank": null,
         "userName": "shay2x"
     },
-    "1588": {
-        "id": 1588,
-        "userID": 1580346700,
-        "name": "TestArea IL",
-        "createdOn": 1745475586289,
-        "startTime": null,
-        "endTime": null,
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-                [
-                    [
-                        34.88490625,
-                        30.166231874999998
-                    ],
-                    [
-                        34.88490625,
-                        30.176388125
-                    ],
-                    [
-                        34.86459375,
-                        30.176388125
-                    ],
-                    [
-                        34.86459375,
-                        30.166231874999998
-                    ],
-                    [
-                        34.88490625,
-                        30.166231874999998
-                    ]
-                ]
-            ]
-        },
-        "permissions": 0,
-        "rank": null,
-        "userName": "israel_ms1hvjcj"
-    },
     "1591": {
         "id": 1591,
         "userID": 771648680,
