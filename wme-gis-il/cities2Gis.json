@@ -5577,8 +5577,9 @@
       "gis": "v5.gis-net.co.il"
     },
     "705": {
-      "name": "haifa_html5",
-      "gis": "gis.haifa.muni.il"
+      "name": "fbbaf8ced1a54fa394d47cdea28ca1b3",
+      "displayName": "Haifa",
+      "gis": "experience.arcgis.com"
     },
     "1177": {
       "name": "GMSC/Public/GMSC_NZIL/NZIL_Community",
@@ -5598,6 +5599,10 @@
     "www.arcgis.com/instant": {
       "url": "arcgis.com/apps/instant/basic/index.html?appid=",
       "functionName": "arcgis"
+    },
+    "experience.arcgis.com": {
+      "url": "https://experience.arcgis.com/experience/",
+      "functionName": "experienceArcgis"
     },
     "v3.gis-net.co.il": {
       "url": "https://v3.gis-net.co.il/",
