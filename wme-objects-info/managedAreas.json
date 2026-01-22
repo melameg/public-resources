@@ -5233,44 +5233,6 @@
         "rank": null,
         "userName": "autotourist"
     },
-    "1592": {
-        "id": 1592,
-        "userID": 1790139209,
-        "name": "IL PROD test area for venues",
-        "createdOn": 1748357178220,
-        "startTime": null,
-        "endTime": null,
-        "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-                [
-                    [
-                        34.85808100359208,
-                        30.18268005997276
-                    ],
-                    [
-                        34.87172808305935,
-                        30.182457476673953
-                    ],
-                    [
-                        34.87155642168212,
-                        30.17214389906208
-                    ],
-                    [
-                        34.85795225755939,
-                        30.172329404595082
-                    ],
-                    [
-                        34.85808100359208,
-                        30.18268005997276
-                    ]
-                ]
-            ]
-        },
-        "permissions": 0,
-        "rank": null,
-        "userName": "oolefir_08"
-    },
     "1596": {
         "id": 1596,
         "userID": 313664782,
