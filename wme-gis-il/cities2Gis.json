@@ -5524,7 +5524,8 @@
     },
     "1183": {
       "name": "netivot",
-      "gis": "v3.gis-net.co.il"
+      "displayName": "Netivot",
+      "gis": "v5.gis-net.co.il"
     },
     "1214": {
       "name": "omer",
