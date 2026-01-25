@@ -4776,8 +4776,8 @@
       "displayName": "Kfar Kisch"
     },
     "737": {
-      "name": "gisnet/taibe",
-      "gis": "v3.gis-net.co.il",
+      "name": "taibehint",
+      "gis": "v5.gis-net.co.il",
       "displayName": "Taybeh"
     },
     "1468": {
@@ -5604,14 +5604,6 @@
     "experience.arcgis.com": {
       "url": "https://experience.arcgis.com/experience/",
       "functionName": "experienceArcgis"
-    },
-    "v3.gis-net.co.il": {
-      "url": "https://v3.gis-net.co.il/",
-      "functionName": "v3GisNet"
-    },
-    "gis.haifa.muni.il": {
-      "url": "https://gis.haifa.muni.il/",
-      "functionName": "v3GisNet"
     },
     "v5.gis-net.co.il": {
       "url": "https://v5.gis-net.co.il/v5/",
