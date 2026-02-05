@@ -5866,5 +5866,43 @@
         "permissions": 0,
         "rank": null,
         "userName": "OlehTest0801"
+    },
+    "1608": {
+        "id": 1608,
+        "userID": 1983243761,
+        "name": "test",
+        "createdOn": 1770283773862,
+        "startTime": null,
+        "endTime": null,
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        34.87853625,
+                        30.171521875
+                    ],
+                    [
+                        34.87853625,
+                        30.181678125
+                    ],
+                    [
+                        34.85822375,
+                        30.181678125
+                    ],
+                    [
+                        34.85822375,
+                        30.171521875
+                    ],
+                    [
+                        34.87853625,
+                        30.171521875
+                    ]
+                ]
+            ]
+        },
+        "permissions": 0,
+        "rank": null,
+        "userName": "OlehTest"
     }
 }
