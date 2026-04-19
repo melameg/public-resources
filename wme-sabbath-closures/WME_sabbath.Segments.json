@@ -300,6 +300,12 @@
     "streetName": "אהרונוביץ'"
   },
   {
+    "permalink": "&lon=34.83937&lat=32.09229&segments=1681774",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "אהרונוביץ'"
+  },
+  {
     "permalink": "&lon=34.84155&lat=32.07284&segments=240252",
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
@@ -2824,6 +2830,18 @@
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
     "streetName": "המכבים"
+  },
+  {
+    "permalink": "&lon=34.82612&lat=32.08270&segments=1111855",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "ירושלים"
+  },
+  {
+    "permalink": "&lon=34.82703&lat=32.07819&segments=1018576",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "יהודה הנשיא"
   },
   {
     "permalink": "&lon=34.82443&lat=31.89774&segments=137927",
