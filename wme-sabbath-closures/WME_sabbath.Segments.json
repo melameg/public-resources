@@ -3154,5 +3154,29 @@
     "likeCity": "TelAviv",
     "cityName": "בית שקמה",
     "streetName": "דרך האתרוג"
+  },
+  {
+    "permalink": "&lon=35.09367&lat=31.80362&segments=1893109",
+    "likeCity": "TelAviv",
+    "cityName": "קריית יערים",
+    "streetName": "ללא"
+  },
+  {
+    "permalink": "&lon=35.09367&lat=31.80362&segments=1893110",
+    "likeCity": "TelAviv",
+    "cityName": "קריית יערים",
+    "streetName": "ללא"
+  },
+  {
+    "permalink": "&lon=35.10003&lat=31.80356&segments=781451",
+    "likeCity": "TelAviv",
+    "cityName": "קריית יערים",
+    "streetName": "ללא"
+  },
+  {
+    "permalink": "&lon=35.10008&lat=31.80374&segments=1893123",
+    "likeCity": "TelAviv",
+    "cityName": "קריית יערים",
+    "streetName": "ללא"
   }
 ]
