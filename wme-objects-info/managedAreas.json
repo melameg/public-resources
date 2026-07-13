@@ -5808,5 +5808,43 @@
         "permissions": 0,
         "rank": null,
         "userName": "Stomtape"
+    },
+    "1622": {
+        "id": 1622,
+        "userID": 54250450,
+        "name": "test JB",
+        "createdOn": 1783948263297,
+        "startTime": null,
+        "endTime": null,
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        34.78964953125,
+                        32.080115234375
+                    ],
+                    [
+                        34.78964953125,
+                        32.081384765625
+                    ],
+                    [
+                        34.787110468749994,
+                        32.081384765625
+                    ],
+                    [
+                        34.787110468749994,
+                        32.080115234375
+                    ],
+                    [
+                        34.78964953125,
+                        32.080115234375
+                    ]
+                ]
+            ]
+        },
+        "permissions": 0,
+        "rank": null,
+        "userName": "meli"
     }
 }
