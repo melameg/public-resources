@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "permalink": "&lon=34.84071&lat=32.11565&segments=335957",
     "likeCity": "TelAviv",
@@ -3190,5 +3190,23 @@
     "likeCity": "TelAviv",
     "cityName": "קריית יערים",
     "streetName": "ללא"
+  },
+  {
+    "permalink": "&lat=32.08603&lon=34.82339&segments=933533",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "חרל\"פ"
+  },
+  {
+    "permalink": "&lat=32.08603&lon=34.82339&segments=933532",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "חרל\"פ"
+  },
+  {
+    "permalink": "&lat=32.07710&lon=34.82772&segments=75086",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "אלוף שמחוני"
   }
 ]
