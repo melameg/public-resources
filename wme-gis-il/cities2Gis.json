@@ -5584,6 +5584,144 @@
       "name": "15f3726d027c4829ad50e94a9edd37d7",
       "gis": "www.arcgis.com/instant",
       "displayName": "Kiryat YeArim"
+    },
+    "299": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Avigdor",
+      "suffix": "public"
+    },
+    "331": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Orot",
+      "suffix": "public"
+    },
+    "338": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Achva",
+      "suffix": "public"
+    },
+    "383": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Emunim",
+      "suffix": "public"
+    },
+    "419": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Beer Tuvia",
+      "suffix": "public"
+    },
+    "431": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Bitzaron",
+      "suffix": "public"
+    },
+    "470": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Beit Ezra",
+      "suffix": "public"
+    },
+    "561": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Giv'Ati",
+      "suffix": "public"
+    },
+    "719": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Hatzav",
+      "suffix": "public"
+    },
+    "721": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Hatzor-Ashdod",
+      "suffix": "public"
+    },
+    "778": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Yinon",
+      "suffix": "public"
+    },
+    "827": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Kannot",
+      "suffix": "public"
+    },
+    "839": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Kfar Ahim",
+      "suffix": "public"
+    },
+    "861": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Kfar Varburgh",
+      "suffix": "public"
+    },
+    "1111": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "neve mivtah",
+      "suffix": "public"
+    },
+    "1151": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Nir Banim",
+      "suffix": "public"
+    },
+    "1220": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Ezer",
+      "suffix": "public"
+    },
+    "1223": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Azrikam",
+      "suffix": "public"
+    },
+    "1286": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Arugot",
+      "suffix": "public"
+    },
+    "1461": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Sde Uziahu",
+      "suffix": "public"
+    },
+    "1519": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Shtulim",
+      "suffix": "public"
+    },
+    "1525": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Timorim",
+      "suffix": "public"
+    },
+    "1540": {
+      "name": "btv",
+      "gis": "up.intertown.co.il",
+      "displayName": "Talmei Yehi'El",
+      "suffix": "public"
     }
   },
   "gis": {
