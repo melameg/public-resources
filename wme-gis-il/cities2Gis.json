@@ -5755,7 +5755,7 @@
     },
     "up.intertown.co.il": {
       "url": "https://up.intertown.co.il/",
-      "functionName": "gisIntertown"
+      "functionName": "upIntertown"
     },
     "gis01.taldor.co.il": {
       "url": "https://gis01.taldor.co.il/",
