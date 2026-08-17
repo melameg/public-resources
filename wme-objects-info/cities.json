@@ -530,6 +530,15 @@
             "lat": "31.789204"
         }
     },
+    "378": {
+        "countryID": 106,
+        "name": "אלעד",
+        "englishName": "Elad",
+        "coordinates": {
+            "lon": "34.957758",
+            "lat": "32.051089"
+        }
+    },
     "379": {
         "countryID": 106,
         "name": "אלעזר",
