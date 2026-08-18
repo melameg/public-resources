@@ -66,6 +66,38 @@ print('OK' if before==after else 'MISMATCH', '| before:', len(before), 'after:',
 python3 -c "import json,codecs; json.load(codecs.open('WME_sabbath.Segments.json','r','utf-8-sig')); print('valid')"
 ```
 
+### Keeping segments.md in sync
+
+`segments.md` is a human-readable RTL Markdown version of `WME_sabbath.Segments.json`. **It must be updated every time `WME_sabbath.Segments.json` changes.** Regenerate it by running:
+
+```bash
+python3 -c "
+import re, json, codecs
+
+path = 'WME_sabbath.Segments.json'
+data = json.load(codecs.open(path, 'r', 'utf-8-sig'))
+
+lines = ['<div dir=\"rtl\">', '', '# רשימת המקטעים שסגורים בשבתות וחגי ישראל', '']
+current_city = None
+for entry in sorted(data, key=lambda e: (e['cityName'], e['streetName'])):
+    if entry['cityName'] != current_city:
+        current_city = entry['cityName']
+        lines.append(f'### {current_city}')
+        lines.append('')
+    seg_id = entry['permalink'].split('segments=')[1]
+    lat = entry['permalink'].split('lat=')[1].split('&')[0]
+    lon = entry['permalink'].split('lon=')[1].split('&')[0]
+    url = f'https://www.waze.com/he/editor/?env=il&lon={lon}&lat={lat}&s=3638528&zoom=8&segments={seg_id}'
+    lines.append(f'- [{entry[\"streetName\"]}]({url})')
+lines.append('')
+lines.append('</div>')
+
+with open('segments.md', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(lines))
+print('segments.md updated')
+"
+```
+
 ### Commit message convention
 
 Include the Waze forum thread URL when a request originates from a forum post, e.g.:
