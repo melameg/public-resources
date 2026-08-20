@@ -1,54 +1,479 @@
-[
-  1192,
-  1362,
-  1858,
-  3245,
-  5642,
-  5985,
-  6053,
-  6416,
-  6499,
-  6578,
-  6839,
-  7101,
-  7160,
-  7182,
-  7724,
-  7750,
-  7832,
-  8140,
-  8347,
-  8514,
-  8703,
-  8729,
-  8915,
-  8917,
-  9001,
-  9323,
-  9655,
-  10342,
-  10776,
-  10962,
-  11040,
-  11256,
-  11274,
-  11738,
-  11944,
-  12047,
-  12096,
-  12462,
-  12635,
-  12692,
-  13001,
-  13014,
-  13018,
-  13020,
-  13322,
-  13345,
-  13346,
-  13424,
-  14116,
-  14250,
-  14508,
-  14607
-]
+{
+  "1192": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.84258&lat=32.07652&s=3638528&zoomLevel=20&marker=false&bigJunctions=1192",
+    "segments": [
+      1681065,
+      1681069,
+      1681070,
+      1024052
+    ]
+  },
+  "1362": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.65907&lat=31.79057&s=3638528&zoomLevel=20&marker=false&bigJunctions=1362",
+    "segments": [
+      1698618,
+      1708498,
+      1708502,
+      1708500
+    ]
+  },
+  "1858": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.83423&lat=32.07989&s=3638528&zoomLevel=20&marker=false&bigJunctions=1858",
+    "segments": [
+      1664303,
+      1664307,
+      1664322,
+      1664310
+    ]
+  },
+  "3245": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.94568&lat=32.05272&s=3638528&zoomLevel=20&marker=false&bigJunctions=3245",
+    "segments": [
+      1683069,
+      1683070,
+      1682995,
+      1833233,
+      1833232,
+      1682996
+    ]
+  },
+  "5642": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.09339&lat=31.80323&s=3638528&zoomLevel=20&marker=false&bigJunctions=5642",
+    "segments": [
+      1893278,
+      1893295,
+      1893113,
+      1893290,
+      1893174,
+      1893287
+    ]
+  },
+  "5985": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.66267&lat=31.79541&s=3638528&zoomLevel=20&marker=false&bigJunctions=5985",
+    "segments": [
+      922616,
+      1844388,
+      1705555,
+      1844384,
+      1705556,
+      1844386
+    ]
+  },
+  "6053": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.66363&lat=31.78710&s=3638528&zoomLevel=20&marker=false&bigJunctions=6053",
+    "segments": [
+      799884,
+      799885,
+      799881,
+      799882,
+      799883
+    ]
+  },
+  "6416": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21190&lat=31.79435&s=3638528&zoomLevel=20&marker=false&bigJunctions=6416",
+    "segments": [
+      1061264,
+      1933436,
+      1933439,
+      1933449,
+      1933409,
+      1933425
+    ]
+  },
+  "6499": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.09493&lat=32.07907&s=3638528&zoomLevel=20&marker=false&bigJunctions=6499",
+    "segments": [
+      1568739,
+      1936331,
+      1936330,
+      1672103
+    ]
+  },
+  "6578": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.19957&lat=31.76105&s=3638528&zoomLevel=20&marker=false&bigJunctions=6578",
+    "segments": [
+      1940213,
+      1940212,
+      1940211,
+      1940210
+    ]
+  },
+  "6839": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.20851&lat=31.79252&s=3638528&zoomLevel=20&marker=false&bigJunctions=6839",
+    "segments": [
+      829036,
+      829033,
+      829035,
+      833429
+    ]
+  },
+  "7101": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21135&lat=31.79572&s=3638528&zoomLevel=20&marker=false&bigJunctions=7101",
+    "segments": [
+      1933422,
+      1933419,
+      1933424,
+      1933395
+    ]
+  },
+  "7160": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.91171&lat=32.39391&s=3638528&zoomLevel=20&marker=false&bigJunctions=7160",
+    "segments": [
+      1980522
+    ]
+  },
+  "7182": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.09991&lat=31.80388&s=3638528&zoomLevel=20&marker=false&bigJunctions=7182",
+    "segments": [
+      941740,
+      1983034,
+      1983035,
+      1893126,
+      1893122
+    ]
+  },
+  "7724": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.82510&lat=32.09134&s=3638528&zoomLevel=20&marker=false&bigJunctions=7724",
+    "segments": [
+      1276704
+    ]
+  },
+  "7750": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.18295&lat=31.78204&s=3638528&zoomLevel=20&marker=false&bigJunctions=7750",
+    "segments": [
+      1620040,
+      1731626,
+      1620041,
+      1731625,
+      1964025,
+      1964026
+    ]
+  },
+  "7832": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.04586&lat=31.92457&s=3638528&zoomLevel=20&marker=false&bigJunctions=7832",
+    "segments": [
+      1640297,
+      2028462,
+      1640296,
+      2028463,
+      1917119,
+      1640295,
+      1669079
+    ]
+  },
+  "8140": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.00025&lat=31.73610&s=3638528&zoomLevel=20&marker=false&bigJunctions=8140",
+    "segments": [
+      1097380,
+      1097381,
+      1097382,
+      1097383,
+      1097384
+    ]
+  },
+  "8347": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.99895&lat=31.74827&s=3638528&zoomLevel=20&marker=false&bigJunctions=8347",
+    "segments": [
+      543997,
+      543998,
+      544002,
+      544003,
+      543989
+    ]
+  },
+  "8514": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.83494&lat=32.08183&s=3638528&zoomLevel=20&marker=false&bigJunctions=8514",
+    "segments": [
+      990863
+    ]
+  },
+  "8703": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.20924&lat=31.79594&s=3638528&zoomLevel=20&marker=false&bigJunctions=8703",
+    "segments": [
+      2104649
+    ]
+  },
+  "8729": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.90927&lat=32.07157&s=3638528&zoomLevel=20&marker=false&bigJunctions=8729",
+    "segments": [
+      892669,
+      2087338,
+      2087337,
+      892666,
+      2087346,
+      1094110,
+      2087345
+    ]
+  },
+  "8915": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.18003&lat=31.78746&s=3638528&zoomLevel=20&marker=false&bigJunctions=8915",
+    "segments": [
+      825836,
+      825837,
+      825838,
+      825839,
+      825833,
+      825834,
+      825835,
+      825840
+    ]
+  },
+  "8917": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.17976&lat=31.78689&s=3638528&zoomLevel=20&marker=false&bigJunctions=8917",
+    "segments": [
+      1262481,
+      1262480,
+      1262479,
+      1262478,
+      1262477
+    ]
+  },
+  "9001": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.99700&lat=31.73788&s=3638528&zoomLevel=20&marker=false&bigJunctions=9001",
+    "segments": [
+      1248279,
+      1248283,
+      1248282,
+      1248281,
+      1248280
+    ]
+  },
+  "9323": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.91585&lat=32.06912&s=3638528&zoomLevel=20&marker=false&bigJunctions=9323",
+    "segments": [
+      2087296
+    ]
+  },
+  "9655": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.34212&lat=32.72902&s=3638528&zoomLevel=20&marker=false&bigJunctions=9655",
+    "segments": [
+      1151719,
+      1151718,
+      1135385,
+      1135384
+    ]
+  },
+  "10342": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.09316&lat=31.80408&s=3638528&zoomLevel=20&marker=false&bigJunctions=10342",
+    "segments": [
+      1494516,
+      1310679,
+      1893112,
+      1310683,
+      1310681,
+      1893111
+    ]
+  },
+  "10776": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.89669&lat=31.93452&s=3638528&zoomLevel=20&marker=false&bigJunctions=10776",
+    "segments": [
+      1679135,
+      1679134,
+      1503292,
+      1503293,
+      1503291
+    ]
+  },
+  "10962": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.28725&lat=32.60646&s=3638528&zoomLevel=20&marker=false&bigJunctions=10962",
+    "segments": [
+      1175888,
+      1652051,
+      1175885,
+      1175884,
+      1652052,
+      2271820,
+      2271821
+    ]
+  },
+  "11040": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.48899&lat=32.96385&s=3638528&zoomLevel=20&marker=false&bigJunctions=11040",
+    "segments": [
+      1671465,
+      1671464,
+      1772703,
+      1772706,
+      1822501
+    ]
+  },
+  "11256": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.06609&lat=32.83689&s=3638528&zoomLevel=20&marker=false&bigJunctions=11256",
+    "segments": [
+      1739603
+    ]
+  },
+  "11274": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.22771&lat=31.80822&s=3638528&zoomLevel=20&marker=false&bigJunctions=11274",
+    "segments": [
+      1797467,
+      1797465,
+      1096084,
+      1797470,
+      1797468,
+      988070
+    ]
+  },
+  "11738": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21301&lat=31.79833&s=3638528&zoomLevel=20&marker=false&bigJunctions=11738",
+    "segments": [
+      2099153,
+      2099154,
+      2099144,
+      2341739,
+      2341740
+    ]
+  },
+  "11944": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21520&lat=31.79366&s=3638528&zoomLevel=20&marker=false&bigJunctions=11944",
+    "segments": [
+      828988
+    ]
+  },
+  "12047": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21790&lat=31.79781&s=3638528&zoomLevel=20&marker=false&bigJunctions=12047",
+    "segments": [
+      920207,
+      784175,
+      784173,
+      784241
+    ]
+  },
+  "12096": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.99861&lat=31.75017&s=3638528&zoomLevel=20&marker=false&bigJunctions=12096",
+    "segments": [
+      1493767,
+      1580622,
+      1580623,
+      544000,
+      544001
+    ]
+  },
+  "12462": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.94346&lat=32.05269&s=3638528&zoomLevel=20&marker=false&bigJunctions=12462",
+    "segments": [
+      1786419,
+      1786418,
+      1786416,
+      1786423
+    ]
+  },
+  "12635": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.83229&lat=32.09354&s=3638528&zoomLevel=20&marker=false&bigJunctions=12635",
+    "segments": [
+      1669590
+    ]
+  },
+  "12692": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.10012&lat=31.80337&s=3638528&zoomLevel=20&marker=false&bigJunctions=12692",
+    "segments": [
+      1893116,
+      1470916,
+      1893119,
+      2403959,
+      1893125,
+      2403960
+    ]
+  },
+  "13001": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.62511&lat=31.66676&s=3638528&zoomLevel=20&marker=false&bigJunctions=13001",
+    "segments": [
+      1014895,
+      1014894,
+      1014893,
+      1014896
+    ]
+  },
+  "13014": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.60903&lat=31.69919&s=3638528&zoomLevel=20&marker=false&bigJunctions=13014",
+    "segments": [
+      926996,
+      670854,
+      423849
+    ]
+  },
+  "13018": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.60607&lat=31.69959&s=3638528&zoomLevel=20&marker=false&bigJunctions=13018",
+    "segments": [
+      423862,
+      423868,
+      423866,
+      423864
+    ]
+  },
+  "13020": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.60633&lat=31.70074&s=3638528&zoomLevel=20&marker=false&bigJunctions=13020",
+    "segments": [
+      1267538,
+      1267537,
+      1267536,
+      1267535
+    ]
+  },
+  "13322": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.08969&lat=32.93423&s=3638528&zoomLevel=20&marker=false&bigJunctions=13322",
+    "segments": [
+      1882317,
+      1882318,
+      1135399,
+      1882314
+    ]
+  },
+  "13345": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.66796&lat=31.79303&s=3638528&zoomLevel=20&marker=false&bigJunctions=13345",
+    "segments": [
+      1844381,
+      1844383,
+      1844379,
+      178367
+    ]
+  },
+  "13346": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.09064&lat=32.93662&s=3638528&zoomLevel=20&marker=false&bigJunctions=13346",
+    "segments": [
+      1879660,
+      2420532,
+      1200534,
+      2420531,
+      1882322,
+      1882323
+    ]
+  },
+  "13424": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.12569&lat=31.70389&s=3638528&zoomLevel=20&marker=false&bigJunctions=13424",
+    "segments": [
+      1610942,
+      1610943,
+      1357053,
+      1770418,
+      1770417,
+      1610931
+    ]
+  },
+  "14116": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21914&lat=31.79024&s=3638528&zoomLevel=20&marker=false&bigJunctions=14116",
+    "segments": [
+      1735730,
+      1735728,
+      1735732
+    ]
+  },
+  "14250": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.21762&lat=31.80033&s=3638528&zoomLevel=20&marker=false&bigJunctions=14250",
+    "segments": [
+      2011566,
+      2011565,
+      1719372,
+      1719373,
+      2474235,
+      2474234
+    ]
+  },
+  "14508": {
+    "url": "https://www.waze.com/editor?env=il&lon=35.17667&lat=31.79088&s=3638528&zoomLevel=20&marker=false&bigJunctions=14508",
+    "segments": [
+      2116200,
+      2116201,
+      2116202
+    ]
+  }
+}
