@@ -2,6 +2,14 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Subdirectory Instructions
+
+Each subdirectory may have its own `CLAUDE.md` with specific instructions. **Always read and follow the subdirectory's `CLAUDE.md` before editing any files in it.**
+
+Known subdirectory CLAUDE.md files:
+- `wme-sabbath-closures/CLAUDE.md`
+- `wme-gis-il/CLAUDE.md`
+
 ## Repository Purpose
 
 This is a static data repository — no build system, no tests, no server. All files are raw data resources consumed by external WME (Waze Map Editor) userscripts hosted on greasyfork.org. Files are fetched directly via GitHub raw URLs by those scripts.
