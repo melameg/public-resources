@@ -450,7 +450,7 @@
     "streetName": "האדמו\"ר מנדבורנה"
   },
   {
-    "permalink": "&lon=34.83466&lat=32.07573&segments=2264734",
+    "permalink": "&lat=32.075807&lon=34.835021&segments=2494353",
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
     "streetName": "האדמו\"ר מנדבורנה"
@@ -786,13 +786,25 @@
     "streetName": "חזון אי\"ש"
   },
   {
-    "permalink": "&lon=34.83334&lat=32.07529&segments=1664230",
+    "permalink": "&lat=32.075847&lon=34.833230&segments=2494349",
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
     "streetName": "חזון אי\"ש"
   },
   {
-    "permalink": "&lon=34.83334&lat=32.07529&segments=1664241",
+    "permalink": "&lat=32.075797&lon=34.833223&segments=2494350",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "חזון אי\"ש"
+  },
+  {
+    "permalink": "&lat=32.075847&lon=34.833318&segments=2494351",
+    "likeCity": "TelAviv",
+    "cityName": "בני ברק",
+    "streetName": "חזון אי\"ש"
+  },
+  {
+    "permalink": "&lat=32.075792&lon=34.833309&segments=2494352",
     "likeCity": "TelAviv",
     "cityName": "בני ברק",
     "streetName": "חזון אי\"ש"

@@ -2,32 +2,26 @@
 
 # רשימת המקטעים שסגורים בשבתות וחגי ישראל
 
-
 ### אבן שמואל
 
 - [דרך הראשונים](https://www.waze.com/he/editor/?env=il&lon=34.76339&lat=31.57258&s=3638528&zoom=8&segments=1195586)
 - [השקד](https://www.waze.com/he/editor/?env=il&lon=34.76134&lat=31.57314&s=3638528&zoom=8&segments=2253266)
 - [השקד](https://www.waze.com/he/editor/?env=il&lon=34.76135&lat=31.57391&s=3638528&zoom=8&segments=2253267)
-
 ### אורנית
 
 - [הזית](https://www.waze.com/he/editor/?env=il&lon=34.98923&lat=32.13539&s=3638528&zoom=8&segments=2138293)
 - [הזית](https://www.waze.com/he/editor/?env=il&lon=34.98963&lat=32.13613&s=3638528&zoom=8&segments=2138291)
-
 ### אלומה
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.74334&lat=31.65372&s=3638528&zoom=8&segments=1391428)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.73945&lat=31.65057&s=3638528&zoom=8&segments=1391426)
-
 ### אלון שבות
 
 - [ל- אלון שבות](https://www.waze.com/he/editor/?env=il&lon=35.12881&lat=31.64931&s=3638528&zoom=8&segments=1033946)
-
 ### אלישיב
 
 - [הזית](https://www.waze.com/he/editor/?env=il&lon=34.91031&lat=32.38633&s=3638528&zoom=8&segments=1159690)
 - [התמר](https://www.waze.com/he/editor/?env=il&lon=34.90829&lat=32.37935&s=3638528&zoom=8&segments=1786364)
-
 ### אלעד
 
 - [4711](https://www.waze.com/he/editor/?env=il&lon=34.96672&lat=32.05647&s=3638528&zoom=8&segments=1267352)
@@ -36,7 +30,6 @@
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94482&lat=32.05274&s=3638528&zoom=8&segments=1783618)
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94424&lat=32.05272&s=3638528&zoom=8&segments=1783617)
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94423&lat=32.05266&s=3638528&zoom=8&segments=1783620)
-
 ### אשדוד
 
 - [רבי טרפון](https://www.waze.com/he/editor/?env=il&lon=34.66400&lat=31.78777&s=3638528&zoom=8&segments=1609087)
@@ -52,34 +45,28 @@
 - [רבי שמעון בן שטח](https://www.waze.com/he/editor/?env=il&lon=34.66287&lat=31.79511&s=3638528&zoom=8&segments=1546954)
 - [רשב"י](https://www.waze.com/he/editor/?env=il&lon=34.65967&lat=31.79039&s=3638528&zoom=8&segments=51539)
 - [רשב"י](https://www.waze.com/he/editor/?env=il&lon=34.65967&lat=31.79039&s=3638528&zoom=8&segments=1708495)
-
 ### באר גנים
 
 - [לשם](https://www.waze.com/he/editor/?env=il&lon=34.60935&lat=31.69880&s=3638528&zoom=8&segments=670802)
 - [לשם](https://www.waze.com/he/editor/?env=il&lon=34.60649&lat=31.70013&s=3638528&zoom=8&segments=423863)
-
 ### באר שבע
 
 - [אבוחצירא](https://www.waze.com/he/editor/?env=il&lon=34.77975&lat=31.26904&s=3638528&zoom=8&segments=920793)
 - [אבוחצירא](https://www.waze.com/he/editor/?env=il&lon=34.77717&lat=31.26750&s=3638528&zoom=8&segments=227855)
 - [הרב סרנא](https://www.waze.com/he/editor/?env=il&lon=34.77929&lat=31.26642&s=3638528&zoom=8&segments=752197)
 - [הרב פרנק](https://www.waze.com/he/editor/?env=il&lon=34.78167&lat=31.26790&s=3638528&zoom=8&segments=777056)
-
 ### בית הגדי
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.61147&lat=31.41812&s=3638528&zoom=8&segments=87722)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.60254&lat=31.42453&s=3638528&zoom=8&segments=1156507)
-
 ### בית חלקיה
 
 - [התמר](https://www.waze.com/he/editor/?env=il&lon=34.80669&lat=31.78923&s=3638528&zoom=8&segments=946427)
 - [התמר](https://www.waze.com/he/editor/?env=il&lon=34.80669&lat=31.78923&s=3638528&zoom=8&segments=1886669)
 - [התמר](https://www.waze.com/he/editor/?env=il&lon=34.80669&lat=31.78923&s=3638528&zoom=8&segments=1886670)
-
 ### בית מאיר
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.03871&lat=31.79156&s=3638528&zoom=8&segments=1284199)
-
 ### בית שמש
 
 - [החפץ חיים](https://www.waze.com/he/editor/?env=il&lon=34.99951&lat=31.74781&s=3638528&zoom=8&segments=179092)
@@ -93,19 +80,16 @@
 - [רבי יוסי בן קיסמא](https://www.waze.com/he/editor/?env=il&lon=34.99723&lat=31.73752&s=3638528&zoom=8&segments=1667756)
 - [רבי יוסי בן קיסמא](https://www.waze.com/he/editor/?env=il&lon=34.99992&lat=31.73622&s=3638528&zoom=8&segments=543827)
 - [שפת אמת](https://www.waze.com/he/editor/?env=il&lon=34.99509&lat=31.74232&s=3638528&zoom=8&segments=27409)
-
 ### בית שקמה
 
 - [דרך האתרוג](https://www.waze.com/he/editor/?env=il&lon=34.60705&lat=31.63281&s=3638528&zoom=8&segments=2434710)
 - [דרך האתרוג](https://www.waze.com/he/editor/?env=il&lon=34.60698&lat=31.63281&s=3638528&zoom=8&segments=2470988)
-
 ### ביתר עילית
 
 - [הרב יצחק רייטפארט](https://www.waze.com/he/editor/?env=il&lon=35.12163&lat=31.70728&s=3638528&zoom=8&segments=1826098)
 - [הרב יצחק רייטפארט](https://www.waze.com/he/editor/?env=il&lon=35.12163&lat=31.70728&s=3638528&zoom=8&segments=1826097)
 - [חכמת חיים](https://www.waze.com/he/editor/?env=il&lon=35.12613&lat=31.70456&s=3638528&zoom=8&segments=1446603)
 - [חכמת חיים](https://www.waze.com/he/editor/?env=il&lon=35.12613&lat=31.70456&s=3638528&zoom=8&segments=1446605)
-
 ### בני ברק
 
 - [אברהם בן דוד](https://www.waze.com/he/editor/?env=il&lon=34.84307&lat=32.07571&s=3638528&zoom=8&segments=301790)
@@ -125,7 +109,7 @@
 - [האדמו"ר מנדבורנה](https://www.waze.com/he/editor/?env=il&lon=34.83540&lat=32.07593&s=3638528&zoom=8&segments=979037)
 - [האדמו"ר מנדבורנה](https://www.waze.com/he/editor/?env=il&lon=34.83376&lat=32.07577&s=3638528&zoom=8&segments=1664239)
 - [האדמו"ר מנדבורנה](https://www.waze.com/he/editor/?env=il&lon=34.83466&lat=32.07573&s=3638528&zoom=8&segments=2264733)
-- [האדמו"ר מנדבורנה](https://www.waze.com/he/editor/?env=il&lon=34.83466&lat=32.07573&s=3638528&zoom=8&segments=2264734)
+- [האדמו"ר מנדבורנה](https://www.waze.com/he/editor/?env=il&lon=34.835021&lat=32.075807&s=3638528&zoom=8&segments=2494353)
 - [הבנים](https://www.waze.com/he/editor/?env=il&lon=34.82472&lat=32.08528&s=3638528&zoom=8&segments=859987)
 - [הבנים](https://www.waze.com/he/editor/?env=il&lon=34.82468&lat=32.08489&s=3638528&zoom=8&segments=859986)
 - [הירדן](https://www.waze.com/he/editor/?env=il&lon=34.83841&lat=32.09193&s=3638528&zoom=8&segments=2288489)
@@ -181,8 +165,10 @@
 - [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.83388&lat=32.07796&s=3638528&zoom=8&segments=1664261)
 - [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.83386&lat=32.07689&s=3638528&zoom=8&segments=1664253)
 - [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.83386&lat=32.07689&s=3638528&zoom=8&segments=1664238)
-- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.83334&lat=32.07529&s=3638528&zoom=8&segments=1664230)
-- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.83334&lat=32.07529&s=3638528&zoom=8&segments=1664241)
+- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.833230&lat=32.075847&s=3638528&zoom=8&segments=2494349)
+- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.833223&lat=32.075797&s=3638528&zoom=8&segments=2494350)
+- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.833318&lat=32.075847&s=3638528&zoom=8&segments=2494351)
+- [חזון אי"ש](https://www.waze.com/he/editor/?env=il&lon=34.833309&lat=32.075792&s=3638528&zoom=8&segments=2494352)
 - [חרל"פ](https://www.waze.com/he/editor/?env=il&lon=34.82339&lat=32.08603&s=3638528&zoom=8&segments=933533)
 - [חרל"פ](https://www.waze.com/he/editor/?env=il&lon=34.82339&lat=32.08603&s=3638528&zoom=8&segments=933532)
 - [טבריה](https://www.waze.com/he/editor/?env=il&lon=34.82417&lat=32.08679&s=3638528&zoom=8&segments=253714)
@@ -205,31 +191,25 @@
 - [רבי יוחנן הסנדלר](https://www.waze.com/he/editor/?env=il&lon=34.84272&lat=32.07441&s=3638528&zoom=8&segments=181172)
 - [רבי עקיבא](https://www.waze.com/he/editor/?env=il&lon=34.82524&lat=32.09106&s=3638528&zoom=8&segments=1018500)
 - [רבן יוחנן בן זכאי](https://www.waze.com/he/editor/?env=il&lon=34.83100&lat=32.08106&s=3638528&zoom=8&segments=90313)
-
 ### בני דרום
 
 - [דרך בית הבד](https://www.waze.com/he/editor/?env=il&lon=34.69699&lat=31.82185&s=3638528&zoom=8&segments=1601336)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.69285&lat=31.82269&s=3638528&zoom=8&segments=1601332)
-
 ### בנימינה
 
 - [קרן היסוד](https://www.waze.com/he/editor/?env=il&lon=34.95044&lat=32.52111&s=3638528&zoom=8&segments=1331504)
-
 ### ברוכין
 
 - [ברוכין](https://www.waze.com/he/editor/?env=il&lon=35.09411&lat=32.07947&s=3638528&zoom=8&segments=1667400)
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.09146&lat=32.08469&s=3638528&zoom=8&segments=2385581)
-
 ### ברכיה
 
 - [פרדס רימונים](https://www.waze.com/he/editor/?env=il&lon=34.63216&lat=31.66669&s=3638528&zoom=8&segments=1485379)
 - [שיר השירים](https://www.waze.com/he/editor/?env=il&lon=34.62511&lat=31.66535&s=3638528&zoom=8&segments=1154724)
 - [שיר השירים](https://www.waze.com/he/editor/?env=il&lon=34.63501&lat=31.67630&s=3638528&zoom=8&segments=1169491)
-
 ### גבעת ברנר
 
 - [שדרות רימון](https://www.waze.com/he/editor/?env=il&lon=34.80096&lat=31.86837&s=3638528&zoom=8&segments=832133)
-
 ### גבעת שמואל
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.84553&lat=32.07590&s=3638528&zoom=8&segments=1021367)
@@ -238,7 +218,6 @@
 - [מבצע קדש](https://www.waze.com/he/editor/?env=il&lon=34.84395&lat=32.07629&s=3638528&zoom=8&segments=1681071)
 - [מבצע קדש](https://www.waze.com/he/editor/?env=il&lon=34.84263&lat=32.07646&s=3638528&zoom=8&segments=1681070)
 - [מבצע קדש](https://www.waze.com/he/editor/?env=il&lon=34.84263&lat=32.07646&s=3638528&zoom=8&segments=1681065)
-
 ### גני תקווה
 
 - [דרך המשי](https://www.waze.com/he/editor/?env=il&lon=34.86729&lat=32.06240&s=3638528&zoom=8&segments=2125685)
@@ -254,42 +233,34 @@
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86761&lat=32.06194&s=3638528&zoom=8&segments=1146537)
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86659&lat=32.06144&s=3638528&zoom=8&segments=1146538)
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86648&lat=32.06072&s=3638528&zoom=8&segments=1116531)
-
 ### דפנה
 
 - [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64023&lat=33.22775&s=3638528&zoom=8&segments=2110294)
 - [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64011&lat=33.23053&s=3638528&zoom=8&segments=1644957)
 - [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64008&lat=33.23102&s=3638528&zoom=8&segments=1498949)
 - [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64023&lat=33.23149&s=3638528&zoom=8&segments=2388250)
-
 ### הוד השרון
 
 - [יהושע בן גמלא](https://www.waze.com/he/editor/?env=il&lon=34.89568&lat=32.15871&s=3638528&zoom=8&segments=2386980)
-
 ### זבדיאל
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.76072&lat=31.65221&s=3638528&zoom=8&segments=1174986)
-
 ### זכרון יעקב
 
 - [הנדיב](https://www.waze.com/he/editor/?env=il&lon=34.95366&lat=32.57401&s=3638528&zoom=8&segments=354569)
 - [הנדיב](https://www.waze.com/he/editor/?env=il&lon=34.95260&lat=32.57397&s=3638528&zoom=8&segments=69040)
-
 ### זמרת
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.55449&lat=31.44615&s=3638528&zoom=8&segments=2323185)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.55594&lat=31.44571&s=3638528&zoom=8&segments=2323184)
-
 ### זרחיה
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.74238&lat=31.68759&s=3638528&zoom=8&segments=1359053)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.73971&lat=31.67719&s=3638528&zoom=8&segments=1359052)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.74741&lat=31.67745&s=3638528&zoom=8&segments=1359051)
-
 ### חדרה
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.89658&lat=32.44971&s=3638528&zoom=8&segments=509701)
-
 ### חיפה
 
 - [ביל"ו](https://www.waze.com/he/editor/?env=il&lon=35.00221&lat=32.80585&s=3638528&zoom=8&segments=200193)
@@ -317,17 +288,14 @@
 - [ריינס](https://www.waze.com/he/editor/?env=il&lon=35.06461&lat=32.83191&s=3638528&zoom=8&segments=212328)
 - [ריינס](https://www.waze.com/he/editor/?env=il&lon=35.06747&lat=32.83090&s=3638528&zoom=8&segments=1250947)
 - [ריינס](https://www.waze.com/he/editor/?env=il&lon=35.06775&lat=32.83081&s=3638528&zoom=8&segments=1250946)
-
 ### חמד
 
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.84199&lat=32.01298&s=3638528&zoom=8&segments=93216)
-
 ### חנתון
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.24707&lat=32.78337&s=3638528&zoom=8&segments=1505247)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.24377&lat=32.78406&s=3638528&zoom=8&segments=313204)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.24376&lat=32.78455&s=3638528&zoom=8&segments=894389)
-
 ### חפץ חיים
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.80247&lat=31.78829&s=3638528&zoom=8&segments=1352307)
@@ -338,20 +306,16 @@
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.79742&lat=31.78721&s=3638528&zoom=8&segments=1359364)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.79754&lat=31.78718&s=3638528&zoom=8&segments=1359368)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.79732&lat=31.78722&s=3638528&zoom=8&segments=1359367)
-
 ### חצור הגלילית
 
 - [מעלה הקריה](https://www.waze.com/he/editor/?env=il&lon=35.54999&lat=32.98465&s=3638528&zoom=8&segments=806449)
-
 ### טבריה
 
 - [ורנר](https://www.waze.com/he/editor/?env=il&lon=35.53380&lat=32.79552&s=3638528&zoom=8&segments=1171595)
 - [ורנר](https://www.waze.com/he/editor/?env=il&lon=35.53476&lat=32.79594&s=3638528&zoom=8&segments=1171596)
-
 ### ינוב
 
 - [מבוא הגפן](https://www.waze.com/he/editor/?env=il&lon=34.94190&lat=32.30427&s=3638528&zoom=8&segments=896033)
-
 ### ירושלים
 
 - [אוהל יהושע](https://www.waze.com/he/editor/?env=il&lon=35.21083&lat=31.79578&s=3638528&zoom=8&segments=1933434)
@@ -533,42 +497,34 @@
 - [תורה ועבודה](https://www.waze.com/he/editor/?env=il&lon=35.18316&lat=31.76749&s=3638528&zoom=8&segments=2354052)
 - [תורה ועבודה](https://www.waze.com/he/editor/?env=il&lon=35.18198&lat=31.76692&s=3638528&zoom=8&segments=2354053)
 - [תורת חסד](https://www.waze.com/he/editor/?env=il&lon=35.20953&lat=31.79789&s=3638528&zoom=8&segments=138246)
-
 ### ישעי
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.95878&lat=31.75250&s=3638528&zoom=8&segments=192738)
-
 ### כפר הרא"ה
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.90780&lat=32.39339&s=3638528&zoom=8&segments=1160005)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.90733&lat=32.39336&s=3638528&zoom=8&segments=2336656)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.90879&lat=32.39329&s=3638528&zoom=8&segments=1252783)
 - [תורה ועבודה](https://www.waze.com/he/editor/?env=il&lon=34.91180&lat=32.39360&s=3638528&zoom=8&segments=227896)
-
 ### כפר ויתקין
 
 - [מול הים](https://www.waze.com/he/editor/?env=il&lon=34.87370&lat=32.38165&s=3638528&zoom=8&segments=2167652)
 - [מול הים](https://www.waze.com/he/editor/?env=il&lon=34.87315&lat=32.38130&s=3638528&zoom=8&segments=1482686)
-
 ### כפר חב"ד
 
 - [4402](https://www.waze.com/he/editor/?env=il&lon=34.84318&lat=31.98552&s=3638528&zoom=8&segments=1276039)
-
 ### כפר מימון
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.53227&lat=31.42970&s=3638528&zoom=8&segments=1410631)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.53240&lat=31.43415&s=3638528&zoom=8&segments=1410683)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.52961&lat=31.43669&s=3638528&zoom=8&segments=1564370)
-
 ### כפר סבא
 
 - [עציון](https://www.waze.com/he/editor/?env=il&lon=34.91411&lat=32.17940&s=3638528&zoom=8&segments=30826)
-
 ### כפר פינס
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.99874&lat=32.47970&s=3638528&zoom=8&segments=1571182)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.00576&lat=32.48268&s=3638528&zoom=8&segments=1571185)
-
 ### לוד
 
 - [הרב אלישיב](https://www.waze.com/he/editor/?env=il&lon=34.89774&lat=31.93419&s=3638528&zoom=8&segments=1493281)
@@ -580,11 +536,9 @@
 - [שבט זבולון](https://www.waze.com/he/editor/?env=il&lon=34.90062&lat=31.93799&s=3638528&zoom=8&segments=1879882)
 - [שבט זבולון](https://www.waze.com/he/editor/?env=il&lon=34.90119&lat=31.93900&s=3638528&zoom=8&segments=1952093)
 - [שבט זבולון](https://www.waze.com/he/editor/?env=il&lon=34.90053&lat=31.93755&s=3638528&zoom=8&segments=1902203)
-
 ### ללא יישוב
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.98632&lat=32.49386&s=3638528&zoom=8&segments=1937957)
-
 ### ללא עיר
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.94642&lat=32.05424&s=3638528&zoom=8&segments=1509218)
@@ -593,50 +547,40 @@
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.14182&lat=31.86899&s=3638528&zoom=8&segments=1567214)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.88360&lat=32.34839&s=3638528&zoom=8&segments=1764937)
 - [למורשת](https://www.waze.com/he/editor/?env=il&lon=35.23788&lat=32.83104&s=3638528&zoom=8&segments=788527)
-
 ### מודיעין עילית
 
 - [שדרות בית הלל](https://www.waze.com/he/editor/?env=il&lon=35.03626&lat=31.93650&s=3638528&zoom=8&segments=1648804)
 - [שדרות בית הלל](https://www.waze.com/he/editor/?env=il&lon=35.03612&lat=31.93664&s=3638528&zoom=8&segments=1648855)
 - [שדרות בית הלל](https://www.waze.com/he/editor/?env=il&lon=35.04578&lat=31.92427&s=3638528&zoom=8&segments=1170035)
-
 ### משמר איילון
 
 - [האלה](https://www.waze.com/he/editor/?env=il&lon=34.94627&lat=31.87141&s=3638528&zoom=8&segments=2287038)
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=34.95044&lat=31.87319&s=3638528&zoom=8&segments=2287032)
-
 ### משמרות
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.98637&lat=32.49181&s=3638528&zoom=8&segments=2088314)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.98586&lat=32.49278&s=3638528&zoom=8&segments=2088315)
-
 ### מתתיהו
 
 - [הרב פיינשטיין](https://www.waze.com/he/editor/?env=il&lon=35.03196&lat=31.93171&s=3638528&zoom=8&segments=1623850)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.02639&lat=31.93050&s=3638528&zoom=8&segments=1481532)
-
 ### נוף איילון
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.99103&lat=31.86905&s=3638528&zoom=8&segments=257361)
-
 ### נוף הגליל
 
 - [הרב פנחס מילר](https://www.waze.com/he/editor/?env=il&lon=35.34189&lat=32.72885&s=3638528&zoom=8&segments=2183396)
-
 ### נחלים
 
 - [ירדן](https://www.waze.com/he/editor/?env=il&lon=34.91369&lat=32.04846&s=3638528&zoom=8&segments=1261848)
 - [שניר](https://www.waze.com/he/editor/?env=il&lon=34.90462&lat=32.05575&s=3638528&zoom=8&segments=955811)
-
 ### ניצן
 
 - [השיקמה](https://www.waze.com/he/editor/?env=il&lon=34.63749&lat=31.73844&s=3638528&zoom=8&segments=2159633)
 - [שדרות הקוצר](https://www.waze.com/he/editor/?env=il&lon=34.63749&lat=31.73844&s=3638528&zoom=8&segments=2159458)
-
 ### נשר
 
 - [מרדכי בר מוחא](https://www.waze.com/he/editor/?env=il&lon=35.04649&lat=32.76933&s=3638528&zoom=8&segments=217126)
-
 ### נתניה
 
 - [הרטום](https://www.waze.com/he/editor/?env=il&lon=34.87808&lat=32.30880&s=3638528&zoom=8&segments=290470)
@@ -652,7 +596,6 @@
 - [רבי עקיבא](https://www.waze.com/he/editor/?env=il&lon=34.85730&lat=32.34327&s=3638528&zoom=8&segments=279706)
 - [רות המואביה](https://www.waze.com/he/editor/?env=il&lon=34.87674&lat=32.30915&s=3638528&zoom=8&segments=303647)
 - [רות המואביה](https://www.waze.com/he/editor/?env=il&lon=34.87673&lat=32.30953&s=3638528&zoom=8&segments=294242)
-
 ### עכו
 
 - [המר"ן](https://www.waze.com/he/editor/?env=il&lon=35.09073&lat=32.93680&s=3638528&zoom=8&segments=1879654)
@@ -661,15 +604,12 @@
 - [ז&#39בוטינסקי](https://www.waze.com/he/editor/?env=il&lon=35.07224&lat=32.92986&s=3638528&zoom=8&segments=1389731)
 - [לוי](https://www.waze.com/he/editor/?env=il&lon=35.09004&lat=32.93400&s=3638528&zoom=8&segments=1337124)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.07307&lat=32.93011&s=3638528&zoom=8&segments=1904241)
-
 ### עפולה
 
 - [יהושע חנקין](https://www.waze.com/he/editor/?env=il&lon=35.28688&lat=32.60671&s=3638528&zoom=8&segments=1174982)
-
 ### פדואל
 
 - [אור עולם](https://www.waze.com/he/editor/?env=il&lon=35.05782&lat=32.06483&s=3638528&zoom=8&segments=646445)
-
 ### פתח תקווה
 
 - [אריה בן אליעזר](https://www.waze.com/he/editor/?env=il&lon=34.90907&lat=32.07103&s=3638528&zoom=8&segments=62175)
@@ -686,37 +626,30 @@
 - [ריינס יצחק](https://www.waze.com/he/editor/?env=il&lon=34.89661&lat=32.09576&s=3638528&zoom=8&segments=42786)
 - [ריינס יצחק](https://www.waze.com/he/editor/?env=il&lon=34.89667&lat=32.09448&s=3638528&zoom=8&segments=42776)
 - [רמח"ל](https://www.waze.com/he/editor/?env=il&lon=34.89592&lat=32.09485&s=3638528&zoom=8&segments=890262)
-
 ### צפריה
 
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85702&lat=32.00766&s=3638528&zoom=8&segments=1535059)
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85607&lat=32.00619&s=3638528&zoom=8&segments=1927959)
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85629&lat=32.00662&s=3638528&zoom=8&segments=1927958)
-
 ### צפת
 
 - [צה"ל](https://www.waze.com/he/editor/?env=il&lon=35.48854&lat=32.96417&s=3638528&zoom=8&segments=1270022)
 - [צה"ל](https://www.waze.com/he/editor/?env=il&lon=35.48796&lat=32.96464&s=3638528&zoom=8&segments=1270023)
-
 ### קריית אתא
 
 - [המייסדים](https://www.waze.com/he/editor/?env=il&lon=35.10536&lat=32.80347&s=3638528&zoom=8&segments=846937)
-
 ### קריית ים
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.06825&lat=32.84039&s=3638528&zoom=8&segments=1174107)
-
 ### קריית יערים
 
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.09367&lat=31.80362&s=3638528&zoom=8&segments=1893109)
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.09367&lat=31.80362&s=3638528&zoom=8&segments=1893110)
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.10003&lat=31.80356&s=3638528&zoom=8&segments=781451)
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.10008&lat=31.80374&s=3638528&zoom=8&segments=1893123)
-
 ### קריית מוצקין
 
 - [מעבר יששכר](https://www.waze.com/he/editor/?env=il&lon=35.07135&lat=32.83421&s=3638528&zoom=8&segments=866515)
-
 ### קרני שומרון
 
 - [הגפן](https://www.waze.com/he/editor/?env=il&lon=35.08352&lat=32.17068&s=3638528&zoom=8&segments=676019)
@@ -731,40 +664,32 @@
 - [השקמה](https://www.waze.com/he/editor/?env=il&lon=35.08306&lat=32.16882&s=3638528&zoom=8&segments=57965)
 - [ל- קרני שומרון (נווה מנחם)](https://www.waze.com/he/editor/?env=il&lon=35.10733&lat=32.17985&s=3638528&zoom=8&segments=789157)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.07745&lat=32.17145&s=3638528&zoom=8&segments=587694)
-
 ### רחובות
 
 - [קולונל מרגולין](https://www.waze.com/he/editor/?env=il&lon=34.82443&lat=31.89774&s=3638528&zoom=8&segments=137927)
-
 ### רמת גן
 
 - [השר משה](https://www.waze.com/he/editor/?env=il&lon=34.82298&lat=32.06670&s=3638528&zoom=8&segments=191814)
 - [השר משה](https://www.waze.com/he/editor/?env=il&lon=34.82557&lat=32.06640&s=3638528&zoom=8&segments=116335)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=34.82905&lat=32.07155&s=3638528&zoom=8&segments=1130200)
-
 ### שבי ציון
 
 - [האלה](https://www.waze.com/he/editor/?env=il&lon=35.08465&lat=32.98227&s=3638528&zoom=8&segments=147235)
 - [האלה](https://www.waze.com/he/editor/?env=il&lon=35.08498&lat=32.98341&s=3638528&zoom=8&segments=266900)
-
 ### שדה אילן
 
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.41965&lat=32.75032&s=3638528&zoom=8&segments=111312)
-
 ### שובה
 
 - [הדקל](https://www.waze.com/he/editor/?env=il&lon=34.54036&lat=31.45601&s=3638528&zoom=8&segments=1741749)
 - [הזית](https://www.waze.com/he/editor/?env=il&lon=34.55136&lat=31.45355&s=3638528&zoom=8&segments=2196610)
 - [התאנה](https://www.waze.com/he/editor/?env=il&lon=34.53875&lat=31.45009&s=3638528&zoom=8&segments=1224447)
-
 ### תל אביב - יפו
 
 - [הדף היומי](https://www.waze.com/he/editor/?env=il&lon=34.84071&lat=32.11565&s=3638528&zoom=8&segments=335957)
-
 ### תנובות
 
 - [החרמון](https://www.waze.com/he/editor/?env=il&lon=34.95830&lat=32.30492&s=3638528&zoom=8&segments=831278)
-
 ### תפרח
 
 - [חסד ומשפט](https://www.waze.com/he/editor/?env=il&lon=34.68373&lat=31.33352&s=3638528&zoom=8&segments=1253285)
