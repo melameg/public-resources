@@ -475,5 +475,14 @@
       2116201,
       2116202
     ]
+  },
+  "14607": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.83327&lat=32.07583&s=3638528&zoomLevel=20&marker=false&bigJunctions=14607",
+    "segments": [
+      2494354,
+      1664240,
+      2494351,
+      2494349
+    ]
   }
 }
