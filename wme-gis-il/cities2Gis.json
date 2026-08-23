@@ -5334,6 +5334,90 @@
       "gis": "v5.gis-net.co.il",
       "displayName": "Yeruham"
     },
+    "411": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Ashalim"
+    },
+    "745": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Tlalim"
+    },
+    "825": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Kmehin"
+    },
+    "967": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Midreshet Ben-Gurion"
+    },
+    "1065": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Mashabei Sade"
+    },
+    "1146": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Nitzana"
+    },
+    "1147": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Nitzanei Sinai"
+    },
+    "1219": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Azuz"
+    },
+    "1393": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Ravivim"
+    },
+    "1438": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Retamim"
+    },
+    "1450": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Sde Boker"
+    },
+    "1561": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Beer Milka"
+    },
+    "1593": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Merhav Am"
+    },
+    "4381": {
+      "name": "RamatNegevGis",
+      "prefix": "mg2",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Shizafon"
+    },
     "296": {
       "name": "539957d586e94616bd2302c06ce24a3a",
       "gis": "www.arcgis.com",
