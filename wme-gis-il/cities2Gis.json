@@ -735,38 +735,45 @@
       "displayName": "Reineh"
     },
     "720": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Hazeva"
     },
     "1202": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Sapir"
     },
     "1226": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Idan"
     },
     "1249": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Ein Yahav"
     },
     "1292": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Paran"
     },
     "1326": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Tzofar"
     },
     "2807": {
-      "name": "AravaTichonaNew",
-      "gis": "gis01.taldor.co.il",
+      "name": "AravaTichonaGis",
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
       "displayName": "Tzukim"
     },
     "1371": {
