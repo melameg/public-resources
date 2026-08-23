@@ -2751,39 +2751,39 @@
     },
     "1288": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Ar'Ara- In The Negev",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Ar'Ara- In The Negev"
     },
     "831": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Kuseife",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Kuseife"
     },
     "1533": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Tel Sheva",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Tel Sheva"
     },
     "698": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "hura",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Hura"
     },
     "1445": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Segev-Shalom",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Segev-Shalom"
     },
     "940": {
       "name": "NegevMizrahiGis",
-      "gis": "gis08.taldor.co.il",
-      "displayName": "Lakia",
-      "suffix": "#/"
+      "prefix": "mg1",
+      "gis": "__prefix__.gis-net.co.il",
+      "displayName": "Lakia"
     },
     "300": {
       "name": "EmekHeferGis/#",
