@@ -5324,6 +5324,16 @@
       "suffix": "#",
       "displayName": "Yehud"
     },
+    "630": {
+      "name": "dimona",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Dimona"
+    },
+    "799": {
+      "name": "Yeruham",
+      "gis": "v5.gis-net.co.il",
+      "displayName": "Yeruham"
+    },
     "296": {
       "name": "539957d586e94616bd2302c06ce24a3a",
       "gis": "www.arcgis.com",
