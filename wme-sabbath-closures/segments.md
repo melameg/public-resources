@@ -204,7 +204,6 @@
 - [ללא](https://www.waze.com/he/editor/?env=il&lon=35.09146&lat=32.08469&s=3638528&zoom=8&segments=2385581)
 ### ברכיה
 
-- [פרדס רימונים](https://www.waze.com/he/editor/?env=il&lon=34.63216&lat=31.66669&s=3638528&zoom=8&segments=1485379)
 - [שיר השירים](https://www.waze.com/he/editor/?env=il&lon=34.62511&lat=31.66535&s=3638528&zoom=8&segments=1154724)
 - [שיר השירים](https://www.waze.com/he/editor/?env=il&lon=34.63501&lat=31.67630&s=3638528&zoom=8&segments=1169491)
 ### גבעת ברנר
