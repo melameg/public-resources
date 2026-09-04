@@ -484,5 +484,22 @@
       2494351,
       2494349
     ]
+  },
+  "14653": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.62510&lat=31.66676&s=3638528&zoomLevel=20&marker=false&bigJunctions=14653",
+    "segments": [
+      1014895,
+      1014894,
+      1014893,
+      1014896
+    ]
+  },
+  "14668": {
+    "url": "https://www.waze.com/editor?env=il&lon=34.85575&lat=32.00591&s=3638528&zoomLevel=20&marker=false&bigJunctions=14668",
+    "segments": [
+      1603488,
+      1603490,
+      1603491
+    ]
   }
 }
