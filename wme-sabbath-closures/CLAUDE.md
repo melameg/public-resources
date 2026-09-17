@@ -113,3 +113,17 @@ Per request: https://www.waze.com/discuss/t/topic/...
 - **WME_sabbath.JerusalemTimePerWeek.json** — weekly Sabbath start/end times for Jerusalem.
 - **WME_sabbath.HolidaysSegments.json** — segments to close on Jewish holidays (same format as Segments.json).
 - **WME_sabbath.RevertSegments.json** — segments to revert/reopen after Sabbath ends.
+- **WME_sabbath.Junction_Boxes.json** — big junctions (תיבות צומת) to handle on Sabbath. Dict keyed by junction ID string; each value has `url` (WME permalink with `bigJunctions=<id>`) and `segments` (array of segment IDs, may be empty if unknown).
+- **WME_sabbath.Roundabouts.json** — roundabout segments to handle on Sabbath. Array of objects, each with `url` (WME permalink with `segments=<ids>`) and `segments` (array of segment IDs).
+
+## Analysing a WME URL to determine the target file
+
+When the user provides a WME editor URL, determine the target file by the URL parameters:
+
+| URL contains | Target file |
+|---|---|
+| `bigJunctions=<id>` | `WME_sabbath.Junction_Boxes.json` — add entry keyed by the junction ID with `url` and `segments` (empty array if no segment IDs in the URL) |
+| `segments=<ids>` and it is a **roundabout** | `WME_sabbath.Roundabouts.json` — append entry with `url` and `segments` array |
+| `segments=<ids>` and it is a regular road segment | `WME_sabbath.Segments.json` — add one entry per segment ID with `permalink`, `likeCity`, `cityName`, `streetName` |
+
+The user will indicate whether a `segments=` URL is a roundabout or a regular segment. Never assume — ask if unclear.

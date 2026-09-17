@@ -161,5 +161,13 @@
       2324537,
       2324536
     ]
+  },
+  {
+    "url": "https://www.waze.com/he/editor?env=il&lon=35.17403&lat=31.78133&s=3638528&zoomLevel=20&marker=false&segments=2503284,2503282,2503283",
+    "segments": [
+      2503284,
+      2503282,
+      2503283
+    ]
   }
 ]
