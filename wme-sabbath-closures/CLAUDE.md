@@ -98,6 +98,30 @@ print('segments.md updated')
 "
 ```
 
+### Removing segments
+
+Delete the entry (or entries) with the matching segment ID from the array. No re-sort is needed — deletion doesn't change order.
+
+**To validate no unintended entries were lost after removing:**
+```bash
+python3 -c "
+import json,codecs,subprocess
+path='WME_sabbath.Segments.json'
+current=json.load(codecs.open(path,'r','utf-8-sig'))
+raw=subprocess.check_output(['git','show','HEAD:wme-sabbath-closures/WME_sabbath.Segments.json'])
+original=json.loads(raw.decode('utf-8-sig'))
+before=set((e['permalink'],e['likeCity'],e['cityName'],e['streetName']) for e in original)
+after=set((e['permalink'],e['likeCity'],e['cityName'],e['streetName']) for e in current)
+removed=before-after
+added=after-before
+print('Removed:', len(removed), '| Added:', len(added))
+for e in removed: print(' -', e)
+for e in added: print(' +', e)
+"
+```
+
+After removing, regenerate `segments.md` using the same command as after adding (see above).
+
 ### Commit message convention
 
 Include the Waze forum thread URL when a request originates from a forum post, e.g.:

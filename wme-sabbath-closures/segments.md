@@ -98,6 +98,7 @@
 - [אהרונוביץ'](https://www.waze.com/he/editor/?env=il&lon=34.83917&lat=32.09105&s=3638528&zoom=8&segments=1681763)
 - [אהרונוביץ'](https://www.waze.com/he/editor/?env=il&lon=34.83937&lat=32.09229&s=3638528&zoom=8&segments=1681774)
 - [אלוף שמחוני](https://www.waze.com/he/editor/?env=il&lon=34.82772&lat=32.07710&s=3638528&zoom=8&segments=75086)
+- [בארי](https://www.waze.com/he/editor/?env=il&lon=34.82901&lat=32.07704&s=3638528&zoom=8&segments=919510)
 - [גרוסברד](https://www.waze.com/he/editor/?env=il&lon=34.83238&lat=32.07768&s=3638528&zoom=8&segments=65982)
 - [ד"ר בירנבוים](https://www.waze.com/he/editor/?env=il&lon=34.84155&lat=32.07284&s=3638528&zoom=8&segments=240252)
 - [ד"ר בירנבוים](https://www.waze.com/he/editor/?env=il&lon=34.84119&lat=32.07240&s=3638528&zoom=8&segments=48594)
