@@ -132,6 +132,14 @@ Add Sabbath closure segments in <city> (<street>)
 Per request: https://www.waze.com/discuss/t/topic/...
 ```
 
+### After pushing
+
+Open the raw file URL so the user can verify the change is live:
+```
+https://raw.githubusercontent.com/melameg/public-resources/master/wme-sabbath-closures/WME_sabbath.Segments.json
+```
+Also print the segment ID(s) that were added or removed so the user knows what to search for on that page.
+
 ## Other files
 
 - **WME_sabbath.Cities.json** — dict keyed by Hebrew city name; each value has an `offset` (integer, minutes offset from Jerusalem Sabbath time). The `likeCity` field in Segments.json references this via the English key to determine actual closure times.
