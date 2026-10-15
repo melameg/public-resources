@@ -124,7 +124,8 @@ After removing, regenerate `segments.md` using the same command as after adding 
 
 ### Commit message convention
 
-Include the Waze forum thread URL when a request originates from a forum post, e.g.:
+Before committing any add or remove operation, **always ask the user for a Waze forum thread URL** to include in the commit message. The user may not always have one — if they don't provide one, omit the `Per request:` line. When a URL is provided, include it as:
+
 ```
 Add Sabbath closure segments in <city> (<street>)
 
