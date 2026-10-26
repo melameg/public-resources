@@ -23,6 +23,10 @@ Array of road segments to close on Sabbath/holidays. 535 entries (as of 2026-07)
 - `cityName` — Hebrew city name (display only).
 - `streetName` — Hebrew street name (display only).
 
+### WME_sabbath.TestSegments.json
+
+Mirrors the most recently added segment(s) for testing purposes. **Every time a segment is added to `WME_sabbath.Segments.json`, replace the contents of `WME_sabbath.TestSegments.json` with just the new entry/entries** (same array format, no BOM required).
+
 ### Adding new segments
 
 **Required inputs per segment:**
@@ -148,6 +152,7 @@ Also print the segment ID(s) that were added or removed so the user knows what t
 - **WME_sabbath.RevertSegments.json** — segments to revert/reopen after Sabbath ends.
 - **WME_sabbath.Junction_Boxes.json** — big junctions (תיבות צומת) to handle on Sabbath. Dict keyed by junction ID string; each value has `url` (WME permalink with `bigJunctions=<id>`) and `segments` (array of segment IDs, may be empty if unknown).
 - **WME_sabbath.Roundabouts.json** — roundabout segments to handle on Sabbath. Array of objects, each with `url` (WME permalink with `segments=<ids>`) and `segments` (array of segment IDs).
+- **WME_sabbath.TestSegments.json** — contains only the most recently added segment(s), for testing. Replace its contents whenever a new segment is added to Segments.json.
 
 ## Analysing a WME URL to determine the target file
 
