@@ -628,6 +628,7 @@
 - [רמח"ל](https://www.waze.com/he/editor/?env=il&lon=34.89592&lat=32.09485&s=3638528&zoom=8&segments=890262)
 ### צפריה
 
+- [הגפן](https://www.waze.com/he/editor/?env=il&lon=34.85521&lat=31.99736&s=3638528&zoom=8&segments=2516755)
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85702&lat=32.00766&s=3638528&zoom=8&segments=1535059)
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85607&lat=32.00619&s=3638528&zoom=8&segments=1927959)
 - [הרימון](https://www.waze.com/he/editor/?env=il&lon=34.85629&lat=32.00662&s=3638528&zoom=8&segments=1927958)
