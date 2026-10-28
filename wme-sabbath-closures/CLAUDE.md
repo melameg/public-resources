@@ -150,7 +150,17 @@ Also print the segment ID(s) that were added or removed so the user knows what t
 - **WME_sabbath.JerusalemTimePerWeek.json** — weekly Sabbath start/end times for Jerusalem.
 - **WME_sabbath.HolidaysSegments.json** — segments to close on Jewish holidays (same format as Segments.json).
 - **WME_sabbath.RevertSegments.json** — segments to revert/reopen after Sabbath ends.
-- **WME_sabbath.Junction_Boxes.json** — big junctions (תיבות צומת) to handle on Sabbath. Dict keyed by junction ID string; each value has `url` (WME permalink with `bigJunctions=<id>`) and `segments` (array of segment IDs, may be empty if unknown).
+- **WME_sabbath.Junction_Boxes.json** — big junctions (תיבות צומת) to handle on Sabbath. Dict keyed by junction ID string; each value has `url` (WME permalink with `bigJunctions=<id>`) and `segments` (array of segment IDs fetched from the Waze sandbox API).
+
+### Fetching segment IDs for a junction box
+
+When adding a new junction box entry, fetch its segment IDs from the Waze sandbox API using a small bbox around the junction's `lat`/`lon` (±0.001 degrees is enough):
+
+```
+https://www.waze.com/il-Descartes/app/Features?bbox=<lon-0.001>%2C<lat-0.001>%2C<lon+0.001>%2C<lat+0.001>&language=he&v=2&apiV2=true&roadTypes=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C15%2C16%2C17%2C18%2C19%2C20%2C22&zoomLevel=20&sandbox=true
+```
+
+The response contains a `bigJunctions` array. Find the object whose `id` matches the junction ID from the URL — its `segIDs` array is exactly the value to store in the `segments` field. This has been verified against 6 existing entries and all matched exactly. The `sandbox=true` flag makes this endpoint public (no authentication required).
 - **WME_sabbath.Roundabouts.json** — roundabout segments to handle on Sabbath. Array of objects, each with `url` (WME permalink with `segments=<ids>`) and `segments` (array of segment IDs).
 - **WME_sabbath.TestSegments.json** — contains only the most recently added segment(s), for testing. Replace its contents whenever a new segment is added to Segments.json.
 
@@ -160,7 +170,7 @@ When the user provides a WME editor URL, determine the target file by the URL pa
 
 | URL contains | Target file |
 |---|---|
-| `bigJunctions=<id>` | `WME_sabbath.Junction_Boxes.json` — add entry keyed by the junction ID with `url` and `segments` (empty array if no segment IDs in the URL) |
+| `bigJunctions=<id>` | `WME_sabbath.Junction_Boxes.json` — add entry keyed by the junction ID with `url` and `segments` (fetch from API, see below) |
 | `segments=<ids>` and it is a **roundabout** | `WME_sabbath.Roundabouts.json` — append entry with `url` and `segments` array |
 | `segments=<ids>` and it is a regular road segment | `WME_sabbath.Segments.json` — add one entry per segment ID with `permalink`, `likeCity`, `cityName`, `streetName` |
 

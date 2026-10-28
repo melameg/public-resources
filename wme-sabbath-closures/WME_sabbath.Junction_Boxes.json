@@ -505,5 +505,12 @@
   "14750": {
     "url": "https://www.waze.com/he/editor?env=il&lon=35.17667&lat=31.79088&s=3638528&zoomLevel=20&marker=false&bigJunctions=14750",
     "segments": []
+  },
+  "15000": {
+    "url": "https://www.waze.com/he/editor?env=il&lon=35.21014&lat=31.79219&s=3638528&zoomLevel=20&marker=false&bigJunctions=15000",
+    "segments": [
+      1496699,
+      828979
+    ]
   }
 }
