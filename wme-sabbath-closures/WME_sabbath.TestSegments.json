@@ -1,8 +1,14 @@
 [
   {
-    "permalink": "&lat=31.99736&lon=34.85521&segments=2516755",
+    "permalink": "&lat=32.05525&lon=34.96764&segments=2442197",
     "likeCity": "TelAviv",
-    "cityName": "צפריה",
-    "streetName": "הגפן"
+    "cityName": "אלעד",
+    "streetName": "4711"
+  },
+  {
+    "permalink": "&lat=32.05525&lon=34.96764&segments=2442195",
+    "likeCity": "TelAviv",
+    "cityName": "אלעד",
+    "streetName": "4711"
   }
 ]

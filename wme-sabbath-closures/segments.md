@@ -25,6 +25,8 @@
 ### אלעד
 
 - [4711](https://www.waze.com/he/editor/?env=il&lon=34.96672&lat=32.05647&s=3638528&zoom=8&segments=1267352)
+- [4711](https://www.waze.com/he/editor/?env=il&lon=34.96764&lat=32.05525&s=3638528&zoom=8&segments=2442197)
+- [4711](https://www.waze.com/he/editor/?env=il&lon=34.96764&lat=32.05525&s=3638528&zoom=8&segments=2442195)
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94530&lat=32.05273&s=3638528&zoom=8&segments=1683068)
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94508&lat=32.05264&s=3638528&zoom=8&segments=1784154)
 - [רבי יהודה הנשיא](https://www.waze.com/he/editor/?env=il&lon=34.94482&lat=32.05274&s=3638528&zoom=8&segments=1783618)
