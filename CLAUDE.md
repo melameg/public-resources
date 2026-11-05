@@ -44,6 +44,23 @@ Since there is no build or validation step, edits are made directly to the JSON/
 
 The consuming userscripts are in the sibling repo under `greasyfork/`.
 
+## Area Manager Deletion Requests
+
+When the user pastes a line like:
+
+```
+[Action Required] Delete area manager polygon for user: Stomtape (1620)
+```
+
+This means: delete the entry from `wme-objects-info/managedAreas.json` for the user named in the message. The number in parentheses is the **area ID** (the JSON key), but treat it as approximate — search by `userName` to find the correct key(s), since the ID in the email may be off by one or differ.
+
+**Workflow:**
+1. Search `managedAreas.json` for all entries matching the `userName` (e.g. `"Stomtape"`).
+2. Delete those entries using Python (`del data['<key>']`), then re-serialize with `json.dump(..., ensure_ascii=False, indent=4)`.
+3. Validate: `python3 -m json.tool wme-objects-info/managedAreas.json`.
+4. Show the user what was found and deleted — **wait for their approval before committing**.
+5. Use the original pasted line as the commit message (e.g. `[Action Required] Delete area manager polygon for user: Stomtape (1620)`).
+
 ## Known Gotchas & Conventions
 
 ### Always read subdirectory CLAUDE.md before editing
