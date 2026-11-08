@@ -52,14 +52,15 @@ When the user pastes a line like:
 [Action Required] Delete area manager polygon for user: Stomtape (1620)
 ```
 
-This means: delete the entry from `wme-objects-info/managedAreas.json` for the user named in the message. The number in parentheses is the **area ID** (the JSON key), but treat it as approximate — search by `userName` to find the correct key(s), since the ID in the email may be off by one or differ.
+This means: delete the entry from `wme-objects-info/managedAreas.json` for the key ID specified in the message. The number in parentheses is the **exact area ID** (the JSON key) to delete.
 
 **Workflow:**
-1. Search `managedAreas.json` for all entries matching the `userName` (e.g. `"Stomtape"`).
-2. Delete those entries using Python (`del data['<key>']`), then re-serialize with `json.dump(..., ensure_ascii=False, indent=4)`.
+1. Search `managedAreas.json` for all entries matching the `userName` to show the user what exists — but **delete only the entry whose key matches the ID in the request**, not all entries for that user.
+2. Delete only that entry using Python (`del data['<key>']`), then re-serialize with `json.dump(..., ensure_ascii=False, indent=4)`.
 3. Validate: `python3 -m json.tool wme-objects-info/managedAreas.json`.
-4. Show the user what was found and deleted — **wait for their approval before committing**.
-5. Use the original pasted line as the commit message (e.g. `[Action Required] Delete area manager polygon for user: Stomtape (1620)`).
+4. Show the user what was deleted — **wait for their approval before committing**.
+5. Use the original pasted line verbatim as the commit message (e.g. `[Action Required] Delete area manager polygon for user: Stomtape (1620)`).
+6. When pushing, use `git pull --rebase` first if the push is rejected due to remote changes.
 
 ## Known Gotchas & Conventions
 
