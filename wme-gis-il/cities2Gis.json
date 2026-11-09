@@ -5130,7 +5130,8 @@
     "919": {
       "name": "karmiel",
       "gis": "v5.gis-net.co.il",
-      "displayName": "Karmiel"
+      "displayName": "Karmiel",
+      "prefix": "karmiel"
     },
     "891": {
       "name": "kfar_saba",
