@@ -102,6 +102,20 @@ print('segments.md updated')
 "
 ```
 
+### "Not found segment" reports
+
+When the userscript reports a segment ID as not found (e.g. `not found segment: 1234567`), follow this procedure:
+
+1. Look up the entry in `WME_sabbath.Segments.json` by segment ID (in the `permalink` field, after `segments=`).
+2. Report the **cityName** and **streetName** to the user (in English).
+3. Ask whether there is a replacement segment (or segments) to substitute.
+4. If the user provides replacement segment IDs: check whether each already exists in the file. If it does not exist, add it with the same `cityName`, `streetName`, and `likeCity`. If it already exists, skip it.
+5. Remove the original not-found segment entry.
+6. If no replacement — remove the entry only (see Removing segments below).
+7. Regenerate `segments.md`.
+8. **Always show the user the diff and wait for explicit approval before committing.**
+9. Ask for a forum URL before committing.
+
 ### Removing segments
 
 Delete the entry (or entries) with the matching segment ID from the array. No re-sort is needed — deletion doesn't change order.
