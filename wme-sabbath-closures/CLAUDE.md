@@ -140,9 +140,27 @@ for e in added: print(' +', e)
 
 After removing, regenerate `segments.md` using the same command as after adding (see above).
 
+### "Segment with closure not in list" reports
+
+When the userscript reports `מקטעים עם סגירות שלא נמצאים ברשימה (יש למחוק): <id>` with a WME URL, this means the segment has an active Sabbath closure in Waze but is **missing from our list**.
+
+Procedure:
+1. Check whether the segment ID already exists in `WME_sabbath.Segments.json`. If it does, report that to the user and stop.
+2. Fetch the Hebrew city name and street name from the Waze sandbox API (bbox ±0.001° around the lat/lon from the URL).
+3. Report city and street to the user and ask for confirmation to add.
+4. If confirmed — add the entry using:
+   - `permalink`: `&lat=<lat>&lon=<lon>&segments=<id>` (use lat/lon from the WME URL)
+   - `likeCity`: `"TelAviv"` (default for all entries)
+   - `cityName`: Hebrew city name from API
+   - `streetName`: Hebrew street name from API
+5. Re-sort the file by `cityName` then `streetName`.
+6. Regenerate `segments.md`.
+7. Show the diff and wait for user to say "push" before committing.
+8. Ask for a forum URL before committing.
+
 ### Commit message convention
 
-Before committing any add or remove operation, **always ask the user for a Waze forum thread URL** to include in the commit message. The user may not always have one — if they don't provide one, omit the `Per request:` line. When a URL is provided, include it as:
+Before committing any add or remove operation, **always ask the user for a Waze forum thread URL** to include in the commit message — **except** when the change was triggered by a script report (`מקטעים עם סגירות שלא נמצאים ברשימה` or `not found segment`), in which case there is no forum link and none should be asked for. When a URL is provided, include it as:
 
 ```
 Add Sabbath closure segments in <city> (<street>)

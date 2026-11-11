@@ -425,6 +425,7 @@
 - [ירמיהו](https://www.waze.com/he/editor/?env=il&lon=35.20943&lat=31.79246&s=3638528&zoom=8&segments=1956693)
 - [ירמיהו](https://www.waze.com/he/editor/?env=il&lon=35.20943&lat=31.79246&s=3638528&zoom=8&segments=1662808)
 - [ירמיהו](https://www.waze.com/he/editor/?env=il&lon=35.21210&lat=31.79238&s=3638528&zoom=8&segments=1909305)
+- [ירמיהו](https://www.waze.com/he/editor/?env=il&lon=35.21262&lat=31.79282&s=3638528&zoom=8&segments=2521009)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.21138&lat=31.79569&s=3638528&zoom=8&segments=1933424)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.21138&lat=31.79569&s=3638528&zoom=8&segments=1933419)
 - [ללא רחוב](https://www.waze.com/he/editor/?env=il&lon=35.21138&lat=31.79569&s=3638528&zoom=8&segments=1933395)
