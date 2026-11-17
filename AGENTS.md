@@ -1,0 +1,81 @@
+# AGENTS.md
+
+This file provides guidance to Codex when working with this repository. `CLAUDE.md` provides the corresponding guidance to Claude Code. Keep the two root files aligned: whenever instructions change in either file, make the equivalent change in the other in the same edit.
+
+## Subdirectory Instructions
+
+Each subdirectory may have its own `AGENTS.md` or `CLAUDE.md` with specific instructions. **Always read and follow either file present in the subdirectory before editing any files in it.** If both files exist, keep their instructions aligned when changing either one.
+
+Known subdirectory instruction files:
+- `wme-sabbath-closures/CLAUDE.md`
+- `wme-gis-il/CLAUDE.md`
+
+## Repository Purpose
+
+This is a static data repository — no build system, no tests, no server. All files are raw data resources consumed by external WME (Waze Map Editor) userscripts hosted on greasyfork.org. Files are fetched directly via GitHub raw URLs by those scripts.
+
+## Directory Overview
+
+Each subdirectory serves a specific WME userscript:
+
+- **wme-live-camera-il/** — Live traffic camera data for Israel. `liveCameras.json` is an array of camera objects; `liveCameras.md` is a human-readable table of cameras with WME editor links.
+- **wme-sabbath-closures/** — Road closure data for Jewish Sabbath/holidays. Multiple JSON files: `WME_sabbath.Segments.json` (road segments to close), `WME_sabbath.Cities.json` (city Sabbath timing offsets in minutes from Jerusalem), `WME_sabbath.JerusalemTimePerWeek.json`, `WME_sabbath.HolidaysSegments.json`, `WME_sabbath.RevertSegments.json`. Files use UTF-8 with BOM encoding.
+- **wme-create-venues/** — Templates/defaults for venue creation actions: `venue.json`, `venue_update.json`, `residential.json`, `deleteVenue.json`, `entryExitPoints.json`, `streets_il.json`.
+- **wme-objects-info/** — Reference data for WME objects: `managedAreas.json` (area manager polygons keyed by area ID with GeoJSON geometry), `cities.json`, `streets.json`.
+- **wme-gis-il/** — GIS layer mappings: `cities2Gis.json` maps Waze city IDs to GIS server URLs.
+- **wme-reply-mur/** — `gad_m.txt` is a Hebrew template text for replying to map update requests.
+- **wme-simplex/** — `cities.json` for the wme-simplex script.
+
+## Data Formats
+
+- Most JSON files are plain UTF-8. Sabbath closure files use **UTF-8 with BOM** (`utf-8-sig` in Python).
+- `WME_sabbath.Segments.json` — array of objects with `permalink`, `likeCity`, `cityName`, `streetName` fields.
+- `WME_sabbath.Cities.json` — dict keyed by city name with `offset` (minutes offset from Jerusalem Sabbath time).
+- `managedAreas.json` — dict keyed by area ID string; each value has `id`, `userID`, `name`, `geometry` (GeoJSON Polygon).
+- `cities2Gis.json` — `{ "cities": { "<waze_city_id>": { "name": ..., "gis": "<url>" } } }`.
+- `liveCameras.json` — array of camera objects (encoding issue: not valid UTF-8, may be latin-1/windows-1252).
+
+## Making Updates
+
+Since there is no build or validation step, edits are made directly to the JSON/text files. After editing:
+
+1. Validate JSON manually: `python3 -m json.tool <file>` (use `python3 -c "import json,codecs; json.load(codecs.open('<file>','r','utf-8-sig'))"` for BOM files).
+2. Commit and push — the scripts fetch data live from the GitHub raw URL, so changes take effect immediately after pushing to master.
+
+The consuming userscripts are in the sibling repo under `greasyfork/`.
+
+## Area Manager Deletion Requests
+
+When the user pastes a line like:
+
+```
+[Action Required] Delete area manager polygon for user: Stomtape (1620)
+```
+
+This means: delete the entry from `wme-objects-info/managedAreas.json` for the key ID specified in the message. The number in parentheses is the **exact area ID** (the JSON key) to delete.
+
+**Workflow:**
+1. Search `managedAreas.json` for all entries matching the `userName` to show the user what exists — but **delete only the entry whose key matches the ID in the request**, not all entries for that user.
+2. Delete only that entry using Python (`del data['<key>']`), then re-serialize with `json.dump(..., ensure_ascii=False, indent=4)`.
+3. Validate: `python3 -m json.tool wme-objects-info/managedAreas.json`.
+4. Show the user what was deleted — **wait for their approval before committing**.
+5. Use the original pasted line verbatim as the commit message (e.g. `[Action Required] Delete area manager polygon for user: Stomtape (1620)`).
+6. When pushing, use `git pull --rebase` first if the push is rejected due to remote changes.
+
+## Known Gotchas & Conventions
+
+### Always read subdirectory instructions before editing
+
+Before editing any file in a subdirectory, check whether it has an `AGENTS.md` or `CLAUDE.md` and read the available instructions first. Known subdirectories with instructions: `wme-sabbath-closures/`, `wme-gis-il/`. Missing this caused a wrong `cityName` on new entries that required a correction.
+
+### City ID lookups — which cities.json to use
+
+`wme-objects-info/cities.json` is generated by a manual grid-sweep script over a fixed geographic bounding box. Cities at the edge or outside the grid (e.g. deep Negev) may be absent.
+
+A more complete alternative is `cf-nodejs-apps/map-update-requests/generated/cities.json` (in the sibling `melameg/cf-nodejs-apps` repo). It is maintained by the live MUR app and accumulates cities organically from real Waze API responses. All 5 known missing cities (IDs 411, 825, 1146, 1147, 1561) are present there.
+
+**Coordinates format differs:**
+- `wme-objects-info/cities.json`: `coordinates: { lon: "35.0", lat: "31.0" }` (object of strings)
+- `map-update-requests/generated/cities.json`: `coordinates: [lon, lat]` (flat array of numbers); also has an extra `areaManagers` field.
+
+When looking up a city ID by Hebrew name and it's missing from `wme-objects-info/cities.json`, check `map-update-requests/generated/cities.json` as the authoritative fallback.

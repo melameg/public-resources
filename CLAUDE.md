@@ -1,12 +1,12 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code when working with this repository. `AGENTS.md` provides the corresponding guidance to Codex. Keep the two root files aligned: whenever instructions change in either file, make the equivalent change in the other in the same edit.
 
 ## Subdirectory Instructions
 
-Each subdirectory may have its own `CLAUDE.md` with specific instructions. **Always read and follow the subdirectory's `CLAUDE.md` before editing any files in it.**
+Each subdirectory may have its own `AGENTS.md` or `CLAUDE.md` with specific instructions. **Always read and follow either file present in the subdirectory before editing any files in it.** If both files exist, keep their instructions aligned when changing either one.
 
-Known subdirectory CLAUDE.md files:
+Known subdirectory instruction files:
 - `wme-sabbath-closures/CLAUDE.md`
 - `wme-gis-il/CLAUDE.md`
 
@@ -64,9 +64,9 @@ This means: delete the entry from `wme-objects-info/managedAreas.json` for the k
 
 ## Known Gotchas & Conventions
 
-### Always read subdirectory CLAUDE.md before editing
+### Always read subdirectory instructions before editing
 
-Before editing any file in a subdirectory, check whether that subdirectory has its own `CLAUDE.md` and read it first. Known subdirs with their own CLAUDE.md: `wme-sabbath-closures/`, `wme-gis-il/`. Missing this caused a wrong `cityName` on new entries that required a correction.
+Before editing any file in a subdirectory, check whether it has an `AGENTS.md` or `CLAUDE.md` and read the available instructions first. Known subdirectories with instructions: `wme-sabbath-closures/`, `wme-gis-il/`. Missing this caused a wrong `cityName` on new entries that required a correction.
 
 ### City ID lookups — which cities.json to use
 
@@ -78,4 +78,4 @@ A more complete alternative is `cf-nodejs-apps/map-update-requests/generated/cit
 - `wme-objects-info/cities.json`: `coordinates: { lon: "35.0", lat: "31.0" }` (object of strings)
 - `map-update-requests/generated/cities.json`: `coordinates: [lon, lat]` (flat array of numbers); also has an extra `areaManagers` field.
 
-When looking up a city ID by Hebrew name and it's missing from `wme-objects-info/cities.json`, check `map-update-requests/generated/cities.json` as the authoritative fallback. The `.claude/settings.local.json` in this repo includes a permission to read from that path.
+When looking up a city ID by Hebrew name and it's missing from `wme-objects-info/cities.json`, check `map-update-requests/generated/cities.json` as the authoritative fallback.
