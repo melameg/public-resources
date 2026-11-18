@@ -234,12 +234,6 @@
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86761&lat=32.06194&s=3638528&zoom=8&segments=1146537)
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86659&lat=32.06144&s=3638528&zoom=8&segments=1146538)
 - [עין שמש](https://www.waze.com/he/editor/?env=il&lon=34.86648&lat=32.06072&s=3638528&zoom=8&segments=1116531)
-### דפנה
-
-- [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64023&lat=33.22775&s=3638528&zoom=8&segments=2110294)
-- [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64011&lat=33.23053&s=3638528&zoom=8&segments=1644957)
-- [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64008&lat=33.23102&s=3638528&zoom=8&segments=1498949)
-- [דרך הזיתים](https://www.waze.com/he/editor/?env=il&lon=35.64023&lat=33.23149&s=3638528&zoom=8&segments=2388250)
 ### הוד השרון
 
 - [יהושע בן גמלא](https://www.waze.com/he/editor/?env=il&lon=34.89568&lat=32.15871&s=3638528&zoom=8&segments=2386980)
